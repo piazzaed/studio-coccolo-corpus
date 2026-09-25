@@ -712,8 +712,8 @@ jobs:
     env:
       PYTHONDONTWRITEBYTECODE: "1"
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.9"
       - name: cartelle di lavoro fuori dal repo
@@ -728,7 +728,7 @@ jobs:
           if [ "${{ inputs.forza }}" = "true" ]; then ARGS="$ARGS --forza"; fi
           for s in ${{ inputs.solo }}; do ARGS="$ARGS --solo $s"; done
           python3 scripts/corpus_pubblica.py $ARGS
-      - name: estremi della Cassazione (anno in corso e precedente)
+      - name: estremi della Cassazione (anno in corso e precedente; se SentenzeWeb non risponde, avviso e si salta)
         continue-on-error: true
         run: python3 scripts/cassazione_indice.py --aggiorna --report $RUNNER_TEMP/cassazione.md
       - name: manifest finale e verifica
@@ -818,6 +818,29 @@ def pubblica(repo: Path, forza: bool = False, solo=None, con_gu: bool = True) ->
     return {**esito, "pubblicato": p.returncode == 0, "git": (c.stdout + p.stderr)[-400:]}
 
 
+def cassazione(repo: Path) -> dict:
+    """Dal Mac (SentenzeWeb risponde dall'Italia, non sempre dai runner GitHub): pull, indice degli estremi con lo
+    script DEL REPO PUBBLICO, manifest, verifica, commit e push. E' `/aggiorna-corpus --cassazione`."""
+    repo = Path(repo)
+    _git(repo, "pull", "--ff-only")
+    aggiorna_strumenti(repo)
+    r = subprocess.run([sys.executable, str(repo / "scripts" / "cassazione_indice.py"), "--aggiorna"], cwd=str(repo),
+                       capture_output=True, text=True, encoding="utf-8")
+    out = (r.stdout or "") + (r.stderr or "")
+    if r.returncode != 0 or "non raggiungibile" in out:
+        return {"pubblicato": False, "cassazione": out[-600:]}
+    m = subprocess.run([sys.executable, str(repo / "scripts" / "corpus_pubblica.py"), "--manifest"], cwd=str(repo),
+                       capture_output=True, text=True, encoding="utf-8")
+    v = subprocess.run([sys.executable, str(repo / "scripts" / "corpus_pubblica.py"), "--verifica"], cwd=str(repo),
+                       capture_output=True, text=True, encoding="utf-8")
+    if m.returncode != 0 or v.returncode != 0:
+        return {"pubblicato": False, "cassazione": out[-400:], "verifica": (m.stdout + v.stdout + v.stderr)[-400:]}
+    _git(repo, "add", "-A")
+    c = _git(repo, "commit", "-m", f"cassazione {_oggi().isoformat()} (dal Mac)")
+    p = _git(repo, "push")
+    return {"pubblicato": p.returncode == 0, "cassazione": out[-600:], "git": (c.stdout + p.stderr)[-400:]}
+
+
 # ---------------------------------------------------------------- CLI
 
 def main(argv=None) -> int:
@@ -833,6 +856,7 @@ def main(argv=None) -> int:
     ap.add_argument("--init", action="store_true")
     ap.add_argument("--aggiorna-strumenti", action="store_true")
     ap.add_argument("--pubblica", action="store_true")
+    ap.add_argument("--cassazione", action="store_true", help="dal Mac: indice degli estremi della Cassazione, poi commit e push")
     ap.add_argument("--repo", default="", help="cartella del repo pubblico (default: la radice di questo script)")
     ap.add_argument("--json", action="store_true")
     a = ap.parse_args(argv)
@@ -849,6 +873,11 @@ def main(argv=None) -> int:
     if a.aggiorna_strumenti:
         print("copiati: " + ", ".join(aggiorna_strumenti(repo)))
         return 0
+    if a.cassazione:
+        res = cassazione(repo)
+        print(json.dumps(res, ensure_ascii=False, indent=1) if a.json else
+              ("PUBBLICATO" if res["pubblicato"] else "NON pubblicato") + "\n" + res.get("cassazione", "") + res.get("verifica", "") + res.get("git", ""))
+        return 0 if res["pubblicato"] else 1
     if a.manifest:
         prec = _leggi_json(percorso_manifest(repo), {}) or {}
         man = costruisci_manifest(repo, {}, prec.get("fonti") or {}, prec)

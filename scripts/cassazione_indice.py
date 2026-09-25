@@ -12,7 +12,9 @@ Un file per anno, `snciv-<anno>.tsv.gz`, ordinato e compresso in modo determinis
 COME SI USA
 -----------
 * lo costruisce la GitHub Action del corpus pubblico (`--aggiorna`: anno in corso e precedente; `--completo`
-  una volta sola per gli anni chiusi) o, di riserva, il Mac;
+  una volta sola per gli anni chiusi) o il Mac (`corpus_pubblica.py --cassazione`, cioe' `/aggiorna-corpus --cassazione`).
+  Dai runner di GitHub SentenzeWeb puo' non rispondere (25/09/2026: timeout su tutte le richieste, dal Mac 0,8 s):
+  una sonda di pochi secondi lo scopre subito e il passo si chiude con un avviso, lasciando l'indice com'era;
 * il plugin lo riceve con `corpus_sync.py` e `cassazione_locale.cerca()` lo consulta prima della rete:
   se la pronuncia c'e', gli estremi sono confermati senza chiamate; se NON c'e', si va comunque su
   SentenzeWeb — l'indice puo' essere indietro di una settimana e un'assenza non prova niente.
@@ -161,12 +163,29 @@ def _indice(base: Path) -> dict:
         return {"_meta": {}, "anni": {}}
 
 
+def sonda(get=None, timeout: float = 20) -> str:
+    """'' se SentenzeWeb risponde a una richiesta minima (rows=0), altrimenti il motivo. Serve a non perdere
+    minuti in timeout a catena quando la rete di chi gira (es. un runner GitHub fuori Italia) non ci arriva."""
+    get = get or (lambda params: _get_json(params, timeout=timeout))
+    try:
+        d = get({"q": f"kind:snciv AND anno:{_dt.date.today().year}", "rows": 0})
+        int((d.get("response") or {}).get("numFound"))
+        return ""
+    except Exception as e:
+        return f"{e.__class__.__name__}: {e}"
+
+
 def aggiorna(base: Path = None, anni=None, get=None, oggi: _dt.date = None) -> dict:
     base = Path(base) if base else dir_seed()
     oggi = oggi or _dt.date.today()
     anni = list(anni) if anni else [oggi.year - 1, oggi.year]
     ind = _indice(base)
     esito = {"anni": {}, "errori": {}}
+    motivo = sonda(get=get)
+    if motivo:  # l'indice resta com'era: nessun file toccato
+        esito["non_raggiungibile"] = motivo
+        esito["verificato_il"] = (ind.get("_meta") or {}).get("verificato_il")
+        return esito
     for anno in anni:
         try:
             righe = scarica_anno(anno, get=get)
@@ -281,10 +300,17 @@ def main(argv=None) -> int:
         anni = a.anno or (range(COPERTURA_DA, _dt.date.today().year + 1) if a.completo else None)
         t0 = time.time()
         esito = aggiorna(base, anni)
-        md = (f"## Cassazione — indice degli estremi\n\n- anni: "
-              + ", ".join(f"{k}: {v['righe']} ({'aggiornato' if v['cambiato'] else 'invariato'})" for k, v in esito["anni"].items())
-              + "".join(f"\n- ❌ {k}: {v}" for k, v in esito["errori"].items())
-              + f"\n- durata: {round(time.time() - t0, 1)} s\n")
+        if esito.get("non_raggiungibile"):
+            avviso = (f"SentenzeWeb non raggiungibile da qui ({esito['non_raggiungibile']}): indice invariato, ultimo "
+                      f"aggiornamento {esito.get('verificato_il') or 'mai'}. Si aggiorna dal Mac: /aggiorna-corpus --cassazione")
+            md = f"## Cassazione — indice degli estremi\n\n- ⚠️ {avviso}\n- durata: {round(time.time() - t0, 1)} s\n"
+            if os.environ.get("GITHUB_ACTIONS"):
+                print(f"::warning title=Cassazione::{avviso}")
+        else:
+            md = (f"## Cassazione — indice degli estremi\n\n- anni: "
+                  + (", ".join(f"{k}: {v['righe']} ({'aggiornato' if v['cambiato'] else 'invariato'})" for k, v in esito["anni"].items()) or "nessuno")
+                  + "".join(f"\n- ❌ {k}: {v}" for k, v in esito["errori"].items())
+                  + f"\n- durata: {round(time.time() - t0, 1)} s\n")
         if a.report:
             Path(a.report).write_text(md, encoding="utf-8")
         print(md)

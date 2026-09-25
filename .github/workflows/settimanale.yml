@@ -28,8 +28,8 @@ jobs:
     env:
       PYTHONDONTWRITEBYTECODE: "1"
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.9"
       - name: cartelle di lavoro fuori dal repo
@@ -44,7 +44,7 @@ jobs:
           if [ "${{ inputs.forza }}" = "true" ]; then ARGS="$ARGS --forza"; fi
           for s in ${{ inputs.solo }}; do ARGS="$ARGS --solo $s"; done
           python3 scripts/corpus_pubblica.py $ARGS
-      - name: estremi della Cassazione (anno in corso e precedente)
+      - name: estremi della Cassazione (anno in corso e precedente; se SentenzeWeb non risponde, avviso e si salta)
         continue-on-error: true
         run: python3 scripts/cassazione_indice.py --aggiorna --report $RUNNER_TEMP/cassazione.md
       - name: manifest finale e verifica
