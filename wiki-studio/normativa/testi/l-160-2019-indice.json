@@ -1,0 +1,724 @@
+{
+ "_meta": {
+  "codice": "l-160-2019",
+  "nome": "Bilancio di previsione dello Stato per il 2020 (L. 160/2019) — contiene la disciplina dei monopattini elettrici (art. 1, co. 75 ss.)",
+  "snapshot": "2026-09-25",
+  "formato": 2,
+  "consolidato_normattiva": "2026-08-12",
+  "articoli": 19,
+  "file": [
+   "l-160-2019.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:2019-12-27;160",
+  "versioni": [
+   {
+    "data": "2019-12-30",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp2",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2020-03-02",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 2 marzo 2020, n. 9"
+   },
+   {
+    "data": "2020-03-13",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 11 marzo 2020, n. 16"
+   },
+   {
+    "data": "2020-03-17",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 17 marzo 2020, n. 18"
+   },
+   {
+    "data": "2020-04-29",
+    "evento": "rp6",
+    "atto_modificante": "L. 24 aprile 2020, n. 27"
+   },
+   {
+    "data": "2020-05-12",
+    "evento": "rp7",
+    "atto_modificante": "L. 8 maggio 2020, n. 31"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   },
+   {
+    "data": "2020-07-18",
+    "evento": "rp10",
+    "atto_modificante": "L. 17 luglio 2020, n. 77"
+   },
+   {
+    "data": "2020-08-14",
+    "evento": "rp11",
+    "atto_modificante": "D.L. 14 agosto 2020, n. 104"
+   },
+   {
+    "data": "2020-09-14",
+    "evento": "rp12",
+    "atto_modificante": "L. 11 settembre 2020, n. 120"
+   },
+   {
+    "data": "2020-10-13",
+    "evento": "rp13",
+    "atto_modificante": "L. 13 ottobre 2020, n. 126"
+   },
+   {
+    "data": "2020-10-16",
+    "evento": "rp14",
+    "atto_modificante": "L. 8 ottobre 2020, n. 128"
+   },
+   {
+    "data": "2020-10-28",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 28 ottobre 2020, n. 137"
+   },
+   {
+    "data": "2020-11-09",
+    "evento": "rp16",
+    "atto_modificante": "D.L. 9 novembre 2020, n. 149"
+   },
+   {
+    "data": "2020-11-30",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 30 novembre 2020, n. 157"
+   },
+   {
+    "data": "2020-12-24",
+    "evento": "rp18",
+    "atto_modificante": "L. 18 dicembre 2020, n. 176"
+   },
+   {
+    "data": "2020-12-30",
+    "evento": "rp19",
+    "atto_modificante": "L. 30 dicembre 2020, n. 178"
+   },
+   {
+    "data": "2020-12-31",
+    "evento": "rp20",
+    "atto_modificante": "D.L. 31 dicembre 2020, n. 183"
+   },
+   {
+    "data": "2021-03-01",
+    "evento": "rp21+rp22",
+    "atto_modificante": "L. 26 febbraio 2021, n. 21; D.L. 1 marzo 2021, n. 22"
+   },
+   {
+    "data": "2021-03-22",
+    "evento": "rp23",
+    "atto_modificante": "D.L. 22 marzo 2021, n. 41"
+   },
+   {
+    "data": "2021-04-01",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 1 aprile 2021, n. 44"
+   },
+   {
+    "data": "2021-04-22",
+    "evento": "rp25",
+    "atto_modificante": "D.L. 22 aprile 2021, n. 52"
+   },
+   {
+    "data": "2021-04-29",
+    "evento": "rp26",
+    "atto_modificante": "L. 22 aprile 2021, n. 55"
+   },
+   {
+    "data": "2021-05-07",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 6 maggio 2021, n. 59"
+   },
+   {
+    "data": "2021-05-21",
+    "evento": "rp28",
+    "atto_modificante": "L. 21 maggio 2021, n. 69"
+   },
+   {
+    "data": "2021-05-25",
+    "evento": "rp29",
+    "atto_modificante": "D.L. 25 maggio 2021, n. 73"
+   },
+   {
+    "data": "2021-05-31",
+    "evento": "rp30+rp31",
+    "atto_modificante": "L. 28 maggio 2021, n. 76; D.L. 31 maggio 2021, n. 77"
+   },
+   {
+    "data": "2021-06-08",
+    "evento": "rp32",
+    "atto_modificante": "D.L. 8 giugno 2021, n. 79"
+   },
+   {
+    "data": "2021-06-21",
+    "evento": "rp33",
+    "atto_modificante": "L. 17 giugno 2021, n. 87"
+   },
+   {
+    "data": "2021-07-06",
+    "evento": "rp34",
+    "atto_modificante": "L. 1 luglio 2021, n. 101"
+   },
+   {
+    "data": "2021-07-24",
+    "evento": "rp35",
+    "atto_modificante": "L. 23 luglio 2021, n. 106"
+   },
+   {
+    "data": "2021-07-30",
+    "evento": "rp36",
+    "atto_modificante": "L. 29 luglio 2021, n. 108"
+   },
+   {
+    "data": "2021-09-10",
+    "evento": "rp37",
+    "atto_modificante": "D.L. 10 settembre 2021, n. 121"
+   },
+   {
+    "data": "2021-09-27",
+    "evento": "rp38",
+    "atto_modificante": "D.L. 27 settembre 2021, n. 130"
+   },
+   {
+    "data": "2021-10-21",
+    "evento": "rp39",
+    "atto_modificante": "D.L. 21 ottobre 2021, n. 146"
+   },
+   {
+    "data": "2021-11-06",
+    "evento": "rp40",
+    "atto_modificante": "D.L. 6 novembre 2021, n. 152"
+   },
+   {
+    "data": "2021-11-09",
+    "evento": "rp41",
+    "atto_modificante": "L. 9 novembre 2021, n. 156"
+   },
+   {
+    "data": "2021-12-20",
+    "evento": "rp42",
+    "atto_modificante": "L. 17 dicembre 2021, n. 215"
+   },
+   {
+    "data": "2021-12-30",
+    "evento": "rp43",
+    "atto_modificante": "D.L. 30 dicembre 2021, n. 228"
+   },
+   {
+    "data": "2021-12-31",
+    "evento": "rp44+rp45",
+    "atto_modificante": "L. 30 dicembre 2021, n. 234; L. 29 dicembre 2021, n. 233"
+   },
+   {
+    "data": "2022-01-27",
+    "evento": "rp46",
+    "atto_modificante": "D.L. 27 gennaio 2022, n. 4"
+   },
+   {
+    "data": "2022-02-28",
+    "evento": "rp47",
+    "atto_modificante": "L. 25 febbraio 2022, n. 15"
+   },
+   {
+    "data": "2022-03-01",
+    "evento": "rp48",
+    "atto_modificante": "D.L. 1 marzo 2022, n. 17"
+   },
+   {
+    "data": "2022-03-09",
+    "evento": "rp49",
+    "atto_modificante": "atto modificante non indicato (rp49)"
+   },
+   {
+    "data": "2022-03-28",
+    "evento": "rp50",
+    "atto_modificante": "L. 28 marzo 2022, n. 25"
+   },
+   {
+    "data": "2022-04-30",
+    "evento": "rp51",
+    "atto_modificante": "D.L. 30 aprile 2022, n. 36"
+   },
+   {
+    "data": "2022-05-04",
+    "evento": "rp52",
+    "atto_modificante": "D.L. 4 maggio 2022, n. 41"
+   },
+   {
+    "data": "2022-05-17",
+    "evento": "rp53",
+    "atto_modificante": "D.L. 17 maggio 2022, n. 50"
+   },
+   {
+    "data": "2022-06-16",
+    "evento": "rp54",
+    "atto_modificante": "D.L. 16 giugno 2022, n. 68"
+   },
+   {
+    "data": "2022-06-21",
+    "evento": "rp55",
+    "atto_modificante": "D.L. 21 giugno 2022, n. 73"
+   },
+   {
+    "data": "2022-06-29",
+    "evento": "rp56",
+    "atto_modificante": "L. 29 giugno 2022, n. 79"
+   },
+   {
+    "data": "2022-07-02",
+    "evento": "rp57",
+    "atto_modificante": "L. 30 giugno 2022, n. 84"
+   },
+   {
+    "data": "2022-07-15",
+    "evento": "rp58",
+    "atto_modificante": "L. 15 luglio 2022, n. 91"
+   },
+   {
+    "data": "2022-08-05",
+    "evento": "rp59",
+    "atto_modificante": "L. 5 agosto 2022, n. 108"
+   },
+   {
+    "data": "2022-08-09",
+    "evento": "rp60",
+    "atto_modificante": "D.L. 9 agosto 2022, n. 115"
+   },
+   {
+    "data": "2022-08-19",
+    "evento": "rp61",
+    "atto_modificante": "L. 4 agosto 2022, n. 122"
+   },
+   {
+    "data": "2022-09-21",
+    "evento": "rp62",
+    "atto_modificante": "L. 21 settembre 2022, n. 142"
+   },
+   {
+    "data": "2022-09-23",
+    "evento": "rp63",
+    "atto_modificante": "D.L. 23 settembre 2022, n. 144"
+   },
+   {
+    "data": "2022-10-19",
+    "evento": "rp64",
+    "atto_modificante": "atto modificante non indicato (rp64)"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp65+rp66",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197; D.L. 29 dicembre 2022, n. 198"
+   },
+   {
+    "data": "2023-02-24",
+    "evento": "rp67",
+    "atto_modificante": "D.L. 24 febbraio 2023, n. 13"
+   },
+   {
+    "data": "2023-02-27",
+    "evento": "rp68",
+    "atto_modificante": "L. 24 febbraio 2023, n. 14"
+   },
+   {
+    "data": "2023-04-21",
+    "evento": "rp69",
+    "atto_modificante": "L. 21 aprile 2023, n. 41"
+   },
+   {
+    "data": "2023-04-22",
+    "evento": "rp70",
+    "atto_modificante": "D.L. 22 aprile 2023, n. 44"
+   },
+   {
+    "data": "2023-05-04",
+    "evento": "rp71",
+    "atto_modificante": "D.L. 4 maggio 2023, n. 48"
+   },
+   {
+    "data": "2023-05-10",
+    "evento": "rp72",
+    "atto_modificante": "D.L. 10 maggio 2023, n. 51"
+   },
+   {
+    "data": "2023-06-21",
+    "evento": "rp73",
+    "atto_modificante": "L. 21 giugno 2023, n. 74"
+   },
+   {
+    "data": "2023-06-22",
+    "evento": "rp74",
+    "atto_modificante": "D.L. 22 giugno 2023, n. 75"
+   },
+   {
+    "data": "2023-07-03",
+    "evento": "rp75",
+    "atto_modificante": "L. 3 luglio 2023, n. 85"
+   },
+   {
+    "data": "2023-08-16",
+    "evento": "rp76",
+    "atto_modificante": "L. 10 agosto 2023, n. 112"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp77+rp78",
+    "atto_modificante": "L. 30 dicembre 2023, n. 213; D.L. 30 dicembre 2023, n. 215"
+   },
+   {
+    "data": "2024-02-21",
+    "evento": "rp79",
+    "atto_modificante": "D.Lgs. 12 febbraio 2024, n. 13"
+   },
+   {
+    "data": "2024-02-28",
+    "evento": "rp80",
+    "atto_modificante": "L. 23 febbraio 2024, n. 18"
+   },
+   {
+    "data": "2024-03-02",
+    "evento": "rp81",
+    "atto_modificante": "D.L. 2 marzo 2024, n. 19"
+   },
+   {
+    "data": "2024-03-29",
+    "evento": "rp82",
+    "atto_modificante": "D.L. 29 marzo 2024, n. 39"
+   },
+   {
+    "data": "2024-04-03",
+    "evento": "rp83",
+    "atto_modificante": "D.Lgs. 25 marzo 2024, n. 41"
+   },
+   {
+    "data": "2024-04-30",
+    "evento": "rp84",
+    "atto_modificante": "L. 29 aprile 2024, n. 56"
+   },
+   {
+    "data": "2024-05-07",
+    "evento": "rp85",
+    "atto_modificante": "D.L. 7 maggio 2024, n. 60"
+   },
+   {
+    "data": "2024-05-15",
+    "evento": "rp86",
+    "atto_modificante": "D.L. 15 maggio 2024, n. 63"
+   },
+   {
+    "data": "2024-05-28",
+    "evento": "rp87",
+    "atto_modificante": "L. 23 maggio 2024, n. 67"
+   },
+   {
+    "data": "2024-07-06",
+    "evento": "rp88",
+    "atto_modificante": "L. 4 luglio 2024, n. 95"
+   },
+   {
+    "data": "2024-08-09",
+    "evento": "rp89",
+    "atto_modificante": "D.L. 9 agosto 2024, n. 113"
+   },
+   {
+    "data": "2024-10-08",
+    "evento": "rp90",
+    "atto_modificante": "L. 7 ottobre 2024, n. 143"
+   },
+   {
+    "data": "2024-11-29",
+    "evento": "rp91",
+    "atto_modificante": "L. 25 novembre 2024, n. 177"
+   },
+   {
+    "data": "2024-12-27",
+    "evento": "rp92",
+    "atto_modificante": "D.L. 27 dicembre 2024, n. 201"
+   },
+   {
+    "data": "2024-12-31",
+    "evento": "rp93",
+    "atto_modificante": "L. 30 dicembre 2024, n. 207"
+   },
+   {
+    "data": "2025-02-25",
+    "evento": "rp94",
+    "atto_modificante": "L. 21 febbraio 2025, n. 16"
+   },
+   {
+    "data": "2025-03-14",
+    "evento": "rp95",
+    "atto_modificante": "D.L. 14 marzo 2025, n. 25"
+   },
+   {
+    "data": "2025-04-07",
+    "evento": "rp96",
+    "atto_modificante": "D.L. 7 aprile 2025, n. 45"
+   },
+   {
+    "data": "2025-04-11",
+    "evento": "rp97",
+    "atto_modificante": "D.L. 11 aprile 2025, n. 48"
+   },
+   {
+    "data": "2025-05-13",
+    "evento": "rp98",
+    "atto_modificante": "L. 9 maggio 2025, n. 69"
+   },
+   {
+    "data": "2025-06-06",
+    "evento": "rp99",
+    "atto_modificante": "L. 5 giugno 2025, n. 79"
+   },
+   {
+    "data": "2025-06-30",
+    "evento": "rp100",
+    "atto_modificante": "D.L. 30 giugno 2025, n. 95"
+   },
+   {
+    "data": "2025-08-09",
+    "evento": "rp101",
+    "atto_modificante": "L. 8 agosto 2025, n. 118"
+   },
+   {
+    "data": "2025-08-12",
+    "evento": "rp102",
+    "atto_modificante": "D.Lgs. 1 agosto 2025, n. 123"
+   },
+   {
+    "data": "2025-10-29",
+    "evento": "rp103",
+    "atto_modificante": "D.L. 29 ottobre 2025, n. 156"
+   },
+   {
+    "data": "2025-12-03",
+    "evento": "rp104",
+    "atto_modificante": "L. 2 dicembre 2025, n. 182"
+   },
+   {
+    "data": "2025-12-19",
+    "evento": "rp105",
+    "atto_modificante": "L. 18 dicembre 2025, n. 191"
+   },
+   {
+    "data": "2025-12-30",
+    "evento": "rp106",
+    "atto_modificante": "L. 30 dicembre 2025, n. 199"
+   },
+   {
+    "data": "2025-12-31",
+    "evento": "rp107",
+    "atto_modificante": "D.L. 31 dicembre 2025, n. 200"
+   },
+   {
+    "data": "2026-01-30",
+    "evento": "rp108",
+    "atto_modificante": "D.Lgs. 19 gennaio 2026, n. 10"
+   },
+   {
+    "data": "2026-02-28",
+    "evento": "rp109",
+    "atto_modificante": "L. 27 febbraio 2026, n. 26"
+   },
+   {
+    "data": "2026-03-11",
+    "evento": "rp110",
+    "atto_modificante": "D.L. 11 marzo 2026, n. 32"
+   },
+   {
+    "data": "2026-03-27",
+    "evento": "rp111",
+    "atto_modificante": "D.L. 27 marzo 2026, n. 38"
+   },
+   {
+    "data": "2026-05-22",
+    "evento": "rp112",
+    "atto_modificante": "L. 22 maggio 2026, n. 88"
+   },
+   {
+    "data": "2026-07-03",
+    "evento": "rp113",
+    "atto_modificante": "D.Lgs. 19 giugno 2026, n. 117"
+   },
+   {
+    "data": "2026-08-06",
+    "evento": "rp114",
+    "atto_modificante": "D.Lgs. 5 agosto 2026, n. 141"
+   },
+   {
+    "data": "2026-08-07",
+    "evento": "rp115",
+    "atto_modificante": "D.L. 7 agosto 2026, n. 144"
+   },
+   {
+    "data": "2026-08-11",
+    "evento": "rp116",
+    "atto_modificante": "D.Lgs. 7 agosto 2026, n. 147"
+   }
+  ],
+  "ultima_versione": "2026-08-11",
+  "datazione": {
+   "monoblocco": 19,
+   "api": 18,
+   "ignota": 1,
+   "testo_diverso": 1,
+   "stima_anteriore": 17,
+   "chiamate": 19,
+   "urn_api": "urn:nir:stato:legge:2019;160",
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-160-2019.md",
+   "rubrica": "",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "f33ba290233d"
+  },
+  "2": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione dell'entrata",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "b095cdf8d67c"
+  },
+  "3": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione del Ministero dell'economia e delle finanze e disposizioni relative",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "eac7d5c890bd"
+  },
+  "4": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione del Ministero dello sviluppo economico e disposizioni relative",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "e24451ce0efc"
+  },
+  "5": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione del Ministero del lavoro e delle politiche sociali e disposizioni relative",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "27f57cd31b52"
+  },
+  "6": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione del Ministero della giustizia e disposizioni relative",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "910e62d04263"
+  },
+  "7": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione del Ministero degli affari esteri e della cooperazione internazionale e disposizioni relative",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "bac893c72f2a"
+  },
+  "8": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione del Ministero dell'istruzione, dell'universita' e della ricerca",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "8914fc46f022"
+  },
+  "9": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione del Ministero dell'interno e disposizioni relative",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "c508cd153eae"
+  },
+  "10": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "d962b7bd71e5"
+  },
+  "11": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione del Ministero delle infrastrutture e dei trasporti e disposizioni relative",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "1579b1ce2863"
+  },
+  "12": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione del Ministero della difesa e disposizioni relative",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "dddc9bfd62ce"
+  },
+  "13": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione del Ministero delle politiche agricole alimentari e forestali e disposizioni relative",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "ccf13e26530c"
+  },
+  "14": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione del Ministero per i beni e le attivita' culturali e per il turismo e disposizioni relative",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "2d8b76dd1324"
+  },
+  "15": {
+   "file": "l-160-2019.md",
+   "rubrica": "Stato di previsione del Ministero della salute e disposizioni relative",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "d073e1a2d22c"
+  },
+  "16": {
+   "file": "l-160-2019.md",
+   "rubrica": "Totale generale della spesa",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "fb7be6dc689f"
+  },
+  "17": {
+   "file": "l-160-2019.md",
+   "rubrica": "Quadro generale riassuntivo",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "2ae5c01f36e4"
+  },
+  "18": {
+   "file": "l-160-2019.md",
+   "rubrica": "Disposizioni diverse",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "bc4403e6fbb6"
+  },
+  "19": {
+   "file": "l-160-2019.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "b6dc52e9ad72"
+  }
+ }
+}

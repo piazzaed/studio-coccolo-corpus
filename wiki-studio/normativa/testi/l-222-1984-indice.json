@@ -1,0 +1,145 @@
+{
+ "_meta": {
+  "codice": "l-222-1984",
+  "nome": "Revisione della disciplina della invalidità pensionabile (L. 222/1984)",
+  "snapshot": "2026-09-25",
+  "formato": 2,
+  "consolidato_normattiva": "2009-07-04",
+  "articoli": 15,
+  "file": [
+   "l-222-1984.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1984-06-12;222",
+  "versioni": [
+   {
+    "data": "1984-06-16",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2007-12-31",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 31 dicembre 2007, n. 248"
+   }
+  ],
+  "ultima_versione": "2007-12-31",
+  "datazione": {
+   "monoblocco": 15,
+   "api": 15,
+   "ignota": 0,
+   "stima_anteriore": 12,
+   "stima_posteriore": 1,
+   "chiamate": 15,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-222-1984.md",
+   "rubrica": "Assegno ordinario di invalidita'",
+   "vigore_da": "1984-07-01",
+   "datazione": "api",
+   "h": "9fc78ee173aa"
+  },
+  "2": {
+   "file": "l-222-1984.md",
+   "rubrica": "Pensione ordinaria di inabilita'",
+   "vigore_da": "1984-07-01",
+   "datazione": "api",
+   "h": "c7aafce9b930"
+  },
+  "3": {
+   "file": "l-222-1984.md",
+   "rubrica": "Esclusione dall'assegno di invalidita' e dalla pensione di inabilita'",
+   "vigore_da": "1988-04-21",
+   "datazione": "api",
+   "h": "5e9b7d23ab16"
+  },
+  "4": {
+   "file": "l-222-1984.md",
+   "rubrica": "Requisiti di assicurazione e di contribuzione per il riconoscimento del diritto all'assegno di invalidita' e alla pensione di inabilita'",
+   "vigore_da": "1984-07-01",
+   "datazione": "api",
+   "h": "64f3fe5c9118"
+  },
+  "5": {
+   "file": "l-222-1984.md",
+   "rubrica": "Assegno mensile per l'assistenza personale e continuativa ai pensionati per inabilita'",
+   "vigore_da": "1984-07-01",
+   "datazione": "api",
+   "h": "fe975a023eab"
+  },
+  "6": {
+   "file": "l-222-1984.md",
+   "rubrica": "Assegno privilegiato di invalidita', pensione privilegiata di inabilita' od ai superstiti, per cause di servizio",
+   "vigore_da": "1984-07-01",
+   "datazione": "api",
+   "h": "e9d7856233f4"
+  },
+  "7": {
+   "file": "l-222-1984.md",
+   "rubrica": "Perequazione automatica",
+   "vigore_da": "1984-07-01",
+   "datazione": "api",
+   "h": "98c135567fdb"
+  },
+  "8": {
+   "file": "l-222-1984.md",
+   "rubrica": "Definizione di inabilita' ai fini delle prestazioni previdenziali",
+   "vigore_da": "2008-03-01",
+   "datazione": "api",
+   "h": "092344f6efac"
+  },
+  "9": {
+   "file": "l-222-1984.md",
+   "rubrica": "Revisione dell'assegno di invalidita' e della pensione di inabilita'",
+   "vigore_da": "1984-07-01",
+   "datazione": "api",
+   "h": "b98dd206d13a"
+  },
+  "10": {
+   "file": "l-222-1984.md",
+   "rubrica": "Riduzione dei requisiti contributivi",
+   "vigore_da": "1984-07-01",
+   "datazione": "api",
+   "h": "dfeb5f7d2041"
+  },
+  "11": {
+   "file": "l-222-1984.md",
+   "rubrica": "Limite alla presentazione di nuove domande",
+   "vigore_da": "2009-07-04",
+   "datazione": "api",
+   "h": "a3b1896349d6"
+  },
+  "12": {
+   "file": "l-222-1984.md",
+   "rubrica": "Decorrenza della normativa",
+   "vigore_da": "1984-07-01",
+   "datazione": "api",
+   "h": "2b9f1f01d805"
+  },
+  "13": {
+   "file": "l-222-1984.md",
+   "rubrica": "Personale medico degli enti previdenziali",
+   "vigore_da": "1984-07-01",
+   "datazione": "api",
+   "h": "de9b62e6f439"
+  },
+  "14": {
+   "file": "l-222-1984.md",
+   "rubrica": "Surrogazione",
+   "vigore_da": "1984-07-01",
+   "datazione": "api",
+   "h": "8c13918b8f28"
+  },
+  "15": {
+   "file": "l-222-1984.md",
+   "rubrica": "Modifica dell'articolo 36 del decreto del Presidente della Repubblica 30 aprile 1970, n. 639",
+   "vigore_da": "1984-07-01",
+   "datazione": "api",
+   "h": "621c1e55b7e4"
+  }
+ }
+}

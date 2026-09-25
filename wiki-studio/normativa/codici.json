@@ -1737,6 +1737,155 @@
     ]
    ],
    "citazione": "TUIR"
+  },
+  "dpr-12-2025": {
+   "nome": "Tabella unica nazionale delle macropermanenti 10-100 punti (D.P.R. 12/2025, art. 138 CAP)",
+   "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2025-01-13;12",
+   "doc_prefix": "",
+   "min_articoli": 3,
+   "alias": [
+    "d.p.r. 12/2025",
+    "dpr 12/2025"
+   ],
+   "materie": [
+    "rc_sinistri",
+    "responsabilita_sanitaria",
+    "danno_persona"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Tabella unica nazionale (D.P.R. 12/2025)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "D.P.R. 12/2025"
+  },
+  "l-177-2024": {
+   "nome": "Interventi in materia di sicurezza stradale e delega per la revisione del codice della strada (L. 177/2024)",
+   "urn": "urn:nir:stato:legge:2024-11-25;177",
+   "doc_prefix": "",
+   "min_articoli": 30,
+   "alias": [
+    "l. 177/2024",
+    "legge 177/2024"
+   ],
+   "materie": [
+    "circolazione",
+    "rc_sinistri"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "L. 177/2024",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 177/2024",
+   "peso_ricerca": 0.5
+  },
+  "l-222-1984": {
+   "nome": "Revisione della disciplina della invalidità pensionabile (L. 222/1984)",
+   "urn": "urn:nir:stato:legge:1984-06-12;222",
+   "doc_prefix": "",
+   "min_articoli": 10,
+   "alias": [
+    "l. 222/1984",
+    "legge 222/1984",
+    "l. 222/84"
+   ],
+   "materie": [
+    "previdenza",
+    "invalidita"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "L. 222/1984",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 222/1984"
+  },
+  "l-118-1971": {
+   "nome": "Mutilati e invalidi civili (L. 118/1971)",
+   "urn": "urn:nir:stato:legge:1971-03-30;118",
+   "doc_prefix": "",
+   "min_articoli": 20,
+   "alias": [
+    "l. 118/1971",
+    "legge 118/1971",
+    "l. 118/71"
+   ],
+   "materie": [
+    "previdenza",
+    "invalidita"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "L. 118/1971",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 118/1971"
+  },
+  "dpr-1124-1965": {
+   "nome": "Testo unico infortuni sul lavoro e malattie professionali (D.P.R. 1124/1965)",
+   "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-30;1124",
+   "doc_prefix": "",
+   "min_articoli": 200,
+   "alias": [
+    "d.p.r. 1124/1965",
+    "dpr 1124/1965"
+   ],
+   "materie": [
+    "previdenza",
+    "infortuni",
+    "lavoro"
+   ],
+   "solo_corpo": true,
+   "libri": [
+    [
+     "Titolo I — Industria",
+     1,
+     204
+    ],
+    [
+     "Titolo II — Agricoltura e disposizioni finali",
+     205,
+     9999
+    ]
+   ],
+   "citazione": "D.P.R. 1124/1965"
+  },
+  "l-160-2019": {
+   "nome": "Bilancio di previsione dello Stato per il 2020 (L. 160/2019) — contiene la disciplina dei monopattini elettrici (art. 1, co. 75 ss.)",
+   "urn": "urn:nir:stato:legge:2019-12-27;160",
+   "doc_prefix": "",
+   "min_articoli": 1,
+   "alias": [
+    "l. 160/2019",
+    "legge 160/2019"
+   ],
+   "materie": [
+    "circolazione",
+    "monopattini"
+   ],
+   "solo_corpo": true,
+   "libri": [
+    [
+     "L. 160/2019",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 160/2019",
+   "peso_ricerca": 0.5
   }
  }
 }

@@ -1,0 +1,286 @@
+{
+ "_meta": {
+  "codice": "l-177-2024",
+  "nome": "Interventi in materia di sicurezza stradale e delega per la revisione del codice della strada (L. 177/2024)",
+  "snapshot": "2026-09-25",
+  "formato": 2,
+  "consolidato_normattiva": "2026-09-25",
+  "articoli": 36,
+  "file": [
+   "l-177-2024.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:2024-11-25;177",
+  "versioni": [
+   {
+    "data": "2024-11-29",
+    "evento": "ro1",
+    "atto_modificante": null
+   }
+  ],
+  "ultima_versione": "2024-11-29",
+  "datazione": {
+   "monoblocco": 36,
+   "api": 36,
+   "ignota": 0,
+   "stima_anteriore": 35,
+   "chiamate": 36,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifiche al codice della strada e al codice penale in materia di guida in stato di ebbrezza o dopo aver assunto sostanze stupefacenti",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "e49ce0cb327c"
+  },
+  "2": {
+   "file": "l-177-2024.md",
+   "rubrica": "Abbandono di animali",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "26d1f68d1f8a"
+  },
+  "3": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifiche al codice della strada concernenti l'uso del dispositivo alcolock",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "045760f745e8"
+  },
+  "4": {
+   "file": "l-177-2024.md",
+   "rubrica": "",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "174b8b4a3efd"
+  },
+  "5": {
+   "file": "l-177-2024.md",
+   "rubrica": "Promozione dell'attivita' formativa nelle scuole",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "571a24c4c07b"
+  },
+  "6": {
+   "file": "l-177-2024.md",
+   "rubrica": "Istituzione del registro delle agenzie telematiche per le imprese di consulenza per la circolazione dei mezzi di trasporto",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "a8d96bf8a492"
+  },
+  "7": {
+   "file": "l-177-2024.md",
+   "rubrica": "Limitazioni per i neopatentati",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "ed26136d5375"
+  },
+  "8": {
+   "file": "l-177-2024.md",
+   "rubrica": "Titoli abilitativi ed esercitazioni di guida",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "1f440355e43d"
+  },
+  "9": {
+   "file": "l-177-2024.md",
+   "rubrica": "Disposizioni concernenti i conducenti di veicoli adibiti al trasporto di persone",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "e7f51ccadae5"
+  },
+  "10": {
+   "file": "l-177-2024.md",
+   "rubrica": "Accertamento delle violazioni con dispositivi di controllo automatico",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "f53371f0476e"
+  },
+  "11": {
+   "file": "l-177-2024.md",
+   "rubrica": "",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "1c0a12982ef3"
+  },
+  "12": {
+   "file": "l-177-2024.md",
+   "rubrica": "Campagne di richiamo",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "164969326cf6"
+  },
+  "13": {
+   "file": "l-177-2024.md",
+   "rubrica": "Disposizioni concernenti lo svolgimento di operazioni in materia di motorizzazione e il controllo sulle officine concessionarie del servizio di revisione dei veicoli a motore",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "690be1d2e3da"
+  },
+  "14": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifiche alla legge 27 dicembre 2019, n. 160, in materia di monopattini e altri dispositivi",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "dd3e1102a531"
+  },
+  "15": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifiche alla disciplina della ciclabilita'",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "84afe74051a7"
+  },
+  "16": {
+   "file": "l-177-2024.md",
+   "rubrica": "Circolazione dei motocicli su autostrade e strade extraurbane principali",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "c35e847a18cf"
+  },
+  "17": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifiche in materia di sicurezza dei passaggi a livello ferroviari",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "fad4c89bb245"
+  },
+  "18": {
+   "file": "l-177-2024.md",
+   "rubrica": "",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "82dd4267a01c"
+  },
+  "19": {
+   "file": "l-177-2024.md",
+   "rubrica": "Disposizioni in materia di sicurezza delle gallerie ferroviarie",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "06bc543c3434"
+  },
+  "20": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifiche al codice della strada in materia di norme di comportamento a tutela della sicurezza delle persone esposte al traffico",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "30e2a95ee931"
+  },
+  "21": {
+   "file": "l-177-2024.md",
+   "rubrica": "Uso dei pannelli a messaggio variabile con valore prescrittivo",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "781f6c787306"
+  },
+  "22": {
+   "file": "l-177-2024.md",
+   "rubrica": "Misure per contrastare il rischio della circolazione contromano, osservanza rigorosa dell'obbligo di circolazione a destra per i mezzi pesanti e divieto di occupazione della sede stradale",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "5f49187d6dcf"
+  },
+  "23": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifiche al codice della strada in materia di disciplina della sosta",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "77ffe5b2aa93"
+  },
+  "24": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifiche al codice della strada in materia di sanzioni per violazioni della disciplina della sosta e delle zone a traffico limitato",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "87dca2e607cf"
+  },
+  "25": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifiche al codice della strada in materia di circolazione fuori dei centri abitati",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "2b88b286b699"
+  },
+  "26": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifica alla legge 24 novembre 1981, n. 689",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "f4291ea2a7b6"
+  },
+  "27": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifiche al codice della strada in materia di circolazione in ambito urbano e fasce di rispetto per particolari categorie di strade",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "b488b5b2c476"
+  },
+  "28": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifica al codice della strada in materia di regolamentazione della circolazione in ambito portuale",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "f18ac69ddc30"
+  },
+  "29": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifica al codice della strada in materia di circolazione di macchine agricole",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "d0f5d078854f"
+  },
+  "30": {
+   "file": "l-177-2024.md",
+   "rubrica": "Locazione senza conducente",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "7652285526ab"
+  },
+  "31": {
+   "file": "l-177-2024.md",
+   "rubrica": "Veicoli adibiti al trasporto di denaro o di valori",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "861dce21e5ad"
+  },
+  "32": {
+   "file": "l-177-2024.md",
+   "rubrica": "Circolazione di veicoli di interesse storico e collezionistico",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "d415180d875f"
+  },
+  "33": {
+   "file": "l-177-2024.md",
+   "rubrica": "Modifica al codice della strada in materia di circolazione nelle isole minori",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "27bb571d3a55"
+  },
+  "34": {
+   "file": "l-177-2024.md",
+   "rubrica": "Disposizioni in materia di rimorchi",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "395225213d7b"
+  },
+  "35": {
+   "file": "l-177-2024.md",
+   "rubrica": "Delega al Governo per la revisione e il riordino della disciplina concernente la motorizzazione e la circolazione stradale",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "bea9c2de29d5"
+  },
+  "36": {
+   "file": "l-177-2024.md",
+   "rubrica": "Disposizioni attuative e clausola di invarianza finanziaria",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "3dfd554f8e04"
+  }
+ }
+}

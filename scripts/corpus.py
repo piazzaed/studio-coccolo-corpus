@@ -129,8 +129,8 @@ def corpus_dir() -> Path:
     env = os.environ.get("STUDIO_CORPUS")
     if env:
         return Path(env)
-    from paths import stato_root
-    return stato_root() / "corpus"
+    from paths import stato_root_persistente   # v0.30: la conoscenza del corpus vivo sopravvive alla sessione
+    return stato_root_persistente() / "corpus"
 
 
 def _agg(rel: str) -> Path:

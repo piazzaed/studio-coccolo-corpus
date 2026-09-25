@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generato_il": "2026-09-25T16:04Z",
+ "generato_il": "2026-09-25T17:49Z",
  "formato_indice": 2,
  "repo": "piazzaed/studio-coccolo-corpus",
  "fonti": {
@@ -714,6 +714,30 @@
     }
    }
   },
+  "dpr-1124-1965": {
+   "snapshot": "2026-09-25",
+   "consolidato": "2023-11-19",
+   "verificato_il": "2026-09-25",
+   "esito": "iniziale",
+   "articoli": 296,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dpr-1124-1965-1.md": {
+     "sha256": "8fe5ab52623676ceee35fc6dcb41b2121a4569b1c85384da29996abca93581d5",
+     "byte": 232793
+    },
+    "dpr-1124-1965-2.md": {
+     "sha256": "cd03f25979b3be135d8fc594fc239cc06b0a83b626c39d1c992eadc176c8602c",
+     "byte": 72723
+    },
+    "dpr-1124-1965-indice.json": {
+     "sha256": "6b008de0559dd9ef87f1e6098715e08f14e2c8afa8b6b10a2c0452ffe7e5659d",
+     "byte": 53298
+    }
+   }
+  },
   "dpr-115-2002": {
    "snapshot": "2026-09-23",
    "consolidato": "2026-08-26",
@@ -731,6 +755,26 @@
     "dpr-115-2002-indice.json": {
      "sha256": "a402898f1207e78784cf4286df74858df251acedf7ed7442d6ead672a534ca9f",
      "byte": 72114
+    }
+   }
+  },
+  "dpr-12-2025": {
+   "snapshot": "2026-09-25",
+   "consolidato": "2026-01-11",
+   "verificato_il": "2026-09-25",
+   "esito": "iniziale",
+   "articoli": 5,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dpr-12-2025.md": {
+     "sha256": "45ae97b9f401ec72e14413dedee4bf5f72a7a296dfa73e9ddbb2e9d8f32e33d7",
+     "byte": 21968
+    },
+    "dpr-12-2025-indice.json": {
+     "sha256": "1672d0015c203bb5da90dbe8a78a7bfa996b585a095958ab3546c31f23d67a1d",
+     "byte": 1765
     }
    }
   },
@@ -874,6 +918,26 @@
     }
    }
   },
+  "l-118-1971": {
+   "snapshot": "2026-09-25",
+   "consolidato": "2021-12-21",
+   "verificato_il": "2026-09-25",
+   "esito": "iniziale",
+   "articoli": 34,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-118-1971.md": {
+     "sha256": "d79152164f5dc0dd9d3c3adfe5ddd7cf8b0d901ec948f030a897a079d42ddd96",
+     "byte": 41001
+    },
+    "l-118-1971-indice.json": {
+     "sha256": "9f09647ca890113991b84b17d8da96ef433a0391faa7e4ff031d213aa642f559",
+     "byte": 8948
+    }
+   }
+  },
   "l-13-1989": {
    "snapshot": "2026-09-23",
    "consolidato": "2020-07-17",
@@ -914,6 +978,46 @@
     }
    }
   },
+  "l-160-2019": {
+   "snapshot": "2026-09-25",
+   "consolidato": "2026-08-12",
+   "verificato_il": "2026-09-25",
+   "esito": "iniziale",
+   "articoli": 19,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-160-2019.md": {
+     "sha256": "45cd663faa83f85bc983b71be094e17651f719d44d75e3560e932f5a4fecbbbe",
+     "byte": 758660
+    },
+    "l-160-2019-indice.json": {
+     "sha256": "c0f4655792ed4bc4f60a2724666d88be9df92875fcf853070c013aaf97c18df7",
+     "byte": 17340
+    }
+   }
+  },
+  "l-177-2024": {
+   "snapshot": "2026-09-25",
+   "consolidato": "2026-09-25",
+   "verificato_il": "2026-09-25",
+   "esito": "iniziale",
+   "articoli": 36,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-177-2024.md": {
+     "sha256": "f6052696b155b16d3d4a56f6a45803964bf7eb6632a2722b5ddb0539da4c4998",
+     "byte": 432167
+    },
+    "l-177-2024-indice.json": {
+     "sha256": "e80808b229aba15dc7a9de68678ddd2173d6016dfb76928f0be9dc12f38ed285",
+     "byte": 8297
+    }
+   }
+  },
   "l-218-1995": {
    "snapshot": "2026-09-23",
    "consolidato": "2023-01-01",
@@ -931,6 +1035,26 @@
     "l-218-1995-indice.json": {
      "sha256": "391e8f460c54a5d26d86ad526ed6b67828f7fe44aedc68333934edb0547bc4c9",
      "byte": 15426
+    }
+   }
+  },
+  "l-222-1984": {
+   "snapshot": "2026-09-25",
+   "consolidato": "2009-07-04",
+   "verificato_il": "2026-09-25",
+   "esito": "iniziale",
+   "articoli": 15,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-222-1984.md": {
+     "sha256": "55e4f5879693ba00c9eebc3aa296e6f6471cfd5d8d8d3b0cdcd34cd29d3dc8d9",
+     "byte": 26430
+    },
+    "l-222-1984-indice.json": {
+     "sha256": "64d7081ec4c2c7818291bdcb0df1f21ca7539802de1fce5f5c15430372d4b62e",
+     "byte": 3794
     }
    }
   },
@@ -1457,8 +1581,8 @@
  },
  "codici": {
   "file": "wiki-studio/normativa/codici.json",
-  "sha256": "3481ff9b12c8930eb849f5d6922305bbb3b435ebbb24d9466b6abbda08c54bd0",
-  "byte": 38704
+  "sha256": "9a5e5c5dbfd07678f73d6b3d074c4b24bb6b6ae7760687b001d4b55a078f3003",
+  "byte": 41793
  },
  "cassazione": {
   "file": {

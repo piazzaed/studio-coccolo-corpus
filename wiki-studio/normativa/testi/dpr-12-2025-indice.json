@@ -1,0 +1,74 @@
+{
+ "_meta": {
+  "codice": "dpr-12-2025",
+  "nome": "Tabella unica nazionale delle macropermanenti 10-100 punti (D.P.R. 12/2025, art. 138 CAP)",
+  "snapshot": "2026-09-25",
+  "formato": 2,
+  "consolidato_normattiva": "2026-01-11",
+  "articoli": 5,
+  "file": [
+   "dpr-12-2025.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2025-01-13;12",
+  "versioni": [
+   {
+    "data": "2025-02-18",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2025-12-27",
+    "evento": "rp1",
+    "atto_modificante": "atto modificante non indicato (rp1)"
+   }
+  ],
+  "ultima_versione": "2025-12-27",
+  "datazione": {
+   "monoblocco": 5,
+   "api": 5,
+   "ignota": 0,
+   "stima_anteriore": 5,
+   "chiamate": 5,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dpr-12-2025.md",
+   "rubrica": "Adozione della tabella unica nazionale",
+   "vigore_da": "2025-03-05",
+   "datazione": "api",
+   "h": "d9fd6631cd96"
+  },
+  "2": {
+   "file": "dpr-12-2025.md",
+   "rubrica": "Valore del primo punto di invalidita'",
+   "vigore_da": "2025-03-05",
+   "datazione": "api",
+   "h": "d594d211c146"
+  },
+  "3": {
+   "file": "dpr-12-2025.md",
+   "rubrica": "Liquidazione del danno biologico temporaneo",
+   "vigore_da": "2025-03-05",
+   "datazione": "api",
+   "h": "baa191e4ca94"
+  },
+  "4": {
+   "file": "dpr-12-2025.md",
+   "rubrica": "Clausola di invarianza finanziaria",
+   "vigore_da": "2025-03-05",
+   "datazione": "api",
+   "h": "170ce0e8ba60"
+  },
+  "5": {
+   "file": "dpr-12-2025.md",
+   "rubrica": "Disposizioni transitorie",
+   "vigore_da": "2025-03-05",
+   "datazione": "api",
+   "h": "3df26d685859"
+  }
+ }
+}

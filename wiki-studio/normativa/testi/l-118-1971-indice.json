@@ -1,0 +1,378 @@
+{
+ "_meta": {
+  "codice": "l-118-1971",
+  "nome": "Mutilati e invalidi civili (L. 118/1971)",
+  "snapshot": "2026-09-25",
+  "formato": 2,
+  "consolidato_normattiva": "2021-12-21",
+  "articoli": 34,
+  "file": [
+   "l-118-1971.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1971-03-30;118",
+  "versioni": [
+   {
+    "data": "1971-04-02",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1972-07-01",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 30 giugno 1972, n. 267"
+   },
+   {
+    "data": "1974-01-12",
+    "evento": "rp2",
+    "atto_modificante": "L. 27 dicembre 1973, n. 908"
+   },
+   {
+    "data": "1974-03-04",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 2 marzo 1974, n. 30"
+   },
+   {
+    "data": "1975-06-05",
+    "evento": "rp4",
+    "atto_modificante": "L. 3 giugno 1975, n. 160"
+   },
+   {
+    "data": "1975-06-07",
+    "evento": "rp5",
+    "atto_modificante": "L. 26 maggio 1975, n. 165"
+   },
+   {
+    "data": "1978-07-22",
+    "evento": "rp6",
+    "atto_modificante": "D.P.R. 27 aprile 1978, n. 384"
+   },
+   {
+    "data": "1979-12-31",
+    "evento": "rp7",
+    "atto_modificante": "D.L. 30 dicembre 1979, n. 663"
+   },
+   {
+    "data": "1984-06-16",
+    "evento": "rp8",
+    "atto_modificante": "L. 12 giugno 1984, n. 222"
+   },
+   {
+    "data": "1986-12-30",
+    "evento": "rp9",
+    "atto_modificante": "L. 13 dicembre 1986, n. 912"
+   },
+   {
+    "data": "1987-06-17",
+    "evento": "rp10",
+    "atto_modificante": "atto modificante non indicato (rp10)"
+   },
+   {
+    "data": "1988-11-25",
+    "evento": "rp11",
+    "atto_modificante": "L. 21 novembre 1988, n. 508"
+   },
+   {
+    "data": "1988-11-26",
+    "evento": "rp12",
+    "atto_modificante": "D.Lgs. 23 novembre 1988, n. 509"
+   },
+   {
+    "data": "1989-06-28",
+    "evento": "rp13",
+    "atto_modificante": "atto modificante non indicato (rp13)"
+   },
+   {
+    "data": "1992-02-17",
+    "evento": "rp14",
+    "atto_modificante": "L. 5 febbraio 1992, n. 104"
+   },
+   {
+    "data": "2000-11-13",
+    "evento": "rp15",
+    "atto_modificante": "L. 8 novembre 2000, n. 328"
+   },
+   {
+    "data": "2007-12-29",
+    "evento": "rp16",
+    "atto_modificante": "L. 24 dicembre 2007, n. 247"
+   },
+   {
+    "data": "2010-05-31",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 31 maggio 2010, n. 78"
+   },
+   {
+    "data": "2011-07-27",
+    "evento": "rp18",
+    "atto_modificante": "D.Lgs. 18 luglio 2011, n. 119"
+   },
+   {
+    "data": "2011-12-06",
+    "evento": "rp19",
+    "atto_modificante": "D.L. 6 dicembre 2011, n. 201"
+   },
+   {
+    "data": "2021-10-21",
+    "evento": "rp20",
+    "atto_modificante": "D.L. 21 ottobre 2021, n. 146"
+   },
+   {
+    "data": "2021-12-20",
+    "evento": "rp21",
+    "atto_modificante": "L. 17 dicembre 2021, n. 215"
+   }
+  ],
+  "ultima_versione": "2021-12-20",
+  "datazione": {
+   "monoblocco": 34,
+   "api": 33,
+   "ignota": 1,
+   "testo_diverso": 1,
+   "stima_anteriore": 27,
+   "chiamate": 34,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-118-1971.md",
+   "rubrica": "Conversione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "b94ae949dfd3"
+  },
+  "2": {
+   "file": "l-118-1971.md",
+   "rubrica": "Nuove norme e soggetti aventi diritto",
+   "vigore_da": "1989-06-29",
+   "datazione": "api",
+   "h": "84dd2885da6a"
+  },
+  "3": {
+   "file": "l-118-1971.md",
+   "rubrica": "Assistenza sanitaria",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "f107f77ddca0"
+  },
+  "4": {
+   "file": "l-118-1971.md",
+   "rubrica": "Centri di riabilitazione, ricerca e prevenzione",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "6e9b77d121c9"
+  },
+  "5": {
+   "file": "l-118-1971.md",
+   "rubrica": "Personale ed educatori specializzati",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "45d2a32c325a"
+  },
+  "6": {
+   "file": "l-118-1971.md",
+   "rubrica": "Accertamento delle condizioni di minorazione",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "9e760648ca3a"
+  },
+  "7": {
+   "file": "l-118-1971.md",
+   "rubrica": "Commissione sanitaria provinciale: composizione",
+   "vigore_da": "1975-06-22",
+   "datazione": "api",
+   "h": "62ccc3b099aa"
+  },
+  "8": {
+   "file": "l-118-1971.md",
+   "rubrica": "Compiti della commissione sanitaria provinciale",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "da249152c019"
+  },
+  "9": {
+   "file": "l-118-1971.md",
+   "rubrica": "Commissioni regionali sanitarie",
+   "vigore_da": "1974-01-27",
+   "datazione": "api",
+   "h": "b93cb8fb646d"
+  },
+  "10": {
+   "file": "l-118-1971.md",
+   "rubrica": "",
+   "vigore_da": "1975-06-22",
+   "datazione": "api",
+   "h": "2a693417573c"
+  },
+  "11": {
+   "file": "l-118-1971.md",
+   "rubrica": "Presentazione delle domande",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "51b49e333e06"
+  },
+  "12": {
+   "file": "l-118-1971.md",
+   "rubrica": "Pensione di inabilit",
+   "vigore_da": "1987-01-14",
+   "datazione": "api",
+   "h": "657718b92399"
+  },
+  "13": {
+   "file": "l-118-1971.md",
+   "rubrica": "Assegno mensile",
+   "vigore_da": "2021-12-21",
+   "datazione": "api",
+   "h": "6c52acc7ad05"
+  },
+  "14": {
+   "file": "l-118-1971.md",
+   "rubrica": "Norme per la concessione della pensione o dell'assegno",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "412dfc468373"
+  },
+  "15": {
+   "file": "l-118-1971.md",
+   "rubrica": "Ricorsi in materia di pensione e di assegno",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "cbbfe19ca100"
+  },
+  "16": {
+   "file": "l-118-1971.md",
+   "rubrica": "Rilascio di certificati da parte degli uffici distrettuali delle imposte",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "b8f590ef25c6"
+  },
+  "17": {
+   "file": "l-118-1971.md",
+   "rubrica": "",
+   "vigore_da": "1988-12-10",
+   "datazione": "api",
+   "h": "36702fcb6d29"
+  },
+  "18": {
+   "file": "l-118-1971.md",
+   "rubrica": "Scadenze delle rate",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "4d3df179baae"
+  },
+  "19": {
+   "file": "l-118-1971.md",
+   "rubrica": "Pensione sociale e decorrenza delle provvidenze economiche",
+   "vigore_da": "2011-12-28",
+   "datazione": "api",
+   "h": "816c7179c3ee"
+  },
+  "20": {
+   "file": "l-118-1971.md",
+   "rubrica": "Modalita' di erogazione della pensione o dell'assegno",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "01f76945615a"
+  },
+  "21": {
+   "file": "l-118-1971.md",
+   "rubrica": "Accertamenti sulla permanenza dei requisiti",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "cdcb961410a9"
+  },
+  "22": {
+   "file": "l-118-1971.md",
+   "rubrica": "Tutela giurisdizionale",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "f52c7cdce054"
+  },
+  "23": {
+   "file": "l-118-1971.md",
+   "rubrica": "Addestramento, qualificazione e riqualificazione professionale, lavoro protetto e provvedimenti per la vita di relazione",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "8f94fe3cedce"
+  },
+  "24": {
+   "file": "l-118-1971.md",
+   "rubrica": "Indennita' di frequenza ai corsi",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "2765b3776e33"
+  },
+  "25": {
+   "file": "l-118-1971.md",
+   "rubrica": "Sistemi di lavoro protetto",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "459e9e6d1344"
+  },
+  "26": {
+   "file": "l-118-1971.md",
+   "rubrica": "",
+   "vigore_da": "2011-08-11",
+   "datazione": "api",
+   "h": "0c3361eaf99f"
+  },
+  "27": {
+   "file": "l-118-1971.md",
+   "rubrica": "Barriere architettoniche e trasporti pubblici",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "4442afd482ca"
+  },
+  "28": {
+   "file": "l-118-1971.md",
+   "rubrica": "Provvedimenti per la frequenza scolastica",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "ac1ed29402b4"
+  },
+  "29": {
+   "file": "l-118-1971.md",
+   "rubrica": "Organizzazione scolastica nei centri di degenza e di recupero",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "a821bb99f855"
+  },
+  "30": {
+   "file": "l-118-1971.md",
+   "rubrica": "Esenzione dalle tasse scolastiche e universitarie",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "e2d2f4778fff"
+  },
+  "31": {
+   "file": "l-118-1971.md",
+   "rubrica": "Finanziamenti",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "788f9a977839"
+  },
+  "32": {
+   "file": "l-118-1971.md",
+   "rubrica": "Copertura della spesa",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "0612445bd2e2"
+  },
+  "33": {
+   "file": "l-118-1971.md",
+   "rubrica": "Disposizioni transitorie",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "e5a550ac03e6"
+  },
+  "34": {
+   "file": "l-118-1971.md",
+   "rubrica": "Disposizioni finali",
+   "vigore_da": "1971-04-03",
+   "datazione": "api",
+   "h": "892abfc56f63"
+  }
+ }
+}
