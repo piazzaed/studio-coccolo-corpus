@@ -710,14 +710,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     env:
-      STUDIO_STATO_ROOT: ${{ runner.temp }}/stato
-      STUDIO_CORPUS: ${{ runner.temp }}/corpus-vivo
       PYTHONDONTWRITEBYTECODE: "1"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.9"
+      - name: cartelle di lavoro fuori dal repo
+        run: |
+          echo "STUDIO_STATO_ROOT=$RUNNER_TEMP/stato" >> "$GITHUB_ENV"
+          echo "STUDIO_CORPUS=$RUNNER_TEMP/corpus-vivo" >> "$GITHUB_ENV"
       - name: normattiva risponde?
         run: python3 scripts/corpus_pubblica.py --sonda
       - name: giro settimanale del corpus
