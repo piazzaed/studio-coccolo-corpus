@@ -1,0 +1,58 @@
+{
+ "_meta": {
+  "codice": "dl-394-2000",
+  "nome": "Interpretazione autentica della L. 108/1996 (D.L. 394/2000)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2002-03-07",
+  "articoli": 2,
+  "file": [
+   "dl-394-2000.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legge:2000-12-29;394",
+  "versioni": [
+   {
+    "data": "2000-12-30",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2001-02-28",
+    "evento": "rp1",
+    "atto_modificante": "L. 28 febbraio 2001, n. 24"
+   },
+   {
+    "data": "2002-03-06",
+    "evento": "rp2",
+    "atto_modificante": "atto modificante non indicato (rp2)"
+   }
+  ],
+  "ultima_versione": "2002-03-06",
+  "datazione": {
+   "monoblocco": 2,
+   "api": 2,
+   "ignota": 0,
+   "stima_anteriore": 2,
+   "chiamate": 2,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dl-394-2000.md",
+   "rubrica": "",
+   "vigore_da": "2002-03-07",
+   "datazione": "api",
+   "h": "b511680c7e73"
+  },
+  "2": {
+   "file": "dl-394-2000.md",
+   "rubrica": "",
+   "vigore_da": "2000-12-31",
+   "datazione": "api",
+   "h": "b011a219f1da"
+  }
+ }
+}

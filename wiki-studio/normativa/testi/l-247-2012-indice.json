@@ -1,0 +1,693 @@
+{
+ "_meta": {
+  "codice": "l-247-2012",
+  "nome": "Nuova disciplina dell'ordinamento della professione forense (L. 247/2012)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-08-26",
+  "articoli": 69,
+  "file": [
+   "l-247-2012.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:2012-12-31;247",
+  "versioni": [
+   {
+    "data": "2013-01-18",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2013-12-27",
+    "evento": "rp2",
+    "atto_modificante": "L. 27 dicembre 2013, n. 147"
+   },
+   {
+    "data": "2014-12-31",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 31 dicembre 2014, n. 192"
+   },
+   {
+    "data": "2015-12-30",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 30 dicembre 2015, n. 210"
+   },
+   {
+    "data": "2016-12-30",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 30 dicembre 2016, n. 244"
+   },
+   {
+    "data": "2017-07-20",
+    "evento": "rp6",
+    "atto_modificante": "L. 12 luglio 2017, n. 113"
+   },
+   {
+    "data": "2017-08-14",
+    "evento": "rp7",
+    "atto_modificante": "L. 4 agosto 2017, n. 124"
+   },
+   {
+    "data": "2017-10-16",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 16 ottobre 2017, n. 148"
+   },
+   {
+    "data": "2017-12-29",
+    "evento": "rp9",
+    "atto_modificante": "L. 27 dicembre 2017, n. 205"
+   },
+   {
+    "data": "2018-07-25",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 25 luglio 2018, n. 91"
+   },
+   {
+    "data": "2018-12-14",
+    "evento": "rp11",
+    "atto_modificante": "D.L. 14 dicembre 2018, n. 135"
+   },
+   {
+    "data": "2018-12-31",
+    "evento": "rp12",
+    "atto_modificante": "L. 30 dicembre 2018, n. 145"
+   },
+   {
+    "data": "2019-01-11",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 11 gennaio 2019, n. 2"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp14",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp15",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2020-04-08",
+    "evento": "rp16",
+    "atto_modificante": "D.L. 8 aprile 2020, n. 22"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-06-06",
+    "evento": "rp18",
+    "atto_modificante": "L. 6 giugno 2020, n. 41"
+   },
+   {
+    "data": "2020-12-31",
+    "evento": "rp19",
+    "atto_modificante": "D.L. 31 dicembre 2020, n. 183"
+   },
+   {
+    "data": "2021-03-01",
+    "evento": "rp20",
+    "atto_modificante": "L. 26 febbraio 2021, n. 21"
+   },
+   {
+    "data": "2021-12-30",
+    "evento": "rp21",
+    "atto_modificante": "D.L. 30 dicembre 2021, n. 228"
+   },
+   {
+    "data": "2022-02-28",
+    "evento": "rp22",
+    "atto_modificante": "L. 25 febbraio 2022, n. 15"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp23",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp24+rp25",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197; D.L. 29 dicembre 2022, n. 198"
+   },
+   {
+    "data": "2023-02-27",
+    "evento": "rp26",
+    "atto_modificante": "L. 24 febbraio 2023, n. 14"
+   },
+   {
+    "data": "2023-05-05",
+    "evento": "rp27",
+    "atto_modificante": "L. 21 aprile 2023, n. 49"
+   },
+   {
+    "data": "2023-06-22",
+    "evento": "rp28",
+    "atto_modificante": "D.L. 22 giugno 2023, n. 75"
+   },
+   {
+    "data": "2023-08-16",
+    "evento": "rp29",
+    "atto_modificante": "L. 10 agosto 2023, n. 112"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp30",
+    "atto_modificante": "D.L. 30 dicembre 2023, n. 215"
+   },
+   {
+    "data": "2024-02-28",
+    "evento": "rp31",
+    "atto_modificante": "L. 23 febbraio 2024, n. 18"
+   },
+   {
+    "data": "2024-12-27",
+    "evento": "rp32",
+    "atto_modificante": "D.L. 27 dicembre 2024, n. 202"
+   },
+   {
+    "data": "2025-02-24",
+    "evento": "rp33",
+    "atto_modificante": "L. 21 febbraio 2025, n. 15"
+   },
+   {
+    "data": "2025-05-28",
+    "evento": "rp34",
+    "atto_modificante": "atto modificante non indicato (rp34)"
+   },
+   {
+    "data": "2026-06-12",
+    "evento": "rp35",
+    "atto_modificante": "D.L. 12 giugno 2026, n. 100"
+   },
+   {
+    "data": "2026-08-11",
+    "evento": "rp36",
+    "atto_modificante": "D.Lgs. 7 agosto 2026, n. 149"
+   }
+  ],
+  "ultima_versione": "2026-08-11",
+  "datazione": {
+   "monoblocco": 69,
+   "api": 64,
+   "riportati": 5,
+   "ignota": 0,
+   "stima_anteriore": 57,
+   "chiamate": 64,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-247-2012.md",
+   "rubrica": "Disciplina dell'ordinamento forense",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "dd5d154d2584"
+  },
+  "2": {
+   "file": "l-247-2012.md",
+   "rubrica": "Disciplina della professione di avvocato",
+   "vigore_da": "2026-08-26",
+   "datazione": "api",
+   "h": "77d4dc62cf1c"
+  },
+  "3": {
+   "file": "l-247-2012.md",
+   "rubrica": "Doveri e deontologia",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "39af7d566427"
+  },
+  "4": {
+   "file": "l-247-2012.md",
+   "rubrica": "Associazioni tra avvocati e multidisciplinari",
+   "vigore_da": "2017-08-29",
+   "datazione": "api",
+   "h": "f478774f7d23"
+  },
+  "4-bis": {
+   "file": "l-247-2012.md",
+   "rubrica": "Esercizio della professione forense in forma societaria",
+   "vigore_da": "2018-01-01",
+   "datazione": "api",
+   "h": "f9542ee03cc7"
+  },
+  "5": {
+   "file": "l-247-2012.md",
+   "rubrica": "",
+   "vigore_da": "2017-08-29",
+   "datazione": "api",
+   "h": "114d21abf558"
+  },
+  "6": {
+   "file": "l-247-2012.md",
+   "rubrica": "Segreto professionale",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "dfb96e5505a0"
+  },
+  "7": {
+   "file": "l-247-2012.md",
+   "rubrica": "Prescrizioni per il domicilio",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "b46738b8cc4a"
+  },
+  "8": {
+   "file": "l-247-2012.md",
+   "rubrica": "Impegno solenne",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "d44e88b24983"
+  },
+  "9": {
+   "file": "l-247-2012.md",
+   "rubrica": "Specializzazioni",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "3764ea1a5f8b"
+  },
+  "10": {
+   "file": "l-247-2012.md",
+   "rubrica": "Informazioni sull'esercizio della professione",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "0d04398bbff9"
+  },
+  "11": {
+   "file": "l-247-2012.md",
+   "rubrica": "Formazione continua",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "489bb4688f32"
+  },
+  "12": {
+   "file": "l-247-2012.md",
+   "rubrica": "Assicurazione per la responsabilita' civile e assicurazione contro gli infortuni",
+   "vigore_da": "2017-12-06",
+   "datazione": "api",
+   "h": "6172aa7e704e"
+  },
+  "13": {
+   "file": "l-247-2012.md",
+   "rubrica": "Conferimento dell'incarico e compenso",
+   "vigore_da": "2017-08-29",
+   "datazione": "api",
+   "h": "df7af1e00eb2"
+  },
+  "13-bis": {
+   "file": "l-247-2012.md",
+   "rubrica": "",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "01b1d51c7894"
+  },
+  "14": {
+   "file": "l-247-2012.md",
+   "rubrica": "Mandato professionale. Sostituzioni e collaborazioni",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "b1518b27839b"
+  },
+  "15": {
+   "file": "l-247-2012.md",
+   "rubrica": "Albi, elenchi e registri",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "1cb6e6313a5c"
+  },
+  "16": {
+   "file": "l-247-2012.md",
+   "rubrica": "Delega al Governo per il riordino della disciplina della difesa d'ufficio",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "e7aa4d1aca6e"
+  },
+  "17": {
+   "file": "l-247-2012.md",
+   "rubrica": "Iscrizione e cancellazione",
+   "vigore_da": "2025-05-29",
+   "datazione": "api",
+   "h": "0012d2ed25ac"
+  },
+  "18": {
+   "file": "l-247-2012.md",
+   "rubrica": "Incompatibilita'",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "d0b7faf97afc"
+  },
+  "19": {
+   "file": "l-247-2012.md",
+   "rubrica": "Eccezioni alle norme sulla incompatibilita'",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "fbf6f3e95141"
+  },
+  "20": {
+   "file": "l-247-2012.md",
+   "rubrica": "Sospensione dall'esercizio professionale",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "5a0f95d0e1fc"
+  },
+  "21": {
+   "file": "l-247-2012.md",
+   "rubrica": "Esercizio professionale effettivo, continuativo, abituale e prevalente e revisione degli albi, degli elenchi e dei registri; obbligo di iscrizione alla previdenza forense",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "781a862458d3"
+  },
+  "22": {
+   "file": "l-247-2012.md",
+   "rubrica": "Albo speciale per il patrocinio davanti alle giurisdizioni superiori",
+   "vigore_da": "2025-02-25",
+   "datazione": "api",
+   "h": "c0ca9427b85e"
+  },
+  "23": {
+   "file": "l-247-2012.md",
+   "rubrica": "Avvocati degli enti pubblici",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "050b8b884fba"
+  },
+  "24": {
+   "file": "l-247-2012.md",
+   "rubrica": "L'ordine forense",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "f9ba5da922de"
+  },
+  "25": {
+   "file": "l-247-2012.md",
+   "rubrica": "L'ordine circondariale forense",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "1bd1aaaf296f"
+  },
+  "26": {
+   "file": "l-247-2012.md",
+   "rubrica": "Organi dell'ordine circondariale e degli ordini del distretto",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "f2b132790b90"
+  },
+  "27": {
+   "file": "l-247-2012.md",
+   "rubrica": "L'assemblea",
+   "vigore_da": "2019-02-13",
+   "datazione": "api",
+   "h": "d091929213d7"
+  },
+  "28": {
+   "file": "l-247-2012.md",
+   "rubrica": "Il consiglio dell'ordine",
+   "vigore_da": "2017-07-21",
+   "datazione": "api",
+   "h": "d4be83a3cdd7"
+  },
+  "29": {
+   "file": "l-247-2012.md",
+   "rubrica": "Compiti e prerogative del consiglio",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "a8bec35b6f17"
+  },
+  "30": {
+   "file": "l-247-2012.md",
+   "rubrica": "Sportello per il cittadino",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "6d96975878f4"
+  },
+  "31": {
+   "file": "l-247-2012.md",
+   "rubrica": "Il collegio dei revisori",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "ec70c5f01b0e"
+  },
+  "32": {
+   "file": "l-247-2012.md",
+   "rubrica": "Funzionamento dei consigli dell'ordine per commissioni",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "961e288f62d2"
+  },
+  "33": {
+   "file": "l-247-2012.md",
+   "rubrica": "Scioglimento del consiglio",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "452a050552f9"
+  },
+  "34": {
+   "file": "l-247-2012.md",
+   "rubrica": "Durata e composizione",
+   "vigore_da": "2023-08-17",
+   "datazione": "api",
+   "h": "433cc4aec0ef"
+  },
+  "35": {
+   "file": "l-247-2012.md",
+   "rubrica": "Compiti e prerogative",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "191712a3880d"
+  },
+  "36": {
+   "file": "l-247-2012.md",
+   "rubrica": "Competenza giurisdizionale",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "c038800847ba"
+  },
+  "37": {
+   "file": "l-247-2012.md",
+   "rubrica": "Funzionamento",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "d00f073550ac"
+  },
+  "38": {
+   "file": "l-247-2012.md",
+   "rubrica": "Eleggibilita' e incompatibilita'",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "472d256ec70b"
+  },
+  "39": {
+   "file": "l-247-2012.md",
+   "rubrica": "Congresso nazionale forense",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "5db7becae1bf"
+  },
+  "40": {
+   "file": "l-247-2012.md",
+   "rubrica": "Accordi tra universita' e ordini forensi",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "1ff9c7fa7de6"
+  },
+  "41": {
+   "file": "l-247-2012.md",
+   "rubrica": "Contenuti e modalita' di svolgimento del tirocinio",
+   "vigore_da": "2020-06-07",
+   "datazione": "api",
+   "h": "a12f1c605494"
+  },
+  "42": {
+   "file": "l-247-2012.md",
+   "rubrica": "Norme disciplinari per i praticanti",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "d7674d862773"
+  },
+  "43": {
+   "file": "l-247-2012.md",
+   "rubrica": "Corsi di formazione per l'accesso alla professione di avvocato",
+   "vigore_da": "2020-06-07",
+   "datazione": "api",
+   "h": "3433bb77843c"
+  },
+  "44": {
+   "file": "l-247-2012.md",
+   "rubrica": "Frequenza di uffici giudiziari",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "85688fb6a8a9"
+  },
+  "45": {
+   "file": "l-247-2012.md",
+   "rubrica": "Certificato di compiuto tirocinio",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "f4495a716b22"
+  },
+  "46": {
+   "file": "l-247-2012.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "b72ce9894559"
+  },
+  "47": {
+   "file": "l-247-2012.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "b72ce9894559"
+  },
+  "48": {
+   "file": "l-247-2012.md",
+   "rubrica": "Disciplina transitoria per la pratica professionale",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "7e167e7b058d"
+  },
+  "49": {
+   "file": "l-247-2012.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "b72ce9894559"
+  },
+  "50": {
+   "file": "l-247-2012.md",
+   "rubrica": "Consigli distrettuali di disciplina",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "317f170f7128"
+  },
+  "51": {
+   "file": "l-247-2012.md",
+   "rubrica": "Procedimento disciplinare e notizia del fatto",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "3ef5ca0d1d11"
+  },
+  "52": {
+   "file": "l-247-2012.md",
+   "rubrica": "Contenuto della decisione",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "4a38b8250eb0"
+  },
+  "53": {
+   "file": "l-247-2012.md",
+   "rubrica": "Sanzioni",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "bc247f401a78"
+  },
+  "54": {
+   "file": "l-247-2012.md",
+   "rubrica": "Rapporto con il processo penale",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "e10c63e86431"
+  },
+  "55": {
+   "file": "l-247-2012.md",
+   "rubrica": "Riapertura del procedimento",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "2421b2687e87"
+  },
+  "56": {
+   "file": "l-247-2012.md",
+   "rubrica": "Prescrizione dell'azione disciplinare",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "a1f2899ad637"
+  },
+  "57": {
+   "file": "l-247-2012.md",
+   "rubrica": "Divieto di cancellazione",
+   "vigore_da": "2025-05-29",
+   "datazione": "api",
+   "h": "673b36998f8a"
+  },
+  "58": {
+   "file": "l-247-2012.md",
+   "rubrica": "Notizia di illecito disciplinare e fase istruttoria pre-procedimentale",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "b0cc807794ab"
+  },
+  "59": {
+   "file": "l-247-2012.md",
+   "rubrica": "Procedimento disciplinare",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "375f04ac118c"
+  },
+  "60": {
+   "file": "l-247-2012.md",
+   "rubrica": "Sospensione cautelare",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "79d5e97988fb"
+  },
+  "61": {
+   "file": "l-247-2012.md",
+   "rubrica": "Impugnazioni",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "d0fb371ff159"
+  },
+  "62": {
+   "file": "l-247-2012.md",
+   "rubrica": "Esecuzione",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "949bbfb04936"
+  },
+  "63": {
+   "file": "l-247-2012.md",
+   "rubrica": "Poteri ispettivi del CNF",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "809db7551e90"
+  },
+  "64": {
+   "file": "l-247-2012.md",
+   "rubrica": "Delega al Governo per il testo unico",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "c346280605e6"
+  },
+  "65": {
+   "file": "l-247-2012.md",
+   "rubrica": "Disposizioni transitorie",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "766938d505fc"
+  },
+  "66": {
+   "file": "l-247-2012.md",
+   "rubrica": "Disposizione finale",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "91806252a8ff"
+  },
+  "67": {
+   "file": "l-247-2012.md",
+   "rubrica": "Clausola di invarianza finanziaria",
+   "vigore_da": "2013-02-02",
+   "datazione": "api",
+   "h": "e96377862c21"
+  }
+ }
+}

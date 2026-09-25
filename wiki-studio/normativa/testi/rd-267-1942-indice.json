@@ -1,0 +1,1931 @@
+{
+ "_meta": {
+  "codice": "rd-267-1942",
+  "nome": "Legge fallimentare (R.D. 267/1942)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2023-01-01",
+  "articoli": 301,
+  "file": [
+   "rd-267-1942.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:regio.decreto:1942-03-16;267",
+  "versioni": [
+   {
+    "data": "1942-04-06",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1946-10-02",
+    "evento": "rp1",
+    "atto_modificante": "Decreto Legislativo Del Capo Provvisorio Dello Stato 23 agosto 1946, n. 153"
+   },
+   {
+    "data": "1952-11-12",
+    "evento": "rp2",
+    "atto_modificante": "L. 20 ottobre 1952, n. 1375"
+   },
+   {
+    "data": "1964-11-28",
+    "evento": "rp3",
+    "atto_modificante": "L. 18 novembre 1964, n. 1217"
+   },
+   {
+    "data": "1970-07-22",
+    "evento": "rp4+rp5",
+    "atto_modificante": "atto modificante non indicato (rp4); atto modificante non indicato (rp5)"
+   },
+   {
+    "data": "1972-06-28",
+    "evento": "rp6",
+    "atto_modificante": "atto modificante non indicato (rp6)"
+   },
+   {
+    "data": "1974-11-13",
+    "evento": "rp7",
+    "atto_modificante": "atto modificante non indicato (rp7)"
+   },
+   {
+    "data": "1975-03-12",
+    "evento": "rp8",
+    "atto_modificante": "atto modificante non indicato (rp8)"
+   },
+   {
+    "data": "1975-06-04",
+    "evento": "rp9",
+    "atto_modificante": "atto modificante non indicato (rp9)"
+   },
+   {
+    "data": "1975-08-26",
+    "evento": "rp10",
+    "atto_modificante": "L. 17 luglio 1975, n. 400"
+   },
+   {
+    "data": "1978-07-29",
+    "evento": "rp11",
+    "atto_modificante": "L. 24 luglio 1978, n. 391"
+   },
+   {
+    "data": "1980-12-03",
+    "evento": "rp12+rp13",
+    "atto_modificante": "atto modificante non indicato (rp12); atto modificante non indicato (rp13)"
+   },
+   {
+    "data": "1980-12-10",
+    "evento": "rp14",
+    "atto_modificante": "atto modificante non indicato (rp14)"
+   },
+   {
+    "data": "1981-04-01",
+    "evento": "rp15",
+    "atto_modificante": "atto modificante non indicato (rp15)"
+   },
+   {
+    "data": "1981-11-30",
+    "evento": "rp16",
+    "atto_modificante": "L. 24 novembre 1981, n. 689"
+   },
+   {
+    "data": "1982-04-07",
+    "evento": "rp17",
+    "atto_modificante": "atto modificante non indicato (rp17)"
+   },
+   {
+    "data": "1985-11-27",
+    "evento": "rp18",
+    "atto_modificante": "atto modificante non indicato (rp18)"
+   },
+   {
+    "data": "1986-03-26",
+    "evento": "rp19",
+    "atto_modificante": "atto modificante non indicato (rp19)"
+   },
+   {
+    "data": "1986-04-30",
+    "evento": "rp20",
+    "atto_modificante": "atto modificante non indicato (rp20)"
+   },
+   {
+    "data": "1986-07-02",
+    "evento": "rp21",
+    "atto_modificante": "atto modificante non indicato (rp21)"
+   },
+   {
+    "data": "1987-05-27",
+    "evento": "rp22",
+    "atto_modificante": "atto modificante non indicato (rp22)"
+   },
+   {
+    "data": "1988-08-03",
+    "evento": "rp23",
+    "atto_modificante": "atto modificante non indicato (rp23)"
+   },
+   {
+    "data": "1989-04-26",
+    "evento": "rp24",
+    "atto_modificante": "atto modificante non indicato (rp24)"
+   },
+   {
+    "data": "1989-07-26",
+    "evento": "rp25",
+    "atto_modificante": "atto modificante non indicato (rp25)"
+   },
+   {
+    "data": "1989-12-27",
+    "evento": "rp26+rp27",
+    "atto_modificante": "atto modificante non indicato (rp26); atto modificante non indicato (rp27)"
+   },
+   {
+    "data": "1990-12-19",
+    "evento": "rp28",
+    "atto_modificante": "atto modificante non indicato (rp28)"
+   },
+   {
+    "data": "1993-03-24",
+    "evento": "rp29",
+    "atto_modificante": "atto modificante non indicato (rp29)"
+   },
+   {
+    "data": "1993-05-05",
+    "evento": "rp30",
+    "atto_modificante": "atto modificante non indicato (rp30)"
+   },
+   {
+    "data": "1996-12-31",
+    "evento": "rp31",
+    "atto_modificante": "D.L. 31 dicembre 1996, n. 669"
+   },
+   {
+    "data": "1998-03-20",
+    "evento": "rp32",
+    "atto_modificante": "D.Lgs. 19 febbraio 1998, n. 51"
+   },
+   {
+    "data": "1998-06-19",
+    "evento": "rp33",
+    "atto_modificante": "L. 16 giugno 1998, n. 188"
+   },
+   {
+    "data": "1998-10-29",
+    "evento": "rp34",
+    "atto_modificante": "D.Lgs. 13 ottobre 1998, n. 373"
+   },
+   {
+    "data": "1999-07-28",
+    "evento": "rp35",
+    "atto_modificante": "atto modificante non indicato (rp35)"
+   },
+   {
+    "data": "1999-08-09",
+    "evento": "rp36",
+    "atto_modificante": "D.Lgs. 8 luglio 1999, n. 270"
+   },
+   {
+    "data": "2000-07-26",
+    "evento": "rp37",
+    "atto_modificante": "atto modificante non indicato (rp37)"
+   },
+   {
+    "data": "2001-05-30",
+    "evento": "rp38",
+    "atto_modificante": "atto modificante non indicato (rp38)"
+   },
+   {
+    "data": "2001-07-11",
+    "evento": "rp39",
+    "atto_modificante": "atto modificante non indicato (rp39)"
+   },
+   {
+    "data": "2002-04-15",
+    "evento": "rp40",
+    "atto_modificante": "D.Lgs. 11 aprile 2002, n. 61"
+   },
+   {
+    "data": "2002-06-15",
+    "evento": "rp41",
+    "atto_modificante": "D.P.R. 30 maggio 2002, n. 115"
+   },
+   {
+    "data": "2003-02-13",
+    "evento": "rp42",
+    "atto_modificante": "D.P.R. 14 novembre 2002, n. 313"
+   },
+   {
+    "data": "2003-12-24",
+    "evento": "rp43",
+    "atto_modificante": "D.L. 23 dicembre 2003, n. 347"
+   },
+   {
+    "data": "2004-05-07",
+    "evento": "rp44",
+    "atto_modificante": "D.L. 3 maggio 2004, n. 119"
+   },
+   {
+    "data": "2004-07-21",
+    "evento": "rp45",
+    "atto_modificante": "atto modificante non indicato (rp45)"
+   },
+   {
+    "data": "2005-03-16",
+    "evento": "rp46",
+    "atto_modificante": "D.L. 14 marzo 2005, n. 35"
+   },
+   {
+    "data": "2005-07-06",
+    "evento": "rp47",
+    "atto_modificante": "D.Lgs. 20 giugno 2005, n. 122"
+   },
+   {
+    "data": "2005-12-28",
+    "evento": "rp48",
+    "atto_modificante": "L. 28 dicembre 2005, n. 262"
+   },
+   {
+    "data": "2005-12-30",
+    "evento": "rp49",
+    "atto_modificante": "D.L. 30 dicembre 2005, n. 273"
+   },
+   {
+    "data": "2006-01-16",
+    "evento": "rp50",
+    "atto_modificante": "D.Lgs. 9 gennaio 2006, n. 5"
+   },
+   {
+    "data": "2006-04-19",
+    "evento": "rp51",
+    "atto_modificante": "atto modificante non indicato (rp51)"
+   },
+   {
+    "data": "2007-10-16",
+    "evento": "rp52",
+    "atto_modificante": "D.Lgs. 12 settembre 2007, n. 169"
+   },
+   {
+    "data": "2008-03-05",
+    "evento": "rp53",
+    "atto_modificante": "atto modificante non indicato (rp53)"
+   },
+   {
+    "data": "2008-06-04",
+    "evento": "rp54",
+    "atto_modificante": "atto modificante non indicato (rp54)"
+   },
+   {
+    "data": "2008-11-29",
+    "evento": "rp55",
+    "atto_modificante": "D.L. 29 novembre 2008, n. 185"
+   },
+   {
+    "data": "2009-06-19",
+    "evento": "rp56",
+    "atto_modificante": "L. 18 giugno 2009, n. 69"
+   },
+   {
+    "data": "2009-12-14",
+    "evento": "rp57",
+    "atto_modificante": "D.Lgs. 1 dicembre 2009, n. 179"
+   },
+   {
+    "data": "2010-05-31",
+    "evento": "rp58",
+    "atto_modificante": "D.L. 31 maggio 2010, n. 78"
+   },
+   {
+    "data": "2010-07-28",
+    "evento": "rp59",
+    "atto_modificante": "atto modificante non indicato (rp59)"
+   },
+   {
+    "data": "2012-06-26",
+    "evento": "rp60",
+    "atto_modificante": "D.L. 22 giugno 2012, n. 83"
+   },
+   {
+    "data": "2012-10-19",
+    "evento": "rp61",
+    "atto_modificante": "D.L. 18 ottobre 2012, n. 179"
+   },
+   {
+    "data": "2012-12-29",
+    "evento": "rp62",
+    "atto_modificante": "L. 24 dicembre 2012, n. 228"
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp63",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2013-12-23",
+    "evento": "rp64",
+    "atto_modificante": "D.L. 23 dicembre 2013, n. 145"
+   },
+   {
+    "data": "2013-12-27",
+    "evento": "rp65",
+    "atto_modificante": "L. 27 dicembre 2013, n. 147"
+   },
+   {
+    "data": "2015-01-05",
+    "evento": "rp66",
+    "atto_modificante": "D.L. 5 gennaio 2015, n. 1"
+   },
+   {
+    "data": "2015-06-27",
+    "evento": "rp67",
+    "atto_modificante": "D.L. 27 giugno 2015, n. 83"
+   },
+   {
+    "data": "2015-11-16",
+    "evento": "rp68",
+    "atto_modificante": "D.Lgs. 16 novembre 2015, n. 180"
+   },
+   {
+    "data": "2016-05-03",
+    "evento": "rp69",
+    "atto_modificante": "D.L. 3 maggio 2016, n. 59"
+   },
+   {
+    "data": "2016-12-21",
+    "evento": "rp70",
+    "atto_modificante": "L. 11 dicembre 2016, n. 232"
+   },
+   {
+    "data": "2017-12-29",
+    "evento": "rp71",
+    "atto_modificante": "L. 27 dicembre 2017, n. 205"
+   },
+   {
+    "data": "2018-05-26",
+    "evento": "rp72",
+    "atto_modificante": "D.Lgs. 18 maggio 2018, n. 54"
+   },
+   {
+    "data": "2018-12-12",
+    "evento": "rp73",
+    "atto_modificante": "atto modificante non indicato (rp73)"
+   },
+   {
+    "data": "2019-02-14",
+    "evento": "rp74",
+    "atto_modificante": "D.Lgs. 12 gennaio 2019, n. 14"
+   },
+   {
+    "data": "2019-04-18",
+    "evento": "rp75",
+    "atto_modificante": "D.L. 18 aprile 2019, n. 32"
+   },
+   {
+    "data": "2020-10-07",
+    "evento": "rp76",
+    "atto_modificante": "D.L. 7 ottobre 2020, n. 125"
+   },
+   {
+    "data": "2020-12-03",
+    "evento": "rp77",
+    "atto_modificante": "L. 27 novembre 2020, n. 159"
+   },
+   {
+    "data": "2021-03-22",
+    "evento": "rp78",
+    "atto_modificante": "D.L. 22 marzo 2021, n. 41"
+   },
+   {
+    "data": "2021-05-21",
+    "evento": "rp79",
+    "atto_modificante": "L. 21 maggio 2021, n. 69"
+   },
+   {
+    "data": "2021-08-24",
+    "evento": "rp80",
+    "atto_modificante": "D.L. 24 agosto 2021, n. 118"
+   },
+   {
+    "data": "2021-10-23",
+    "evento": "rp81",
+    "atto_modificante": "L. 21 ottobre 2021, n. 147"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp82",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp83",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   }
+  ],
+  "ultima_versione": "2022-12-29"
+ },
+ "articoli": {
+  "1": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2008-01-01"
+  },
+  "2": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Liquidazione coatta amministrativa e fallimento",
+   "vigore_da": "1942-04-21"
+  },
+  "3": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Liquidazione coatta amministrativa, concordato preventivo e amministrazione controllata",
+   "vigore_da": "2006-07-17"
+  },
+  "4": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "5": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Stato d'insolvenza",
+   "vigore_da": "1942-04-21"
+  },
+  "6": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Iniziativa per la dichiarazione di fallimento",
+   "vigore_da": "2006-07-17"
+  },
+  "7": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Iniziativa del pubblico ministero",
+   "vigore_da": "2006-07-17"
+  },
+  "8": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "9": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Competenza",
+   "vigore_da": "2006-07-17"
+  },
+  "9-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Disposizioni in materia di incompetenza",
+   "vigore_da": "2008-01-01"
+  },
+  "9-ter": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Conflitto positivo di competenza",
+   "vigore_da": "2006-07-17"
+  },
+  "10": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Fallimento dell'imprenditore che ha cessato l'esercizio dell'impresa",
+   "vigore_da": "2008-01-01"
+  },
+  "11": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Fallimento dell'imprenditore defunto",
+   "vigore_da": "2006-07-17"
+  },
+  "12": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Morte del fallito",
+   "vigore_da": "1942-04-21"
+  },
+  "13": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "14": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Obbligo dell'imprenditore che chiede il proprio fallimento",
+   "vigore_da": "2008-01-01"
+  },
+  "15": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Procedimento per la dichiarazione di fallimento",
+   "vigore_da": "2012-12-19"
+  },
+  "16": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Sentenza dichiarativa di fallimento",
+   "vigore_da": "2008-01-01"
+  },
+  "17": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Comunicazione e pubblicazione della sentenza dichiarativa di fallimento",
+   "vigore_da": "2008-01-01"
+  },
+  "18": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Reclamo",
+   "vigore_da": "2008-01-01"
+  },
+  "19": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Sospensione della liquidazione dell'attivo",
+   "vigore_da": "2008-01-01"
+  },
+  "20": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2008-01-01"
+  },
+  "21": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "22": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Gravami contro il provvedimento che respinge l'istanza di fallimento",
+   "vigore_da": "2008-01-01"
+  },
+  "23": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Poteri del tribunale fallimentare",
+   "vigore_da": "2006-07-17"
+  },
+  "24": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Competenza del tribunale fallimentare",
+   "vigore_da": "2008-01-01"
+  },
+  "25": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Poteri del giudice delegato",
+   "vigore_da": "2008-01-01"
+  },
+  "26": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Reclamo contro i decreti del giudice delegato e del tribunale",
+   "vigore_da": "2008-01-01"
+  },
+  "27": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Nomina del curatore",
+   "vigore_da": "2006-07-17"
+  },
+  "28": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Requisiti per la nomina a curatore",
+   "vigore_da": "2018-06-25"
+  },
+  "29": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Accettazione del curatore",
+   "vigore_da": "2006-07-17"
+  },
+  "30": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Qualita' di pubblico ufficiale",
+   "vigore_da": "1942-04-21"
+  },
+  "31": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Gestione della procedura",
+   "vigore_da": "2006-07-17"
+  },
+  "31-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Comunicazioni del curatore",
+   "vigore_da": "2012-12-19"
+  },
+  "32": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Esercizio delle attribuzioni del curatore",
+   "vigore_da": "2008-01-01"
+  },
+  "33": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Relazione al giudice e rapporti riepilogativi",
+   "vigore_da": "2023-01-01"
+  },
+  "34": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Deposito delle somme riscosse",
+   "vigore_da": "2018-01-01"
+  },
+  "35": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Integrazione dei poteri del curatore",
+   "vigore_da": "2014-01-01"
+  },
+  "36": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Reclamo contro gli atti del curatore e del comitato dei creditori",
+   "vigore_da": "2006-07-17"
+  },
+  "36-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Termini processuali",
+   "vigore_da": "2006-07-17"
+  },
+  "37": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Revoca del curatore",
+   "vigore_da": "2006-07-17"
+  },
+  "37-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Sostituzione del curatore e dei componenti del comitato dei creditori",
+   "vigore_da": "2008-01-01"
+  },
+  "38": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Responsabilita' del curatore",
+   "vigore_da": "2006-07-17"
+  },
+  "39": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Compenso del curatore",
+   "vigore_da": "2015-08-21"
+  },
+  "40": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Nomina del comitato",
+   "vigore_da": "2016-07-03"
+  },
+  "41": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Funzioni del comitato",
+   "vigore_da": "2008-01-01"
+  },
+  "42": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Beni del fallito",
+   "vigore_da": "2006-07-17"
+  },
+  "43": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Rapporti processuali",
+   "vigore_da": "2015-08-21"
+  },
+  "44": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Atti compiuti dal fallito dopo la dichiarazione di fallimento",
+   "vigore_da": "2006-07-17"
+  },
+  "45": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Formalita' eseguite dopo la dichiarazione di fallimento",
+   "vigore_da": "1942-04-21"
+  },
+  "46": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Beni non compresi nel fallimento",
+   "vigore_da": "2006-07-17"
+  },
+  "47": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Alimenti al fallito e alla famiglia",
+   "vigore_da": "2006-07-17"
+  },
+  "48": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Corrispondenza diretta al fallito",
+   "vigore_da": "2008-01-01"
+  },
+  "49": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Obblighi del fallito",
+   "vigore_da": "2006-01-16"
+  },
+  "50": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2008-03-06"
+  },
+  "51": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Divieto di azioni esecutive e cautelari individuali",
+   "vigore_da": "2006-07-17"
+  },
+  "52": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Concorso dei creditori",
+   "vigore_da": "2008-01-01"
+  },
+  "53": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Creditori muniti di pegno o privilegio su mobili",
+   "vigore_da": "2008-01-01"
+  },
+  "54": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Diritto dei creditori privilegiati nella ripartizione dell'attivo",
+   "vigore_da": "2006-07-17"
+  },
+  "55": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti del fallimento sui debiti pecuniari",
+   "vigore_da": "2006-07-17"
+  },
+  "56": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Compensazione in sede di fallimento",
+   "vigore_da": "1942-04-21"
+  },
+  "57": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Crediti infruttiferi",
+   "vigore_da": "1942-04-21"
+  },
+  "58": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Obbligazioni e titoli di debito",
+   "vigore_da": "2006-07-17"
+  },
+  "59": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Crediti non pecuniari",
+   "vigore_da": "1989-12-28"
+  },
+  "60": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Rendita perpetua e rendita vitalizia",
+   "vigore_da": "1942-04-21"
+  },
+  "61": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Creditore di piu' coobbligati solidali",
+   "vigore_da": "1942-04-21"
+  },
+  "62": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Creditore di piu' coobbligati solidali parzialmente soddisfatto",
+   "vigore_da": "1942-04-21"
+  },
+  "63": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Coobbligato o fideiussore del fallito con diritto di garanzia",
+   "vigore_da": "1942-04-21"
+  },
+  "64": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Atti a titolo gratuito",
+   "vigore_da": "2015-11-16"
+  },
+  "65": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Pagamenti",
+   "vigore_da": "2015-11-16"
+  },
+  "66": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Azione revocatoria ordinaria",
+   "vigore_da": "1942-04-21"
+  },
+  "67": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Atti a titolo oneroso, pagamenti, garanzie",
+   "vigore_da": "2015-11-16"
+  },
+  "67-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Patrimoni destinati ad uno specifico affare",
+   "vigore_da": "2006-07-17"
+  },
+  "68": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Pagamento di cambiale scaduta",
+   "vigore_da": "1942-04-21"
+  },
+  "69": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Atti compiuti tra i coniugi",
+   "vigore_da": "2015-11-16"
+  },
+  "69-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2015-11-16"
+  },
+  "70": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti della revocazione",
+   "vigore_da": "2008-01-01"
+  },
+  "71": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "72": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Rapporti pendenti",
+   "vigore_da": "2012-08-12"
+  },
+  "72-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Contratti relativi ad immobili da costruire",
+   "vigore_da": "2008-01-01"
+  },
+  "72-ter": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti sui finanziamenti destinati ad uno specifico affare",
+   "vigore_da": "2006-07-17"
+  },
+  "72-quater": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Locazione finanziaria",
+   "vigore_da": "2008-01-01"
+  },
+  "73": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Vendita con riserva di proprieta",
+   "vigore_da": "2008-01-01"
+  },
+  "74": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Contratti ad esecuzione continuata o periodica",
+   "vigore_da": "2008-01-01"
+  },
+  "75": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Restituzione di cose non pagate",
+   "vigore_da": "1942-04-21"
+  },
+  "76": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Contratto di borsa a termine",
+   "vigore_da": "2006-07-17"
+  },
+  "77": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Associazione in partecipazione",
+   "vigore_da": "2006-07-17"
+  },
+  "78": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Conto corrente, mandato, commissione",
+   "vigore_da": "2006-07-17"
+  },
+  "79": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Contratto di affitto d'azienda",
+   "vigore_da": "2008-01-01"
+  },
+  "80": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Contratto di locazione di immobili",
+   "vigore_da": "2008-01-01"
+  },
+  "80-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2008-01-01"
+  },
+  "81": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Contratto di appalto",
+   "vigore_da": "2006-07-17"
+  },
+  "82": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Contratto di assicurazione",
+   "vigore_da": "1942-04-21"
+  },
+  "83": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Contratto di edizione",
+   "vigore_da": "1942-04-21"
+  },
+  "83-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Clausola arbitrale",
+   "vigore_da": "2006-07-17"
+  },
+  "84": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Dei sigilli",
+   "vigore_da": "2006-07-17"
+  },
+  "85": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "86": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Consegna del denaro, titoli, scritture contabili e di altra documentazione",
+   "vigore_da": "2006-07-17"
+  },
+  "87": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Inventario",
+   "vigore_da": "2006-07-17"
+  },
+  "87-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Inventario su altri beni",
+   "vigore_da": "2006-07-17"
+  },
+  "88": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Presa in consegna dei beni del fallito da parte del curatore",
+   "vigore_da": "2008-01-01"
+  },
+  "89": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Elenchi dei creditori e dei titolari di diritti reali mobiliari e bilancio",
+   "vigore_da": "2008-01-01"
+  },
+  "90": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Fascicolo della procedura",
+   "vigore_da": "2006-07-17"
+  },
+  "91": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2002-07-01"
+  },
+  "92": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Avviso ai creditori ed agli altri interessati",
+   "vigore_da": "2012-12-19"
+  },
+  "93": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Domanda di ammissione al passivo",
+   "vigore_da": "2013-01-01"
+  },
+  "94": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti della domanda",
+   "vigore_da": "2006-07-17"
+  },
+  "95": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Progetto di stato passivo e udienza di discussione",
+   "vigore_da": "2016-07-03"
+  },
+  "96": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Formazione ed esecutivita' dello stato passivo",
+   "vigore_da": "2008-01-01"
+  },
+  "97": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Comunicazione dell'esito del procedimento di accertamento del passivo",
+   "vigore_da": "2012-12-19"
+  },
+  "98": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Impugnazioni",
+   "vigore_da": "2006-07-17"
+  },
+  "99": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Procedimento",
+   "vigore_da": "2008-01-01"
+  },
+  "100": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "101": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Domande tardive di crediti",
+   "vigore_da": "2012-12-19"
+  },
+  "102": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Previsione di insufficiente realizzo",
+   "vigore_da": "2012-12-19"
+  },
+  "103": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Procedimenti relativi a domande di rivendica e restituzione",
+   "vigore_da": "2008-01-01"
+  },
+  "104": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Esercizio provvisorio dell'impresa del fallito",
+   "vigore_da": "2019-06-18"
+  },
+  "104-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Affitto dell'azienda o di rami dell'azienda",
+   "vigore_da": "2015-03-06"
+  },
+  "104-ter": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Programma di liquidazione",
+   "vigore_da": "2016-07-03"
+  },
+  "105": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Vendita dell'azienda, di rami, di beni e rapporti in blocco",
+   "vigore_da": "2008-01-01"
+  },
+  "106": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2008-01-01"
+  },
+  "107": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Modalita' delle vendite",
+   "vigore_da": "2015-06-27"
+  },
+  "108": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Poteri del giudice delegato",
+   "vigore_da": "2008-01-01"
+  },
+  "108-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2008-01-01"
+  },
+  "108-ter": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Modalita' della vendita di diritti sulle opere dell'ingegno; sulle invenzioni industriali; sui marchi",
+   "vigore_da": "2008-01-01"
+  },
+  "109": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Procedimento di distribuzione della somma ricavata",
+   "vigore_da": "2008-01-01"
+  },
+  "110": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Procedimento di ripartizione",
+   "vigore_da": "2016-07-03"
+  },
+  "111": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Ordine di distribuzione delle somme",
+   "vigore_da": "2014-02-22"
+  },
+  "111-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Disciplina dei crediti prededucibili",
+   "vigore_da": "2008-01-01"
+  },
+  "111-ter": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Conti speciali",
+   "vigore_da": "2006-07-17"
+  },
+  "111-quater": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Crediti assistiti da prelazione",
+   "vigore_da": "2006-07-17"
+  },
+  "112": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Partecipazione dei creditori ammessi tardivamente",
+   "vigore_da": "2006-07-17"
+  },
+  "113": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Ripartizioni parziali",
+   "vigore_da": "2006-07-17"
+  },
+  "113-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Scioglimento delle ammissioni con riserva",
+   "vigore_da": "2006-07-17"
+  },
+  "114": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Restituzione di somme riscosse",
+   "vigore_da": "2006-07-17"
+  },
+  "115": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Pagamento ai creditori",
+   "vigore_da": "2008-01-01"
+  },
+  "116": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Rendiconto del curatore",
+   "vigore_da": "2012-12-19"
+  },
+  "117": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Ripartizione finale",
+   "vigore_da": "2006-07-17"
+  },
+  "118": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Casi di chiusura",
+   "vigore_da": "2015-08-21"
+  },
+  "119": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Decreto di chiusura",
+   "vigore_da": "2023-01-01"
+  },
+  "120": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti della chiusura",
+   "vigore_da": "2015-08-21"
+  },
+  "121": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Casi di riapertura del fallimento",
+   "vigore_da": "2008-01-01"
+  },
+  "122": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Concorso dei vecchi e nuovi creditori",
+   "vigore_da": "2006-07-17"
+  },
+  "123": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti della riapertura sugli atti pregiudizievoli ai creditori",
+   "vigore_da": "2006-07-17"
+  },
+  "124": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Proposta di concordato",
+   "vigore_da": "2008-01-01"
+  },
+  "125": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Esame della proposta e comunicazione ai creditori",
+   "vigore_da": "2012-12-19"
+  },
+  "126": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Concordato nel caso di numerosi creditori",
+   "vigore_da": "2006-07-17"
+  },
+  "127": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Voto nel concordato",
+   "vigore_da": "2006-07-17"
+  },
+  "128": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Approvazione del concordato",
+   "vigore_da": "2009-07-04"
+  },
+  "129": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Giudizio di omologazione",
+   "vigore_da": "2012-12-19"
+  },
+  "130": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Efficacia del decreto",
+   "vigore_da": "2006-07-17"
+  },
+  "131": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Reclamo",
+   "vigore_da": "2008-01-01"
+  },
+  "132": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "133": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "134": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "135": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti del concordato",
+   "vigore_da": "1942-04-21"
+  },
+  "136": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Esecuzione del concordato",
+   "vigore_da": "2006-07-17"
+  },
+  "137": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Risoluzione del concordato",
+   "vigore_da": "2008-01-01"
+  },
+  "138": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Annullamento del concordato",
+   "vigore_da": "2008-01-01"
+  },
+  "139": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Provvedimenti conseguenti alla riapertura",
+   "vigore_da": "2006-07-17"
+  },
+  "140": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti della riapertura",
+   "vigore_da": "1942-04-21"
+  },
+  "141": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Nuova proposta di concordato",
+   "vigore_da": "2006-07-17"
+  },
+  "142": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Esdebitazione",
+   "vigore_da": "2008-03-06"
+  },
+  "143": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Procedimento di esdebitazione",
+   "vigore_da": "2012-12-19"
+  },
+  "144": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Esdebitazione per i crediti concorsuali non concorrenti",
+   "vigore_da": "2008-01-01"
+  },
+  "145": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "146": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Amministratori, direttori generali, componenti degli organi di controllo, liquidatori e soci di societa' a responsabilita' limitata",
+   "vigore_da": "2006-07-17"
+  },
+  "147": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Societa' con soci a responsabilita' illimitata",
+   "vigore_da": "2008-01-01"
+  },
+  "148": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Fallimento della societa' e dei soci",
+   "vigore_da": "2006-07-17"
+  },
+  "149": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Fallimento dei soci",
+   "vigore_da": "1942-04-21"
+  },
+  "150": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Versamenti dei soci a responsabilita' limitata",
+   "vigore_da": "2006-07-17"
+  },
+  "151": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Fallimento di societa' a responsabilita' limitata: polizza assicurativa e fideiussione bancaria",
+   "vigore_da": "2006-07-17"
+  },
+  "152": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Proposta di concordato",
+   "vigore_da": "2006-07-17"
+  },
+  "153": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti del concordato della societa'",
+   "vigore_da": "2006-07-17"
+  },
+  "154": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Concordato particolare del socio",
+   "vigore_da": "1942-04-21"
+  },
+  "155": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Patrimoni destinati ad uno specifico affare",
+   "vigore_da": "2006-07-17"
+  },
+  "156": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Patrimonio destinato incapiente; violazione delle regole di separatezza",
+   "vigore_da": "2006-07-17"
+  },
+  "157": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "158": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "159": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "160": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Presupposti per l'ammissione alla procedura",
+   "vigore_da": "2015-08-21"
+  },
+  "161": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Domanda di concordato",
+   "vigore_da": "2015-08-21"
+  },
+  "162": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Inammissibilita' della proposta",
+   "vigore_da": "2008-01-01"
+  },
+  "163": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Ammissione alla procedura e proposte concorrenti",
+   "vigore_da": "2016-07-03"
+  },
+  "163-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Offerte concorrenti",
+   "vigore_da": "2015-08-21"
+  },
+  "164": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Decreti del giudice delegato",
+   "vigore_da": "2006-07-17"
+  },
+  "165": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Commissario giudiziale",
+   "vigore_da": "2015-08-21"
+  },
+  "166": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Pubblicita' del decreto",
+   "vigore_da": "2008-01-01"
+  },
+  "167": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Amministrazione dei beni durante la procedura",
+   "vigore_da": "2006-07-17"
+  },
+  "168": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti della presentazione del ricorso",
+   "vigore_da": "2012-08-12"
+  },
+  "169": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Norme applicabili",
+   "vigore_da": "2015-08-21"
+  },
+  "169-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2015-08-21"
+  },
+  "170": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Scritture contabili",
+   "vigore_da": "1942-04-21"
+  },
+  "171": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Convocazione dei creditori",
+   "vigore_da": "2012-12-19"
+  },
+  "172": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Operazioni e relazione del commissario",
+   "vigore_da": "2015-08-21"
+  },
+  "173": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Revoca dell'ammissione al concordato e dichiarazione del fallimento nel corso della procedura",
+   "vigore_da": "2012-12-19"
+  },
+  "174": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Adunanza dei creditori",
+   "vigore_da": "1942-04-21"
+  },
+  "175": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Discussione della proposta di concordato",
+   "vigore_da": "2016-07-03"
+  },
+  "176": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Ammissione provvisoria dei crediti contestati",
+   "vigore_da": "1942-04-21"
+  },
+  "177": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Maggioranza per l'approvazione del concordato",
+   "vigore_da": "2015-08-21"
+  },
+  "178": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Adesioni alla proposta di concordato",
+   "vigore_da": "2015-08-21"
+  },
+  "179": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Mancata approvazione del concordato",
+   "vigore_da": "2012-08-12"
+  },
+  "180": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Giudizio di omologazione",
+   "vigore_da": "2021-08-25"
+  },
+  "181": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Chiusura della procedura",
+   "vigore_da": "2015-08-21"
+  },
+  "182": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Cessioni",
+   "vigore_da": "2023-01-01"
+  },
+  "182-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Accordi di ristrutturazione dei debiti",
+   "vigore_da": "2021-08-25"
+  },
+  "182-ter": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Trattamento dei crediti tributari e contributivi",
+   "vigore_da": "2020-12-04"
+  },
+  "182-quater": {
+   "file": "rd-267-1942.md",
+   "rubrica": "disposizioni in tema di prededucibilita' dei crediti nel concordato preventivo, negli accordi di ristrutturazione dei debiti",
+   "vigore_da": "2012-08-12"
+  },
+  "182-quinquies": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Disposizioni in tema di finanziamento e di continuita' aziendale nel concordato preventivo e negli accordi di ristrutturazione dei debiti",
+   "vigore_da": "2021-08-25"
+  },
+  "182-sexies": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Riduzione o perdita del capitale della societa' in crisi",
+   "vigore_da": "2012-08-12"
+  },
+  "182-septies": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Accordi di ristrutturazione ad efficacia estesa",
+   "vigore_da": "2021-10-24"
+  },
+  "182-octies": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Convenzione di moratoria",
+   "vigore_da": "2021-08-25"
+  },
+  "182-novies": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Accordi di ristrutturazione agevolati",
+   "vigore_da": "2021-08-25"
+  },
+  "182-decies": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Coobbligati e soci illimitatamente responsabili",
+   "vigore_da": "2021-08-25"
+  },
+  "183": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Reclamo",
+   "vigore_da": "2008-01-01"
+  },
+  "184": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti del concordato per i creditori",
+   "vigore_da": "2012-08-12"
+  },
+  "185": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Esecuzione del concordato",
+   "vigore_da": "2015-08-21"
+  },
+  "186": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Risoluzione e annullamento del concordato",
+   "vigore_da": "2008-01-01"
+  },
+  "186-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Concordato con continuita' aziendale",
+   "vigore_da": "2023-01-01"
+  },
+  "187": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "188": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "189": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "190": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "191": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "192": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "193": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-17"
+  },
+  "194": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Norme applicabili",
+   "vigore_da": "1942-04-21"
+  },
+  "195": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Accertamento giudiziario dello stato d'insolvenza anteriore alla liquidazione coatta amministrativa",
+   "vigore_da": "2015-11-16"
+  },
+  "196": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Concorso fra fallimento e liquidazione coatta amministrativa",
+   "vigore_da": "1942-04-21"
+  },
+  "197": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Provvedimento di liquidazione",
+   "vigore_da": "1942-04-21"
+  },
+  "198": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Organi della liquidazione amministrativa",
+   "vigore_da": "1942-04-21"
+  },
+  "199": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Responsabilita' del commissario liquidatore",
+   "vigore_da": "1942-04-21"
+  },
+  "200": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti del provvedimento di liquidazione per l'impresa",
+   "vigore_da": "1942-04-21"
+  },
+  "201": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti della liquidazione per i creditori e sui rapporti giuridici preesistenti",
+   "vigore_da": "1942-04-21"
+  },
+  "202": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Accertamento giudiziario dello stato d'insolvenza",
+   "vigore_da": "1942-04-21"
+  },
+  "203": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Effetti dell'accertamento giudiziario dello stato d'insolvenza",
+   "vigore_da": "1999-08-24"
+  },
+  "204": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Commissario liquidatore",
+   "vigore_da": "1942-04-21"
+  },
+  "205": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Relazione del commissario",
+   "vigore_da": "2012-12-19"
+  },
+  "206": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Poteri del commissario",
+   "vigore_da": "2014-01-01"
+  },
+  "207": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Comunicazione ai creditori e ai terzi",
+   "vigore_da": "2012-12-19"
+  },
+  "208": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Domande dei creditori e dei terzi",
+   "vigore_da": "2012-12-19"
+  },
+  "209": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Formazione dello stato passivo",
+   "vigore_da": "2012-12-19"
+  },
+  "210": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Liquidazione dell'attivo",
+   "vigore_da": "1942-04-21"
+  },
+  "211": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "2008-01-01"
+  },
+  "212": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Ripartizione dell'attivo",
+   "vigore_da": "1942-04-21"
+  },
+  "213": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Chiusura della liquidazione",
+   "vigore_da": "2012-12-19"
+  },
+  "214": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Concordato",
+   "vigore_da": "2012-12-19"
+  },
+  "215": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Risoluzione e annullamento del concordato",
+   "vigore_da": "2008-01-01"
+  },
+  "216": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Bancarotta fraudolenta",
+   "vigore_da": "2018-12-13"
+  },
+  "217": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Bancarotta semplice",
+   "vigore_da": "1942-04-21"
+  },
+  "217-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Esenzioni dai reati di bancarotta",
+   "vigore_da": "2015-03-06"
+  },
+  "218": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Ricorso abusivo al credito",
+   "vigore_da": "2006-01-12"
+  },
+  "219": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Circostanze aggravanti e circostanza attenuante",
+   "vigore_da": "1942-04-21"
+  },
+  "220": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Denuncia di creditori inesistenti e altre inosservanze da parte del fallito",
+   "vigore_da": "1942-04-21"
+  },
+  "221": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Fallimento con procedimento sommario",
+   "vigore_da": "1942-04-21"
+  },
+  "222": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Fallimento delle societa' in nome collettivo e in accomandita semplice",
+   "vigore_da": "1942-04-21"
+  },
+  "223": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Fatti di bancarotta fraudolenta",
+   "vigore_da": "2002-04-16"
+  },
+  "224": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Fatti di bancarotta semplice",
+   "vigore_da": "1942-04-21"
+  },
+  "225": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Ricorso abusivo al credito",
+   "vigore_da": "1942-04-21"
+  },
+  "226": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Denuncia di crediti inesistenti",
+   "vigore_da": "1942-04-21"
+  },
+  "227": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Reati dell'institore",
+   "vigore_da": "1942-04-21"
+  },
+  "228": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Interesse privato del curatore negli atti del fallimento",
+   "vigore_da": "1942-04-21"
+  },
+  "229": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Accettazione di retribuzione non dovuta",
+   "vigore_da": "1942-04-21"
+  },
+  "230": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Omessa consegna o deposito di cose del fallimento",
+   "vigore_da": "1942-04-21"
+  },
+  "231": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Coadiutori del curatore",
+   "vigore_da": "1942-04-21"
+  },
+  "232": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Domande di ammissione di crediti simulati o distrazioni senza concorso col fallito",
+   "vigore_da": "1942-04-21"
+  },
+  "233": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Mercato di voto",
+   "vigore_da": "1942-04-21"
+  },
+  "234": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Esercizio abusivo di attivita' commerciale",
+   "vigore_da": "1942-04-21"
+  },
+  "235": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Omessa trasmissione dell'elenco dei protesti cambiari",
+   "vigore_da": "1981-12-15"
+  },
+  "236": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Concordato preventivo e, accordo di ristrutturazione con intermediari finanziari, e convenzione di moratoria e amministrazione controllata",
+   "vigore_da": "2021-10-24"
+  },
+  "236-bis": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Falso in attestazioni e relazioni",
+   "vigore_da": "2015-06-27"
+  },
+  "237": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Liquidazione coatta amministrativa",
+   "vigore_da": "2015-11-16"
+  },
+  "238": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Esercizio dell'azione penale per reati in materia di fallimento",
+   "vigore_da": "1942-04-21"
+  },
+  "239": {
+   "file": "rd-267-1942.md",
+   "rubrica": "",
+   "vigore_da": "1964-12-13"
+  },
+  "240": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Costituzione di parte civile",
+   "vigore_da": "2015-11-16"
+  },
+  "241": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Riabilitazione",
+   "vigore_da": "1942-04-21"
+  },
+  "242": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Disposizione generale",
+   "vigore_da": "1942-04-21"
+  },
+  "243": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Rappresentante degli eredi",
+   "vigore_da": "1942-04-21"
+  },
+  "244": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Sentenza dichiarativa di fallimento",
+   "vigore_da": "1942-04-21"
+  },
+  "245": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Deposito delle somme riscosse",
+   "vigore_da": "1942-04-21"
+  },
+  "246": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Provvedimenti del giudice delegato",
+   "vigore_da": "1942-04-21"
+  },
+  "247": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Delegazione dei creditori",
+   "vigore_da": "1942-04-21"
+  },
+  "248": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Esercizio provvisorio",
+   "vigore_da": "1942-04-21"
+  },
+  "249": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Giudizi di retrodatazione",
+   "vigore_da": "1942-04-21"
+  },
+  "250": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Accertamento del passivo",
+   "vigore_da": "1942-04-21"
+  },
+  "251": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Domande tardive e istanze di revocazione",
+   "vigore_da": "1942-04-21"
+  },
+  "252": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Liquidazione dell'attivo",
+   "vigore_da": "1942-04-21"
+  },
+  "253": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Ripartizione dell'attivo",
+   "vigore_da": "1942-04-21"
+  },
+  "254": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Rendiconto del curatore",
+   "vigore_da": "1942-04-21"
+  },
+  "255": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Concordato",
+   "vigore_da": "1942-04-21"
+  },
+  "256": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Riabilitazione civile",
+   "vigore_da": "1942-04-21"
+  },
+  "257": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Azione di responsabilita' contro gli amministratori",
+   "vigore_da": "1942-04-21"
+  },
+  "258": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Versamenti dei soci",
+   "vigore_da": "1942-04-21"
+  },
+  "259": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Piccoli fallimenti",
+   "vigore_da": "1942-04-21"
+  },
+  "260": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Concordato preventivo",
+   "vigore_da": "1942-04-21"
+  },
+  "261": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Liquidazione coatta amministrativa",
+   "vigore_da": "1942-04-21"
+  },
+  "262": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Iscrizione nel registro delle imprese",
+   "vigore_da": "1942-04-21"
+  },
+  "263": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Ruolo degli amministratori giudiziari",
+   "vigore_da": "1946-10-17"
+  },
+  "264": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Istituto di credito",
+   "vigore_da": "1942-04-21"
+  },
+  "265": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Norma di rinvio",
+   "vigore_da": "1942-04-21"
+  },
+  "266": {
+   "file": "rd-267-1942.md",
+   "rubrica": "Disposizioni abrogate",
+   "vigore_da": "1942-04-21"
+  }
+ }
+}

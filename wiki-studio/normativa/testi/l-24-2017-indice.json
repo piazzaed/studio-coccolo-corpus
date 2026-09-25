@@ -1,0 +1,180 @@
+{
+ "_meta": {
+  "codice": "l-24-2017",
+  "nome": "Sicurezza delle cure e responsabilità sanitaria (L. 24/2017, Gelli-Bianco)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2023-01-01",
+  "articoli": 18,
+  "file": [
+   "l-24-2017.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:2017-03-08;24",
+  "versioni": [
+   {
+    "data": "2017-03-17",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2018-01-31",
+    "evento": "rp1",
+    "atto_modificante": "L. 11 gennaio 2018, n. 3"
+   },
+   {
+    "data": "2021-05-26",
+    "evento": "rp2",
+    "atto_modificante": "atto modificante non indicato (rp2)"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp3",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp4",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   }
+  ],
+  "ultima_versione": "2022-12-29",
+  "datazione": {
+   "monoblocco": 18,
+   "api": 18,
+   "ignota": 0,
+   "stima_anteriore": 14,
+   "chiamate": 18,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-24-2017.md",
+   "rubrica": "Sicurezza delle cure in sanita'",
+   "vigore_da": "2017-04-01",
+   "datazione": "api",
+   "h": "ef2b860a01b8"
+  },
+  "2": {
+   "file": "l-24-2017.md",
+   "rubrica": "Attribuzione della funzione di garante per il diritto alla salute al Difensore civico regionale o provinciale e istituzione dei Centri regionali per la gestione del rischio sanitario e la sicurezza del paziente",
+   "vigore_da": "2017-04-01",
+   "datazione": "api",
+   "h": "8c5d64a68f25"
+  },
+  "3": {
+   "file": "l-24-2017.md",
+   "rubrica": "Osservatorio nazionale delle buone pratiche sulla sicurezza nella sanita'",
+   "vigore_da": "2017-04-01",
+   "datazione": "api",
+   "h": "799eecffb441"
+  },
+  "4": {
+   "file": "l-24-2017.md",
+   "rubrica": "Trasparenza dei dati",
+   "vigore_da": "2017-04-01",
+   "datazione": "api",
+   "h": "6a9c797d3cb3"
+  },
+  "5": {
+   "file": "l-24-2017.md",
+   "rubrica": "Buone pratiche clinico-assistenziali e raccomandazioni previste dalle linee guida",
+   "vigore_da": "2018-02-15",
+   "datazione": "api",
+   "h": "3e89965224b3"
+  },
+  "6": {
+   "file": "l-24-2017.md",
+   "rubrica": "Responsabilita' penale dell'esercente la professione sanitaria",
+   "vigore_da": "2017-04-01",
+   "datazione": "api",
+   "h": "0caaaf96e830"
+  },
+  "7": {
+   "file": "l-24-2017.md",
+   "rubrica": "Responsabilita' civile della struttura e dell'esercente la professione sanitaria",
+   "vigore_da": "2017-04-01",
+   "datazione": "api",
+   "h": "b77235daf15d"
+  },
+  "8": {
+   "file": "l-24-2017.md",
+   "rubrica": "Tentativo obbligatorio di conciliazione",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "879a632c06ab"
+  },
+  "9": {
+   "file": "l-24-2017.md",
+   "rubrica": "Azione di rivalsa o di responsabilita' amministrativa",
+   "vigore_da": "2018-02-15",
+   "datazione": "api",
+   "h": "f48cdc708dc4"
+  },
+  "10": {
+   "file": "l-24-2017.md",
+   "rubrica": "Obbligo di assicurazione",
+   "vigore_da": "2017-04-01",
+   "datazione": "api",
+   "h": "d890f8551a24"
+  },
+  "11": {
+   "file": "l-24-2017.md",
+   "rubrica": "Estensione della garanzia assicurativa",
+   "vigore_da": "2017-04-01",
+   "datazione": "api",
+   "h": "724c0f5895a9"
+  },
+  "12": {
+   "file": "l-24-2017.md",
+   "rubrica": "Azione diretta del soggetto danneggiato",
+   "vigore_da": "2017-04-01",
+   "datazione": "api",
+   "h": "7189d4d0eb85"
+  },
+  "13": {
+   "file": "l-24-2017.md",
+   "rubrica": "Obbligo di comunicazione all'esercente la professione sanitaria del giudizio basato sulla sua responsabilita'",
+   "vigore_da": "2018-02-15",
+   "datazione": "api",
+   "h": "802af98cd159"
+  },
+  "14": {
+   "file": "l-24-2017.md",
+   "rubrica": "Fondo di garanzia per i danni derivanti da responsabilita' sanitaria",
+   "vigore_da": "2018-02-15",
+   "datazione": "api",
+   "h": "04ca656af2a5"
+  },
+  "15": {
+   "file": "l-24-2017.md",
+   "rubrica": "Nomina dei consulenti tecnici d'ufficio e dei periti nei giudizi di responsabilita' sanitaria",
+   "vigore_da": "2021-05-27",
+   "datazione": "api",
+   "h": "6a56d1bddb81"
+  },
+  "16": {
+   "file": "l-24-2017.md",
+   "rubrica": "Modifiche alla legge 28 dicembre 2015, n. 208, in materia di responsabilita' professionale del personale sanitario",
+   "vigore_da": "2017-04-01",
+   "datazione": "api",
+   "h": "dce22e7f1ed8"
+  },
+  "17": {
+   "file": "l-24-2017.md",
+   "rubrica": "Clausola di salvaguardia",
+   "vigore_da": "2017-04-01",
+   "datazione": "api",
+   "h": "fcb6741fe7c7"
+  },
+  "18": {
+   "file": "l-24-2017.md",
+   "rubrica": "Clausola di invarianza finanziaria",
+   "vigore_da": "2017-04-01",
+   "datazione": "api",
+   "h": "d570e3850324"
+  }
+ }
+}

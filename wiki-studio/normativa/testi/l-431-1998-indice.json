@@ -1,0 +1,243 @@
+{
+ "_meta": {
+  "codice": "l-431-1998",
+  "nome": "Locazioni abitative (L. 431/1998)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2020-01-01",
+  "articoli": 16,
+  "file": [
+   "l-431-1998.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1998-12-09;431",
+  "versioni": [
+   {
+    "data": "1998-12-15",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1999-07-05",
+    "evento": "rp1",
+    "atto_modificante": "Circ. Ministero Di Grazia E Giustizia 28 giugno 1999, n. 3350"
+   },
+   {
+    "data": "2000-02-25",
+    "evento": "rp2",
+    "atto_modificante": "D.L. 25 febbraio 2000, n. 32"
+   },
+   {
+    "data": "2000-03-09",
+    "evento": "rp3",
+    "atto_modificante": "D.Lgs. 18 febbraio 2000, n. 47"
+   },
+   {
+    "data": "2000-11-15",
+    "evento": "rp4",
+    "atto_modificante": "atto modificante non indicato (rp4)"
+   },
+   {
+    "data": "2001-02-23",
+    "evento": "rp5",
+    "atto_modificante": "L. 8 febbraio 2001, n. 21"
+   },
+   {
+    "data": "2001-10-10",
+    "evento": "rp6",
+    "atto_modificante": "atto modificante non indicato (rp6)"
+   },
+   {
+    "data": "2002-01-14",
+    "evento": "rp7",
+    "atto_modificante": "L. 8 gennaio 2002, n. 2"
+   },
+   {
+    "data": "2004-09-13",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 13 settembre 2004, n. 240"
+   },
+   {
+    "data": "2007-12-28",
+    "evento": "rp9",
+    "atto_modificante": "L. 24 dicembre 2007, n. 244"
+   },
+   {
+    "data": "2008-10-20",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 20 ottobre 2008, n. 158"
+   },
+   {
+    "data": "2011-03-23",
+    "evento": "rp11",
+    "atto_modificante": "D.Lgs. 14 marzo 2011, n. 23"
+   },
+   {
+    "data": "2013-08-31",
+    "evento": "rp12",
+    "atto_modificante": "D.L. 31 agosto 2013, n. 102"
+   },
+   {
+    "data": "2014-03-28",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 28 marzo 2014, n. 47"
+   },
+   {
+    "data": "2015-12-30",
+    "evento": "rp14",
+    "atto_modificante": "L. 28 dicembre 2015, n. 208"
+   },
+   {
+    "data": "2016-12-30",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 30 dicembre 2016, n. 244"
+   },
+   {
+    "data": "2017-12-29",
+    "evento": "rp16",
+    "atto_modificante": "L. 27 dicembre 2017, n. 205"
+   },
+   {
+    "data": "2019-04-30",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 30 aprile 2019, n. 34"
+   },
+   {
+    "data": "2019-06-29",
+    "evento": "rp18",
+    "atto_modificante": "L. 28 giugno 2019, n. 58"
+   },
+   {
+    "data": "2019-12-30",
+    "evento": "rp19",
+    "atto_modificante": "L. 27 dicembre 2019, n. 160"
+   }
+  ],
+  "ultima_versione": "2019-12-30",
+  "datazione": {
+   "monoblocco": 16,
+   "api": 15,
+   "riportati": 1,
+   "ignota": 0,
+   "stima_anteriore": 9,
+   "chiamate": 15,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-431-1998.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2002-01-29",
+   "datazione": "api",
+   "h": "555dfde9add2"
+  },
+  "2": {
+   "file": "l-431-1998.md",
+   "rubrica": "Modalita' di stipula e di rinnovo dei contratti di locazione",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "1b1ffa81393c"
+  },
+  "3": {
+   "file": "l-431-1998.md",
+   "rubrica": "Disdetta del contratto da parte del locatore",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "ae682a5df6a0"
+  },
+  "4": {
+   "file": "l-431-1998.md",
+   "rubrica": "Convenzione nazionale",
+   "vigore_da": "2004-11-13",
+   "datazione": "api",
+   "h": "559e5c72d2d5"
+  },
+  "4-bis": {
+   "file": "l-431-1998.md",
+   "rubrica": "Tipi di contratto",
+   "vigore_da": "2002-01-29",
+   "datazione": "api",
+   "h": "c844cdf22981"
+  },
+  "5": {
+   "file": "l-431-1998.md",
+   "rubrica": "Contratti di locazione di natura transitoria",
+   "vigore_da": "2002-01-29",
+   "datazione": "api",
+   "h": "33dc8f2d5262"
+  },
+  "6": {
+   "file": "l-431-1998.md",
+   "rubrica": "Rilascio degli immobili",
+   "vigore_da": "2000-11-16",
+   "datazione": "api",
+   "h": "50e1cbbd5328"
+  },
+  "7": {
+   "file": "l-431-1998.md",
+   "rubrica": "Condizione per la messa in esecuzione del provvedimento di rilascio dell'immobile",
+   "vigore_da": "2001-10-11",
+   "datazione": "api",
+   "h": "55404bd3c23c"
+  },
+  "8": {
+   "file": "l-431-1998.md",
+   "rubrica": "Agevolazioni fiscali",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "bc601d0b1328"
+  },
+  "9": {
+   "file": "l-431-1998.md",
+   "rubrica": "",
+   "vigore_da": "2000-06-01",
+   "datazione": "api",
+   "h": "1329feff8bac"
+  },
+  "10": {
+   "file": "l-431-1998.md",
+   "rubrica": "Ulteriori agevolazioni fiscali",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "91ec0c70691d"
+  },
+  "11": {
+   "file": "l-431-1998.md",
+   "rubrica": "Fondo nazionale",
+   "vigore_da": "2014-05-28",
+   "datazione": "api",
+   "h": "8ef28eb10d7f"
+  },
+  "12": {
+   "file": "l-431-1998.md",
+   "rubrica": "Osservatorio della condizione abitativa",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "1abb23290300"
+  },
+  "13": {
+   "file": "l-431-1998.md",
+   "rubrica": "Patti contrari alla legge",
+   "vigore_da": "2016-01-01",
+   "datazione": "api",
+   "h": "249a6fd4cd06"
+  },
+  "14": {
+   "file": "l-431-1998.md",
+   "rubrica": "Disposizioni transitorie e abrogazione di norme",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "72faf5b2fec1"
+  },
+  "15": {
+   "file": "l-431-1998.md",
+   "rubrica": "Copertura finanziaria",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "d89ebc8ad295"
+  }
+ }
+}

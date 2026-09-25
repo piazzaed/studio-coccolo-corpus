@@ -1,0 +1,60 @@
+{
+ "_meta": {
+  "colonne": [
+   "numdec",
+   "sezione",
+   "tipo",
+   "data_decisione",
+   "data_deposito",
+   "materia"
+  ],
+  "copertura_da": 2021,
+  "fonte": "SentenzeWeb — Corte suprema di cassazione (italgiure.giustizia.it), indice Solr",
+  "kind": "snciv",
+  "tipi": {
+   "D": "Decreto",
+   "O": "Ordinanza",
+   "OI": "Ordinanza Interlocutoria",
+   "S": "Sentenza"
+  },
+  "verificato_il": "2026-09-25"
+ },
+ "anni": {
+  "2021": {
+   "aggiornato_il": "2026-09-25",
+   "righe": 16176,
+   "sha256": "251ac36e5d6b4e0bd7ff718c098e95662858821e54488a78e5e21e4822ddd24d",
+   "verificato_il": "2026-09-25"
+  },
+  "2022": {
+   "aggiornato_il": "2026-09-25",
+   "righe": 38185,
+   "sha256": "1788f39377a56efec104796bbfb7060e3319f42acebc2581e01e16fb4afe5f31",
+   "verificato_il": "2026-09-25"
+  },
+  "2023": {
+   "aggiornato_il": "2026-09-25",
+   "righe": 36607,
+   "sha256": "6c07a615570f7db2bd4b9496085a6ffd9266fe17738584880795794cd7305ce4",
+   "verificato_il": "2026-09-25"
+  },
+  "2024": {
+   "aggiornato_il": "2026-09-25",
+   "righe": 35277,
+   "sha256": "b386db9ef3836174555b115c8d993c728118cd0c978929c0392fe980544aeb4b",
+   "verificato_il": "2026-09-25"
+  },
+  "2025": {
+   "aggiornato_il": "2026-09-25",
+   "righe": 35009,
+   "sha256": "a35ac761b59792edd6627a048123d894bf9aca16b6b2ce4ba2aa9ad0e160cb36",
+   "verificato_il": "2026-09-25"
+  },
+  "2026": {
+   "aggiornato_il": "2026-09-25",
+   "righe": 25489,
+   "sha256": "61cd4cdefe7b49b6a81b427ef6d3f782ddd3b24ffedee6739ee1c60fd75db754",
+   "verificato_il": "2026-09-25"
+  }
+ }
+}

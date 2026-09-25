@@ -1,0 +1,3057 @@
+{
+ "_meta": {
+  "codice": "ccii",
+  "nome": "Codice della crisi d'impresa e dell'insolvenza (D.Lgs. 14/2019)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-08-12",
+  "articoli": 415,
+  "file": [
+   "ccii.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2019-01-12;14",
+  "versioni": [
+   {
+    "data": "2019-02-14",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp2",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2020-04-08",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 8 aprile 2020, n. 23"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-06-06",
+    "evento": "rp5",
+    "atto_modificante": "L. 5 giugno 2020, n. 40"
+   },
+   {
+    "data": "2020-07-18",
+    "evento": "rp6",
+    "atto_modificante": "L. 17 luglio 2020, n. 77"
+   },
+   {
+    "data": "2020-11-05",
+    "evento": "rp7",
+    "atto_modificante": "D.Lgs. 26 ottobre 2020, n. 147"
+   },
+   {
+    "data": "2021-03-22",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 22 marzo 2021, n. 41"
+   },
+   {
+    "data": "2021-05-21",
+    "evento": "rp9",
+    "atto_modificante": "L. 21 maggio 2021, n. 69"
+   },
+   {
+    "data": "2021-08-24",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 24 agosto 2021, n. 118"
+   },
+   {
+    "data": "2021-10-23",
+    "evento": "rp11",
+    "atto_modificante": "L. 21 ottobre 2021, n. 147"
+   },
+   {
+    "data": "2021-11-30",
+    "evento": "rp12",
+    "atto_modificante": "D.Lgs. 8 novembre 2021, n. 193"
+   },
+   {
+    "data": "2022-04-30",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 30 aprile 2022, n. 36"
+   },
+   {
+    "data": "2022-06-21",
+    "evento": "rp14",
+    "atto_modificante": "D.L. 21 giugno 2022, n. 73"
+   },
+   {
+    "data": "2022-07-01",
+    "evento": "rp15",
+    "atto_modificante": "D.Lgs. 17 giugno 2022, n. 83"
+   },
+   {
+    "data": "2022-08-19",
+    "evento": "rp16",
+    "atto_modificante": "L. 4 agosto 2022, n. 122"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 29 dicembre 2022, n. 198"
+   },
+   {
+    "data": "2023-02-24",
+    "evento": "rp18",
+    "atto_modificante": "D.L. 24 febbraio 2023, n. 13"
+   },
+   {
+    "data": "2023-02-27",
+    "evento": "rp19",
+    "atto_modificante": "L. 24 febbraio 2023, n. 14"
+   },
+   {
+    "data": "2023-03-31",
+    "evento": "rp20",
+    "atto_modificante": "D.Lgs. 31 marzo 2023, n. 36"
+   },
+   {
+    "data": "2024-01-16",
+    "evento": "rp21",
+    "atto_modificante": "D.Lgs. 6 dicembre 2023, n. 224"
+   },
+   {
+    "data": "2024-09-27",
+    "evento": "rp22",
+    "atto_modificante": "D.Lgs. 13 settembre 2024, n. 136"
+   },
+   {
+    "data": "2026-08-11",
+    "evento": "rp23",
+    "atto_modificante": "D.Lgs. 7 agosto 2026, n. 147"
+   }
+  ],
+  "ultima_versione": "2026-08-11",
+  "datazione": {
+   "monoblocco": 415,
+   "api": 402,
+   "riportati": 11,
+   "ignota": 2,
+   "falliti": 2,
+   "stima_anteriore": 180,
+   "chiamate": 404,
+   "errori_rete": 2,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "ccii.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "ca52acf7174f"
+  },
+  "2": {
+   "file": "ccii.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "2ba97a0ff3dc"
+  },
+  "3": {
+   "file": "ccii.md",
+   "rubrica": "Adeguatezza delle misure e degli assetti in funzione della rilevazione tempestiva della crisi d'impresa",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "e68388e343e2"
+  },
+  "4": {
+   "file": "ccii.md",
+   "rubrica": "Doveri delle parti",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "188af373f17b"
+  },
+  "5": {
+   "file": "ccii.md",
+   "rubrica": "Trasparenza ed efficienza delle nomine e trattazione prioritaria delle controversie",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "029c3cf08b3b"
+  },
+  "5-bis": {
+   "file": "ccii.md",
+   "rubrica": "Pubblicazione delle informazioni, del test pratico e della lista di controllo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "f1a0e044c320"
+  },
+  "6": {
+   "file": "ccii.md",
+   "rubrica": "Prededucibilita' dei crediti",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "f8612223fd9e"
+  },
+  "7": {
+   "file": "ccii.md",
+   "rubrica": "Trattazione unitaria delle domande di accesso agli strumenti di regolazione della crisi e dell'insolvenza e alle procedure di insolvenza",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "e9bcf9be2ae6"
+  },
+  "8": {
+   "file": "ccii.md",
+   "rubrica": "Durata massima delle misure protettive",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "990f2d1eca9f"
+  },
+  "9": {
+   "file": "ccii.md",
+   "rubrica": "Sospensione feriale dei termini e patrocinio legale",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "5da91ffa53dc"
+  },
+  "10": {
+   "file": "ccii.md",
+   "rubrica": "Comunicazioni telematiche",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "24d6da1f12f0"
+  },
+  "11": {
+   "file": "ccii.md",
+   "rubrica": "Attribuzione della giurisdizione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "f5da639dc626"
+  },
+  "12": {
+   "file": "ccii.md",
+   "rubrica": "Composizione negoziata per la soluzione della crisi d'impresa",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "bea51ce5e22f"
+  },
+  "13": {
+   "file": "ccii.md",
+   "rubrica": "Istituzione della piattaforma telematica nazionale e nomina dell'esperto",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "caa4e9a61fb2"
+  },
+  "14": {
+   "file": "ccii.md",
+   "rubrica": "Interoperabilita' tra la piattaforma telematica nazionale per la composizione negoziata per la soluzione delle crisi d'impresa e altre banche di dati",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "d14b83e6c486"
+  },
+  "15": {
+   "file": "ccii.md",
+   "rubrica": "Scambio di documentazione e di dati contenuti nella piattaforma telematica nazionale per la composizione negoziata per la soluzione delle crisi d'impresa tra l'imprenditore e i creditori",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "7b8e723f1f66"
+  },
+  "16": {
+   "file": "ccii.md",
+   "rubrica": "Requisiti di indipendenza e doveri dell'esperto e delle parti",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "75b4feb4282c"
+  },
+  "17": {
+   "file": "ccii.md",
+   "rubrica": "Accesso alla composizione negoziata e suo funzionamento",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "290313d1280c"
+  },
+  "18": {
+   "file": "ccii.md",
+   "rubrica": "Misure protettive",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "3e53ae85b6c7"
+  },
+  "19": {
+   "file": "ccii.md",
+   "rubrica": "Procedimento relativo alle misure protettive e cautelari",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "56915af71101"
+  },
+  "20": {
+   "file": "ccii.md",
+   "rubrica": "Sospensione di obblighi e di cause di scioglimento di cui agli articoli 2446, 2447, 2482-bis, 2482-ter, 2484 e 2545-duodecies del codice civile",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "2d67232553eb"
+  },
+  "21": {
+   "file": "ccii.md",
+   "rubrica": "Gestione dell'impresa in pendenza delle trattative",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "dd9d4b69a55e"
+  },
+  "22": {
+   "file": "ccii.md",
+   "rubrica": "Autorizzazioni del tribunale",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "a7ebcee17ce9"
+  },
+  "23": {
+   "file": "ccii.md",
+   "rubrica": "Conclusione delle trattative",
+   "vigore_da": "2026-08-12",
+   "datazione": "api",
+   "h": "6e1742594315"
+  },
+  "24": {
+   "file": "ccii.md",
+   "rubrica": "Conservazione degli effetti",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "31a483dea6f1"
+  },
+  "25": {
+   "file": "ccii.md",
+   "rubrica": "Conduzione delle trattative in caso di gruppo di imprese",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "f59129c2d94d"
+  },
+  "25-bis": {
+   "file": "ccii.md",
+   "rubrica": "Misure premiali",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "73acea1503cf"
+  },
+  "25-ter": {
+   "file": "ccii.md",
+   "rubrica": "Compenso dell'esperto",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "923ca9eee8c8"
+  },
+  "25-quater": {
+   "file": "ccii.md",
+   "rubrica": "Imprese sotto soglia",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "f743993c69cb"
+  },
+  "25-quinquies": {
+   "file": "ccii.md",
+   "rubrica": "Limiti di accesso alla composizione negoziata",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "2c3a6dc3f6f0"
+  },
+  "25-sexies": {
+   "file": "ccii.md",
+   "rubrica": "Concordato semplificato per la liquidazione del patrimonio",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "be0455a3cf54"
+  },
+  "25-septies": {
+   "file": "ccii.md",
+   "rubrica": "Disciplina della liquidazione del patrimonio",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "41e6c01e907e"
+  },
+  "25-octies": {
+   "file": "ccii.md",
+   "rubrica": "",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "ffd6e754fc21"
+  },
+  "25-novies": {
+   "file": "ccii.md",
+   "rubrica": "Segnalazioni dei creditori pubblici qualificati",
+   "vigore_da": "2022-08-20",
+   "datazione": "api",
+   "h": "e58e63aff170"
+  },
+  "25-decies": {
+   "file": "ccii.md",
+   "rubrica": "Obblighi di comunicazione per banche e intermediari finanziari",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "6c00970e1508"
+  },
+  "25-undecies": {
+   "file": "ccii.md",
+   "rubrica": "Istituzione di programma informatico di verifica della sostenibilita' del debito e per l'elaborazione di piani di rateizzazione automatici",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "7692f34882fa"
+  },
+  "26": {
+   "file": "ccii.md",
+   "rubrica": "Giurisdizione italiana",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "c0b420fdcdab"
+  },
+  "27": {
+   "file": "ccii.md",
+   "rubrica": "Competenza per materia e per territorio",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "626d7533354a"
+  },
+  "28": {
+   "file": "ccii.md",
+   "rubrica": "Trasferimento del centro degli interessi principali",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "9fdb21fd56dc"
+  },
+  "29": {
+   "file": "ccii.md",
+   "rubrica": "Incompetenza",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8123a0043de3"
+  },
+  "30": {
+   "file": "ccii.md",
+   "rubrica": "Conflitto positivo di competenza",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "e2185132468e"
+  },
+  "31": {
+   "file": "ccii.md",
+   "rubrica": "Salvezza degli effetti",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8ecc3a265423"
+  },
+  "32": {
+   "file": "ccii.md",
+   "rubrica": "Competenza sulle azioni che derivano dall'apertura delle procedure di liquidazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "bf400821220a"
+  },
+  "33": {
+   "file": "ccii.md",
+   "rubrica": "Cessazione dell'attivita'",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "43e0cba4aade"
+  },
+  "34": {
+   "file": "ccii.md",
+   "rubrica": "Apertura della liquidazione giudiziale del debitore defunto",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "59fe7caea5f5"
+  },
+  "35": {
+   "file": "ccii.md",
+   "rubrica": "Morte del debitore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3f9864fa25bc"
+  },
+  "36": {
+   "file": "ccii.md",
+   "rubrica": "Eredita' giacente e istituzione di erede sotto condizione sospensiva",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "5898e8a08ba9"
+  },
+  "37": {
+   "file": "ccii.md",
+   "rubrica": "Iniziativa per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "1854c7f74305"
+  },
+  "38": {
+   "file": "ccii.md",
+   "rubrica": "Iniziativa del pubblico ministero",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "c052dd32f146"
+  },
+  "39": {
+   "file": "ccii.md",
+   "rubrica": "Obblighi del debitore che chiede l'accesso a uno strumento di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "b942ed1b3f98"
+  },
+  "40": {
+   "file": "ccii.md",
+   "rubrica": "Domanda di accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "49f528e889e0"
+  },
+  "41": {
+   "file": "ccii.md",
+   "rubrica": "Procedimento per l'apertura della liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "1b3d26a1bb0a"
+  },
+  "42": {
+   "file": "ccii.md",
+   "rubrica": "Istruttoria sui debiti risultanti dai pubblici registri nei procedimenti per l'apertura della liquidazione giudiziale o del concordato preventivo",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "c022ad90f584"
+  },
+  "43": {
+   "file": "ccii.md",
+   "rubrica": "Rinuncia alla domanda",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "7cd5329e9382"
+  },
+  "44": {
+   "file": "ccii.md",
+   "rubrica": "Accesso a uno strumento di regolazione della crisi e dell'insolvenza con riserva di deposito di documentazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "c3858003f30d"
+  },
+  "45": {
+   "file": "ccii.md",
+   "rubrica": "Comunicazione e pubblicazione del decreto di concessione dei termini",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "0b305bef4076"
+  },
+  "46": {
+   "file": "ccii.md",
+   "rubrica": "Effetti della domanda di accesso al concordato preventivo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "b62a77e8eb70"
+  },
+  "47": {
+   "file": "ccii.md",
+   "rubrica": "Apertura del concordato preventivo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "7d1fa63dfa97"
+  },
+  "48": {
+   "file": "ccii.md",
+   "rubrica": "Procedimento di omologazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "5078feef422d"
+  },
+  "49": {
+   "file": "ccii.md",
+   "rubrica": "Dichiarazione di apertura della liquidazione giudiziale",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "8bf0e1300468"
+  },
+  "50": {
+   "file": "ccii.md",
+   "rubrica": "Reclamo contro il provvedimento che rigetta la domanda di apertura della liquidazione giudiziale",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "c110d56dc0a7"
+  },
+  "51": {
+   "file": "ccii.md",
+   "rubrica": "Impugnazioni",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "3a4fd7fd4338"
+  },
+  "52": {
+   "file": "ccii.md",
+   "rubrica": "Sospensione della liquidazione, dell'esecuzione del piano o degli accordi",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8187d65db6c3"
+  },
+  "53": {
+   "file": "ccii.md",
+   "rubrica": "Effetti della revoca della liquidazione giudiziale, dell'omologazione del concordato e degli accordi di ristrutturazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "f61d6d7e7b90"
+  },
+  "54": {
+   "file": "ccii.md",
+   "rubrica": "Misure cautelari e protettive",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "5c5c3caf58f8"
+  },
+  "55": {
+   "file": "ccii.md",
+   "rubrica": "Procedimento",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "e2638c261a0b"
+  },
+  "56": {
+   "file": "ccii.md",
+   "rubrica": "Accordi in esecuzione di piani attestati di risanamento",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "fdace25834a3"
+  },
+  "57": {
+   "file": "ccii.md",
+   "rubrica": "Accordi di ristrutturazione dei debiti",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "f85995d2c4ac"
+  },
+  "58": {
+   "file": "ccii.md",
+   "rubrica": "Rinegoziazione degli accordi o modifiche del piano",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "3825b42807f1"
+  },
+  "59": {
+   "file": "ccii.md",
+   "rubrica": "Coobbligati e soci illimitatamente responsabili",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "fd3a81979b49"
+  },
+  "60": {
+   "file": "ccii.md",
+   "rubrica": "Accordi di ristrutturazione agevolati",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "ffde23907152"
+  },
+  "61": {
+   "file": "ccii.md",
+   "rubrica": "Accordi di ristrutturazione ad efficacia estesa",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "cebec54cb681"
+  },
+  "62": {
+   "file": "ccii.md",
+   "rubrica": "Convenzione di moratoria",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "32b5ff7acf42"
+  },
+  "63": {
+   "file": "ccii.md",
+   "rubrica": "Transazione su crediti tributari e contributivi",
+   "vigore_da": "2026-08-12",
+   "datazione": "api",
+   "h": "36fd3235f7d4"
+  },
+  "64": {
+   "file": "ccii.md",
+   "rubrica": "Effetti degli accordi di ristrutturazione sulla disciplina societaria e sui contratti in caso di concessione di misure protettive",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "cec24f6a8902"
+  },
+  "64-bis": {
+   "file": "ccii.md",
+   "rubrica": "Piano di ristrutturazione soggetto a omologazione",
+   "vigore_da": "2026-08-12",
+   "datazione": "api",
+   "h": "b26eb012aa4e"
+  },
+  "64-ter": {
+   "file": "ccii.md",
+   "rubrica": "Mancata approvazione di tutte le classi",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "1b97630ed2cb"
+  },
+  "64-quater": {
+   "file": "ccii.md",
+   "rubrica": "Conversione del piano di ristrutturazione soggetto ad omologazione in concordato preventivo",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "a096e5eb768f"
+  },
+  "65": {
+   "file": "ccii.md",
+   "rubrica": "Ambito di applicazione delle procedure di composizione delle crisi da sovraindebitamento",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "181017d52b4e"
+  },
+  "66": {
+   "file": "ccii.md",
+   "rubrica": "Procedure familiari",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "66c450f2f3d8"
+  },
+  "67": {
+   "file": "ccii.md",
+   "rubrica": "Procedura di ristrutturazione dei debiti",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "d284684abce7"
+  },
+  "68": {
+   "file": "ccii.md",
+   "rubrica": "Presentazione della domanda e attivita' dell'OCC",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "fdac24382e82"
+  },
+  "69": {
+   "file": "ccii.md",
+   "rubrica": "Condizioni soggettive ostative",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "c67f438065eb"
+  },
+  "70": {
+   "file": "ccii.md",
+   "rubrica": "Apertura e omologazione del piano",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "36ecc5621462"
+  },
+  "71": {
+   "file": "ccii.md",
+   "rubrica": "Esecuzione del piano",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "52b86b2ebafd"
+  },
+  "72": {
+   "file": "ccii.md",
+   "rubrica": "Revoca della sentenza di omologazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "41e9fb44b341"
+  },
+  "73": {
+   "file": "ccii.md",
+   "rubrica": "Apertura della liquidazione controllata dopo la revoca dell'omologazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "e44f8d7888ae"
+  },
+  "74": {
+   "file": "ccii.md",
+   "rubrica": "Proposta di concordato minore",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "53ce254e04b7"
+  },
+  "75": {
+   "file": "ccii.md",
+   "rubrica": "Documentazione e trattamento dei crediti privilegiati",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "13d01909983d"
+  },
+  "76": {
+   "file": "ccii.md",
+   "rubrica": "Presentazione della domanda e attivita' dell'OCC",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "696ab124235a"
+  },
+  "77": {
+   "file": "ccii.md",
+   "rubrica": "Inammissibilita' della domanda di concordato minore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "5625a7bcc87b"
+  },
+  "78": {
+   "file": "ccii.md",
+   "rubrica": "Procedimento",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "6927e1fa8aa8"
+  },
+  "79": {
+   "file": "ccii.md",
+   "rubrica": "Maggioranza per l'approvazione del concordato minore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8cdd07bd9fbf"
+  },
+  "80": {
+   "file": "ccii.md",
+   "rubrica": "Omologazione del concordato minore",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "4838f553d6bf"
+  },
+  "81": {
+   "file": "ccii.md",
+   "rubrica": "Esecuzione del concordato minore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "bdd94f27acaa"
+  },
+  "82": {
+   "file": "ccii.md",
+   "rubrica": "Revoca della sentenza di omologazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "17aaa73ab807"
+  },
+  "83": {
+   "file": "ccii.md",
+   "rubrica": "Apertura della liquidazione controllata dopo la revoca della sentenza di omologazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "c4d25730fbb5"
+  },
+  "84": {
+   "file": "ccii.md",
+   "rubrica": "Finalita' del concordato preventivo e tipologie di piano",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "2b67948115ed"
+  },
+  "85": {
+   "file": "ccii.md",
+   "rubrica": "Suddivisione dei creditori in classi",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "b967b8a24fc8"
+  },
+  "86": {
+   "file": "ccii.md",
+   "rubrica": "Moratoria nel concordato in continuita'",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "4ea480769e11"
+  },
+  "87": {
+   "file": "ccii.md",
+   "rubrica": "Contenuto del piano di concordato",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "0a27767b1021"
+  },
+  "88": {
+   "file": "ccii.md",
+   "rubrica": "Trattamento dei crediti tributari e contributivi",
+   "vigore_da": "2026-08-12",
+   "datazione": "api",
+   "h": "a95c00e41ee3"
+  },
+  "89": {
+   "file": "ccii.md",
+   "rubrica": "Riduzione o perdita del capitale della societa' in crisi",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "8becf8732379"
+  },
+  "90": {
+   "file": "ccii.md",
+   "rubrica": "Proposte concorrenti",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "737c7c999538"
+  },
+  "91": {
+   "file": "ccii.md",
+   "rubrica": "Offerte concorrenti",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3618194c0be1"
+  },
+  "92": {
+   "file": "ccii.md",
+   "rubrica": "Commissario giudiziale",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "8fd6f1765cce"
+  },
+  "93": {
+   "file": "ccii.md",
+   "rubrica": "Pubblicita' del decreto",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3bb1c9d2103b"
+  },
+  "93-bis": {
+   "file": "ccii.md",
+   "rubrica": "Reclami",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "434eb5ee5085"
+  },
+  "94": {
+   "file": "ccii.md",
+   "rubrica": "Amministrazione dei beni durante la procedura di concordato preventivo e alienazioni",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "4fde8a44065f"
+  },
+  "94-bis": {
+   "file": "ccii.md",
+   "rubrica": "Disposizioni speciali per i contratti pendenti nel concordato in continuita' aziendale",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "8e1f14ba11ff"
+  },
+  "95": {
+   "file": "ccii.md",
+   "rubrica": "Disposizioni speciali per i contratti con le pubbliche amministrazioni",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "f353a35d16d2"
+  },
+  "96": {
+   "file": "ccii.md",
+   "rubrica": "Norme applicabili dalla data di deposito della domanda di accesso al concordato preventivo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "9b3bd62ccd70"
+  },
+  "97": {
+   "file": "ccii.md",
+   "rubrica": "Contratti pendenti",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "8e88b08ec180"
+  },
+  "98": {
+   "file": "ccii.md",
+   "rubrica": "Prededuzione nel concordato preventivo",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "cbff944b6771"
+  },
+  "99": {
+   "file": "ccii.md",
+   "rubrica": "Finanziamenti prededucibili autorizzati prima dell'omologazione del concordato preventivo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "69b79472add0"
+  },
+  "100": {
+   "file": "ccii.md",
+   "rubrica": "Autorizzazione al pagamento di crediti pregressi",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "699f95571f2a"
+  },
+  "101": {
+   "file": "ccii.md",
+   "rubrica": "Finanziamenti prededucibili in esecuzione di un concordato preventivo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "2fc5492e725c"
+  },
+  "102": {
+   "file": "ccii.md",
+   "rubrica": "Finanziamenti prededucibili dei soci",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "02bd10c61ba7"
+  },
+  "103": {
+   "file": "ccii.md",
+   "rubrica": "Scritture contabili",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3e5d0442303a"
+  },
+  "104": {
+   "file": "ccii.md",
+   "rubrica": "Convocazione dei creditori",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "f018c18bf24b"
+  },
+  "105": {
+   "file": "ccii.md",
+   "rubrica": "Operazioni e relazione del commissario",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "2e73f89b707d"
+  },
+  "106": {
+   "file": "ccii.md",
+   "rubrica": "Atti di frode e apertura della liquidazione giudiziale nel corso della procedura",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "570f32627a70"
+  },
+  "107": {
+   "file": "ccii.md",
+   "rubrica": "Voto dei creditori",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "16790dea2878"
+  },
+  "108": {
+   "file": "ccii.md",
+   "rubrica": "Ammissione provvisoria dei crediti contestati",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "b9b32a632f08"
+  },
+  "109": {
+   "file": "ccii.md",
+   "rubrica": "Maggioranza per l'approvazione del concordato",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "088bbcfcef8f"
+  },
+  "110": {
+   "file": "ccii.md",
+   "rubrica": "Adesioni alla proposta di concordato",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "1bc916a2c8c7"
+  },
+  "111": {
+   "file": "ccii.md",
+   "rubrica": "Mancata approvazione del concordato",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "993af39f001c"
+  },
+  "112": {
+   "file": "ccii.md",
+   "rubrica": "Giudizio di omologazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "6a7b2c23daa6"
+  },
+  "113": {
+   "file": "ccii.md",
+   "rubrica": "Chiusura della procedura",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "d58b9a5cd594"
+  },
+  "114": {
+   "file": "ccii.md",
+   "rubrica": "Disposizioni sulla liquidazione nel concordato liquidatorio",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "39006862591f"
+  },
+  "114-bis": {
+   "file": "ccii.md",
+   "rubrica": "Disposizioni sulla liquidazione nel concordato in continuita'",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "a8d4d882d04b"
+  },
+  "115": {
+   "file": "ccii.md",
+   "rubrica": "Azioni del liquidatore giudiziale",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "085d14135793"
+  },
+  "116": {
+   "file": "ccii.md",
+   "rubrica": "Trasformazione, fusione o scissione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "e58b2fcc0c83"
+  },
+  "117": {
+   "file": "ccii.md",
+   "rubrica": "Effetti del concordato per i creditori",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "10965732abfd"
+  },
+  "118": {
+   "file": "ccii.md",
+   "rubrica": "Esecuzione del concordato",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "e6a09ff75691"
+  },
+  "118-bis": {
+   "file": "ccii.md",
+   "rubrica": "Modificazioni del piano",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "db0de17aaeff"
+  },
+  "119": {
+   "file": "ccii.md",
+   "rubrica": "Risoluzione del concordato",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "1b7121244b46"
+  },
+  "120": {
+   "file": "ccii.md",
+   "rubrica": "Annullamento del concordato",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "740eae47ab35"
+  },
+  "120-bis": {
+   "file": "ccii.md",
+   "rubrica": "Accesso",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "e095a7cb6afc"
+  },
+  "120-ter": {
+   "file": "ccii.md",
+   "rubrica": "Classamento dei soci e dei titolari di strumenti finanziari",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "6ce9342ea09f"
+  },
+  "120-quater": {
+   "file": "ccii.md",
+   "rubrica": "Condizioni di omologazione del concordato con attribuzioni ai soci",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "5145402bb437"
+  },
+  "120-quinquies": {
+   "file": "ccii.md",
+   "rubrica": "Esecuzione delle operazioni societarie",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "a43c4d0d0ea6"
+  },
+  "121": {
+   "file": "ccii.md",
+   "rubrica": "Presupposti della liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8688fe8c1e26"
+  },
+  "122": {
+   "file": "ccii.md",
+   "rubrica": "Poteri del tribunale concorsuale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "a870150efa5b"
+  },
+  "123": {
+   "file": "ccii.md",
+   "rubrica": "Poteri del giudice delegato",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "5f4372ded1c8"
+  },
+  "124": {
+   "file": "ccii.md",
+   "rubrica": "Reclamo contro i decreti del giudice delegato e del tribunale",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "656f2f3207e8"
+  },
+  "125": {
+   "file": "ccii.md",
+   "rubrica": "Nomina del curatore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "9de9b1bbc462"
+  },
+  "126": {
+   "file": "ccii.md",
+   "rubrica": "Accettazione del curatore",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "b88a5fe761b8"
+  },
+  "127": {
+   "file": "ccii.md",
+   "rubrica": "Qualita' di pubblico ufficiale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "4c20107d94d6"
+  },
+  "128": {
+   "file": "ccii.md",
+   "rubrica": "Gestione della procedura",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "085098e9f101"
+  },
+  "129": {
+   "file": "ccii.md",
+   "rubrica": "Esercizio delle attribuzioni del curatore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3d8060d9efbc"
+  },
+  "130": {
+   "file": "ccii.md",
+   "rubrica": "Relazioni e rapporti riepilogativi del curatore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "16d61bcc69ac"
+  },
+  "131": {
+   "file": "ccii.md",
+   "rubrica": "Deposito delle somme riscosse",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "3a3d3d964941"
+  },
+  "132": {
+   "file": "ccii.md",
+   "rubrica": "Integrazione dei poteri del curatore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "f9bc5b896d04"
+  },
+  "133": {
+   "file": "ccii.md",
+   "rubrica": "Reclamo contro gli atti e le omissioni del curatore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "384c53b5dfdf"
+  },
+  "134": {
+   "file": "ccii.md",
+   "rubrica": "Revoca del curatore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "48e84680fedb"
+  },
+  "135": {
+   "file": "ccii.md",
+   "rubrica": "Sostituzione del curatore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "9f0eeb820b8d"
+  },
+  "136": {
+   "file": "ccii.md",
+   "rubrica": "Responsabilita' del curatore",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "0ecbfba934df"
+  },
+  "137": {
+   "file": "ccii.md",
+   "rubrica": "Compenso del curatore",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "1c67f1b2e510"
+  },
+  "138": {
+   "file": "ccii.md",
+   "rubrica": "Nomina del comitato dei creditori",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "f0867c0719a6"
+  },
+  "139": {
+   "file": "ccii.md",
+   "rubrica": "Sostituzione e compenso dei componenti del comitato dei creditori",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "fcbd681e7a49"
+  },
+  "140": {
+   "file": "ccii.md",
+   "rubrica": "Funzioni e responsabilita' del comitato dei creditori e dei suoi componenti",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "7ee26ecc8b4e"
+  },
+  "141": {
+   "file": "ccii.md",
+   "rubrica": "Reclamo contro gli atti del comitato dei creditori",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "1fc0e3aeeef4"
+  },
+  "142": {
+   "file": "ccii.md",
+   "rubrica": "Beni del debitore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "610bd66790e9"
+  },
+  "143": {
+   "file": "ccii.md",
+   "rubrica": "Rapporti processuali",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "7daa6ebd77d0"
+  },
+  "144": {
+   "file": "ccii.md",
+   "rubrica": "Atti compiuti dal debitore dopo l'apertura della liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "7876be03abd7"
+  },
+  "145": {
+   "file": "ccii.md",
+   "rubrica": "Formalita' eseguite dopo l'apertura della liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "2cb4c3b0d209"
+  },
+  "146": {
+   "file": "ccii.md",
+   "rubrica": "Beni non compresi nella liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "c7377a5509a6"
+  },
+  "147": {
+   "file": "ccii.md",
+   "rubrica": "Alimenti ed abitazione del debitore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "d01a104a1002"
+  },
+  "148": {
+   "file": "ccii.md",
+   "rubrica": "Corrispondenza diretta al debitore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "872e75ba8875"
+  },
+  "149": {
+   "file": "ccii.md",
+   "rubrica": "Obblighi del debitore",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "6e7dce4750cb"
+  },
+  "150": {
+   "file": "ccii.md",
+   "rubrica": "Divieto di azioni esecutive e cautelari individuali",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "bb7089776426"
+  },
+  "151": {
+   "file": "ccii.md",
+   "rubrica": "Concorso dei creditori",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "48d0763fff35"
+  },
+  "152": {
+   "file": "ccii.md",
+   "rubrica": "Creditori muniti di pegno o privilegio su mobili",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "e43e98e7ad09"
+  },
+  "153": {
+   "file": "ccii.md",
+   "rubrica": "Diritto dei creditori privilegiati nella ripartizione dell'attivo",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "b3058a72163f"
+  },
+  "154": {
+   "file": "ccii.md",
+   "rubrica": "Crediti pecuniari",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "f5e22c606343"
+  },
+  "155": {
+   "file": "ccii.md",
+   "rubrica": "Compensazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "e07c8016caf1"
+  },
+  "156": {
+   "file": "ccii.md",
+   "rubrica": "Crediti infruttiferi",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "a5bd1036188f"
+  },
+  "157": {
+   "file": "ccii.md",
+   "rubrica": "Obbligazioni ed altri titoli di debito",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "e5c19d058f74"
+  },
+  "158": {
+   "file": "ccii.md",
+   "rubrica": "Crediti non pecuniari",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "2b3feaf15a69"
+  },
+  "159": {
+   "file": "ccii.md",
+   "rubrica": "Rendita perpetua e rendita vitalizia",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "d7d11b5359b1"
+  },
+  "160": {
+   "file": "ccii.md",
+   "rubrica": "Creditore di piu' coobbligati solidali",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "02f05946f50f"
+  },
+  "161": {
+   "file": "ccii.md",
+   "rubrica": "Creditore di piu' coobbligati solidali parzialmente soddisfatto",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "e2b691184a2a"
+  },
+  "162": {
+   "file": "ccii.md",
+   "rubrica": "Coobbligato o fideiussore con diritto di garanzia",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "940e7827ad09"
+  },
+  "163": {
+   "file": "ccii.md",
+   "rubrica": "Atti a titolo gratuito",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "80cc6a9fc9f5"
+  },
+  "164": {
+   "file": "ccii.md",
+   "rubrica": "Pagamenti di crediti non scaduti e postergati",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "b4af11692dce"
+  },
+  "165": {
+   "file": "ccii.md",
+   "rubrica": "Azione revocatoria ordinaria",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "e353bf9e34e5"
+  },
+  "166": {
+   "file": "ccii.md",
+   "rubrica": "Atti a titolo oneroso, pagamenti, garanzie",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "d87b20051701"
+  },
+  "167": {
+   "file": "ccii.md",
+   "rubrica": "Patrimoni destinati ad uno specifico affare",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "ee5b06f83f61"
+  },
+  "168": {
+   "file": "ccii.md",
+   "rubrica": "Pagamento di cambiale scaduta",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "cde3339d2b93"
+  },
+  "169": {
+   "file": "ccii.md",
+   "rubrica": "Atti compiuti tra coniugi, parti di un'unione civile tra persone dello stesso sesso o conviventi di fatto",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "195d64e2f62b"
+  },
+  "170": {
+   "file": "ccii.md",
+   "rubrica": "Limiti temporali delle azioni revocatorie e d'inefficacia",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "a22c21b16d16"
+  },
+  "171": {
+   "file": "ccii.md",
+   "rubrica": "Effetti della revocazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "2ea814907ab0"
+  },
+  "172": {
+   "file": "ccii.md",
+   "rubrica": "Rapporti pendenti",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "e912439b08cf"
+  },
+  "173": {
+   "file": "ccii.md",
+   "rubrica": "Contratti preliminari",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "7c0f091d1a55"
+  },
+  "174": {
+   "file": "ccii.md",
+   "rubrica": "Contratti relativi a immobili da costruire",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "0b3e3ecef8da"
+  },
+  "175": {
+   "file": "ccii.md",
+   "rubrica": "Contratti di carattere personale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "76e85f76eb25"
+  },
+  "176": {
+   "file": "ccii.md",
+   "rubrica": "Effetti sui finanziamenti destinati ad uno specifico affare",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "de595090499b"
+  },
+  "177": {
+   "file": "ccii.md",
+   "rubrica": "Locazione finanziaria",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8a6dcfb1e3ee"
+  },
+  "178": {
+   "file": "ccii.md",
+   "rubrica": "Vendita con riserva di proprieta'",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3c00975cb011"
+  },
+  "179": {
+   "file": "ccii.md",
+   "rubrica": "Contratti ad esecuzione continuata o periodica",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "176270c99109"
+  },
+  "180": {
+   "file": "ccii.md",
+   "rubrica": "Restituzione di cose non pagate",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "47b0e5b6a8ac"
+  },
+  "181": {
+   "file": "ccii.md",
+   "rubrica": "Contratto di borsa a termine",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3f3f0ab68c72"
+  },
+  "182": {
+   "file": "ccii.md",
+   "rubrica": "Associazione in partecipazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "de6beacad0c3"
+  },
+  "183": {
+   "file": "ccii.md",
+   "rubrica": "Conto corrente, mandato, commissione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "9181b0b9808e"
+  },
+  "184": {
+   "file": "ccii.md",
+   "rubrica": "Contratto di affitto di azienda",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "c7c8bc125bbc"
+  },
+  "185": {
+   "file": "ccii.md",
+   "rubrica": "Contratto di locazione di immobili",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "a7ca26af9914"
+  },
+  "186": {
+   "file": "ccii.md",
+   "rubrica": "Contratto di appalto",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "9cddde335f2f"
+  },
+  "187": {
+   "file": "ccii.md",
+   "rubrica": "Contratto di assicurazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "6b463c29172a"
+  },
+  "188": {
+   "file": "ccii.md",
+   "rubrica": "Contratto di edizione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8f7b5a8667ce"
+  },
+  "189": {
+   "file": "ccii.md",
+   "rubrica": "Rapporti di lavoro subordinato",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "2ac5655447da"
+  },
+  "190": {
+   "file": "ccii.md",
+   "rubrica": "Trattamento NASpI",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "13d5851c4516"
+  },
+  "191": {
+   "file": "ccii.md",
+   "rubrica": "Effetti del trasferimento di azienda sui rapporti di lavoro",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "8066bc0ae2cb"
+  },
+  "192": {
+   "file": "ccii.md",
+   "rubrica": "Clausola arbitrale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "1ebbff36c229"
+  },
+  "193": {
+   "file": "ccii.md",
+   "rubrica": "Sigilli",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "2c2ff6709c1d"
+  },
+  "194": {
+   "file": "ccii.md",
+   "rubrica": "Consegna del denaro, titoli, scritture contabili e di altra documentazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8cc61194bdb5"
+  },
+  "195": {
+   "file": "ccii.md",
+   "rubrica": "Inventario",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "b8d37f048567"
+  },
+  "196": {
+   "file": "ccii.md",
+   "rubrica": "Inventario di altri beni",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8e136238fb3c"
+  },
+  "197": {
+   "file": "ccii.md",
+   "rubrica": "Presa in consegna dei beni del debitore da parte del curatore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "544da4ec8fd2"
+  },
+  "198": {
+   "file": "ccii.md",
+   "rubrica": "Elenchi dei creditori e dei titolari di diritti immobiliari o mobiliari e bilancio",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "7601ad7cce02"
+  },
+  "199": {
+   "file": "ccii.md",
+   "rubrica": "Fascicolo della procedura",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "382d56244c62"
+  },
+  "200": {
+   "file": "ccii.md",
+   "rubrica": "Avviso ai creditori e agli altri interessati",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "124aed4386fa"
+  },
+  "201": {
+   "file": "ccii.md",
+   "rubrica": "Domanda di ammissione al passivo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "3749220530d2"
+  },
+  "202": {
+   "file": "ccii.md",
+   "rubrica": "Effetti della domanda",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "b738125cadf1"
+  },
+  "203": {
+   "file": "ccii.md",
+   "rubrica": "Progetto di stato passivo e udienza di discussione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "ccdccaee5bce"
+  },
+  "204": {
+   "file": "ccii.md",
+   "rubrica": "Formazione ed esecutivita' dello stato passivo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "93274dcd00c2"
+  },
+  "205": {
+   "file": "ccii.md",
+   "rubrica": "Comunicazione dell'esito del procedimento di accertamento del passivo",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "d44ae035e985"
+  },
+  "206": {
+   "file": "ccii.md",
+   "rubrica": "Impugnazioni",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "49bb3a98b7f1"
+  },
+  "207": {
+   "file": "ccii.md",
+   "rubrica": "Procedimento",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "c3d904e97eb9"
+  },
+  "208": {
+   "file": "ccii.md",
+   "rubrica": "Domande tardive",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "590405467929"
+  },
+  "209": {
+   "file": "ccii.md",
+   "rubrica": "Previsione di insufficiente realizzo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "7c451138e5cb"
+  },
+  "210": {
+   "file": "ccii.md",
+   "rubrica": "Procedimenti relativi a domande di rivendica e restituzione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "321978436a59"
+  },
+  "211": {
+   "file": "ccii.md",
+   "rubrica": "Esercizio dell'impresa del debitore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "86bd1bfd8414"
+  },
+  "212": {
+   "file": "ccii.md",
+   "rubrica": "Affitto dell'azienda o di suoi rami",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "28aba4d7d223"
+  },
+  "213": {
+   "file": "ccii.md",
+   "rubrica": "Programma di liquidazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "f1c5612ca219"
+  },
+  "214": {
+   "file": "ccii.md",
+   "rubrica": "Vendita dell'azienda o di suoi rami o di beni o rapporti in blocco",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "ad88249022c5"
+  },
+  "215": {
+   "file": "ccii.md",
+   "rubrica": "Cessioni di crediti, azioni revocatorie e partecipazioni e mandato a riscuotere crediti",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "b5c9d46cb3f8"
+  },
+  "216": {
+   "file": "ccii.md",
+   "rubrica": "Modalita' della liquidazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "47e26ccf9e10"
+  },
+  "217": {
+   "file": "ccii.md",
+   "rubrica": "Poteri del giudice delegato",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "fc58fc47fab6"
+  },
+  "218": {
+   "file": "ccii.md",
+   "rubrica": "Vendita dei diritti sulle opere dell'ingegno, sulle invenzioni industriali e sui marchi",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "f3e60ed091c6"
+  },
+  "219": {
+   "file": "ccii.md",
+   "rubrica": "Procedimento di distribuzione della somma ricavata",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "111f31f36242"
+  },
+  "220": {
+   "file": "ccii.md",
+   "rubrica": "Procedimento di ripartizione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3b41f8a39ea1"
+  },
+  "221": {
+   "file": "ccii.md",
+   "rubrica": "Ordine di distribuzione delle somme",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8827ef71d9d3"
+  },
+  "222": {
+   "file": "ccii.md",
+   "rubrica": "Disciplina dei crediti prededucibili",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "486a1b6b3476"
+  },
+  "223": {
+   "file": "ccii.md",
+   "rubrica": "Conti speciali",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "23d4ea76c3d6"
+  },
+  "224": {
+   "file": "ccii.md",
+   "rubrica": "Crediti assistiti da prelazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "a663ee0d8475"
+  },
+  "225": {
+   "file": "ccii.md",
+   "rubrica": "Partecipazione dei creditori ammessi tardivamente",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8a5076725745"
+  },
+  "226": {
+   "file": "ccii.md",
+   "rubrica": "Ripartizioni e diritti in favore del creditore con domanda tardiva",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "324f6e0d4741"
+  },
+  "227": {
+   "file": "ccii.md",
+   "rubrica": "Ripartizioni parziali",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "43441388a5e4"
+  },
+  "228": {
+   "file": "ccii.md",
+   "rubrica": "Scioglimento delle ammissioni con riserva",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "7b0db03f08ce"
+  },
+  "229": {
+   "file": "ccii.md",
+   "rubrica": "Restituzione di somme riscosse",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "a56304adaf38"
+  },
+  "230": {
+   "file": "ccii.md",
+   "rubrica": "Pagamento ai creditori",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "1ce1102c5a74"
+  },
+  "231": {
+   "file": "ccii.md",
+   "rubrica": "Rendiconto del curatore",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "3f4d6e5f646d"
+  },
+  "232": {
+   "file": "ccii.md",
+   "rubrica": "Ripartizione finale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "939da6bc4d37"
+  },
+  "233": {
+   "file": "ccii.md",
+   "rubrica": "Casi di chiusura",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "0994528315b5"
+  },
+  "234": {
+   "file": "ccii.md",
+   "rubrica": "Prosecuzione di giudizi e procedimenti esecutivi dopo la chiusura",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "1e9814a74c9d"
+  },
+  "235": {
+   "file": "ccii.md",
+   "rubrica": "Decreto di chiusura",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "5388b24ad08f"
+  },
+  "236": {
+   "file": "ccii.md",
+   "rubrica": "Effetti della chiusura",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "4619c7931fa7"
+  },
+  "237": {
+   "file": "ccii.md",
+   "rubrica": "Casi di riapertura della procedura di liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "53fa51e9ef7f"
+  },
+  "238": {
+   "file": "ccii.md",
+   "rubrica": "Concorso dei vecchi e nuovi creditori",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8de9fa3168e2"
+  },
+  "239": {
+   "file": "ccii.md",
+   "rubrica": "Effetti della riapertura sugli atti pregiudizievoli ai creditori",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3ed62e1e201c"
+  },
+  "240": {
+   "file": "ccii.md",
+   "rubrica": "Proposta di concordato nella liquidazione giudiziale",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "e6f922ce1ae2"
+  },
+  "241": {
+   "file": "ccii.md",
+   "rubrica": "Esame della proposta e comunicazione ai creditori",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "48ac025bd978"
+  },
+  "242": {
+   "file": "ccii.md",
+   "rubrica": "Concordato nel caso di numerosi creditori",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "f19a99fbe333"
+  },
+  "243": {
+   "file": "ccii.md",
+   "rubrica": "Voto nel concordato",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "9ba08c29deab"
+  },
+  "244": {
+   "file": "ccii.md",
+   "rubrica": "Approvazione del concordato nella liquidazione giudiziale",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "28a2b52f0b17"
+  },
+  "245": {
+   "file": "ccii.md",
+   "rubrica": "Giudizio di omologazione",
+   "vigore_da": "2026-08-12",
+   "datazione": "api",
+   "h": "aba55b94e622"
+  },
+  "246": {
+   "file": "ccii.md",
+   "rubrica": "Efficacia del decreto",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "93cf6d23a74c"
+  },
+  "247": {
+   "file": "ccii.md",
+   "rubrica": "Reclamo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "a4dbd71a8a5c"
+  },
+  "248": {
+   "file": "ccii.md",
+   "rubrica": "Effetti del concordato nella liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "0714469cf748"
+  },
+  "249": {
+   "file": "ccii.md",
+   "rubrica": "Esecuzione del concordato nella liquidazione giudiziale",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "63daaecdd652"
+  },
+  "250": {
+   "file": "ccii.md",
+   "rubrica": "Risoluzione del concordato nella liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "75173f125a10"
+  },
+  "251": {
+   "file": "ccii.md",
+   "rubrica": "Annullamento del concordato nella liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "136a6ad482ad"
+  },
+  "252": {
+   "file": "ccii.md",
+   "rubrica": "Effetti della riapertura della liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "b1e7e1b273e9"
+  },
+  "253": {
+   "file": "ccii.md",
+   "rubrica": "Nuova proposta di concordato",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "718314c38c5a"
+  },
+  "254": {
+   "file": "ccii.md",
+   "rubrica": "",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "2f6fabde9d36"
+  },
+  "255": {
+   "file": "ccii.md",
+   "rubrica": "Azioni di responsabilita'",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "135c183a78cc"
+  },
+  "256": {
+   "file": "ccii.md",
+   "rubrica": "Societa' con soci a responsabilita' illimitata",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "0a0c5bda155d"
+  },
+  "257": {
+   "file": "ccii.md",
+   "rubrica": "Liquidazione giudiziale della societa' e dei soci",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "0f7f7a85cf2b"
+  },
+  "258": {
+   "file": "ccii.md",
+   "rubrica": "Effetti sulla societa' dell'apertura della liquidazione giudiziale nei confronti dei soci",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "1cc1bbc62e77"
+  },
+  "259": {
+   "file": "ccii.md",
+   "rubrica": "Liquidazione giudiziale nei confronti di enti ed imprenditori collettivi non societari",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "59f29336980f"
+  },
+  "260": {
+   "file": "ccii.md",
+   "rubrica": "Versamenti dei soci a responsabilita' limitata",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "ddc97aad277d"
+  },
+  "261": {
+   "file": "ccii.md",
+   "rubrica": "Liquidazione giudiziale di societa' a responsabilita' limitata: polizza assicurativa e fideiussione bancaria",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "16d6af74b45e"
+  },
+  "262": {
+   "file": "ccii.md",
+   "rubrica": "Patrimoni destinati ad uno specifico affare",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "ff6c6d15645a"
+  },
+  "263": {
+   "file": "ccii.md",
+   "rubrica": "Patrimonio destinato incapiente e violazione delle regole di separatezza",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "186650d67831"
+  },
+  "264": {
+   "file": "ccii.md",
+   "rubrica": "Attribuzione al curatore dei poteri dell'assemblea",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "15b04547c681"
+  },
+  "265": {
+   "file": "ccii.md",
+   "rubrica": "Proposta di concordato nella liquidazione giudiziale della societa'",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "94cbe96e6b59"
+  },
+  "266": {
+   "file": "ccii.md",
+   "rubrica": "Effetti del concordato nella liquidazione giudiziale della societa'",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "600cf5a19f7e"
+  },
+  "267": {
+   "file": "ccii.md",
+   "rubrica": "Concordato del socio",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "ab1a9785e260"
+  },
+  "268": {
+   "file": "ccii.md",
+   "rubrica": "Liquidazione controllata",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "43270b9bf7f2"
+  },
+  "269": {
+   "file": "ccii.md",
+   "rubrica": "Domanda del debitore",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "6ef774f5b22e"
+  },
+  "270": {
+   "file": "ccii.md",
+   "rubrica": "Apertura della liquidazione controllata",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "91b2c186b3cd"
+  },
+  "271": {
+   "file": "ccii.md",
+   "rubrica": "Concorso di procedure",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "1a702ca2b905"
+  },
+  "272": {
+   "file": "ccii.md",
+   "rubrica": "Elenco dei creditori, inventario dei beni e programma di liquidazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "c3a54aecbbf4"
+  },
+  "273": {
+   "file": "ccii.md",
+   "rubrica": "Formazione del passivo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "e62775201e2a"
+  },
+  "274": {
+   "file": "ccii.md",
+   "rubrica": "Azioni del liquidatore",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "b5f817deefa3"
+  },
+  "275": {
+   "file": "ccii.md",
+   "rubrica": "Esecuzione del programma di liquidazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "a913dbd918bf"
+  },
+  "275-bis": {
+   "file": "ccii.md",
+   "rubrica": "Disciplina dei crediti prededucibili",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "d938ff5a4ed3"
+  },
+  "276": {
+   "file": "ccii.md",
+   "rubrica": "Chiusura della procedura",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "0824b3e4aeaf"
+  },
+  "277": {
+   "file": "ccii.md",
+   "rubrica": "Creditori posteriori",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "94ed7e1b4ba5"
+  },
+  "278": {
+   "file": "ccii.md",
+   "rubrica": "Oggetto e ambito di applicazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "0c0cb436f054"
+  },
+  "279": {
+   "file": "ccii.md",
+   "rubrica": "Condizioni temporali di accesso",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "7df82acd7c19"
+  },
+  "280": {
+   "file": "ccii.md",
+   "rubrica": "Condizioni per l'esdebitazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "3020cbb03e21"
+  },
+  "281": {
+   "file": "ccii.md",
+   "rubrica": "Procedimento",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "e5593e175ef1"
+  },
+  "282": {
+   "file": "ccii.md",
+   "rubrica": "Condizioni e procedimento di esdebitazione",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "4b785a1a9a0c"
+  },
+  "283": {
+   "file": "ccii.md",
+   "rubrica": "Esdebitazione del sovraindebitato incapiente",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "605946b7175c"
+  },
+  "284": {
+   "file": "ccii.md",
+   "rubrica": "Concordato, accordi di ristrutturazione e piano attestato di gruppo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "18c02021005b"
+  },
+  "284-bis": {
+   "file": "ccii.md",
+   "rubrica": "Trattamento dei crediti tributari e contributivi",
+   "vigore_da": "2026-08-12",
+   "datazione": "api",
+   "h": "29187a29da2b"
+  },
+  "285": {
+   "file": "ccii.md",
+   "rubrica": "Contenuto del piano o dei piani di gruppo e azioni a tutela dei creditori e dei soci",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "ba9ab8e05786"
+  },
+  "286": {
+   "file": "ccii.md",
+   "rubrica": "Procedimento di concordato di gruppo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "074450023557"
+  },
+  "287": {
+   "file": "ccii.md",
+   "rubrica": "Liquidazione giudiziale di gruppo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "4f79ef7774eb"
+  },
+  "288": {
+   "file": "ccii.md",
+   "rubrica": "Procedure concorsuali autonome di imprese appartenenti allo stesso gruppo",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "94232eb304dc"
+  },
+  "289": {
+   "file": "ccii.md",
+   "rubrica": "Domanda di accesso e obblighi di informazione e collaborazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "4eca3f3c5c97"
+  },
+  "290": {
+   "file": "ccii.md",
+   "rubrica": "Azioni di inefficacia fra imprese del gruppo",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "08383bf8ec50"
+  },
+  "291": {
+   "file": "ccii.md",
+   "rubrica": "Azioni di responsabilita' e denuncia di gravi irregolarita' di gestione nei confronti di imprese del gruppo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "90f3f6babf6d"
+  },
+  "292": {
+   "file": "ccii.md",
+   "rubrica": "Postergazione del rimborso dei crediti da finanziamenti infragruppo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "1420a1434a92"
+  },
+  "293": {
+   "file": "ccii.md",
+   "rubrica": "Disciplina applicabile e presupposti",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "ca13d34373ed"
+  },
+  "294": {
+   "file": "ccii.md",
+   "rubrica": "Rinvio alle norme speciali",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "5af2bcd02f64"
+  },
+  "295": {
+   "file": "ccii.md",
+   "rubrica": "Liquidazione coatta amministrativa e liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "fabcac0c088b"
+  },
+  "296": {
+   "file": "ccii.md",
+   "rubrica": "Rapporti tra concordato preventivo e liquidazione coatta amministrativa",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "43ff8a5494b5"
+  },
+  "297": {
+   "file": "ccii.md",
+   "rubrica": "Accertamento giudiziario dello stato di insolvenza anteriore alla liquidazione coatta amministrativa",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "8e5632b6002f"
+  },
+  "298": {
+   "file": "ccii.md",
+   "rubrica": "Accertamento giudiziario dello stato d'insolvenza successivo alla liquidazione coatta amministrativa",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "98c4d30361ea"
+  },
+  "299": {
+   "file": "ccii.md",
+   "rubrica": "Effetti dell'accertamento giudiziario dello stato d'insolvenza",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3f939185d6ff"
+  },
+  "300": {
+   "file": "ccii.md",
+   "rubrica": "Provvedimento di liquidazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "0d949e2a8a55"
+  },
+  "301": {
+   "file": "ccii.md",
+   "rubrica": "Organi della liquidazione coatta amministrativa",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "ed6e35d27a06"
+  },
+  "302": {
+   "file": "ccii.md",
+   "rubrica": "Responsabilita' del commissario liquidatore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "561e4a33aa23"
+  },
+  "303": {
+   "file": "ccii.md",
+   "rubrica": "Effetti del provvedimento di liquidazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "d8cffde5b643"
+  },
+  "304": {
+   "file": "ccii.md",
+   "rubrica": "Effetti della liquidazione per i creditori e sui rapporti giuridici preesistenti",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "342c55e2dffd"
+  },
+  "305": {
+   "file": "ccii.md",
+   "rubrica": "Commissario liquidatore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "688e8e33a8e4"
+  },
+  "306": {
+   "file": "ccii.md",
+   "rubrica": "Relazione del commissario",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "83a450113927"
+  },
+  "307": {
+   "file": "ccii.md",
+   "rubrica": "Poteri del commissario",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "51d8a731d79e"
+  },
+  "308": {
+   "file": "ccii.md",
+   "rubrica": "Comunicazione ai creditori e ai terzi",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "83019736e61a"
+  },
+  "309": {
+   "file": "ccii.md",
+   "rubrica": "Domande dei creditori e dei terzi",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "ec73d1a5e651"
+  },
+  "310": {
+   "file": "ccii.md",
+   "rubrica": "Formazione dello stato passivo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "0e6d17a9dca2"
+  },
+  "311": {
+   "file": "ccii.md",
+   "rubrica": "Liquidazione dell'attivo",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3f616db20fa7"
+  },
+  "312": {
+   "file": "ccii.md",
+   "rubrica": "Ripartizione dell'attivo",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "ea4c39870436"
+  },
+  "313": {
+   "file": "ccii.md",
+   "rubrica": "Chiusura della liquidazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "932f4d76cca4"
+  },
+  "314": {
+   "file": "ccii.md",
+   "rubrica": "Concordato della liquidazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8ec49a720d64"
+  },
+  "315": {
+   "file": "ccii.md",
+   "rubrica": "Risoluzione e annullamento del concordato",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "e208e4727f8b"
+  },
+  "316": {
+   "file": "ccii.md",
+   "rubrica": "Funzioni delle autorita' amministrative di vigilanza",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8bd7cb790f01"
+  },
+  "317": {
+   "file": "ccii.md",
+   "rubrica": "Principio di prevalenza delle misure cautelari reali e tutela dei terzi",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "966661c7a33d"
+  },
+  "318": {
+   "file": "ccii.md",
+   "rubrica": "Sequestro preventivo",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "1d7bffe1fc10"
+  },
+  "319": {
+   "file": "ccii.md",
+   "rubrica": "Sequestro conservativo",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "393b06d7e1d4"
+  },
+  "320": {
+   "file": "ccii.md",
+   "rubrica": "Legittimazione del curatore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "331d647e5b03"
+  },
+  "321": {
+   "file": "ccii.md",
+   "rubrica": "Liquidazione coatta amministrativa e misure di prevenzione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "282452b0ea53"
+  },
+  "322": {
+   "file": "ccii.md",
+   "rubrica": "Bancarotta fraudolenta",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "bf816edc31b2"
+  },
+  "323": {
+   "file": "ccii.md",
+   "rubrica": "Bancarotta semplice",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "dd65acee05c6"
+  },
+  "324": {
+   "file": "ccii.md",
+   "rubrica": "Esenzioni dai reati di bancarotta",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "93d0d2ca3927"
+  },
+  "325": {
+   "file": "ccii.md",
+   "rubrica": "Ricorso abusivo al credito",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "535913503bc3"
+  },
+  "326": {
+   "file": "ccii.md",
+   "rubrica": "Circostanze aggravanti e circostanza attenuante",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "2f4efbebc5b0"
+  },
+  "327": {
+   "file": "ccii.md",
+   "rubrica": "Denuncia di creditori inesistenti e altre inosservanze da parte dell'imprenditore in liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "afeac13aaf2b"
+  },
+  "328": {
+   "file": "ccii.md",
+   "rubrica": "Liquidazione giudiziale delle societa' in nome collettivo e in accomandita semplice",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3dfbba38c054"
+  },
+  "329": {
+   "file": "ccii.md",
+   "rubrica": "Fatti di bancarotta fraudolenta",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "a8b0e7a04b6e"
+  },
+  "330": {
+   "file": "ccii.md",
+   "rubrica": "Fatti di bancarotta semplice",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "a48f0d104f64"
+  },
+  "331": {
+   "file": "ccii.md",
+   "rubrica": "Ricorso abusivo al credito",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "5fc9d20c66bb"
+  },
+  "332": {
+   "file": "ccii.md",
+   "rubrica": "Denuncia di crediti inesistenti",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "b3535ae2ae24"
+  },
+  "333": {
+   "file": "ccii.md",
+   "rubrica": "Reati dell'institore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "70d758003a15"
+  },
+  "334": {
+   "file": "ccii.md",
+   "rubrica": "Interesse privato del curatore negli atti della liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "cca854a4a35f"
+  },
+  "335": {
+   "file": "ccii.md",
+   "rubrica": "Accettazione di retribuzione non dovuta",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "6658594a35d5"
+  },
+  "336": {
+   "file": "ccii.md",
+   "rubrica": "Omessa consegna o deposito di cose della liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "29354e9f8d94"
+  },
+  "337": {
+   "file": "ccii.md",
+   "rubrica": "Coadiutori del curatore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "d9b24f6f9f88"
+  },
+  "338": {
+   "file": "ccii.md",
+   "rubrica": "Domande di ammissione di crediti simulati o distrazioni senza concorso con l'imprenditore in liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "fa818f2c18a9"
+  },
+  "339": {
+   "file": "ccii.md",
+   "rubrica": "Mercato di voto",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "49d392a9fd18"
+  },
+  "340": {
+   "file": "ccii.md",
+   "rubrica": "Esercizio abusivo di attivita' commerciale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "95551ff68683"
+  },
+  "341": {
+   "file": "ccii.md",
+   "rubrica": "Concordato preventivo e accordo di ristrutturazione con intermediari finanziari e convenzione di moratoria",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "ea0245acd10b"
+  },
+  "342": {
+   "file": "ccii.md",
+   "rubrica": "Falso in attestazioni e relazioni",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "9d4b7da0685c"
+  },
+  "343": {
+   "file": "ccii.md",
+   "rubrica": "Liquidazione coatta amministrativa",
+   "vigore_da": "2024-01-31",
+   "datazione": "api",
+   "h": "686e84d3e908"
+  },
+  "344": {
+   "file": "ccii.md",
+   "rubrica": "Sanzioni per il debitore e per i componenti dell'organismo di composizione della crisi",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "e06592cd4a1c"
+  },
+  "345": {
+   "file": "ccii.md",
+   "rubrica": "",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8110704bc383"
+  },
+  "346": {
+   "file": "ccii.md",
+   "rubrica": "Esercizio dell'azione penale per reati in materia di liquidazione giudiziale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "2b76c07ad0bd"
+  },
+  "347": {
+   "file": "ccii.md",
+   "rubrica": "Costituzione di parte civile",
+   "vigore_da": "2024-01-31",
+   "datazione": "api",
+   "h": "b563aafd7813"
+  },
+  "348": {
+   "file": "ccii.md",
+   "rubrica": "Adeguamento delle soglie dell'impresa minore",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "902148913532"
+  },
+  "349": {
+   "file": "ccii.md",
+   "rubrica": "Sostituzione dei termini fallimento e fallito",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "0dcacba57b25"
+  },
+  "350": {
+   "file": "ccii.md",
+   "rubrica": "Modifiche alla disciplina dell'amministrazione straordinaria",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "8fe993af0eff"
+  },
+  "351": {
+   "file": "ccii.md",
+   "rubrica": "",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "fc3594306cf7"
+  },
+  "352": {
+   "file": "ccii.md",
+   "rubrica": "",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "fc3594306cf7"
+  },
+  "353": {
+   "file": "ccii.md",
+   "rubrica": "Istituzione di un osservatorio permanente",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "ede1fbb1d482"
+  },
+  "354": {
+   "file": "ccii.md",
+   "rubrica": "",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "fc3594306cf7"
+  },
+  "355": {
+   "file": "ccii.md",
+   "rubrica": "Relazione al Parlamento",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "eb6eecdfbdce"
+  },
+  "356": {
+   "file": "ccii.md",
+   "rubrica": "",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "db279ee936b8"
+  },
+  "357": {
+   "file": "ccii.md",
+   "rubrica": "Funzionamento dell'elenco",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "1ecf1e31268c"
+  },
+  "358": {
+   "file": "ccii.md",
+   "rubrica": "Requisiti per la nomina agli incarichi nelle procedure",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "9d52f253d920"
+  },
+  "359": {
+   "file": "ccii.md",
+   "rubrica": "",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "2f6fabde9d36"
+  },
+  "360": {
+   "file": "ccii.md",
+   "rubrica": "",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "438391c88748"
+  },
+  "361": {
+   "file": "ccii.md",
+   "rubrica": "",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "2f6fabde9d36"
+  },
+  "362": {
+   "file": "ccii.md",
+   "rubrica": "Trattazione delle controversie concorsuali presso la Corte di cassazione",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "fed1e2f0f61d"
+  },
+  "363": {
+   "file": "ccii.md",
+   "rubrica": "Certificazione dei debiti contributivi e per premi assicurativi",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "e573396fc60a"
+  },
+  "364": {
+   "file": "ccii.md",
+   "rubrica": "Certificazione dei debiti tributari",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "49c6cb6de5c7"
+  },
+  "365": {
+   "file": "ccii.md",
+   "rubrica": "Informazioni sui debiti fiscali, contributivi e per premi assicurativi",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "830d5cef78cc"
+  },
+  "366": {
+   "file": "ccii.md",
+   "rubrica": "Modifica all'articolo 147 del Testo unico in materia di spese di giustizia",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "51d543badf56"
+  },
+  "367": {
+   "file": "ccii.md",
+   "rubrica": "Modalita' di accesso alle informazioni sui debiti risultanti da banche dati pubbliche",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "5671734b1c34"
+  },
+  "368": {
+   "file": "ccii.md",
+   "rubrica": "Coordinamento con la disciplina del diritto del lavoro",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "f43035585a31"
+  },
+  "369": {
+   "file": "ccii.md",
+   "rubrica": "Norme di coordinamento con le disposizioni del decreto legislativo 1° settembre 1993, n. 385 e del decreto legislativo 16 novembre 2015, n. 180",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "66d6a856e0f8"
+  },
+  "370": {
+   "file": "ccii.md",
+   "rubrica": "Norme di coordinamento con le disposizioni del decreto legislativo 7 settembre 2005, n. 209",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "563420748233"
+  },
+  "371": {
+   "file": "ccii.md",
+   "rubrica": "Norme di coordinamento con l'articolo 16 delle disposizioni di attuazione del codice civile",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "ef2bc6eea5f3"
+  },
+  "372": {
+   "file": "ccii.md",
+   "rubrica": "Modifiche al codice dei contratti pubblici di cui al decreto legislativo 18 aprile 2016, n. 50",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "7f24af836498"
+  },
+  "373": {
+   "file": "ccii.md",
+   "rubrica": "Coordinamento con le norme di attuazione del codice di procedura penale",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "ccc29bfb5a89"
+  },
+  "374": {
+   "file": "ccii.md",
+   "rubrica": "Abrogazioni",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "62f169907964"
+  },
+  "375": {
+   "file": "ccii.md",
+   "rubrica": "Assetti organizzativi dell'impresa",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "7f167540c429"
+  },
+  "376": {
+   "file": "ccii.md",
+   "rubrica": "Crisi dell'impresa e rapporti di lavoro",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3a805ad47471"
+  },
+  "377": {
+   "file": "ccii.md",
+   "rubrica": "Assetti organizzativi societari",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "f7376e83de55"
+  },
+  "378": {
+   "file": "ccii.md",
+   "rubrica": "Responsabilita' degli amministratori",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "feade0290637"
+  },
+  "379": {
+   "file": "ccii.md",
+   "rubrica": "Nomina degli organi di controllo",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "fc4cf5b2ad1c"
+  },
+  "380": {
+   "file": "ccii.md",
+   "rubrica": "Cause di scioglimento delle societa' di capitali",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "c924e2347fd6"
+  },
+  "381": {
+   "file": "ccii.md",
+   "rubrica": "Disposizioni in materia di societa' cooperative ed enti mutualistici",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "c70718668eb0"
+  },
+  "382": {
+   "file": "ccii.md",
+   "rubrica": "Cause di scioglimento delle societa' di persone",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "832005807660"
+  },
+  "383": {
+   "file": "ccii.md",
+   "rubrica": "Finanziamenti dei soci",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "ff7effce8972"
+  },
+  "384": {
+   "file": "ccii.md",
+   "rubrica": "Abrogazioni di disposizioni del codice civile",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "0913bf4e1a30"
+  },
+  "385": {
+   "file": "ccii.md",
+   "rubrica": "Modifiche all'articolo 3 del decreto legislativo n. 122 del 2005",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "626193c5d6b4"
+  },
+  "386": {
+   "file": "ccii.md",
+   "rubrica": "Modifiche all'articolo 4 del decreto legislativo n. 122 del 2005",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "3c31dbf9b6c3"
+  },
+  "387": {
+   "file": "ccii.md",
+   "rubrica": "Modifiche all'articolo 5 del decreto legislativo n. 122 del 2005",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "f62eb0dc11ce"
+  },
+  "388": {
+   "file": "ccii.md",
+   "rubrica": "Modifiche all'articolo 6 del decreto legislativo n. 122 del 2005",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "87bd438a4155"
+  },
+  "389": {
+   "file": "ccii.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2023-02-28",
+   "datazione": "api",
+   "h": "1b5be655ce60"
+  },
+  "390": {
+   "file": "ccii.md",
+   "rubrica": "Disciplina transitoria",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "d6ae83e13cb8"
+  },
+  "391": {
+   "file": "ccii.md",
+   "rubrica": "Disposizioni finanziarie e finali",
+   "vigore_da": "2022-07-15",
+   "datazione": "api",
+   "h": "0c4fd1aa38d1"
+  }
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "_meta": {
+  "codice": "l-53-1994",
+  "nome": "Notificazioni degli avvocati (L. 53/1994)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2024-11-26",
+  "articoli": 14,
+  "file": [
+   "l-53-1994.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1994-01-21;53",
+  "versioni": [
+   {
+    "data": "1994-01-26",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2005-12-28",
+    "evento": "rp1",
+    "atto_modificante": "L. 28 dicembre 2005, n. 263"
+   },
+   {
+    "data": "2011-11-14",
+    "evento": "rp2",
+    "atto_modificante": "L. 12 novembre 2011, n. 183"
+   },
+   {
+    "data": "2012-12-29",
+    "evento": "rp3",
+    "atto_modificante": "L. 24 dicembre 2012, n. 228"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 90"
+   },
+   {
+    "data": "2015-06-27",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 27 giugno 2015, n. 83"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp6",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp7",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2023-05-10",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 10 maggio 2023, n. 51"
+   },
+   {
+    "data": "2023-07-05",
+    "evento": "rp9",
+    "atto_modificante": "L. 3 luglio 2023, n. 87"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 30 dicembre 2023, n. 215"
+   },
+   {
+    "data": "2024-02-28",
+    "evento": "rp11",
+    "atto_modificante": "L. 23 febbraio 2024, n. 18"
+   },
+   {
+    "data": "2024-03-02",
+    "evento": "rp12",
+    "atto_modificante": "D.L. 2 marzo 2024, n. 19"
+   },
+   {
+    "data": "2024-04-30",
+    "evento": "rp13",
+    "atto_modificante": "L. 29 aprile 2024, n. 56"
+   },
+   {
+    "data": "2024-11-11",
+    "evento": "rp14",
+    "atto_modificante": "D.Lgs. 31 ottobre 2024, n. 164"
+   }
+  ],
+  "ultima_versione": "2024-11-11",
+  "datazione": {
+   "monoblocco": 14,
+   "api": 14,
+   "ignota": 0,
+   "stima_anteriore": 11,
+   "chiamate": 14,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "2014-08-19",
+   "datazione": "api",
+   "h": "6c0b821a66ef"
+  },
+  "2": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "2013-01-01",
+   "datazione": "api",
+   "h": "b425802b421c"
+  },
+  "3": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "2024-05-01",
+   "datazione": "api",
+   "h": "ab1730bfd35f"
+  },
+  "3-bis": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "ec49045408dd"
+  },
+  "3-ter": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "d37c64bbdbe6"
+  },
+  "4": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "03ab0b23de52"
+  },
+  "5": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "2013-01-01",
+   "datazione": "api",
+   "h": "05492d1b913e"
+  },
+  "6": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "2013-01-01",
+   "datazione": "api",
+   "h": "d73f28e5e31a"
+  },
+  "7": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "2014-08-19",
+   "datazione": "api",
+   "h": "4d482421c292"
+  },
+  "8": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "2013-01-01",
+   "datazione": "api",
+   "h": "eaefd5bf46ae"
+  },
+  "9": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "9b830a025e84"
+  },
+  "10": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "2014-08-19",
+   "datazione": "api",
+   "h": "4f6cd3e949d8"
+  },
+  "12": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "1994-07-01",
+   "datazione": "api",
+   "h": "c41351898d89"
+  },
+  "13": {
+   "file": "l-53-1994.md",
+   "rubrica": "",
+   "vigore_da": "1994-07-01",
+   "datazione": "api",
+   "h": "9586793451f9"
+  }
+ }
+}

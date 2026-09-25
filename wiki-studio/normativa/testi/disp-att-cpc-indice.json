@@ -1,0 +1,1856 @@
+{
+ "_meta": {
+  "codice": "disp-att-cpc",
+  "nome": "Disposizioni di attuazione del c.p.c.",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2024-11-26",
+  "articoli": 307,
+  "file": [
+   "disp-att-cpc.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:regio.decreto:1941-12-18;1368:1",
+  "versioni": [
+   {
+    "data": "1941-12-24",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1942-05-26",
+    "evento": "rp1",
+    "atto_modificante": "R.D. 20 aprile 1942, n. 504"
+   },
+   {
+    "data": "1945-11-13",
+    "evento": "rp2",
+    "atto_modificante": "Decreto Legislativo Luogotenenziale 12 ottobre 1945, n. 700"
+   },
+   {
+    "data": "1950-11-02",
+    "evento": "rp3",
+    "atto_modificante": "D.P.R. 17 ottobre 1950, n. 857"
+   },
+   {
+    "data": "1959-05-20",
+    "evento": "rp4",
+    "atto_modificante": "L. 28 aprile 1959, n. 275"
+   },
+   {
+    "data": "1973-09-13",
+    "evento": "rp5",
+    "atto_modificante": "L. 11 agosto 1973, n. 533"
+   },
+   {
+    "data": "1977-11-02",
+    "evento": "rp6",
+    "atto_modificante": "L. 18 ottobre 1977, n. 793"
+   },
+   {
+    "data": "1979-02-26",
+    "evento": "rp7",
+    "atto_modificante": "L. 7 febbraio 1979, n. 59"
+   },
+   {
+    "data": "1979-08-01",
+    "evento": "rp8",
+    "atto_modificante": "atto modificante non indicato (rp8)"
+   },
+   {
+    "data": "1980-07-15",
+    "evento": "rp9",
+    "atto_modificante": "L. 8 luglio 1980, n. 319"
+   },
+   {
+    "data": "1990-12-01",
+    "evento": "rp10",
+    "atto_modificante": "L. 26 novembre 1990, n. 353"
+   },
+   {
+    "data": "1991-11-27",
+    "evento": "rp11",
+    "atto_modificante": "L. 21 novembre 1991, n. 374"
+   },
+   {
+    "data": "1991-12-18",
+    "evento": "rp12",
+    "atto_modificante": "L. 2 dicembre 1991, n. 399"
+   },
+   {
+    "data": "1992-09-19",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 19 settembre 1992, n. 384"
+   },
+   {
+    "data": "1992-12-12",
+    "evento": "rp14",
+    "atto_modificante": "L. 4 dicembre 1992, n. 477"
+   },
+   {
+    "data": "1994-01-17",
+    "evento": "rp15",
+    "atto_modificante": "L. 5 gennaio 1994, n. 25"
+   },
+   {
+    "data": "1994-04-20",
+    "evento": "rp16",
+    "atto_modificante": "atto modificante non indicato (rp16)"
+   },
+   {
+    "data": "1994-10-10",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 7 ottobre 1994, n. 571"
+   },
+   {
+    "data": "1998-03-20",
+    "evento": "rp18",
+    "atto_modificante": "D.Lgs. 19 febbraio 1998, n. 51"
+   },
+   {
+    "data": "1998-06-19",
+    "evento": "rp19",
+    "atto_modificante": "L. 16 giugno 1998, n. 188"
+   },
+   {
+    "data": "1998-08-24",
+    "evento": "rp20",
+    "atto_modificante": "L. 3 agosto 1998, n. 302"
+   },
+   {
+    "data": "2002-03-12",
+    "evento": "rp21",
+    "atto_modificante": "D.L. 11 marzo 2002, n. 28"
+   },
+   {
+    "data": "2002-06-15",
+    "evento": "rp22",
+    "atto_modificante": "D.P.R. 30 maggio 2002, n. 115"
+   },
+   {
+    "data": "2003-10-02",
+    "evento": "rp23",
+    "atto_modificante": "D.L. 30 settembre 2003, n. 269"
+   },
+   {
+    "data": "2005-03-16",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 14 marzo 2005, n. 35"
+   },
+   {
+    "data": "2005-07-01",
+    "evento": "rp25",
+    "atto_modificante": "D.L. 30 giugno 2005, n. 115"
+   },
+   {
+    "data": "2005-12-28",
+    "evento": "rp26",
+    "atto_modificante": "L. 28 dicembre 2005, n. 263"
+   },
+   {
+    "data": "2005-12-30",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 30 dicembre 2005, n. 273"
+   },
+   {
+    "data": "2006-02-15",
+    "evento": "rp28",
+    "atto_modificante": "D.Lgs. 2 febbraio 2006, n. 40"
+   },
+   {
+    "data": "2006-02-28",
+    "evento": "rp29",
+    "atto_modificante": "L. 24 febbraio 2006, n. 52"
+   },
+   {
+    "data": "2009-06-19",
+    "evento": "rp30",
+    "atto_modificante": "L. 18 giugno 2009, n. 69"
+   },
+   {
+    "data": "2009-12-30",
+    "evento": "rp31",
+    "atto_modificante": "D.L. 29 dicembre 2009, n. 193"
+   },
+   {
+    "data": "2011-07-06",
+    "evento": "rp32",
+    "atto_modificante": "D.L. 6 luglio 2011, n. 98"
+   },
+   {
+    "data": "2011-08-13",
+    "evento": "rp33",
+    "atto_modificante": "D.L. 13 agosto 2011, n. 138"
+   },
+   {
+    "data": "2011-11-14",
+    "evento": "rp34",
+    "atto_modificante": "L. 12 novembre 2011, n. 183"
+   },
+   {
+    "data": "2012-10-19",
+    "evento": "rp35",
+    "atto_modificante": "D.L. 18 ottobre 2012, n. 179"
+   },
+   {
+    "data": "2012-12-29",
+    "evento": "rp36",
+    "atto_modificante": "L. 24 dicembre 2012, n. 228"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp37",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 90"
+   },
+   {
+    "data": "2014-09-12",
+    "evento": "rp38",
+    "atto_modificante": "D.L. 12 settembre 2014, n. 132"
+   },
+   {
+    "data": "2015-06-27",
+    "evento": "rp39",
+    "atto_modificante": "D.L. 27 giugno 2015, n. 83"
+   },
+   {
+    "data": "2015-12-30",
+    "evento": "rp40",
+    "atto_modificante": "D.L. 30 dicembre 2015, n. 210"
+   },
+   {
+    "data": "2016-05-03",
+    "evento": "rp41",
+    "atto_modificante": "D.L. 3 maggio 2016, n. 59"
+   },
+   {
+    "data": "2017-11-22",
+    "evento": "rp42",
+    "atto_modificante": "atto modificante non indicato (rp42)"
+   },
+   {
+    "data": "2017-12-29",
+    "evento": "rp43",
+    "atto_modificante": "L. 27 dicembre 2017, n. 205"
+   },
+   {
+    "data": "2019-04-18",
+    "evento": "rp44",
+    "atto_modificante": "L. 12 aprile 2019, n. 31"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp45",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp46",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2020-04-30",
+    "evento": "rp47",
+    "atto_modificante": "D.L. 30 aprile 2020, n. 28"
+   },
+   {
+    "data": "2020-06-29",
+    "evento": "rp48",
+    "atto_modificante": "L. 25 giugno 2020, n. 70"
+   },
+   {
+    "data": "2020-10-28",
+    "evento": "rp49",
+    "atto_modificante": "D.L. 28 ottobre 2020, n. 137"
+   },
+   {
+    "data": "2020-11-09",
+    "evento": "rp50",
+    "atto_modificante": "D.L. 9 novembre 2020, n. 149"
+   },
+   {
+    "data": "2020-12-24",
+    "evento": "rp51",
+    "atto_modificante": "L. 18 dicembre 2020, n. 176"
+   },
+   {
+    "data": "2021-05-22",
+    "evento": "rp52",
+    "atto_modificante": "L. 22 aprile 2021, n. 70"
+   },
+   {
+    "data": "2021-12-09",
+    "evento": "rp53",
+    "atto_modificante": "L. 26 novembre 2021, n. 206"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp54",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp55",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2023-02-24",
+    "evento": "rp56",
+    "atto_modificante": "D.L. 24 febbraio 2023, n. 13"
+   },
+   {
+    "data": "2024-03-02",
+    "evento": "rp57",
+    "atto_modificante": "D.L. 2 marzo 2024, n. 19"
+   },
+   {
+    "data": "2024-04-30",
+    "evento": "rp58",
+    "atto_modificante": "L. 29 aprile 2024, n. 56"
+   },
+   {
+    "data": "2024-11-11",
+    "evento": "rp59",
+    "atto_modificante": "D.Lgs. 31 ottobre 2024, n. 164"
+   }
+  ],
+  "ultima_versione": "2024-11-11"
+ },
+ "articoli": {
+  "1": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1942-01-08"
+  },
+  "2": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Intervento davanti all'istruttore",
+   "vigore_da": "1951-01-01"
+  },
+  "3": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Intervento davanti al collegio",
+   "vigore_da": "2024-11-26"
+  },
+  "4": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Albo degli esperti",
+   "vigore_da": "1942-01-08"
+  },
+  "5": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Formazione dell'albo",
+   "vigore_da": "1942-01-08"
+  },
+  "6": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Proposte d'iscrizione",
+   "vigore_da": "1942-01-08"
+  },
+  "7": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Requisiti per l'iscrizione",
+   "vigore_da": "1942-01-08"
+  },
+  "8": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Revisione dell'albo",
+   "vigore_da": "1942-01-08"
+  },
+  "9": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ruolo degli esperti",
+   "vigore_da": "1942-01-08"
+  },
+  "10": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Composizione del collegio giudicante",
+   "vigore_da": "1942-01-08"
+  },
+  "11": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Astensione e ricusazione degli esperti",
+   "vigore_da": "1942-01-08"
+  },
+  "12": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Indennita' dovute agli esperti",
+   "vigore_da": "1942-01-08"
+  },
+  "12-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Dei mediatori familiari",
+   "vigore_da": "2024-11-26"
+  },
+  "12-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Formazione e revisione dell'elenco",
+   "vigore_da": "2023-01-01"
+  },
+  "12-quater": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Iscrizione nell'elenco",
+   "vigore_da": "2023-01-01"
+  },
+  "12-quinquies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Domande di iscrizione",
+   "vigore_da": "2024-11-26"
+  },
+  "12-sexies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Disciplina dell'attivita' di mediatore",
+   "vigore_da": "2023-01-01"
+  },
+  "13": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Albo dei consulenti tecnici",
+   "vigore_da": "2024-11-26"
+  },
+  "14": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Formazione dell'albo",
+   "vigore_da": "1945-11-28"
+  },
+  "15": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2023-01-01"
+  },
+  "16": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Domande d'iscrizione",
+   "vigore_da": "2024-11-26"
+  },
+  "17": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Informazioni",
+   "vigore_da": "1942-01-08"
+  },
+  "18": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Revisione dell'albo",
+   "vigore_da": "2023-01-01"
+  },
+  "19": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Disciplina",
+   "vigore_da": "1942-01-08"
+  },
+  "20": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Sanzioni disciplinari",
+   "vigore_da": "1942-01-08"
+  },
+  "21": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Procedimento disciplinare",
+   "vigore_da": "2024-11-26"
+  },
+  "22": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Distribuzione degli incarichi",
+   "vigore_da": "2023-01-01"
+  },
+  "23": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Vigilanza sulla distribuzione degli incarichi",
+   "vigore_da": "2023-01-01"
+  },
+  "24": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2002-07-01"
+  },
+  "24-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Elenco nazionale dei consulenti tecnici",
+   "vigore_da": "2023-01-01"
+  },
+  "25": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Istituzione e formazione dell'albo",
+   "vigore_da": "1942-01-08"
+  },
+  "26": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Iscrizione nell'albo",
+   "vigore_da": "1942-01-08"
+  },
+  "27": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Consulenti in materie regolate da norme corporative o da accordi economici",
+   "vigore_da": "1942-01-08"
+  },
+  "28": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Registri di cancelleria",
+   "vigore_da": "1992-01-02"
+  },
+  "29": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1992-01-02"
+  },
+  "30": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1992-01-02"
+  },
+  "31": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1992-01-02"
+  },
+  "32": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1992-01-02"
+  },
+  "33": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Divisione dei registri in piu' volumi",
+   "vigore_da": "1942-01-08"
+  },
+  "34": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1992-01-02"
+  },
+  "35": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Volumi dei provvedimenti originali",
+   "vigore_da": "1998-07-04"
+  },
+  "36": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Fascicoli di cancelleria",
+   "vigore_da": "2024-03-02"
+  },
+  "37": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1992-01-02"
+  },
+  "38": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2002-07-01"
+  },
+  "39": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2002-07-01"
+  },
+  "40": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2002-07-01"
+  },
+  "41": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2002-07-01"
+  },
+  "42": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2002-07-01"
+  },
+  "43": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2002-07-01"
+  },
+  "44": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Compilazione dei processi verbali",
+   "vigore_da": "1942-01-08"
+  },
+  "45": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Forma delle comunicazioni del cancelliere",
+   "vigore_da": "2024-11-26"
+  },
+  "46": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Forma e criteri di redazione degli atti giudiziari",
+   "vigore_da": "2024-11-26"
+  },
+  "47": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ora della notificazione",
+   "vigore_da": "1942-01-08"
+  },
+  "48": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Avviso al destinatario della notificazione",
+   "vigore_da": "1942-01-08"
+  },
+  "49": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Nota da consegnarsi al pubblico ministero",
+   "vigore_da": "1942-01-08"
+  },
+  "50": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Istanza di autorizzazione alla notificazione per pubblici proclami",
+   "vigore_da": "1942-01-08"
+  },
+  "51": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Destinazione della copia dell'atto notificato depositata in cancelleria",
+   "vigore_da": "1942-01-08"
+  },
+  "52": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Liquidazione del compenso",
+   "vigore_da": "1942-01-08"
+  },
+  "53": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Contenuto ed efficacia dei provvedimenti che liquidano compensi",
+   "vigore_da": "1942-01-08"
+  },
+  "54": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Determinazione dei giorni d'udienza",
+   "vigore_da": "1998-07-04"
+  },
+  "55": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Distribuzione delle udienze tra i magistrati",
+   "vigore_da": "1998-07-04"
+  },
+  "56": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Designazione del giudice per ciascuna causa",
+   "vigore_da": "2024-11-26"
+  },
+  "57": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Rinvio dell'udienza di comparizione",
+   "vigore_da": "1998-07-04"
+  },
+  "58": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Mancanza di dichiarazione di residenza o di elezione di domicilio",
+   "vigore_da": "2024-11-26"
+  },
+  "59": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Dichiarazione di contumacia",
+   "vigore_da": "1998-07-04"
+  },
+  "60": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Tempo degli atti di istruzione",
+   "vigore_da": "1998-07-04"
+  },
+  "61": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ordine di trattazione e discussione delle cause",
+   "vigore_da": "1998-07-04"
+  },
+  "62": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Udienza di discussione",
+   "vigore_da": "1998-07-04"
+  },
+  "63": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Giudice decidente",
+   "vigore_da": "1998-07-04"
+  },
+  "64": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1998-07-18"
+  },
+  "65": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Querela di falso",
+   "vigore_da": "1998-07-04"
+  },
+  "66": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1998-03-21"
+  },
+  "67": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1998-03-21"
+  },
+  "68": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Istanza di conciliazione",
+   "vigore_da": "1998-03-21"
+  },
+  "69": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Mancata comparizione della parte invitata",
+   "vigore_da": "1998-03-21"
+  },
+  "69-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Determinazione delle udienze di prima comparizione",
+   "vigore_da": "1994-12-10"
+  },
+  "70": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Istanza, di abbreviazione dei termini di comparizione",
+   "vigore_da": "2024-11-26"
+  },
+  "70-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Computo dei termini di comparizione",
+   "vigore_da": "1951-01-01"
+  },
+  "70-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2024-11-26"
+  },
+  "71": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Iscrizione a ruolo della causa",
+   "vigore_da": "2024-11-26"
+  },
+  "72": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2024-11-26"
+  },
+  "73": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2024-11-26"
+  },
+  "74": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Fascicolo d'ufficio e fascicoli di parte",
+   "vigore_da": "2024-11-26"
+  },
+  "75": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Nota delle spese",
+   "vigore_da": "2024-11-26"
+  },
+  "76": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Potere delle parti sui fascicoli",
+   "vigore_da": "2024-11-26"
+  },
+  "77": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ritiro del fascicolo cartaceo di parte",
+   "vigore_da": "2024-11-26"
+  },
+  "78": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Astensione del giudice istruttore",
+   "vigore_da": "1942-01-08"
+  },
+  "79": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Sostituzione del giudice istruttore",
+   "vigore_da": "1942-01-08"
+  },
+  "80": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Determinazione delle udienze dei giudici istruttori",
+   "vigore_da": "1951-01-01"
+  },
+  "80-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Rinvio al collegio nell'udienza di prima comparizione",
+   "vigore_da": "1951-01-01"
+  },
+  "81": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Fissazione delle udienze d'istruzione",
+   "vigore_da": "1951-01-01"
+  },
+  "81-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Calendario del processo",
+   "vigore_da": "2023-02-28"
+  },
+  "82": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Rinvio delle udienze di prima comparizione e d'istruzione",
+   "vigore_da": "1994-12-10"
+  },
+  "83": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ordine di trattazione delle cause",
+   "vigore_da": "1942-01-08"
+  },
+  "83-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Trattazione scritta della causa",
+   "vigore_da": "1951-01-01"
+  },
+  "83-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Inosservanza delle disposizioni sulle attribuzioni delle sezioni distaccate del tribunale",
+   "vigore_da": "1998-07-04"
+  },
+  "84": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Svolgimento delle udienze",
+   "vigore_da": "1942-01-08"
+  },
+  "85": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Istanza per imposizione di cauzione",
+   "vigore_da": "1942-01-08"
+  },
+  "86": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Forma della cauzione",
+   "vigore_da": "1942-01-08"
+  },
+  "87": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Produzione dei documenti",
+   "vigore_da": "2023-01-01"
+  },
+  "88": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Processo verbale di avvenuta conciliazione",
+   "vigore_da": "2020-06-30"
+  },
+  "89": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ordinanza sull'astensione o ricusazione del consulente tecnico",
+   "vigore_da": "1942-01-08"
+  },
+  "90": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Indagini del consulente senza la presenza del giudice",
+   "vigore_da": "1942-01-08"
+  },
+  "91": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Comunicazioni a consulenti di parte",
+   "vigore_da": "1942-01-08"
+  },
+  "92": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Questioni sorte durante le indagini del consulente",
+   "vigore_da": "1942-01-08"
+  },
+  "93": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Assistenza alla persona sottoposta all'ispezione",
+   "vigore_da": "1942-01-08"
+  },
+  "94": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Istanza di esibizione",
+   "vigore_da": "1942-01-08"
+  },
+  "95": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Notificazione dell'ordinanza di esibizione",
+   "vigore_da": "1942-01-08"
+  },
+  "96": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Informazioni della pubblica amministrazione",
+   "vigore_da": "1942-01-08"
+  },
+  "97": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Divieto di private informazioni",
+   "vigore_da": "1942-01-08"
+  },
+  "98": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Deposito di documenti fatto da pubblico depositario",
+   "vigore_da": "1942-01-08"
+  },
+  "99": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Proposizione della querela di falso",
+   "vigore_da": "1942-01-08"
+  },
+  "100": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Copie del documento impugnato",
+   "vigore_da": "1942-01-08"
+  },
+  "101": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Rinvio",
+   "vigore_da": "1942-01-08"
+  },
+  "102": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ammissione d'interrogatorio o di prova testimoniale",
+   "vigore_da": "1942-01-08"
+  },
+  "103": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Termine per l'intimazione al testimone",
+   "vigore_da": "2006-01-01"
+  },
+  "103-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Modello di testimonianza",
+   "vigore_da": "2024-11-26"
+  },
+  "104": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Mancata intimazione ai testimoni",
+   "vigore_da": "2009-07-04"
+  },
+  "105": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Forma speciale di esame testimoniale",
+   "vigore_da": "2021-05-23"
+  },
+  "106": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Disposizioni relative al testimone non comparso",
+   "vigore_da": "1942-01-08"
+  },
+  "107": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2002-07-01"
+  },
+  "108": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Procuratore autorizzato ad assistere alle prove delegate",
+   "vigore_da": "1942-01-08"
+  },
+  "109": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ordinanza di pagamento durante il rendiconto",
+   "vigore_da": "1942-01-08"
+  },
+  "110": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1994-12-10"
+  },
+  "111": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Produzione delle comparse",
+   "vigore_da": "2014-08-19"
+  },
+  "112": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Istanza di decisione secondo equita'",
+   "vigore_da": "1942-01-08"
+  },
+  "112-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1994-12-10"
+  },
+  "113": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Determinazione dei giorni delle camere di consiglio e composizione dei collegi",
+   "vigore_da": "1994-12-10"
+  },
+  "114": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Determinazione dei giorni d'udienza e composizione dei collegi",
+   "vigore_da": "1994-12-10"
+  },
+  "115": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Rinvio della discussione",
+   "vigore_da": "1942-01-08"
+  },
+  "116": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ordine di discussione delle cause",
+   "vigore_da": "1942-01-08"
+  },
+  "117": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Svolgimento della discussione",
+   "vigore_da": "1942-01-08"
+  },
+  "118": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Motivazione della sentenza",
+   "vigore_da": "2009-07-04"
+  },
+  "119": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Redazione della sentenza",
+   "vigore_da": "2024-11-26"
+  },
+  "120": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1998-07-18"
+  },
+  "121": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ordinanza di correzione delle sentenze",
+   "vigore_da": "1942-01-08"
+  },
+  "122": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Forma dell'istanza per integrazione dei provvedimenti istruttori",
+   "vigore_da": "1942-01-08"
+  },
+  "123": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Avviso d'impugnazione alla cancelleria",
+   "vigore_da": "2024-11-26"
+  },
+  "123-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Trasmissione del fascicolo d'ufficio al giudice superiore",
+   "vigore_da": "2023-01-01"
+  },
+  "124": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Certificato di passaggio in giudicato della sentenza",
+   "vigore_da": "1942-01-08"
+  },
+  "125": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Riassunzione della causa",
+   "vigore_da": "1951-01-01"
+  },
+  "125-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Riassunzione delle cause sospese durante l'istruzione",
+   "vigore_da": "1951-01-01"
+  },
+  "126": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Fascicolo della causa riassunta",
+   "vigore_da": "1942-01-08"
+  },
+  "127": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Riscossione della pena pecuniaria a carico dell'opponente",
+   "vigore_da": "1942-01-08"
+  },
+  "128": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Determinazione dei giorni d'udienza",
+   "vigore_da": "1994-12-10"
+  },
+  "129": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Riserva d'appello. Estinzione del processo",
+   "vigore_da": "1951-01-01"
+  },
+  "129-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Sospensione dell'istruzione nel caso di riforma di sentenza non definitiva",
+   "vigore_da": "1951-01-01"
+  },
+  "130": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Appello contro la sentenza di estinzione del processo",
+   "vigore_da": "1994-12-10"
+  },
+  "131": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Deliberazione dei provvedimenti",
+   "vigore_da": "1942-01-08"
+  },
+  "131-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Sospensione dell'esecuzione delle sentenze impugnate per cassazione",
+   "vigore_da": "1951-01-01"
+  },
+  "132": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Rinvio",
+   "vigore_da": "1942-01-08"
+  },
+  "133": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Riserva di ricorso. Estinzione del processo",
+   "vigore_da": "2006-03-02"
+  },
+  "133-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Sospensione dell'istruzione in pendenza di ricorso per cassazione",
+   "vigore_da": "1951-01-01"
+  },
+  "134": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28"
+  },
+  "134-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28"
+  },
+  "135": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28"
+  },
+  "136": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1977-11-17"
+  },
+  "137": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28"
+  },
+  "137-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Fascicolo d'ufficio",
+   "vigore_da": "2023-01-01"
+  },
+  "137-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Pubblicita' degli atti dei procedimenti pendenti",
+   "vigore_da": "2023-01-01"
+  },
+  "138": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2006-03-02"
+  },
+  "139": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Istanza di rimessione alle sezioni unite",
+   "vigore_da": "2023-01-01"
+  },
+  "140": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2023-01-01"
+  },
+  "140-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Svolgimento della camera di consiglio",
+   "vigore_da": "2023-01-01"
+  },
+  "141": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Deliberazione dei provvedimenti",
+   "vigore_da": "1942-01-08"
+  },
+  "142": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ricorso di competenza delle sezioni unite e delle sezioni semplici",
+   "vigore_da": "2006-03-02"
+  },
+  "143": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2023-01-01"
+  },
+  "144": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Forma della domanda di restituzione o di riduzione in pristino",
+   "vigore_da": "1942-01-08"
+  },
+  "144-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Attestazione del cancelliere in caso di mancata integrazione del contradditorio",
+   "vigore_da": "1994-12-10"
+  },
+  "144-bis.1": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Restituzione del fascicolo d'ufficio e dei fascicoli di parte",
+   "vigore_da": "2023-01-01"
+  },
+  "144-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Controversie individuali di lavoro",
+   "vigore_da": "1998-07-04"
+  },
+  "144-quater": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28"
+  },
+  "144-quinquies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Controversie in materia di licenziamento",
+   "vigore_da": "2023-01-01"
+  },
+  "145": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Termine per la nomina del consulente tecnico",
+   "vigore_da": "1973-12-12"
+  },
+  "146": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Albo dei consulenti tecnici",
+   "vigore_da": "1973-12-12"
+  },
+  "146-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Accertamento pregiudiziale sull'efficacia, validita' ed interpretazione dei contratti e accordi collettivi",
+   "vigore_da": "2006-03-02"
+  },
+  "147": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Conciliazione, arbitrati e collegiali mediche nelle controversie in materia di previdenza e di assistenza obbligatorie",
+   "vigore_da": "1973-12-12"
+  },
+  "148": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Abrogazione delle disposizioni di leggi speciali circa la proponibilita' della domanda in materia di previdenza e di assistenza obbligatorie",
+   "vigore_da": "1973-12-12"
+  },
+  "149": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Controversie in materia di invalidita' pensionabile",
+   "vigore_da": "1973-12-12"
+  },
+  "150": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Calcolo della svalutazione monetaria",
+   "vigore_da": "1973-12-12"
+  },
+  "151": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Riunione di procedimenti",
+   "vigore_da": "2006-03-02"
+  },
+  "152": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Esenzione dal pagamento di spese, competenze e onorari nei giudizi per prestazioni previdenziali",
+   "vigore_da": "2017-11-23"
+  },
+  "152-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Liquidazione di spese processuali",
+   "vigore_da": "2013-01-01"
+  },
+  "152-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Procedimenti in camera di consiglio",
+   "vigore_da": "2023-01-01"
+  },
+  "152-quater": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ascolto del minore",
+   "vigore_da": "2023-01-01"
+  },
+  "152-quinquies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Registrazione audiovisiva dell'ascolto",
+   "vigore_da": "2023-01-01"
+  },
+  "152-sexies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Indagini del consulente",
+   "vigore_da": "2023-01-01"
+  },
+  "152-septies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Scioglimento o cessazione degli effetti civili del matrimonio",
+   "vigore_da": "2023-01-01"
+  },
+  "152-octies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Esame da remoto dell'interdicendo o inabilitando",
+   "vigore_da": "2023-01-01"
+  },
+  "153": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Copia degli atti ricevuti da notaio o da altro pubblico ufficiale",
+   "vigore_da": "2023-01-01"
+  },
+  "154": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28"
+  },
+  "155": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Certificato di prestata cauzione",
+   "vigore_da": "1942-01-08"
+  },
+  "155-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Archivio dei rapporti finanziari",
+   "vigore_da": "2023-01-01"
+  },
+  "155-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Partecipazione del creditore alla ricerca dei beni da pignorare con modalita' telematiche",
+   "vigore_da": "2023-01-01"
+  },
+  "155-quater": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Modalita' di accesso alle banche dati",
+   "vigore_da": "2015-08-21"
+  },
+  "155-quinquies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Accesso alle banche dati tramite i gestori",
+   "vigore_da": "2023-01-01"
+  },
+  "155-sexies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ulteriori casi di applicazione delle disposizioni per la ricerca con modalita' telematiche dei beni da pignorare",
+   "vigore_da": "2016-05-04"
+  },
+  "156": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Esecuzione sui beni sequestrati",
+   "vigore_da": "2024-11-26"
+  },
+  "156-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Esecuzione sui bene sequestrati in forza di sentenza straniera o di lodo arbitrale",
+   "vigore_da": "1994-12-10"
+  },
+  "157": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Processo verbale di pagamento nelle mani dell'ufficiale giudiziario",
+   "vigore_da": "1951-01-01"
+  },
+  "158": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Avviso al sequestrante",
+   "vigore_da": "1942-01-08"
+  },
+  "159": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Istituti autorizzati all'incanto, e all'amministrazione dei beni",
+   "vigore_da": "1994-12-10"
+  },
+  "159-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Iscrizione a ruolo del processo esecutivo per espropriazione",
+   "vigore_da": "2024-11-26"
+  },
+  "159-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Iscrizione a ruolo del processo esecutivo per espropriazione a cura di soggetto diverso dal creditore",
+   "vigore_da": "2024-11-26"
+  },
+  "160": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Forma degli avvisi",
+   "vigore_da": "1942-01-08"
+  },
+  "161": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Giuramento dell'esperto e dello stimatore",
+   "vigore_da": "2015-08-21"
+  },
+  "161-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Rinvio della vendita dopo la prestazione della cauzione",
+   "vigore_da": "2006-01-01"
+  },
+  "161-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Vendite con modalita' telematiche",
+   "vigore_da": "2015-08-21"
+  },
+  "161-quater": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Modalita' di pubblicazione sul portale delle vendite pubbliche",
+   "vigore_da": "2016-02-27"
+  },
+  "162": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Deposito del prezzo di assegnazione",
+   "vigore_da": "1942-01-08"
+  },
+  "163": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ordine di cessazione della vendita forzata",
+   "vigore_da": "1942-01-08"
+  },
+  "164": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Atti di trasferimento del bene espropriato",
+   "vigore_da": "1942-01-08"
+  },
+  "164-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Infruttuosita' dell'espropriazione forzata",
+   "vigore_da": "2014-11-11"
+  },
+  "164-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2024-11-26"
+  },
+  "165": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Partecipazione del creditore al pignoramento",
+   "vigore_da": "2006-03-01"
+  },
+  "166": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Modalita' della custodia",
+   "vigore_da": "1998-07-04"
+  },
+  "167": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Processo verbale di consegna al commissionario",
+   "vigore_da": "1942-01-08"
+  },
+  "168": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Reclamo contro l'operato dell'ufficiale incaricato della vendita",
+   "vigore_da": "2023-01-01"
+  },
+  "169": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Registrazione del processo verbale di vendita",
+   "vigore_da": "1998-07-04"
+  },
+  "169-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Determinazione dei compensi per le operazioni delegate dal giudice dell'esecuzione",
+   "vigore_da": "2006-01-01"
+  },
+  "169-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Elenco dei professionisti che provvedono alle operazioni di vendita",
+   "vigore_da": "2006-01-01"
+  },
+  "169-quater": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ulteriori modalita' del pagamento del prezzo di acquisto",
+   "vigore_da": "2010-02-27"
+  },
+  "169-quinquies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Prospetto riepilogativo delle stime e delle vendite",
+   "vigore_da": "2023-01-01"
+  },
+  "169-sexies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Elenco dei soggetti specializzati per la custodia e la vendita dei mobili pignorati",
+   "vigore_da": "2015-08-21"
+  },
+  "169-septies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Informazioni necessarie al pagamento dei crediti assegnati",
+   "vigore_da": "2024-05-01"
+  },
+  "170": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Atto di pignoramento immobiliare",
+   "vigore_da": "1942-01-08"
+  },
+  "171": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Procedimento per le autorizzazioni al debitore e al custode",
+   "vigore_da": "1942-01-08"
+  },
+  "172": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Cancellazione della trascrizione del pignoramento",
+   "vigore_da": "1942-01-08"
+  },
+  "173": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01"
+  },
+  "173-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2023-01-01"
+  },
+  "173-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2005-09-11"
+  },
+  "173-quater": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2023-01-01"
+  },
+  "173-quinquies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2015-08-21"
+  },
+  "174": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2024-11-26"
+  },
+  "175": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Convocazione delle parti per l'incanto",
+   "vigore_da": "1942-01-08"
+  },
+  "176": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Comunicazione del decreto di decadenza",
+   "vigore_da": "1942-01-08"
+  },
+  "177": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Dichiarazione di responsabilita' dell'aggiudicatario",
+   "vigore_da": "1942-01-08"
+  },
+  "178": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Procedimento di rendiconto",
+   "vigore_da": "1942-01-08"
+  },
+  "179": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Graduazione e liquidazione",
+   "vigore_da": "1942-01-08"
+  },
+  "179-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Determinazione e liquidazione dei compensi per le operazioni delegate dal giudice dell'esecuzione",
+   "vigore_da": "2006-01-01"
+  },
+  "179-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Elenco dei professionisti che provvedono alle operazioni di vendita",
+   "vigore_da": "2024-11-26"
+  },
+  "179-quater": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Distribuzione degli incarichi",
+   "vigore_da": "2023-01-01"
+  },
+  "180": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Avviso di pignoramento ai comproprietari del bene pignorato",
+   "vigore_da": "1942-01-08"
+  },
+  "181": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "2024-11-26"
+  },
+  "182": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Intimazione al detentore del pegno",
+   "vigore_da": "1942-01-08"
+  },
+  "183": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Provvedimenti temporanei nell'esecuzione per consegna o rilascio",
+   "vigore_da": "1998-07-04"
+  },
+  "184": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Contenuto dei ricorsi d'opposizione all'esecuzione",
+   "vigore_da": "1942-01-08"
+  },
+  "185": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Udienza di comparizione davanti al giudice dell'esecuzione",
+   "vigore_da": "2006-03-01"
+  },
+  "186": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Fascicolo della causa di opposizione all'esecuzione",
+   "vigore_da": "1942-01-08"
+  },
+  "186-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Trattazione delle opposizioni in materia esecutiva",
+   "vigore_da": "2009-07-04"
+  },
+  "187": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Regolamento di competenza delle sentenze in materia esecutiva",
+   "vigore_da": "1942-01-08"
+  },
+  "187-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Intangibilita' nei confronti dei terzi degli effetti degli atti esecutivi compiuti",
+   "vigore_da": "2005-05-15"
+  },
+  "188": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Dichiarazione di inefficacia del decreto d'ingiunzione",
+   "vigore_da": "1942-01-08"
+  },
+  "189": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Provvedimenti relativi alla separazione personale dei coniugi",
+   "vigore_da": "1942-06-10"
+  },
+  "190": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Documentazione dell'istanza di dichiarazione di assenza o di morte presunta",
+   "vigore_da": "1942-01-08"
+  },
+  "191": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Efficacia del processo verbale di vendita di beni immobili appartenenti a minori",
+   "vigore_da": "1942-01-08"
+  },
+  "192": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Modalita' di chiusura dell'inventario",
+   "vigore_da": "1942-01-08"
+  },
+  "193": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Giuramento del curatore dell'eredita' giacente",
+   "vigore_da": "1942-01-08"
+  },
+  "194": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Nomina dell'esperto nel giudizio di divisione",
+   "vigore_da": "1942-01-08"
+  },
+  "195": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Decreto di approvazione dell'attribuzione delle quote nel giudizio di divisione",
+   "vigore_da": "1942-01-08"
+  },
+  "196": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "",
+   "vigore_da": "1994-04-17"
+  },
+  "196-bis": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Comunicazioni a cura della cancelleria e avvisi in materia di azione di classe",
+   "vigore_da": "2020-04-19"
+  },
+  "196-ter": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Elenco delle organizzazioni e associazioni legittimate all'azione di classe",
+   "vigore_da": "2020-04-19"
+  },
+  "196-quater": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Obbligatorieta' del deposito telematico di atti e di provvedimenti",
+   "vigore_da": "2024-11-26"
+  },
+  "196-quinquies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Dell'atto del processo redatto in formato elettronico",
+   "vigore_da": "2024-11-26"
+  },
+  "196-sexies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Perfezionamento del deposito con modalita' telematiche",
+   "vigore_da": "2023-01-01"
+  },
+  "196-septies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Copia cartacea di atti depositati telematicamente",
+   "vigore_da": "2023-01-01"
+  },
+  "196-octies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Potere di certificazione di conformita' delle copie degli atti e dei provvedimenti contenuti nel fascicolo informatico o allegati alle comunicazioni e notificazioni di cancelleria",
+   "vigore_da": "2023-01-01"
+  },
+  "196-novies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Potere di certificazione di conformita' di copie di atti e di provvedimenti",
+   "vigore_da": "2024-11-26"
+  },
+  "196-decies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Potere di certificazione di conformita' delle copie trasmesse con modalita' telematiche all'ufficiale giudiziario",
+   "vigore_da": "2023-01-01"
+  },
+  "196-undecies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Modalita' dell'attestazione di conformita'",
+   "vigore_da": "2023-01-01"
+  },
+  "196-duodecies": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Udienza con collegamenti audiovisivi a distanza",
+   "vigore_da": "2024-11-26"
+  },
+  "197": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Processi di primo grado nei quali non e' avvenuta la comparizione delle parti",
+   "vigore_da": "1942-01-08"
+  },
+  "198": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Processi di primo grado nei quali le parti sono comparse",
+   "vigore_da": "1942-01-08"
+  },
+  "199": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Processi di primo grado nei quali e' stata pronunciata sentenza interlocutoria",
+   "vigore_da": "1942-01-08"
+  },
+  "200": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Formazione del fascicolo e designazione del giudice istruttore",
+   "vigore_da": "1942-01-08"
+  },
+  "201": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Sospensione del processo",
+   "vigore_da": "1942-01-08"
+  },
+  "202": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Prima udienza di trattazione",
+   "vigore_da": "1942-01-08"
+  },
+  "203": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Assunzione dei mezzi di prova",
+   "vigore_da": "1942-01-08"
+  },
+  "204": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Cause in decisione davanti al tribunale",
+   "vigore_da": "1942-01-08"
+  },
+  "205": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Efficacia delle sentenze interlocutorie",
+   "vigore_da": "1942-01-08"
+  },
+  "206": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Impugnazione delle sentenze interlocutorie",
+   "vigore_da": "1942-01-08"
+  },
+  "207": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Termini per le impugnazioni",
+   "vigore_da": "1942-01-08"
+  },
+  "208": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Decadenza dall'impugnazione",
+   "vigore_da": "1942-01-08"
+  },
+  "209": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Impugnazioni nei giudizi con pluralita' di parti",
+   "vigore_da": "1942-01-08"
+  },
+  "210": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Processi d'appello nei quali sono in corso i termini di comparizione",
+   "vigore_da": "1942-01-08"
+  },
+  "211": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Processi d'appello nei quali le parti sono gia' comparse",
+   "vigore_da": "1942-01-08"
+  },
+  "212": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Effetto devolutivo dell'appello",
+   "vigore_da": "1942-01-08"
+  },
+  "213": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Decisione delle cause davanti al giudice d'appello",
+   "vigore_da": "1942-01-08"
+  },
+  "214": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Cause davanti al pretore e al conciliatore",
+   "vigore_da": "1942-01-08"
+  },
+  "215": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Cause davanti alla corte suprema di cassazione",
+   "vigore_da": "1942-01-08"
+  },
+  "216": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Ricorsi sforniti di deposito di cancelleria",
+   "vigore_da": "1942-01-08"
+  },
+  "217": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Riassunzione davanti al giudice di rinvio",
+   "vigore_da": "1942-01-08"
+  },
+  "218": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Impugnazioni relative alle cause di lavoro",
+   "vigore_da": "1942-01-08"
+  },
+  "219": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Precetto immobiliare non trascritto",
+   "vigore_da": "1942-01-08"
+  },
+  "220": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Espropriazione forzata soltanto iniziata",
+   "vigore_da": "1942-01-08"
+  },
+  "221": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Processi d'espropriazione mobiliare",
+   "vigore_da": "1942-01-08"
+  },
+  "222": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Processi d'espropriazione immobiliare",
+   "vigore_da": "1942-01-08"
+  },
+  "223": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Processi per consegna o rilascio e per esecuzione forzata di obblighi di fare o di non fare",
+   "vigore_da": "1942-01-08"
+  },
+  "224": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Processi d'opposizione all'esecuzione",
+   "vigore_da": "1942-01-08"
+  },
+  "225": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Opposizione agli atti esecutivi",
+   "vigore_da": "1942-01-08"
+  },
+  "226": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Riassunzione del processo esecutivo sospeso",
+   "vigore_da": "1942-01-08"
+  },
+  "227": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Compromessi e clausole compromissorie anteriori all'entrata in vigore del codice",
+   "vigore_da": "1942-01-08"
+  },
+  "228": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Arbitri e procedimento arbitrale",
+   "vigore_da": "1942-01-08"
+  },
+  "229": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Impugnabilita' delle sentenze",
+   "vigore_da": "1942-01-08"
+  },
+  "230": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Immutabilita' della competenza gia' fissata",
+   "vigore_da": "1942-01-08"
+  },
+  "231": {
+   "file": "disp-att-cpc.md",
+   "rubrica": "Albo degli esperti",
+   "vigore_da": "1942-01-08"
+  }
+ }
+}

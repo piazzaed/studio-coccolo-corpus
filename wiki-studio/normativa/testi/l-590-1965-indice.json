@@ -1,0 +1,376 @@
+{
+ "_meta": {
+  "codice": "l-590-1965",
+  "nome": "Sviluppo della proprietà coltivatrice — prelazione agraria (L. 590/1965)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2022-07-16",
+  "articoli": 39,
+  "file": [
+   "l-590-1965.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1965-05-26;590",
+  "versioni": [
+   {
+    "data": "1965-06-09",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1971-10-14",
+    "evento": "rp1",
+    "atto_modificante": "L. 14 agosto 1971, n. 817"
+   },
+   {
+    "data": "1979-01-11",
+    "evento": "rp2",
+    "atto_modificante": "L. 8 gennaio 1979, n. 2"
+   },
+   {
+    "data": "1983-09-12",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 12 settembre 1983, n. 463"
+   },
+   {
+    "data": "2001-06-15",
+    "evento": "rp4",
+    "atto_modificante": "D.Lgs. 18 maggio 2001, n. 228"
+   },
+   {
+    "data": "2004-04-22",
+    "evento": "rp5",
+    "atto_modificante": "D.Lgs. 29 marzo 2004, n. 99"
+   },
+   {
+    "data": "2009-12-14",
+    "evento": "rp6",
+    "atto_modificante": "D.Lgs. 1 dicembre 2009, n. 179"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp7",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 91"
+   },
+   {
+    "data": "2016-08-10",
+    "evento": "rp8",
+    "atto_modificante": "L. 28 luglio 2016, n. 154"
+   },
+   {
+    "data": "2016-10-24",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 22 ottobre 2016, n. 193"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2022-03-21",
+    "evento": "rp11",
+    "atto_modificante": "D.L. 21 marzo 2022, n. 21"
+   },
+   {
+    "data": "2022-05-17",
+    "evento": "rp12",
+    "atto_modificante": "D.L. 17 maggio 2022, n. 50"
+   },
+   {
+    "data": "2022-05-20",
+    "evento": "rp13",
+    "atto_modificante": "L. 20 maggio 2022, n. 51"
+   },
+   {
+    "data": "2022-07-15",
+    "evento": "rp14",
+    "atto_modificante": "L. 15 luglio 2022, n. 91"
+   }
+  ],
+  "ultima_versione": "2022-07-15",
+  "datazione": {
+   "monoblocco": 39,
+   "api": 0,
+   "riportati": 39,
+   "ignota": 0,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "ff2df2a4129d"
+  },
+  "2": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "c6ecfcce45cf"
+  },
+  "3": {
+   "file": "l-590-1965.md",
+   "rubrica": "null",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "0764bb9b28e4"
+  },
+  "4": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "01b1a9901a90"
+  },
+  "5": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "74fa02519dc3"
+  },
+  "6": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "1da8b935084b"
+  },
+  "7": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "2192d94e6847"
+  },
+  "8": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "2020-05-19",
+   "datazione": "api",
+   "h": "e8a9a387c002"
+  },
+  "9": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "f392379ebc83"
+  },
+  "10": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "4281273b87d0"
+  },
+  "11": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "286680f3ea28"
+  },
+  "12": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "d0ff6019bf16"
+  },
+  "13": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "3e06822ed9cb"
+  },
+  "14": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "2022-07-16",
+   "datazione": "api",
+   "h": "2a1f631978bf"
+  },
+  "15": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "d9fde7488135"
+  },
+  "16": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "f5131d656cba"
+  },
+  "17": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "d58df3add02a"
+  },
+  "18": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "29e9eb5f3b59"
+  },
+  "19": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "3c206fc1766b"
+  },
+  "20": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "c438547ecc9e"
+  },
+  "21": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "715907bf0219"
+  },
+  "22": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "7652dc5ae15a"
+  },
+  "23": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "9e4b88aa6235"
+  },
+  "24": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "32fa61a4d9fa"
+  },
+  "25": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "cf07340bd264"
+  },
+  "26": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1983-11-12",
+   "datazione": "api",
+   "h": "a9c4ab27d4ab"
+  },
+  "27": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "836336026e52"
+  },
+  "28": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "f764bc7ea0a2"
+  },
+  "29": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "979e294e4c1a"
+  },
+  "30": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "279fb9efacbf"
+  },
+  "31": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "45efcfd5bbed"
+  },
+  "32": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "75d6a4c47327"
+  },
+  "33": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "c3cd76e5d1f2"
+  },
+  "34": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "4c451866fdc3"
+  },
+  "35": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "29d1bbe97589"
+  },
+  "36": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "ece594506d00"
+  },
+  "37": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "562feeb591d6"
+  },
+  "38": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "4d89e4d1cb4d"
+  },
+  "39": {
+   "file": "l-590-1965.md",
+   "rubrica": "",
+   "vigore_da": "1965-06-24",
+   "datazione": "api",
+   "h": "4d7303b63d30"
+  }
+ }
+}

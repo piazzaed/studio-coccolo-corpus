@@ -1,0 +1,682 @@
+{
+ "_meta": {
+  "codice": "l-241-1990",
+  "nome": "Procedimento amministrativo (L. 241/1990)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-04-21",
+  "articoli": 51,
+  "file": [
+   "l-241-1990.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1990-08-07;241",
+  "versioni": [
+   {
+    "data": "1990-08-18",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1990-12-20",
+    "evento": "rp1+rp2",
+    "atto_modificante": "Circ. Ministro Per La Funzione Pubblica 13 novembre 1990, n. 5734; Circ. Ministro Per La Funzione Pubblica 5 dicembre 1990, n. 5830"
+   },
+   {
+    "data": "1991-01-23",
+    "evento": "rp3",
+    "atto_modificante": "Circ. Ministro Per La Funzione Pubblica 8 gennaio 1991, n. 6039"
+   },
+   {
+    "data": "1991-02-14",
+    "evento": "rp4",
+    "atto_modificante": "Circ. Ministro Per La Funzione Pubblica 23 gennaio 1991, n. 6092"
+   },
+   {
+    "data": "1991-05-07",
+    "evento": "rp5",
+    "atto_modificante": "Circ. Ministero Della Pubblica Istruzione 4 gennaio 1991, n. 2"
+   },
+   {
+    "data": "1992-05-27",
+    "evento": "rp6",
+    "atto_modificante": "D.P.R. 26 aprile 1992, n. 300"
+   },
+   {
+    "data": "1992-08-18",
+    "evento": "rp7",
+    "atto_modificante": "Circ. Ministero Per I Beni Culturali E Ambientali 7 agosto 1992, n. 116"
+   },
+   {
+    "data": "1993-06-17",
+    "evento": "rp8",
+    "atto_modificante": "Circ. Ministero Dell'Interno 9 giugno 1993, n. 5006"
+   },
+   {
+    "data": "1993-12-28",
+    "evento": "rp9",
+    "atto_modificante": "L. 24 dicembre 1993, n. 537"
+   },
+   {
+    "data": "1995-05-12",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 12 maggio 1995, n. 163"
+   },
+   {
+    "data": "1997-05-17",
+    "evento": "rp11",
+    "atto_modificante": "L. 15 maggio 1997, n. 127"
+   },
+   {
+    "data": "1998-06-20",
+    "evento": "rp12",
+    "atto_modificante": "L. 16 giugno 1998, n. 191"
+   },
+   {
+    "data": "1999-08-06",
+    "evento": "rp13",
+    "atto_modificante": "L. 3 agosto 1999, n. 265"
+   },
+   {
+    "data": "2000-11-24",
+    "evento": "rp14",
+    "atto_modificante": "L. 24 novembre 2000, n. 340"
+   },
+   {
+    "data": "2001-03-10",
+    "evento": "rp15",
+    "atto_modificante": "L. 13 febbraio 2001, n. 45"
+   },
+   {
+    "data": "2003-07-29",
+    "evento": "rp16",
+    "atto_modificante": "D.Lgs. 30 giugno 2003, n. 196"
+   },
+   {
+    "data": "2004-04-29",
+    "evento": "rp17",
+    "atto_modificante": "Circ. Agenzia Per Le Erogazioni In Agricoltura 22 aprile 2004, n. 8"
+   },
+   {
+    "data": "2005-02-21",
+    "evento": "rp18",
+    "atto_modificante": "L. 11 febbraio 2005, n. 15"
+   },
+   {
+    "data": "2005-03-16",
+    "evento": "rp19",
+    "atto_modificante": "D.L. 14 marzo 2005, n. 35"
+   },
+   {
+    "data": "2006-04-12",
+    "evento": "rp20",
+    "atto_modificante": "atto modificante non indicato (rp20)"
+   },
+   {
+    "data": "2007-02-01",
+    "evento": "rp21",
+    "atto_modificante": "D.L. 31 gennaio 2007, n. 7"
+   },
+   {
+    "data": "2007-09-21",
+    "evento": "rp22",
+    "atto_modificante": "D.P.R. 2 agosto 2007, n. 157"
+   },
+   {
+    "data": "2008-06-25",
+    "evento": "rp23",
+    "atto_modificante": "D.L. 25 giugno 2008, n. 112"
+   },
+   {
+    "data": "2009-06-19",
+    "evento": "rp24",
+    "atto_modificante": "L. 18 giugno 2009, n. 69"
+   },
+   {
+    "data": "2010-04-23",
+    "evento": "rp25",
+    "atto_modificante": "D.Lgs. 26 marzo 2010, n. 59"
+   },
+   {
+    "data": "2010-05-31",
+    "evento": "rp26",
+    "atto_modificante": "D.L. 31 maggio 2010, n. 78"
+   },
+   {
+    "data": "2010-07-07",
+    "evento": "rp27",
+    "atto_modificante": "D.Lgs. 2 luglio 2010, n. 104"
+   },
+   {
+    "data": "2010-08-06",
+    "evento": "rp28",
+    "atto_modificante": "D.L. 5 agosto 2010, n. 125"
+   },
+   {
+    "data": "2010-09-29",
+    "evento": "rp29",
+    "atto_modificante": "atto modificante non indicato (rp29)"
+   },
+   {
+    "data": "2011-05-13",
+    "evento": "rp30",
+    "atto_modificante": "D.L. 13 maggio 2011, n. 70"
+   },
+   {
+    "data": "2011-08-13",
+    "evento": "rp31",
+    "atto_modificante": "D.L. 13 agosto 2011, n. 138"
+   },
+   {
+    "data": "2011-11-14",
+    "evento": "rp32",
+    "atto_modificante": "L. 11 novembre 2011, n. 180"
+   },
+   {
+    "data": "2011-11-23",
+    "evento": "rp33",
+    "atto_modificante": "D.Lgs. 15 novembre 2011, n. 195"
+   },
+   {
+    "data": "2012-02-09",
+    "evento": "rp34",
+    "atto_modificante": "D.L. 9 febbraio 2012, n. 5"
+   },
+   {
+    "data": "2012-06-26",
+    "evento": "rp35",
+    "atto_modificante": "D.L. 22 giugno 2012, n. 83"
+   },
+   {
+    "data": "2012-07-18",
+    "evento": "rp36",
+    "atto_modificante": "atto modificante non indicato (rp36)"
+   },
+   {
+    "data": "2012-07-31",
+    "evento": "rp37",
+    "atto_modificante": "Circ. Presidenza Del Consiglio Dei Ministri Dipartimento Della Funzione Pubblica 10 maggio 2012, n. 4"
+   },
+   {
+    "data": "2012-10-19",
+    "evento": "rp38",
+    "atto_modificante": "D.L. 18 ottobre 2012, n. 179"
+   },
+   {
+    "data": "2012-11-13",
+    "evento": "rp39",
+    "atto_modificante": "L. 6 novembre 2012, n. 190"
+   },
+   {
+    "data": "2013-04-05",
+    "evento": "rp40",
+    "atto_modificante": "D.Lgs. 14 marzo 2013, n. 33"
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp41",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2013-09-12",
+    "evento": "rp42",
+    "atto_modificante": "D.L. 12 settembre 2013, n. 104"
+   },
+   {
+    "data": "2013-12-23",
+    "evento": "rp43",
+    "atto_modificante": "D.L. 23 dicembre 2013, n. 145"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp44",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 91"
+   },
+   {
+    "data": "2014-09-12",
+    "evento": "rp45",
+    "atto_modificante": "D.L. 12 settembre 2014, n. 133"
+   },
+   {
+    "data": "2015-08-13",
+    "evento": "rp46",
+    "atto_modificante": "L. 7 agosto 2015, n. 124"
+   },
+   {
+    "data": "2016-01-18",
+    "evento": "rp47",
+    "atto_modificante": "L. 28 dicembre 2015, n. 221"
+   },
+   {
+    "data": "2016-07-13",
+    "evento": "rp48+rp49",
+    "atto_modificante": "D.Lgs. 30 giugno 2016, n. 126; D.Lgs. 30 giugno 2016, n. 127"
+   },
+   {
+    "data": "2016-11-26",
+    "evento": "rp50",
+    "atto_modificante": "D.Lgs. 25 novembre 2016, n. 222"
+   },
+   {
+    "data": "2017-07-06",
+    "evento": "rp51",
+    "atto_modificante": "D.Lgs. 16 giugno 2017, n. 104"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp52",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp53",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   },
+   {
+    "data": "2020-09-14",
+    "evento": "rp54",
+    "atto_modificante": "L. 11 settembre 2020, n. 120"
+   },
+   {
+    "data": "2021-05-31",
+    "evento": "rp55",
+    "atto_modificante": "D.L. 31 maggio 2021, n. 77"
+   },
+   {
+    "data": "2021-07-30",
+    "evento": "rp56",
+    "atto_modificante": "L. 29 luglio 2021, n. 108"
+   },
+   {
+    "data": "2025-12-03",
+    "evento": "rp57",
+    "atto_modificante": "L. 2 dicembre 2025, n. 182"
+   },
+   {
+    "data": "2025-12-10",
+    "evento": "rp58",
+    "atto_modificante": "D.Lgs. 27 novembre 2025, n. 184"
+   },
+   {
+    "data": "2026-02-19",
+    "evento": "rp59",
+    "atto_modificante": "D.L. 19 febbraio 2026, n. 19"
+   },
+   {
+    "data": "2026-04-20",
+    "evento": "rp60",
+    "atto_modificante": "L. 20 aprile 2026, n. 50"
+   }
+  ],
+  "ultima_versione": "2026-04-20",
+  "datazione": {
+   "monoblocco": 51,
+   "api": 46,
+   "riportati": 5,
+   "ignota": 0,
+   "stima_anteriore": 5,
+   "chiamate": 46,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-241-1990.md",
+   "rubrica": "Principi generali dell'attivita' amministrativa",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "h": "cdc3ad3d8d5d"
+  },
+  "2": {
+   "file": "l-241-1990.md",
+   "rubrica": "Conclusione del procedimento",
+   "vigore_da": "2021-06-01",
+   "datazione": "api",
+   "h": "9455519c81b4"
+  },
+  "2-bis": {
+   "file": "l-241-1990.md",
+   "rubrica": "Conseguenze per il ritardo dell'amministrazione nella conclusione del procedimento",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "h": "8e23302a36e8"
+  },
+  "3": {
+   "file": "l-241-1990.md",
+   "rubrica": "Motivazione del provvedimento",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "133bd65e7d1e"
+  },
+  "3-bis": {
+   "file": "l-241-1990.md",
+   "rubrica": "Uso della telematica",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "d148e0a79381"
+  },
+  "4": {
+   "file": "l-241-1990.md",
+   "rubrica": "Unita' organizzativa responsabile del procedimento",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "e577f36ad041"
+  },
+  "5": {
+   "file": "l-241-1990.md",
+   "rubrica": "Responsabile del procedimento",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "90348409af36"
+  },
+  "6": {
+   "file": "l-241-1990.md",
+   "rubrica": "Compiti del responsabile del procedimento",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "6699c97eb7fc"
+  },
+  "6-bis": {
+   "file": "l-241-1990.md",
+   "rubrica": "Conflitto di interessi",
+   "vigore_da": "2012-11-28",
+   "datazione": "api",
+   "h": "0c80ea6fdb20"
+  },
+  "7": {
+   "file": "l-241-1990.md",
+   "rubrica": "Comunicazione di avvio del procedimento",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "dd7c93b07754"
+  },
+  "8": {
+   "file": "l-241-1990.md",
+   "rubrica": "Modalita' e contenuti della comunicazione di avvio del procedimento",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "bc45b04c9af6"
+  },
+  "9": {
+   "file": "l-241-1990.md",
+   "rubrica": "Intervento nel procedimento",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "3ca258b9b59a"
+  },
+  "10": {
+   "file": "l-241-1990.md",
+   "rubrica": "Diritti dei partecipanti al procedimento",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "349e4c9f16b6"
+  },
+  "10-bis": {
+   "file": "l-241-1990.md",
+   "rubrica": "Comunicazione dei motivi ostativi all'accoglimento dell'istanza",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "60acb8a27af8"
+  },
+  "11": {
+   "file": "l-241-1990.md",
+   "rubrica": "Accordi integrativi o sostitutivi del provvedimento",
+   "vigore_da": "2012-11-28",
+   "datazione": "api",
+   "h": "6fe50e21f102"
+  },
+  "12": {
+   "file": "l-241-1990.md",
+   "rubrica": "Provvedimenti attributivi di vantaggi economici",
+   "vigore_da": "2013-04-20",
+   "datazione": "api",
+   "h": "70dc46be96dd"
+  },
+  "13": {
+   "file": "l-241-1990.md",
+   "rubrica": "Ambito di applicazione delle norme sulla partecipazione",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "053f5d00c3a7"
+  },
+  "14": {
+   "file": "l-241-1990.md",
+   "rubrica": "Conferenze di servizi",
+   "vigore_da": "2017-07-21",
+   "datazione": "api",
+   "h": "dc72c6c0a837"
+  },
+  "14-bis": {
+   "file": "l-241-1990.md",
+   "rubrica": "Conferenza semplificata",
+   "vigore_da": "2026-04-21",
+   "datazione": "api",
+   "h": "9f60290f712d"
+  },
+  "14-ter": {
+   "file": "l-241-1990.md",
+   "rubrica": "Conferenza simultanea",
+   "vigore_da": "2026-04-21",
+   "datazione": "api",
+   "h": "4591e7425f9e"
+  },
+  "14-quater": {
+   "file": "l-241-1990.md",
+   "rubrica": "Decisione della conferenza di servizi",
+   "vigore_da": "2016-07-28",
+   "datazione": "api",
+   "h": "cfb766c491a0"
+  },
+  "14-quinquies": {
+   "file": "l-241-1990.md",
+   "rubrica": "Rimedi per le amministrazioni dissenzienti",
+   "vigore_da": "2016-07-28",
+   "datazione": "api",
+   "h": "c887b6cd28b5"
+  },
+  "15": {
+   "file": "l-241-1990.md",
+   "rubrica": "Accordi fra pubbliche amministrazioni",
+   "vigore_da": "2014-02-22",
+   "datazione": "api",
+   "h": "70aee5292c73"
+  },
+  "16": {
+   "file": "l-241-1990.md",
+   "rubrica": "Attivita' consultiva",
+   "vigore_da": "2026-04-21",
+   "datazione": "api",
+   "h": "32b597bbff7b"
+  },
+  "17": {
+   "file": "l-241-1990.md",
+   "rubrica": "Valutazioni tecniche",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "4ab7fb8312fe"
+  },
+  "17-bis": {
+   "file": "l-241-1990.md",
+   "rubrica": "",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "d5d2cea2ed27"
+  },
+  "18": {
+   "file": "l-241-1990.md",
+   "rubrica": "Autocertificazione",
+   "vigore_da": "2026-01-01",
+   "datazione": "api",
+   "h": "dcf24bd1df44"
+  },
+  "18-bis": {
+   "file": "l-241-1990.md",
+   "rubrica": "Presentazione di istanze, segnalazioni o comunicazioni",
+   "vigore_da": "2016-07-28",
+   "datazione": "api",
+   "h": "85d2a27ee627"
+  },
+  "19": {
+   "file": "l-241-1990.md",
+   "rubrica": "Segnalazione certificata di inizio attivita' - Scia",
+   "vigore_da": "2026-02-20",
+   "datazione": "api",
+   "h": "d8cd6ea8775b"
+  },
+  "19-bis": {
+   "file": "l-241-1990.md",
+   "rubrica": "Concentrazione dei regimi amministrativi",
+   "vigore_da": "2016-07-28",
+   "datazione": "api",
+   "h": "72561170bc29"
+  },
+  "20": {
+   "file": "l-241-1990.md",
+   "rubrica": "Silenzio assenso",
+   "vigore_da": "2026-04-21",
+   "datazione": "api",
+   "h": "d832c083010a"
+  },
+  "21": {
+   "file": "l-241-1990.md",
+   "rubrica": "Disposizioni sanzionatorie",
+   "vigore_da": "2016-07-28",
+   "datazione": "api",
+   "h": "cf9747544cf1"
+  },
+  "21-bis": {
+   "file": "l-241-1990.md",
+   "rubrica": "Efficacia del provvedimento limitativo della sfera giuridica dei privati",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "d9a903ece9a8"
+  },
+  "21-ter": {
+   "file": "l-241-1990.md",
+   "rubrica": "Esecutorieta'",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "1dd1aae7b82f"
+  },
+  "21-quater": {
+   "file": "l-241-1990.md",
+   "rubrica": "Efficacia ed esecutivita' del provvedimento",
+   "vigore_da": "2015-08-28",
+   "datazione": "api",
+   "h": "0b1c07de2a0e"
+  },
+  "21-quinquies": {
+   "file": "l-241-1990.md",
+   "rubrica": "Revoca del provvedimento",
+   "vigore_da": "2014-11-12",
+   "datazione": "api",
+   "h": "25018378dc7f"
+  },
+  "21-sexies": {
+   "file": "l-241-1990.md",
+   "rubrica": "Recesso dai contratti",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "a388af010697"
+  },
+  "21-septies": {
+   "file": "l-241-1990.md",
+   "rubrica": "Nullita' del provvedimento",
+   "vigore_da": "2010-09-16",
+   "datazione": "api",
+   "h": "45478db69388"
+  },
+  "21-octies": {
+   "file": "l-241-1990.md",
+   "rubrica": "Annullabilita' del provvedimento",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "897723a04781"
+  },
+  "21-novies": {
+   "file": "l-241-1990.md",
+   "rubrica": "Annullamento d'ufficio",
+   "vigore_da": "2025-12-18",
+   "datazione": "api",
+   "h": "1be857e602dc"
+  },
+  "21-decies": {
+   "file": "l-241-1990.md",
+   "rubrica": "Riemissione di provvedimenti annullati dal giudice per vizi inerenti ad atti endoprocedimentali",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "h": "eeba3dfbf13e"
+  },
+  "22": {
+   "file": "l-241-1990.md",
+   "rubrica": "Definizioni e principi in materia di accesso",
+   "vigore_da": "2009-07-04",
+   "datazione": "api",
+   "h": "8e62eba466eb"
+  },
+  "23": {
+   "file": "l-241-1990.md",
+   "rubrica": "Ambito di applicazione del diritto di accesso",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "d2667fc49a84"
+  },
+  "24": {
+   "file": "l-241-1990.md",
+   "rubrica": "Esclusione dal diritto di accesso",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "c9cbb5e89ef2"
+  },
+  "25": {
+   "file": "l-241-1990.md",
+   "rubrica": "Modalita' di esercizio del diritto di accesso e ricorsi",
+   "vigore_da": "2010-09-16",
+   "datazione": "api",
+   "h": "09efbaeede0a"
+  },
+  "26": {
+   "file": "l-241-1990.md",
+   "rubrica": "Obbligo di pubblicazione",
+   "vigore_da": "2013-04-20",
+   "datazione": "api",
+   "h": "c8230a35968c"
+  },
+  "27": {
+   "file": "l-241-1990.md",
+   "rubrica": "Commissione per l'accesso ai documenti amministrativi",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "h": "4a08e27e089a"
+  },
+  "28": {
+   "file": "l-241-1990.md",
+   "rubrica": "Modifica dell'articolo 15 del testo unico di cui al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, in materia di segreto di ufficio",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "d680097a818c"
+  },
+  "29": {
+   "file": "l-241-1990.md",
+   "rubrica": "Ambito di applicazione della legge",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "752092070e2a"
+  },
+  "30": {
+   "file": "l-241-1990.md",
+   "rubrica": "Atti di notorieta'",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "c1e4a7baf09e"
+  },
+  "31": {
+   "file": "l-241-1990.md",
+   "rubrica": "",
+   "vigore_da": "2005-03-08",
+   "datazione": "api",
+   "h": "86e0f578fcb3"
+  }
+ }
+}

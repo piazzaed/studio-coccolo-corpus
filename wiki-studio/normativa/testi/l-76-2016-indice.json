@@ -1,0 +1,56 @@
+{
+ "_meta": {
+  "codice": "l-76-2016",
+  "nome": "Unioni civili e convivenze (L. 76/2016, legge Cirinnà)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2024-04-25",
+  "articoli": 1,
+  "file": [
+   "l-76-2016.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:2016-05-20;76",
+  "versioni": [
+   {
+    "data": "2016-05-21",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp1",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp2",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2024-04-24",
+    "evento": "rp3",
+    "atto_modificante": "atto modificante non indicato (rp3)"
+   }
+  ],
+  "ultima_versione": "2024-04-24",
+  "datazione": {
+   "monoblocco": 1,
+   "api": 1,
+   "ignota": 0,
+   "stima_anteriore": 1,
+   "chiamate": 1,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-76-2016.md",
+   "rubrica": "",
+   "vigore_da": "2024-04-25",
+   "datazione": "api",
+   "h": "03c78460db91"
+  }
+ }
+}

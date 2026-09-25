@@ -1,0 +1,329 @@
+{
+ "_meta": {
+  "codice": "dm-44-2011",
+  "nome": "Regole tecniche del processo civile telematico (D.M. Giustizia 44/2011)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2024-01-15",
+  "articoli": 39,
+  "file": [
+   "dm-44-2011.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:ministero.giustizia:decreto:2011-02-21;44",
+  "versioni": [
+   {
+    "data": "2011-04-18",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2012-12-05",
+    "evento": "rp1",
+    "atto_modificante": "D.M. Ministero Della Giustizia 15 ottobre 2012, n. 209"
+   },
+   {
+    "data": "2013-05-09",
+    "evento": "rp2",
+    "atto_modificante": "D.M. Ministero Della Giustizia 3 aprile 2013, n. 48"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp3",
+    "atto_modificante": "D.M. Ministero Della Giustizia 29 dicembre 2023, n. 217"
+   },
+   {
+    "data": "2024-01-15",
+    "evento": "rp4",
+    "atto_modificante": "atto modificante non indicato (rp4)"
+   }
+  ],
+  "ultima_versione": "2024-01-15",
+  "datazione": {
+   "monoblocco": 39,
+   "api": 38,
+   "ignota": 1,
+   "testo_diverso": 1,
+   "stima_anteriore": 17,
+   "chiamate": 39,
+   "urn_api": "urn:nir:stato:decreto:2011-02-21;44",
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "4d0c9e8b3ce5"
+  },
+  "2": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "ece4466a4671"
+  },
+  "3": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Funzionamento dei sistemi del dominio giustizia",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "e8cfdecaa6ee"
+  },
+  "4": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Gestore della posta elettronica certificata del Ministero della giustizia",
+   "vigore_da": "2023-01-14",
+   "datazione": "api",
+   "h": "ad1b060361c4"
+  },
+  "5": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Gestore dei servizi telematici",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "bd7225842eae"
+  },
+  "6": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Portale dei servizi telematici",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "4451db616c14"
+  },
+  "7": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Registro generale degli indirizzi elettronici",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "24223bcbea9c"
+  },
+  "7-bis": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Portale dei depositi telematici e delle notizie di reato",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "32009a3bbf98"
+  },
+  "8": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Sistemi informatici per i soggetti abilitati interni",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "cf3daa473e3d"
+  },
+  "9": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Fascicolo informatico",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "592d36b40def"
+  },
+  "10": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Infrastruttura di comunicazione",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "10926b44fbd1"
+  },
+  "11": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Formato dell'atto del procedimento in forma di documento informatico",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "838bbba05e86"
+  },
+  "12": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Formato dei documenti informatici allegati",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "8915ffb9d4e9"
+  },
+  "13": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Trasmissione dei documenti da parte dei soggetti abilitati esterni nel procedimento civile",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "5aee5afc2199"
+  },
+  "13-bis": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Trasmissione dei documenti da parte dei soggetti abilitati esterni nel procedimento penale",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "b39164e7835b"
+  },
+  "14": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Documenti e allegati in forma di documento analogico",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "1042501f4d3c"
+  },
+  "15": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Deposito dell'atto del procedimento da parte dei soggetti abilitati interni",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "6a8210d36c2f"
+  },
+  "16": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Comunicazioni o notificazioni per via telematica dall'ufficio giudiziario",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "7c0da68d590a"
+  },
+  "17": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Notificazioni per via telematica tramite UNEP",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "728242ebf7f1"
+  },
+  "18": {
+   "file": "dm-44-2011.md",
+   "rubrica": "",
+   "vigore_da": "2024-01-15",
+   "datazione": "api",
+   "h": "b244058708eb"
+  },
+  "19": {
+   "file": "dm-44-2011.md",
+   "rubrica": "",
+   "vigore_da": "2023-01-14",
+   "datazione": "api",
+   "h": "1b9f3c888118"
+  },
+  "20": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Requisiti della casella di PEC del soggetto abilitato esterno",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "f2ce472f1888"
+  },
+  "21": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Estrazione e rilascio di copie di atti e documenti",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "ff53f4aaf558"
+  },
+  "22": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Servizi di consultazione",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "d5e46f98d11e"
+  },
+  "23": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Punto di accesso",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "94854763efdd"
+  },
+  "24": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Elenco pubblico dei punti di accesso",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "bdb30cfafa14"
+  },
+  "25": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Iscrizione nell'elenco pubblico dei punti di accesso",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "92ea41a4c396"
+  },
+  "26": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Requisiti di sicurezza",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "88db29bf280b"
+  },
+  "27": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Visibilita' delle informazioni",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "ef70377fa315"
+  },
+  "28": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Registrazione dei soggetti abilitati esterni e degli utenti privati",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "ff8542ac9f65"
+  },
+  "29": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Orario di disponibilita' dei servizi di consultazione",
+   "vigore_da": "2012-12-20",
+   "datazione": "api",
+   "h": "5c23895ed246"
+  },
+  "30": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Pagamenti",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "1ec908ba9bf5"
+  },
+  "31": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Diritto di copia",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "e9f2afbb91da"
+  },
+  "32": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Registrazione, trascrizione e voltura degli atti",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "3531e68a19bd"
+  },
+  "33": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Pagamento dei diritti di notifica",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "359da44aed48"
+  },
+  "34": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Specifiche tecniche",
+   "vigore_da": "2024-01-14",
+   "datazione": "api",
+   "h": "bf0d02e83864"
+  },
+  "35": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Disposizioni finali e transitorie",
+   "vigore_da": "2012-12-20",
+   "datazione": "api",
+   "h": "765023dd447a"
+  },
+  "36": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Adeguamento delle regole tecnico-operative",
+   "vigore_da": "2011-05-18",
+   "datazione": "api",
+   "h": "612b7aaae6b9"
+  },
+  "37": {
+   "file": "dm-44-2011.md",
+   "rubrica": "Efficacia",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "ffccc89858c9"
+  }
+ }
+}

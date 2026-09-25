@@ -1,0 +1,260 @@
+{
+ "_meta": {
+  "codice": "dm-55-2014",
+  "nome": "Parametri forensi (D.M. 55/2014)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2022-10-23",
+  "articoli": 30,
+  "file": [
+   "dm-55-2014.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:ministero.giustizia:decreto:2014-03-10;55",
+  "versioni": [
+   {
+    "data": "2014-04-02",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2016-05-03",
+    "evento": "rp1",
+    "atto_modificante": "D.M. Ministero Della Giustizia 12 aprile 2016, n. 61"
+   },
+   {
+    "data": "2018-04-26",
+    "evento": "rp2",
+    "atto_modificante": "D.M. Ministero Della Giustizia 8 marzo 2018, n. 37"
+   },
+   {
+    "data": "2022-10-08",
+    "evento": "rp3",
+    "atto_modificante": "D.M. Ministero Della Giustizia 13 agosto 2022, n. 147"
+   }
+  ],
+  "ultima_versione": "2022-10-08",
+  "datazione": {
+   "monoblocco": 30,
+   "api": 30,
+   "ignota": 0,
+   "stima_anteriore": 13,
+   "chiamate": 30,
+   "urn_api": "urn:nir:stato:decreto:2014-03-10;55",
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Ambito applicativo",
+   "vigore_da": "2014-04-03",
+   "datazione": "api",
+   "h": "428d7bbfdf19"
+  },
+  "2": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Compensi e spese",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "7ba5b883b18c"
+  },
+  "3": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Applicazione analogica",
+   "vigore_da": "2014-04-03",
+   "datazione": "api",
+   "h": "b7a1c6966288"
+  },
+  "4": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Parametri generali per la determinazione dei compensi in sede giudiziale",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "f5c629476d5d"
+  },
+  "5": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Determinazione del valore della controversia",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "86ecc446a73c"
+  },
+  "6": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Cause di valore superiore ad euro 520.000,00",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "09cfe56a22a8"
+  },
+  "7": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Giudizi non compiuti",
+   "vigore_da": "2014-04-03",
+   "datazione": "api",
+   "h": "85f4731e35a9"
+  },
+  "8": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Pluralita' di difensori e societa' professionali",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "ee5cfbdbe382"
+  },
+  "9": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Praticanti avvocati abilitati al patrocinio",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "06001cbaa48c"
+  },
+  "10": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Procedimenti arbitrali rituali e irrituali",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "3116f482bcfd"
+  },
+  "11": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Trasferte",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "eab26082bf56"
+  },
+  "12": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Parametri generali per la determinazione dei compensi",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "abf5401221bf"
+  },
+  "13": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Giudizi non compiuti",
+   "vigore_da": "2014-04-03",
+   "datazione": "api",
+   "h": "920569db5505"
+  },
+  "14": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Incarico conferito a societa' di avvocati",
+   "vigore_da": "2014-04-03",
+   "datazione": "api",
+   "h": "9ef40dbc8f27"
+  },
+  "15": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Trasferte",
+   "vigore_da": "2014-04-03",
+   "datazione": "api",
+   "h": "d4fa67298929"
+  },
+  "16": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Parte civile",
+   "vigore_da": "2014-04-03",
+   "datazione": "api",
+   "h": "a68954124a8a"
+  },
+  "17": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Praticanti avvocati abilitati al patrocinio",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "06001cbaa48c"
+  },
+  "18": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Compensi per attivita' stragiudiziale",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "c03894e19655"
+  },
+  "19": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Parametri generali per la determinazione dei compensi",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "8debfe8e69d7"
+  },
+  "20": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Prestazioni stragiudiziali svolte precedentemente o in concomitanza con attivita' giudiziali",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "ede730f844ae"
+  },
+  "21": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Determinazione del valore dell'affare",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "4fd712995633"
+  },
+  "22": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Affari di valore superiore a euro 520.000,00",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "4415d94282cd"
+  },
+  "22-bis": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Compensi a tempo",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "3d1123555f14"
+  },
+  "23": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Pluralita' di difensori e societa' professionali",
+   "vigore_da": "2014-04-03",
+   "datazione": "api",
+   "h": "f57b7f0b0ea1"
+  },
+  "24": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Praticanti avvocati abilitati al patrocinio",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "06001cbaa48c"
+  },
+  "25": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Incarico non portato a termine",
+   "vigore_da": "2014-04-03",
+   "datazione": "api",
+   "h": "e93dd561efe1"
+  },
+  "26": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Prestazioni con compenso a percentuale",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "30a280443613"
+  },
+  "27": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Trasferte",
+   "vigore_da": "2022-10-23",
+   "datazione": "api",
+   "h": "3bc1f2e709f8"
+  },
+  "28": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Disposizione temporale",
+   "vigore_da": "2014-04-03",
+   "datazione": "api",
+   "h": "e3d3eaca545e"
+  },
+  "29": {
+   "file": "dm-55-2014.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2014-04-03",
+   "datazione": "api",
+   "h": "8b036c8cf316"
+  }
+ }
+}

@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "codice": "l-898-1970",
+  "nome": "Disciplina dei casi di scioglimento del matrimonio — divorzio (L. 898/1970)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2024-11-26",
+  "articoli": 16,
+  "file": [
+   "l-898-1970.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1970-12-01;898",
+  "versioni": [
+   {
+    "data": "1970-12-03",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1975-07-16",
+    "evento": "rp1",
+    "atto_modificante": "atto modificante non indicato (rp1)"
+   },
+   {
+    "data": "1978-08-16",
+    "evento": "rp2",
+    "atto_modificante": "L. 1 agosto 1978, n. 436"
+   },
+   {
+    "data": "1987-03-11",
+    "evento": "rp3",
+    "atto_modificante": "L. 6 marzo 1987, n. 74"
+   },
+   {
+    "data": "2005-03-16",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 14 marzo 2005, n. 35"
+   },
+   {
+    "data": "2005-12-28",
+    "evento": "rp5",
+    "atto_modificante": "L. 28 dicembre 2005, n. 263"
+   },
+   {
+    "data": "2008-05-28",
+    "evento": "rp6",
+    "atto_modificante": "atto modificante non indicato (rp6)"
+   },
+   {
+    "data": "2014-01-08",
+    "evento": "rp7",
+    "atto_modificante": "D.Lgs. 28 dicembre 2013, n. 154"
+   },
+   {
+    "data": "2014-09-12",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 12 settembre 2014, n. 132"
+   },
+   {
+    "data": "2015-05-11",
+    "evento": "rp9",
+    "atto_modificante": "L. 6 maggio 2015, n. 55"
+   },
+   {
+    "data": "2018-03-22",
+    "evento": "rp10",
+    "atto_modificante": "D.Lgs. 1 marzo 2018, n. 21"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp11",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp12",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2024-11-11",
+    "evento": "rp13",
+    "atto_modificante": "D.Lgs. 31 ottobre 2024, n. 164"
+   }
+  ],
+  "ultima_versione": "2024-11-11",
+  "datazione": {
+   "monoblocco": 16,
+   "api": 4,
+   "riportati": 11,
+   "ignota": 1,
+   "testo_diverso": 1,
+   "chiamate": 5,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "1970-12-18",
+   "datazione": "api",
+   "h": "d9d182ceeab5"
+  },
+  "2": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "1970-12-18",
+   "datazione": "api",
+   "h": "2aa9d5b60751"
+  },
+  "3": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "c8c23e73fda0"
+  },
+  "4": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28",
+   "datazione": "api",
+   "h": "368d4ebad8a7"
+  },
+  "5": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "20174a1a88d9"
+  },
+  "6": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "2014-02-07",
+   "datazione": "api",
+   "h": "0308704638bb"
+  },
+  "7": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "1970-12-18",
+   "datazione": "api",
+   "h": "7035d5b176cc"
+  },
+  "8": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28",
+   "datazione": "api",
+   "h": "368d4ebad8a7"
+  },
+  "9": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28",
+   "datazione": "api",
+   "h": "c4b9bc5a14b2"
+  },
+  "9-bis": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "1978-08-31",
+   "datazione": "api",
+   "h": "1480022e4128"
+  },
+  "10": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28",
+   "datazione": "api",
+   "h": "634bd349ed69"
+  },
+  "11": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "1987-03-12",
+   "datazione": "api",
+   "h": "5956438003e0"
+  },
+  "12": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "4a1803b61077"
+  },
+  "12-bis": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "1987-03-12",
+   "datazione": "api",
+   "h": "1c1ff22e4487"
+  },
+  "12-ter": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "1987-03-12",
+   "datazione": "api",
+   "h": "3d1c500331a2"
+  },
+  "12-sexies": {
+   "file": "l-898-1970.md",
+   "rubrica": "",
+   "vigore_da": "2018-04-06",
+   "datazione": "api",
+   "h": "887e68c2d50b"
+  }
+ }
+}

@@ -1,0 +1,457 @@
+{
+ "_meta": {
+  "codice": "dlgs-116-2017",
+  "nome": "Riforma organica della magistratura onoraria (D.Lgs. 116/2017)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-06-12",
+  "articoli": 46,
+  "file": [
+   "dlgs-116-2017.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2017-07-13;116",
+  "versioni": [
+   {
+    "data": "2017-07-31",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2018-02-03",
+    "evento": "rp1",
+    "atto_modificante": "atto modificante non indicato (rp1)"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp2",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp3",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2021-04-22",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 22 aprile 2021, n. 52"
+   },
+   {
+    "data": "2021-06-09",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 9 giugno 2021, n. 80"
+   },
+   {
+    "data": "2021-06-21",
+    "evento": "rp6",
+    "atto_modificante": "L. 17 giugno 2021, n. 87"
+   },
+   {
+    "data": "2021-08-07",
+    "evento": "rp7",
+    "atto_modificante": "L. 6 agosto 2021, n. 113"
+   },
+   {
+    "data": "2021-12-31",
+    "evento": "rp8",
+    "atto_modificante": "L. 30 dicembre 2021, n. 234"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp9+rp10",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149; D.Lgs. 10 ottobre 2022, n. 151"
+   },
+   {
+    "data": "2023-08-02",
+    "evento": "rp11",
+    "atto_modificante": "atto modificante non indicato (rp11)"
+   },
+   {
+    "data": "2024-02-22",
+    "evento": "rp12",
+    "atto_modificante": "L. 21 febbraio 2024, n. 14"
+   },
+   {
+    "data": "2024-04-06",
+    "evento": "rp13",
+    "atto_modificante": "D.Lgs. 28 marzo 2024, n. 44"
+   },
+   {
+    "data": "2024-11-29",
+    "evento": "rp14",
+    "atto_modificante": "D.L. 29 novembre 2024, n. 178"
+   },
+   {
+    "data": "2025-01-24",
+    "evento": "rp15",
+    "atto_modificante": "L. 23 gennaio 2025, n. 4"
+   },
+   {
+    "data": "2025-04-16",
+    "evento": "rp16",
+    "atto_modificante": "L. 15 aprile 2025, n. 51"
+   },
+   {
+    "data": "2025-08-08",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 8 agosto 2025, n. 117"
+   },
+   {
+    "data": "2025-10-07",
+    "evento": "rp18",
+    "atto_modificante": "L. 3 ottobre 2025, n. 148"
+   },
+   {
+    "data": "2025-12-31",
+    "evento": "rp19",
+    "atto_modificante": "atto modificante non indicato (rp19)"
+   },
+   {
+    "data": "2026-05-13",
+    "evento": "rp20",
+    "atto_modificante": "atto modificante non indicato (rp20)"
+   },
+   {
+    "data": "2026-06-12",
+    "evento": "rp21",
+    "atto_modificante": "D.L. 12 giugno 2026, n. 100"
+   }
+  ],
+  "ultima_versione": "2026-06-12",
+  "datazione": {
+   "monoblocco": 46,
+   "api": 45,
+   "riportati": 1,
+   "ignota": 0,
+   "stima_anteriore": 27,
+   "chiamate": 45,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Magistratura onoraria",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "66e951445ec8"
+  },
+  "2": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Istituzione dell'ufficio di collaborazione del procuratore della Repubblica",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "4fa86d8fade1"
+  },
+  "3": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Dotazione organica dei giudici onorari di pace e dei vice procuratori onorari. Pianta organica dell'ufficio del giudice di pace",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "7305800b7bd7"
+  },
+  "4": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Requisiti per il conferimento dell'incarico di magistrato onorario",
+   "vigore_da": "2026-01-01",
+   "datazione": "api",
+   "h": "a45cd94377a5"
+  },
+  "5": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Incompatibilita'",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "dc2cda9f81f8"
+  },
+  "6": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Ammissione al tirocinio",
+   "vigore_da": "2024-02-23",
+   "datazione": "api",
+   "h": "09e9077b8f36"
+  },
+  "7": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Tirocinio e conferimento dell'incarico",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "98d71d5d367b"
+  },
+  "8": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Coordinamento ed organizzazione dell'ufficio del giudice di pace",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "a796c6b31429"
+  },
+  "9": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Funzioni e compiti dei giudici onorari di pace",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "5a79164c7410"
+  },
+  "10": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Destinazione dei giudici onorari di pace nell'ufficio per il processo",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "bad5c7e60a00"
+  },
+  "11": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Assegnazione ai giudici onorari di pace dei procedimenti civili e penali",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "5d2a366d07e7"
+  },
+  "12": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Destinazione dei giudici onorari di pace nei collegi civili e penali",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "7b2ac5f8d953"
+  },
+  "13": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Destinazione in supplenza dei giudici onorari di pace",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "0ba7a0f3608e"
+  },
+  "14": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Supplenze e applicazioni negli uffici del giudice di pace",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "e0ff0115f445"
+  },
+  "15": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Organizzazione dell'ufficio di collaborazione del procuratore della Repubblica",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "2d6bd73cc025"
+  },
+  "16": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Funzioni e compiti dei vice procuratori onorari",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "467e36bd8df5"
+  },
+  "17": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Attivita' delegabili ai vice procuratori onorari",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "94672abb8a44"
+  },
+  "18": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Durata dell'ufficio e conferma",
+   "vigore_da": "2024-04-21",
+   "datazione": "api",
+   "h": "f8aeb985a6fc"
+  },
+  "19": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Astensione e ricusazione",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "043f7f3bcdb3"
+  },
+  "20": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Doveri del magistrato onorario",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "48b1a25a3eaa"
+  },
+  "21": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Decadenza, dispensa e revoca",
+   "vigore_da": "2023-08-03",
+   "datazione": "api",
+   "h": "d571d39a75ce"
+  },
+  "22": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Formazione dei magistrati onorari",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "514e21c82e98"
+  },
+  "23": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Indennita' spettante ai magistrati onorari",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "2771d4257f7e"
+  },
+  "24": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Attivita' dei magistrati onorari durante il periodo feriale",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "65a78bc2de08"
+  },
+  "25": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Tutela della gravidanza, malattia e infortunio. Iscrizione alla gestione separata presso l'INPS",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "6c1999efd859"
+  },
+  "26": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Modifiche al testo unico delle imposte sui redditi",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "bb718525161e"
+  },
+  "27": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Ampliamento della competenza del giudice di pace in materia civile",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "c5cb2e30504b"
+  },
+  "28": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "",
+   "vigore_da": "2025-10-08",
+   "datazione": "api",
+   "h": "94c3e8141079"
+  },
+  "29": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Ruolo ad esaurimento dei magistrati onorari in servizio",
+   "vigore_da": "2026-05-14",
+   "datazione": "api",
+   "h": "8900bb9966c9"
+  },
+  "29-bis": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Impegno complessivo dei magistrati onorari confermati",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "9b9b2173f15b"
+  },
+  "29-ter": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Incompatibilita'",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "1803cab0c639"
+  },
+  "30": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Funzioni e compiti dei giudici onorari di tribunale confermati e dei vice procuratori onorari confermati",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "045fba22170d"
+  },
+  "30-bis": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Destinazione in supplenza dei magistrati onorari confermati",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "a028578669d6"
+  },
+  "30-ter": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Attivita' dei magistrati onorari confermati durante il periodo feriale e godimento del periodo feriale",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "c01e9bcac734"
+  },
+  "30-quater": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Trasferimento dei magistrati onorari confermati",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "4b05e6b9c702"
+  },
+  "30-quinquies": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Valutazione di idoneita' professionale del magistrato onorario confermato",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "02bf811fbef4"
+  },
+  "30-sexies": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Violazione dei doveri inerenti alle funzioni",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "8d00fe6becab"
+  },
+  "30-septies": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Ulteriori disposizioni",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "80f7e24c0bda"
+  },
+  "31": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Indennita' spettante ai magistrati onorari in servizio",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "41b0a114c3e0"
+  },
+  "31-bis": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Compenso e regime contributivo dei magistrati onorari confermati che esercitano le funzioni in via esclusiva",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "6359734f8acc"
+  },
+  "31-ter": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Compenso e regime contributivo dei magistrati confermati che esercitano le funzioni in via non esclusiva",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "228e92f1413e"
+  },
+  "31-quater": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Adeguamento del compenso",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "3b40329f9a47"
+  },
+  "32": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Disposizioni transitorie e abrogazioni",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "70fd837561cc"
+  },
+  "33": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Abrogazioni",
+   "vigore_da": "2021-08-08",
+   "datazione": "api",
+   "h": "866971cd2bba"
+  },
+  "34": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Monitoraggio",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "bd14355232f1"
+  },
+  "35": {
+   "file": "dlgs-116-2017.md",
+   "rubrica": "Disposizioni finanziarie e finali",
+   "vigore_da": "2017-08-15",
+   "datazione": "api",
+   "h": "3be63244bb10"
+  }
+ }
+}

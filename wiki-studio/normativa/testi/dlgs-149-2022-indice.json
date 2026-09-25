@@ -1,0 +1,439 @@
+{
+ "_meta": {
+  "codice": "dlgs-149-2022",
+  "nome": "Riforma Cartabia del processo civile (D.Lgs. 149/2022)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-06-12",
+  "articoli": 52,
+  "file": [
+   "dlgs-149-2022.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2022-10-10;149",
+  "versioni": [
+   {
+    "data": "2022-10-17",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp1+rp2",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197; D.L. 29 dicembre 2022, n. 198"
+   },
+   {
+    "data": "2023-02-24",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 24 febbraio 2023, n. 13"
+   },
+   {
+    "data": "2023-02-27",
+    "evento": "rp4",
+    "atto_modificante": "L. 24 febbraio 2023, n. 14"
+   },
+   {
+    "data": "2024-05-30",
+    "evento": "rp5",
+    "atto_modificante": "L. 17 maggio 2024, n. 70"
+   },
+   {
+    "data": "2024-07-04",
+    "evento": "rp6",
+    "atto_modificante": "D.L. 4 luglio 2024, n. 92"
+   },
+   {
+    "data": "2024-11-11",
+    "evento": "rp7",
+    "atto_modificante": "D.Lgs. 31 ottobre 2024, n. 164"
+   },
+   {
+    "data": "2025-08-08",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 8 agosto 2025, n. 117"
+   },
+   {
+    "data": "2026-06-12",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 12 giugno 2026, n. 100"
+   }
+  ],
+  "ultima_versione": "2026-06-12",
+  "datazione": {
+   "monoblocco": 52,
+   "api": 50,
+   "ignota": 2,
+   "testo_diverso": 2,
+   "stima_anteriore": 47,
+   "chiamate": 52,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al codice civile",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "f6d81f46ec22"
+  },
+  "2": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche alle disposizioni per l'attuazione del codice civile e disposizioni transitorie",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "f9a29152365c"
+  },
+  "3": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al codice di procedura civile",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "250a40e4c5bb"
+  },
+  "4": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche alle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "6c0e50e58323"
+  },
+  "5": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al codice penale e al codice di procedura penale",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "275ddb115a19"
+  },
+  "6": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche alle norme di attuazione, di coordinamento e transitorie del codice di procedura penale",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "6670414cb67e"
+  },
+  "7": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al decreto legislativo 4 marzo 2010, n. 28",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "a8feff779b77"
+  },
+  "8": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche alla legge 14 gennaio 1994, n. 20",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "27ead2f171ba"
+  },
+  "9": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "771b4b4c8018"
+  },
+  "10": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Abrogazioni in materia di affiliazione commerciale e arbitrato societario",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "8c1f01f005e9"
+  },
+  "11": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "10121bfa30d2"
+  },
+  "12": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche alla legge 21 gennaio 1994, n. 53",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "24fa6ebafcb3"
+  },
+  "13": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al decreto del Presidente della Repubblica 30 maggio 2002, n. 115",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "b5fd75c7cb87"
+  },
+  "14": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al regio decreto 16 marzo 1942, n. 267",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "ee8d870536b4"
+  },
+  "15": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche alle leggi speciali conseguenti all'introduzione del rito semplificato e alla riduzione dei casi in cui il tribunale giudica in composizione collegiale",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "e355f6dc6296"
+  },
+  "16": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche alle leggi speciali in materia di albi dei consulenti tecnici d'ufficio esercenti le professioni sanitarie",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "bf7ab3cb2e6c"
+  },
+  "17": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al regio decreto 30 gennaio 1941, n. 12",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "6747cdd43312"
+  },
+  "18": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al decreto del Presidente della Repubblica 30 maggio 2002, n. 115",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "20f6f5eb8403"
+  },
+  "19": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al decreto legislativo 2 luglio 2010, n. 104",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "d5d29c84d192"
+  },
+  "20": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "e731113b2e8a"
+  },
+  "21": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Attribuzione ai notai della competenza in materia di autorizzazioni relative agli affari di volontaria giurisdizione",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "56c9a19b775f"
+  },
+  "22": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche alla legge 16 febbraio 1913, n. 89",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "83cef2d9ef79"
+  },
+  "23": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche alla legge 7 marzo 1996, n. 108",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "f14754d11994"
+  },
+  "24": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al decreto legislativo 1° settembre 2011, n. 150",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "306fd5381b6c"
+  },
+  "25": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al decreto del Presidente della Repubblica 3 novembre 2000, n. 396",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "35f949d0b7cb"
+  },
+  "26": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Ulteriori disposizioni in materia di esecuzione forzata",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "d690622fba24"
+  },
+  "27": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche alla legge 1° dicembre 1970, n. 898",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "23e0841cbb9d"
+  },
+  "28": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche alla legge 4 maggio 1983, n. 184",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "c8b3f408c383"
+  },
+  "29": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Altre modifiche alle leggi speciali in materia di persone, minorenni e famiglie",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "3937b1af5137"
+  },
+  "30": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al regio decreto 30 gennaio 1941, n. 12",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "5952b920871f"
+  },
+  "31": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al regio decreto-legge 20 luglio 1934, n. 1404, convertito, con modificazioni, dalla legge 27 maggio 1935, n. 835",
+   "vigore_da": "2024-06-14",
+   "datazione": "api",
+   "h": "15ba23223eb3"
+  },
+  "32": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al decreto legislativo 5 aprile 2006, n. 160",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "75aaff00980e"
+  },
+  "33": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al decreto del Presidente della Repubblica 22 settembre 1988, n. 448",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "73becaedde12"
+  },
+  "34": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al decreto legislativo 2 ottobre 2018, n. 121",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "6099259a58bd"
+  },
+  "35": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Disciplina transitoria",
+   "vigore_da": "2023-02-28",
+   "datazione": "api",
+   "h": "e0f3b415793b"
+  },
+  "36": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Disposizioni transitorie delle modifiche al codice penale e alle disposizioni di attuazione del codice di procedura penale",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "a98144adf78e"
+  },
+  "37": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Abrogazioni",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "e14e57e92ddd"
+  },
+  "38": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Modifiche al decreto legislativo 26 ottobre 2020, n. 152",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "68cbf286dbe0"
+  },
+  "39": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Elenco nazionale dei consulenti tecnici",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "dbb41bcf8b14"
+  },
+  "40": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Monitoraggio dei dati contenuti nei rapporti riepilogativi",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "d11c96737434"
+  },
+  "41": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Disposizioni transitorie delle modifiche al decreto legislativo 4 marzo 2010, n. 28",
+   "vigore_da": "2023-02-25",
+   "datazione": "api",
+   "h": "3765b322f5a6"
+  },
+  "42": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Monitoraggio dei casi di tentativo obbligatorio di mediazione ai sensi dell'articolo 5, comma 1, del decreto legislativo 4 marzo 2010, n. 28",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "0be613ca67ad"
+  },
+  "43": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Monitoraggio del rispetto dei limiti di spesa",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "7682271a7836"
+  },
+  "44": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Norma di coordinamento",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "4cd5a5d79aa5"
+  },
+  "45": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Organico del tribunale e della procura per le persone, per i minorenni e per le famiglie",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "679afaf3e30b"
+  },
+  "46": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Magistrati e personale amministrativo in servizio",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "999fd4c827cd"
+  },
+  "47": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Magistrati titolari di funzioni dirigenziali",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "6424ad07d96c"
+  },
+  "48": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Personale di polizia giudiziaria",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "cbb0218c31ec"
+  },
+  "49": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Disposizioni per la definizione dei procedimenti pendenti",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "4d7364f9b20e"
+  },
+  "50": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Norma di coordinamento",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "87d3b623b432"
+  },
+  "51": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Disposizioni finanziarie",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "f7fa10791108"
+  },
+  "52": {
+   "file": "dlgs-149-2022.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2022-10-18",
+   "datazione": "api",
+   "h": "32ff69116a40"
+  }
+ }
+}

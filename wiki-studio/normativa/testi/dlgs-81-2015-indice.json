@@ -1,0 +1,788 @@
+{
+ "_meta": {
+  "codice": "dlgs-81-2015",
+  "nome": "Disciplina organica dei contratti di lavoro (D.Lgs. 81/2015)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-06-28",
+  "articoli": 66,
+  "file": [
+   "dlgs-81-2015.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2015-06-15;81",
+  "versioni": [
+   {
+    "data": "2015-06-24",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2015-09-23",
+    "evento": "rp1",
+    "atto_modificante": "D.Lgs. 14 settembre 2015, n. 150"
+   },
+   {
+    "data": "2016-06-24",
+    "evento": "rp2",
+    "atto_modificante": "D.L. 24 giugno 2016, n. 113"
+   },
+   {
+    "data": "2016-10-07",
+    "evento": "rp3",
+    "atto_modificante": "D.Lgs. 24 settembre 2016, n. 185"
+   },
+   {
+    "data": "2016-12-21",
+    "evento": "rp4",
+    "atto_modificante": "L. 11 dicembre 2016, n. 232"
+   },
+   {
+    "data": "2016-12-30",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 30 dicembre 2016, n. 244"
+   },
+   {
+    "data": "2017-03-17",
+    "evento": "rp6",
+    "atto_modificante": "D.L. 17 marzo 2017, n. 25"
+   },
+   {
+    "data": "2017-06-07",
+    "evento": "rp7",
+    "atto_modificante": "D.Lgs. 25 maggio 2017, n. 75"
+   },
+   {
+    "data": "2017-12-28",
+    "evento": "rp8",
+    "atto_modificante": "D.Lgs. 7 dicembre 2017, n. 202"
+   },
+   {
+    "data": "2017-12-29",
+    "evento": "rp9",
+    "atto_modificante": "L. 27 dicembre 2017, n. 205"
+   },
+   {
+    "data": "2018-07-13",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 12 luglio 2018, n. 87"
+   },
+   {
+    "data": "2018-12-31",
+    "evento": "rp11",
+    "atto_modificante": "L. 30 dicembre 2018, n. 145"
+   },
+   {
+    "data": "2019-06-29",
+    "evento": "rp12",
+    "atto_modificante": "D.L. 28 giugno 2019, n. 59"
+   },
+   {
+    "data": "2019-08-12",
+    "evento": "rp13",
+    "atto_modificante": "L. 8 agosto 2019, n. 81"
+   },
+   {
+    "data": "2019-09-04",
+    "evento": "rp14",
+    "atto_modificante": "D.L. 3 settembre 2019, n. 101"
+   },
+   {
+    "data": "2019-11-02",
+    "evento": "rp15",
+    "atto_modificante": "L. 2 novembre 2019, n. 128"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp16",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp17",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2020-03-17",
+    "evento": "rp18",
+    "atto_modificante": "D.L. 17 marzo 2020, n. 18"
+   },
+   {
+    "data": "2020-04-29",
+    "evento": "rp19",
+    "atto_modificante": "L. 24 aprile 2020, n. 27"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp20",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-07-18",
+    "evento": "rp21",
+    "atto_modificante": "L. 17 luglio 2020, n. 77"
+   },
+   {
+    "data": "2020-08-14",
+    "evento": "rp22",
+    "atto_modificante": "D.L. 14 agosto 2020, n. 104"
+   },
+   {
+    "data": "2020-10-13",
+    "evento": "rp23",
+    "atto_modificante": "L. 13 ottobre 2020, n. 126"
+   },
+   {
+    "data": "2020-10-28",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 28 ottobre 2020, n. 137"
+   },
+   {
+    "data": "2020-12-24",
+    "evento": "rp25",
+    "atto_modificante": "L. 18 dicembre 2020, n. 176"
+   },
+   {
+    "data": "2020-12-30",
+    "evento": "rp26",
+    "atto_modificante": "L. 30 dicembre 2020, n. 178"
+   },
+   {
+    "data": "2021-03-18",
+    "evento": "rp27",
+    "atto_modificante": "D.Lgs. 28 febbraio 2021, n. 36"
+   },
+   {
+    "data": "2021-03-22",
+    "evento": "rp28",
+    "atto_modificante": "D.L. 22 marzo 2021, n. 41"
+   },
+   {
+    "data": "2021-05-25",
+    "evento": "rp29",
+    "atto_modificante": "D.L. 25 maggio 2021, n. 73"
+   },
+   {
+    "data": "2021-07-24",
+    "evento": "rp30",
+    "atto_modificante": "L. 23 luglio 2021, n. 106"
+   },
+   {
+    "data": "2021-10-21",
+    "evento": "rp31",
+    "atto_modificante": "D.L. 21 ottobre 2021, n. 146"
+   },
+   {
+    "data": "2021-12-20",
+    "evento": "rp32",
+    "atto_modificante": "L. 17 dicembre 2021, n. 215"
+   },
+   {
+    "data": "2021-12-31",
+    "evento": "rp33",
+    "atto_modificante": "L. 30 dicembre 2021, n. 234"
+   },
+   {
+    "data": "2022-01-27",
+    "evento": "rp34",
+    "atto_modificante": "D.L. 27 gennaio 2022, n. 4"
+   },
+   {
+    "data": "2022-03-21",
+    "evento": "rp35",
+    "atto_modificante": "D.L. 21 marzo 2022, n. 21"
+   },
+   {
+    "data": "2022-03-28",
+    "evento": "rp36",
+    "atto_modificante": "L. 28 marzo 2022, n. 25"
+   },
+   {
+    "data": "2022-04-30",
+    "evento": "rp37",
+    "atto_modificante": "D.L. 30 aprile 2022, n. 36"
+   },
+   {
+    "data": "2022-05-20",
+    "evento": "rp38",
+    "atto_modificante": "L. 20 maggio 2022, n. 51"
+   },
+   {
+    "data": "2022-06-29",
+    "evento": "rp39",
+    "atto_modificante": "L. 29 giugno 2022, n. 79"
+   },
+   {
+    "data": "2022-07-29",
+    "evento": "rp40+rp41",
+    "atto_modificante": "D.Lgs. 27 giugno 2022, n. 104; D.Lgs. 30 giugno 2022, n. 105"
+   },
+   {
+    "data": "2022-11-02",
+    "evento": "rp42",
+    "atto_modificante": "D.Lgs. 5 ottobre 2022, n. 163"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp43",
+    "atto_modificante": "D.L. 29 dicembre 2022, n. 198"
+   },
+   {
+    "data": "2023-02-27",
+    "evento": "rp44",
+    "atto_modificante": "L. 24 febbraio 2023, n. 14"
+   },
+   {
+    "data": "2023-05-04",
+    "evento": "rp45",
+    "atto_modificante": "D.L. 4 maggio 2023, n. 48"
+   },
+   {
+    "data": "2023-06-13",
+    "evento": "rp46",
+    "atto_modificante": "D.L. 13 giugno 2023, n. 69"
+   },
+   {
+    "data": "2023-07-03",
+    "evento": "rp47",
+    "atto_modificante": "L. 3 luglio 2023, n. 85"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp48",
+    "atto_modificante": "D.L. 30 dicembre 2023, n. 215"
+   },
+   {
+    "data": "2024-02-28",
+    "evento": "rp49",
+    "atto_modificante": "L. 23 febbraio 2024, n. 18"
+   },
+   {
+    "data": "2024-03-02",
+    "evento": "rp50",
+    "atto_modificante": "D.L. 2 marzo 2024, n. 19"
+   },
+   {
+    "data": "2024-09-16",
+    "evento": "rp51",
+    "atto_modificante": "D.L. 16 settembre 2024, n. 131"
+   },
+   {
+    "data": "2024-11-14",
+    "evento": "rp52",
+    "atto_modificante": "L. 14 novembre 2024, n. 166"
+   },
+   {
+    "data": "2024-12-27",
+    "evento": "rp53",
+    "atto_modificante": "D.L. 27 dicembre 2024, n. 202"
+   },
+   {
+    "data": "2024-12-28",
+    "evento": "rp54",
+    "atto_modificante": "L. 13 dicembre 2024, n. 203"
+   },
+   {
+    "data": "2025-04-11",
+    "evento": "rp55",
+    "atto_modificante": "D.L. 11 aprile 2025, n. 48"
+   },
+   {
+    "data": "2025-06-30",
+    "evento": "rp56",
+    "atto_modificante": "D.L. 30 giugno 2025, n. 95"
+   },
+   {
+    "data": "2025-08-09",
+    "evento": "rp57",
+    "atto_modificante": "L. 8 agosto 2025, n. 118"
+   },
+   {
+    "data": "2026-04-30",
+    "evento": "rp58",
+    "atto_modificante": "D.L. 30 aprile 2026, n. 62"
+   },
+   {
+    "data": "2026-06-27",
+    "evento": "rp59",
+    "atto_modificante": "L. 25 giugno 2026, n. 112"
+   }
+  ],
+  "ultima_versione": "2026-06-27",
+  "datazione": {
+   "monoblocco": 66,
+   "api": 60,
+   "riportati": 6,
+   "ignota": 0,
+   "stima_anteriore": 48,
+   "stima_posteriore": 1,
+   "chiamate": 60,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Forma contrattuale comune",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "e44d8fe8f2b8"
+  },
+  "2": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Collaborazioni organizzate dal committente",
+   "vigore_da": "2023-02-28",
+   "datazione": "api",
+   "h": "296ba6d345fa"
+  },
+  "2-bis": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Ampliamento delle tutele in favore degli iscritti alla gestione separata",
+   "vigore_da": "2019-11-03",
+   "datazione": "api",
+   "h": "095c991eeaed"
+  },
+  "3": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Disciplina delle mansioni",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "2ff0d8f19187"
+  },
+  "4": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Definizione",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "85011e5a0b0a"
+  },
+  "5": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Forma e contenuti del contratto di lavoro a tempo parziale",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "193b7cd5d35a"
+  },
+  "6": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Lavoro supplementare, lavoro straordinario, clausole elastiche",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "d1443c9fe930"
+  },
+  "7": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Trattamento del lavoratore a tempo parziale",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "667c05259f16"
+  },
+  "8": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Trasformazione del rapporto",
+   "vigore_da": "2022-08-13",
+   "datazione": "api",
+   "h": "fa0ca23d4a1f"
+  },
+  "9": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Criteri di computo dei lavoratori a tempo parziale",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "5cf2e79987a2"
+  },
+  "10": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Sanzioni",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "61798021ed52"
+  },
+  "11": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Disciplina previdenziale",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "4719f90acbed"
+  },
+  "12": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Lavoro a tempo parziale nelle amministrazioni pubbliche",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "c9e7630a868d"
+  },
+  "13": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Definizione e casi di ricorso al lavoro intermittente",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "ea3a117b913c"
+  },
+  "14": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Divieti",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "7d4c61dbe3b9"
+  },
+  "15": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Forma e comunicazioni",
+   "vigore_da": "2022-08-13",
+   "datazione": "api",
+   "h": "9ad22764268f"
+  },
+  "16": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Indennita' di disponibilita'",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "908f3819f926"
+  },
+  "17": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Principio di non discriminazione",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "316cb064209a"
+  },
+  "18": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Computo del lavoratore intermittente",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "e55a88fad717"
+  },
+  "19": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Apposizione del termine e durata massima",
+   "vigore_da": "2026-06-28",
+   "datazione": "api",
+   "h": "db08cce9c5ca"
+  },
+  "20": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Divieti",
+   "vigore_da": "2020-12-25",
+   "datazione": "api",
+   "h": "c17047205c99"
+  },
+  "21": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Proroghe e rinnovi",
+   "vigore_da": "2025-01-12",
+   "datazione": "api",
+   "h": "14b90c1a762f"
+  },
+  "22": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Continuazione del rapporto oltre la scadenza del termine",
+   "vigore_da": "2017-03-01",
+   "datazione": "api",
+   "h": "e9a2b95b1ff6"
+  },
+  "23": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Numero complessivo di contratti a tempo determinato",
+   "vigore_da": "2020-03-01",
+   "datazione": "api",
+   "h": "91dd12005541"
+  },
+  "24": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Diritti di precedenza",
+   "vigore_da": "2017-03-01",
+   "datazione": "api",
+   "h": "1777d22aaf12"
+  },
+  "25": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Principio di non discriminazione",
+   "vigore_da": "2017-03-01",
+   "datazione": "api",
+   "h": "0a5c72701aa0"
+  },
+  "26": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Formazione",
+   "vigore_da": "2017-03-01",
+   "datazione": "api",
+   "h": "ab67ea0572cc"
+  },
+  "27": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Criteri di computo",
+   "vigore_da": "2017-03-01",
+   "datazione": "api",
+   "h": "c5d5bb47b648"
+  },
+  "28": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Decadenza e tutele",
+   "vigore_da": "2024-09-17",
+   "datazione": "api",
+   "h": "78aa856a5246"
+  },
+  "29": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Esclusioni e discipline specifiche",
+   "vigore_da": "2024-11-15",
+   "datazione": "api",
+   "h": "40f727c45117"
+  },
+  "30": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Definizione",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "bd234929db92"
+  },
+  "31": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Somministrazione di lavoro a tempo indeterminato e determinato",
+   "vigore_da": "2025-01-12",
+   "datazione": "api",
+   "h": "6b443b3c3efe"
+  },
+  "32": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Divieti",
+   "vigore_da": "2020-12-25",
+   "datazione": "api",
+   "h": "41d775cf3f9c"
+  },
+  "33": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Forma del contratto di somministrazione",
+   "vigore_da": "2022-08-13",
+   "datazione": "api",
+   "h": "837270241551"
+  },
+  "34": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Disciplina dei rapporti di lavoro",
+   "vigore_da": "2025-01-12",
+   "datazione": "api",
+   "h": "8e05d18bc24b"
+  },
+  "35": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "52d69f499838"
+  },
+  "36": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Diritti sindacali e garanzie collettive",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "cd2eac016ea5"
+  },
+  "37": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Norme previdenziali",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "9dce25234134"
+  },
+  "38": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Somministrazione irregolare",
+   "vigore_da": "2020-07-19",
+   "datazione": "api",
+   "h": "c09979602398"
+  },
+  "38-bis": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "",
+   "vigore_da": "2024-03-02",
+   "datazione": "api",
+   "h": "83d9e1a3897d"
+  },
+  "39": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Decadenza e tutele",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "d340a247f071"
+  },
+  "40": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Sanzioni",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "e191d7959cf2"
+  },
+  "41": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Definizione",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "17cb69cb58f7"
+  },
+  "42": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Disciplina generale",
+   "vigore_da": "2015-09-24",
+   "datazione": "api",
+   "h": "7fdfa19a2425"
+  },
+  "43": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Apprendistato per la qualifica e il diploma professionale, il diploma di istruzione secondaria superiore e il certificato di specializzazione tecnica superiore",
+   "vigore_da": "2025-01-12",
+   "datazione": "api",
+   "h": "cb9ae40709d3"
+  },
+  "44": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Apprendistato professionalizzante",
+   "vigore_da": "2022-01-01",
+   "datazione": "api",
+   "h": "37fa661aa8dd"
+  },
+  "45": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Apprendistato di alta formazione e di ricerca",
+   "vigore_da": "2016-10-08",
+   "datazione": "api",
+   "h": "7c6b3dc03940"
+  },
+  "46": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Standard professionali e formativi e certificazione delle competenze",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "ad56442f0bc4"
+  },
+  "47": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Disposizioni finali",
+   "vigore_da": "2025-04-12",
+   "datazione": "api",
+   "h": "a3b072e0941b"
+  },
+  "47-bis": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Scopo, oggetto e ambito di applicazione",
+   "vigore_da": "2026-06-28",
+   "datazione": "api",
+   "h": "148a82ea3189"
+  },
+  "47-ter": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Forma contrattuale e informazioni",
+   "vigore_da": "2022-08-13",
+   "datazione": "api",
+   "h": "24b815b1f577"
+  },
+  "47-quater": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Compenso",
+   "vigore_da": "2026-06-28",
+   "datazione": "api",
+   "h": "c3b22f233200"
+  },
+  "47-quinquies": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Divieto di discriminazione",
+   "vigore_da": "2019-11-03",
+   "datazione": "api",
+   "h": "6b48df44513d"
+  },
+  "47-sexies": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Protezione dei dati personali",
+   "vigore_da": "2019-11-03",
+   "datazione": "api",
+   "h": "78f1c948ea94"
+  },
+  "47-septies": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Copertura assicurativa obbligatoria contro gli infortuni sul lavoro e le malattie professionali",
+   "vigore_da": "2026-06-28",
+   "datazione": "api",
+   "h": "71f0f4367b36"
+  },
+  "47-octies": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Osservatorio",
+   "vigore_da": "2019-11-03",
+   "datazione": "api",
+   "h": "cf51d15fdb3c"
+  },
+  "48": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "",
+   "vigore_da": "2017-03-17",
+   "datazione": "api",
+   "h": "7506252c3dcc"
+  },
+  "49": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "",
+   "vigore_da": "2017-03-17",
+   "datazione": "api",
+   "h": "7506252c3dcc"
+  },
+  "50": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "",
+   "vigore_da": "2017-03-17",
+   "datazione": "api",
+   "h": "7506252c3dcc"
+  },
+  "51": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Norme di rinvio ai contratti collettivi",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "a217fedad788"
+  },
+  "52": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Superamento del contratto a progetto",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "6c1a68fb3b48"
+  },
+  "53": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Superamento dell'associazione in partecipazione con apporto di lavoro",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "7ca751bfef6b"
+  },
+  "54": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Stabilizzazione dei collaboratori coordinati e continuativi anche a progetto e di persone titolari di partita IVA",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "3c4fb261e80a"
+  },
+  "55": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Abrogazioni e norme transitorie",
+   "vigore_da": "2016-10-08",
+   "datazione": "api",
+   "h": "fceb95e66609"
+  },
+  "56": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Copertura finanziaria e clausola di salvaguardia",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "a5f247c91683"
+  },
+  "57": {
+   "file": "dlgs-81-2015.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2015-06-25",
+   "datazione": "api",
+   "h": "8b036c8cf316"
+  }
+ }
+}

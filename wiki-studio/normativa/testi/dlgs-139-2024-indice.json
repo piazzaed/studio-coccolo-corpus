@@ -1,0 +1,136 @@
+{
+ "_meta": {
+  "codice": "dlgs-139-2024",
+  "nome": "Riforma imposte di successione, donazione e registro (D.Lgs. 139/2024)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-06-04",
+  "articoli": 11,
+  "file": [
+   "dlgs-139-2024.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2024-09-18;139",
+  "versioni": [
+   {
+    "data": "2024-10-02",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2024-11-28",
+    "evento": "rp1",
+    "atto_modificante": "D.Lgs. 5 novembre 2024, n. 174"
+   },
+   {
+    "data": "2024-12-31",
+    "evento": "rp2",
+    "atto_modificante": "L. 30 dicembre 2024, n. 207"
+   },
+   {
+    "data": "2025-08-12",
+    "evento": "rp3",
+    "atto_modificante": "D.Lgs. 1 agosto 2025, n. 123"
+   },
+   {
+    "data": "2026-06-03",
+    "evento": "rp4",
+    "atto_modificante": "atto modificante non indicato (rp4)"
+   }
+  ],
+  "ultima_versione": "2026-06-03",
+  "datazione": {
+   "monoblocco": 11,
+   "api": 11,
+   "ignota": 0,
+   "stima_anteriore": 10,
+   "chiamate": 11,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dlgs-139-2024.md",
+   "rubrica": "Modifiche alle disposizioni concernenti l'imposta sulle successioni e donazioni",
+   "vigore_da": "2024-10-03",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "32ab0dbcbb04"
+  },
+  "2": {
+   "file": "dlgs-139-2024.md",
+   "rubrica": "Modifiche alle disposizioni concernenti l'imposta di registro",
+   "vigore_da": "2024-10-03",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "41b4819adb31"
+  },
+  "3": {
+   "file": "dlgs-139-2024.md",
+   "rubrica": "Modifiche di coordinamento in materia di imposte ipotecaria e catastale",
+   "vigore_da": "2024-10-03",
+   "datazione": "api",
+   "h": "246d963642df"
+  },
+  "4": {
+   "file": "dlgs-139-2024.md",
+   "rubrica": "Disposizioni in materia di imposta di bollo e di imposta sostitutiva sulle operazioni relative ai finanziamenti a medio e lungo termine",
+   "vigore_da": "2024-10-03",
+   "datazione": "api",
+   "h": "0b4212308ea9"
+  },
+  "5": {
+   "file": "dlgs-139-2024.md",
+   "rubrica": "Norme in materia di tasse per i servizi ipotecari e catastali",
+   "vigore_da": "2024-10-03",
+   "datazione": "api",
+   "h": "a39530b4743b"
+  },
+  "6": {
+   "file": "dlgs-139-2024.md",
+   "rubrica": "Modifiche ai tributi speciali",
+   "vigore_da": "2024-10-03",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "427e44eb180c"
+  },
+  "7": {
+   "file": "dlgs-139-2024.md",
+   "rubrica": "Accesso telematico alle banche dati ipotecaria e catastale",
+   "vigore_da": "2024-10-03",
+   "datazione": "api",
+   "h": "d7596438e13a"
+  },
+  "8": {
+   "file": "dlgs-139-2024.md",
+   "rubrica": "Modifiche alle modalita' di aggiornamento delle intestazioni catastali",
+   "vigore_da": "2025-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "ac8a009060e9"
+  },
+  "9": {
+   "file": "dlgs-139-2024.md",
+   "rubrica": "Disposizioni finali e abrogazioni",
+   "vigore_da": "2026-06-04",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "a79d45a8f9e5"
+  },
+  "10": {
+   "file": "dlgs-139-2024.md",
+   "rubrica": "Disposizioni finanziarie",
+   "vigore_da": "2024-10-03",
+   "datazione": "api",
+   "h": "977b2b5829bd"
+  },
+  "11": {
+   "file": "dlgs-139-2024.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2024-10-03",
+   "datazione": "api",
+   "h": "8b036c8cf316"
+  }
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "_meta": {
+  "codice": "dlgs-164-2024",
+  "nome": "Correttivo della riforma Cartabia (D.Lgs. 164/2024)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-09-23",
+  "articoli": 8,
+  "file": [
+   "dlgs-164-2024.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2024-10-31;164",
+  "versioni": [
+   {
+    "data": "2024-11-11",
+    "evento": "ro1",
+    "atto_modificante": null
+   }
+  ],
+  "ultima_versione": "2024-11-11",
+  "datazione": {
+   "monoblocco": 8,
+   "api": 8,
+   "ignota": 0,
+   "stima_anteriore": 8,
+   "chiamate": 8,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dlgs-164-2024.md",
+   "rubrica": "Modifiche al codice civile",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "553b0c1f0acd"
+  },
+  "2": {
+   "file": "dlgs-164-2024.md",
+   "rubrica": "Modifiche alle disposizioni per l'attuazione del codice civile e disposizioni transitorie",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "2fc972c22daa"
+  },
+  "3": {
+   "file": "dlgs-164-2024.md",
+   "rubrica": "Modifiche al codice di procedura civile",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "b894bce34a0c"
+  },
+  "4": {
+   "file": "dlgs-164-2024.md",
+   "rubrica": "Modifiche alle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "2ddda26633d6"
+  },
+  "5": {
+   "file": "dlgs-164-2024.md",
+   "rubrica": "Modifiche al codice penale",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "ecc52be3b359"
+  },
+  "6": {
+   "file": "dlgs-164-2024.md",
+   "rubrica": "Modifiche a leggi speciali",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "568eb125eb4a"
+  },
+  "7": {
+   "file": "dlgs-164-2024.md",
+   "rubrica": "Disposizioni transitorie",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "5a0602829287"
+  },
+  "8": {
+   "file": "dlgs-164-2024.md",
+   "rubrica": "Clausola di invarianza finanziaria",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "0bdeaa09ea88"
+  }
+ }
+}

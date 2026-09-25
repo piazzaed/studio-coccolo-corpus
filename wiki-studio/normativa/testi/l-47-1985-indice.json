@@ -1,0 +1,531 @@
+{
+ "_meta": {
+  "codice": "l-47-1985",
+  "nome": "Controllo dell'attività urbanistico-edilizia e condono (L. 47/1985)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2024-10-10",
+  "articoli": 53,
+  "file": [
+   "l-47-1985.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1985-02-28;47",
+  "versioni": [
+   {
+    "data": "1985-03-02",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1985-04-24",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 23 aprile 1985, n. 146"
+   },
+   {
+    "data": "1985-08-08",
+    "evento": "rp2+rp3",
+    "atto_modificante": "Circ. Ministero Dei Lavori Pubblici 30 luglio 1985, n. 3356; Circ. Ministero Dei Lavori Pubblici 30 luglio 1985, n. 3357"
+   },
+   {
+    "data": "1985-10-23",
+    "evento": "rp4",
+    "atto_modificante": "Circ. Ministero Per I Beni Culturali E Ambientali 16 ottobre 1985, n. 3786"
+   },
+   {
+    "data": "1985-11-04",
+    "evento": "rp5",
+    "atto_modificante": "Circ. Ministero Dei Lavori Pubblici 29 ottobre 1985, n. 9825"
+   },
+   {
+    "data": "1985-11-22",
+    "evento": "rp6",
+    "atto_modificante": "D.L. 20 novembre 1985, n. 656"
+   },
+   {
+    "data": "1986-07-31",
+    "evento": "rp7",
+    "atto_modificante": "Circ. Ministero Dei Lavori Pubblici 18 luglio 1986, n. 3466"
+   },
+   {
+    "data": "1986-09-12",
+    "evento": "rp8",
+    "atto_modificante": "Circ. Presidenza Del Consiglio Dei Ministri 9 settembre 1986, n. 6027"
+   },
+   {
+    "data": "1988-01-13",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 12 gennaio 1988, n. 2"
+   },
+   {
+    "data": "1989-02-14",
+    "evento": "rp10+rp11",
+    "atto_modificante": "Circ. Ministero Dei Lavori Pubblici 6 febbraio 1989, n. 142; L. 10 febbraio 1989, n. 48"
+   },
+   {
+    "data": "1990-06-04",
+    "evento": "rp12",
+    "atto_modificante": "L. 31 maggio 1990, n. 128"
+   },
+   {
+    "data": "1992-01-02",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 30 dicembre 1991, n. 417"
+   },
+   {
+    "data": "1993-01-19",
+    "evento": "rp14",
+    "atto_modificante": "D.L. 18 gennaio 1993, n. 8"
+   },
+   {
+    "data": "1993-01-23",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 23 gennaio 1993, n. 16"
+   },
+   {
+    "data": "1993-12-30",
+    "evento": "rp16",
+    "atto_modificante": "D.L. 30 dicembre 1993, n. 557"
+   },
+   {
+    "data": "1994-10-01",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 30 settembre 1994, n. 564"
+   },
+   {
+    "data": "1994-12-30",
+    "evento": "rp18",
+    "atto_modificante": "L. 23 dicembre 1994, n. 724"
+   },
+   {
+    "data": "1996-12-28",
+    "evento": "rp19",
+    "atto_modificante": "L. 23 dicembre 1996, n. 662"
+   },
+   {
+    "data": "1997-12-30",
+    "evento": "rp20",
+    "atto_modificante": "L. 27 dicembre 1997, n. 449"
+   },
+   {
+    "data": "1999-02-22",
+    "evento": "rp21",
+    "atto_modificante": "L. 18 febbraio 1999, n. 28"
+   },
+   {
+    "data": "1999-05-18",
+    "evento": "rp22",
+    "atto_modificante": "L. 30 aprile 1999, n. 136"
+   },
+   {
+    "data": "2001-10-20",
+    "evento": "rp23",
+    "atto_modificante": "D.P.R. 6 giugno 2001, n. 380"
+   },
+   {
+    "data": "2001-11-26",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 23 novembre 2001, n. 411"
+   },
+   {
+    "data": "2002-06-21",
+    "evento": "rp25",
+    "atto_modificante": "D.L. 20 giugno 2002, n. 122"
+   },
+   {
+    "data": "2003-10-02",
+    "evento": "rp26",
+    "atto_modificante": "D.L. 30 settembre 2003, n. 269"
+   },
+   {
+    "data": "2024-10-09",
+    "evento": "rp27",
+    "atto_modificante": "atto modificante non indicato (rp27)"
+   }
+  ],
+  "ultima_versione": "2024-10-09",
+  "datazione": {
+   "monoblocco": 53,
+   "api": 2,
+   "riportati": 51,
+   "ignota": 0,
+   "stima_anteriore": 1,
+   "chiamate": 2,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-47-1985.md",
+   "rubrica": "Legge-quadro",
+   "vigore_da": "1985-03-17",
+   "datazione": "api",
+   "h": "16f6097dce97"
+  },
+  "2": {
+   "file": "l-47-1985.md",
+   "rubrica": "Sostituzione di norme",
+   "vigore_da": "1985-03-17",
+   "datazione": "api",
+   "h": "3b5eec684ebf"
+  },
+  "3": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "4": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "4d66f400dd46"
+  },
+  "5": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "6": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "7": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2024-10-10",
+   "datazione": "api",
+   "h": "81dd2edc330e"
+  },
+  "8": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "9": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "10": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "11": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "12": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "13": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "14": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "15": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "16": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "17": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "18": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "19": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "20": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "21": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "22": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "23": {
+   "file": "l-47-1985.md",
+   "rubrica": "Controlli periodici mediante rilevamenti aerofotogrammetrici",
+   "vigore_da": "1985-03-17",
+   "datazione": "api",
+   "h": "4667193e4fae"
+  },
+  "24": {
+   "file": "l-47-1985.md",
+   "rubrica": "Strumenti per cui non e' richiesta l'approvazione regionale",
+   "vigore_da": "1985-03-17",
+   "datazione": "api",
+   "h": "8ff6b4320e53"
+  },
+  "25": {
+   "file": "l-47-1985.md",
+   "rubrica": "Semplificazione delle procedure",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "f2ed84cc3be0"
+  },
+  "26": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "27": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "28": {
+   "file": "l-47-1985.md",
+   "rubrica": "Valore venale dell'immobile",
+   "vigore_da": "1985-03-17",
+   "datazione": "api",
+   "h": "6fcd2635a524"
+  },
+  "29": {
+   "file": "l-47-1985.md",
+   "rubrica": "Varianti agli strumenti urbanistici e poteri normativi delle regioni",
+   "vigore_da": "2003-11-26",
+   "datazione": "api",
+   "h": "19cfec58302e"
+  },
+  "30": {
+   "file": "l-47-1985.md",
+   "rubrica": "Facolta' e obblighi dei comuni",
+   "vigore_da": "1985-03-17",
+   "datazione": "api",
+   "h": "e3b44f79ee4b"
+  },
+  "31": {
+   "file": "l-47-1985.md",
+   "rubrica": "Sanatoria delle opere abusive",
+   "vigore_da": "1985-03-17",
+   "datazione": "api",
+   "h": "eb2178a87728"
+  },
+  "32": {
+   "file": "l-47-1985.md",
+   "rubrica": "Opere costruite su aree sottoposte a vincolo",
+   "vigore_da": "2003-11-26",
+   "datazione": "api",
+   "h": "42fa752de9bc"
+  },
+  "33": {
+   "file": "l-47-1985.md",
+   "rubrica": "Opere non suscettibili di sanatoria",
+   "vigore_da": "1985-03-17",
+   "datazione": "api",
+   "h": "d99367b1c4e3"
+  },
+  "34": {
+   "file": "l-47-1985.md",
+   "rubrica": "Somma da corrispondere a titolo di oblazione",
+   "vigore_da": "1988-03-14",
+   "datazione": "api",
+   "h": "43fae1ed6da1"
+  },
+  "35": {
+   "file": "l-47-1985.md",
+   "rubrica": "Procedimento per la sanatoria",
+   "vigore_da": "1995-01-01",
+   "datazione": "api",
+   "h": "101fc80f625b"
+  },
+  "36": {
+   "file": "l-47-1985.md",
+   "rubrica": "Rateizzazione",
+   "vigore_da": "1988-01-14",
+   "datazione": "api",
+   "h": "c8e78326ddfb"
+  },
+  "37": {
+   "file": "l-47-1985.md",
+   "rubrica": "Contributo di concessione",
+   "vigore_da": "1985-06-23",
+   "datazione": "api",
+   "h": "6a8d4562a869"
+  },
+  "38": {
+   "file": "l-47-1985.md",
+   "rubrica": "Effetti della oblazione e della concessione in sanatoria",
+   "vigore_da": "1999-05-19",
+   "datazione": "api",
+   "h": "151ace43e184"
+  },
+  "39": {
+   "file": "l-47-1985.md",
+   "rubrica": "Effetti del diniego di sanatoria",
+   "vigore_da": "1985-04-24",
+   "datazione": "api",
+   "h": "ebd9034bf7c8"
+  },
+  "40": {
+   "file": "l-47-1985.md",
+   "rubrica": "Mancata presentazione dell'istanza",
+   "vigore_da": "1988-03-14",
+   "datazione": "api",
+   "h": "b3740cbbbf3d"
+  },
+  "41": {
+   "file": "l-47-1985.md",
+   "rubrica": "Esecuzione delle sanzioni ai fini della commerciabilita' dei beni",
+   "vigore_da": "1985-06-23",
+   "datazione": "api",
+   "h": "c66f40b0ecea"
+  },
+  "42": {
+   "file": "l-47-1985.md",
+   "rubrica": "Prevalenza sulle leggi speciali",
+   "vigore_da": "1985-03-17",
+   "datazione": "api",
+   "h": "8fd014fb6525"
+  },
+  "43": {
+   "file": "l-47-1985.md",
+   "rubrica": "Procedimenti in corso",
+   "vigore_da": "1988-03-14",
+   "datazione": "api",
+   "h": "f9817f400695"
+  },
+  "44": {
+   "file": "l-47-1985.md",
+   "rubrica": "Sospensione dei procedimenti",
+   "vigore_da": "1988-01-14",
+   "datazione": "api",
+   "h": "abbaa1db7259"
+  },
+  "45": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "4d66f400dd46"
+  },
+  "46": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "47": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "47-bis": {
+   "file": "l-47-1985.md",
+   "rubrica": "Dichiarazioni dei rappresentanti",
+   "vigore_da": "1985-06-23",
+   "datazione": "api",
+   "h": "2ed5b411c4e1"
+  },
+  "48": {
+   "file": "l-47-1985.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "daad161d649f"
+  },
+  "49": {
+   "file": "l-47-1985.md",
+   "rubrica": "Sanatorie regionali",
+   "vigore_da": "1985-03-17",
+   "datazione": "api",
+   "h": "695de6df0ea2"
+  },
+  "50": {
+   "file": "l-47-1985.md",
+   "rubrica": "Variazioni di bilancio",
+   "vigore_da": "1985-03-17",
+   "datazione": "api",
+   "h": "c76ef18898df"
+  },
+  "51": {
+   "file": "l-47-1985.md",
+   "rubrica": "Determinazione delle superfici",
+   "vigore_da": "1985-06-23",
+   "datazione": "api",
+   "h": "12a12d5d86fd"
+  },
+  "52": {
+   "file": "l-47-1985.md",
+   "rubrica": "Iscrizione al catasto",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "3c8a8f2be315"
+  }
+ }
+}

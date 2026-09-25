@@ -1,0 +1,1742 @@
+{
+ "_meta": {
+  "descrizione": "Atti del corpus normativo locale (scripts/codice_locale.py). Ogni voce: URN normattiva per caricaAKN, soglia minima di articoli (sanity check sul download), alias con cui le claim card citano l'atto (fonti_fetch.parse_riferimento → slug), materie servite. Config-driven dalla v0.25 (piano velocità, D5.1): aggiungere un atto qui basta perché corpus_refresh e il Livello 0 lo servano dal disco.",
+  "vita_utile_giorni": 7,
+  "vita_massima_giorni": 45,
+  "regole": [
+   "solo_corpo=true: gli <attachment> dell'AKN sono tariffe/allegati con numerazione propria → si leggono solo gli <article> del body",
+   "doc_prefix: per gli atti che contengono più serie di articoli (R.D. 262/1942 = preleggi + c.c.) si tiene la serie con quel prefisso",
+   "libri: confini stabili usati solo per spezzare i file .md in pezzi leggibili",
+   "vita_utile_giorni (7): oltre, corpus_refresh.py riscarica l'atto e il Livello 0 segnala lo snapshot non fresco («vale oggi?»); vita_massima_giorni (45, dall'ultima verifica: download o conferma API): oltre, il locale risponde lo stesso con snapshot_oltre_vita=true e «SNAPSHOT NON CONFERMATO dal …» (v0.29; prima taceva)",
+   "_meta.versioni dell'indice (date di versione dell'atto + atto modificante, dal lifecycle AKN): confini usati da storico.py per la cache permanente dei testi storici e da corpus_diff.py per attribuire le modifiche",
+   "solo_allegati=true: il testo sta negli allegati e il body e' il decreto di approvazione (il contrario di solo_corpo); numeri di articolo doppi fra le serie sono RIFIUTATI da codice_locale.costruisci",
+   "citazione: forma breve risolvibile da fonti_fetch («c.c.», «TUB», «D.Lgs. 28/2010»); se manca si deduce dall'URN. La usa corpus_cerca.py per il comando norma.py pronto",
+   "alias: oltre a quelli elencati, codice_locale genera da solo le forme canoniche dall'URN («d.lgs. 28/2010», «dlgs 28/2010», «l. 431/1998»…); fonti_fetch porta la descrizione a forma canonica (anche «decreto legislativo 28/2010», «L. 431/98», «legge n. 689 del 1981»)",
+   "datazione per articolo (v0.29): per gli atti senza data per articolo nell'AKN (monoblocco) la data della versione vigente viene SOLO dall'API Open Data di normattiva (articoloDataInizioVigenza alla data dello snapshot, validata sul testo); senza API l'articolo resta senza data (regola del consolidamento), mai la stima dai rimandi di nota",
+   "urn_permalink: URN del permalink per articolo quando e' diverso da quello del download AKN (preleggi: l'AKN del R.D. 262/1942 e' uno, ma «;262:1~artN» sono le preleggi e «;262:2~artN» il c.c.); lo usano fonti_fetch (fetch live) e storico.py",
+   "peso_ricerca (default 1): moltiplicatore di rilevanza in corpus_cerca.py; 0.5 per i decreti che MODIFICANO altri atti riportandone il testo novellato (D.Lgs. 149/2022, 164/2024, 139/2024), che altrimenti vincerebbero le ricerche sul codice modificato"
+  ]
+ },
+ "atti": {
+  "cpc": {
+   "nome": "Codice di procedura civile",
+   "urn": "urn:nir:stato:regio.decreto:1940-10-28;1443:1",
+   "doc_prefix": "CODICE DI PROCEDURA CIVILE",
+   "min_articoli": 900,
+   "libri": [
+    [
+     "Libro I — Disposizioni generali",
+     1,
+     162
+    ],
+    [
+     "Libro II — Del processo di cognizione",
+     163,
+     473
+    ],
+    [
+     "Libro III — Del processo di esecuzione",
+     474,
+     632
+    ],
+    [
+     "Libro IV — Dei procedimenti speciali",
+     633,
+     840
+    ]
+   ],
+   "alias": [
+    "c.p.c.",
+    "cpc",
+    "codice di procedura civile"
+   ],
+   "materie": [
+    "processo_civile",
+    "termini",
+    "impugnazioni",
+    "esecuzione",
+    "monitorio",
+    "cautelare",
+    "locazioni",
+    "lavoro"
+   ],
+   "solo_corpo": false,
+   "citazione": "c.p.c."
+  },
+  "cc": {
+   "nome": "Codice civile",
+   "urn": "urn:nir:stato:regio.decreto:1942-03-16;262:2",
+   "doc_prefix": "CODICE CIVILE",
+   "min_articoli": 2900,
+   "libri": [
+    [
+     "Libro I — Delle persone e della famiglia",
+     1,
+     455
+    ],
+    [
+     "Libro II — Delle successioni",
+     456,
+     809
+    ],
+    [
+     "Libro III — Della proprietà",
+     810,
+     1172
+    ],
+    [
+     "Libro IV — Delle obbligazioni",
+     1173,
+     2059
+    ],
+    [
+     "Libro V — Del lavoro",
+     2060,
+     2642
+    ],
+    [
+     "Libro VI — Della tutela dei diritti",
+     2643,
+     2969
+    ]
+   ],
+   "alias": [
+    "c.c.",
+    "cc",
+    "cod. civ.",
+    "codice civile"
+   ],
+   "materie": [
+    "civile",
+    "obbligazioni",
+    "contratti",
+    "condominio",
+    "successioni",
+    "societario",
+    "lavoro",
+    "famiglia"
+   ],
+   "solo_corpo": false,
+   "citazione": "c.c."
+  },
+  "disp-att-cpc": {
+   "nome": "Disposizioni di attuazione del c.p.c.",
+   "urn": "urn:nir:stato:regio.decreto:1941-12-18;1368:1",
+   "doc_prefix": "",
+   "min_articoli": 250,
+   "alias": [
+    "disp. att. c.p.c.",
+    "disp att cpc"
+   ],
+   "materie": [
+    "processo_civile"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Disposizioni di attuazione del c.p.c.",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "disp. att. c.p.c."
+  },
+  "preleggi": {
+   "nome": "Disposizioni sulla legge in generale (preleggi)",
+   "urn": "urn:nir:stato:regio.decreto:1942-03-16;262:2",
+   "doc_prefix": "DISPOSIZIONI SULLA LEGGE IN GENERALE",
+   "min_articoli": 25,
+   "libri": [
+    [
+     "Disposizioni sulla legge in generale",
+     1,
+     31
+    ]
+   ],
+   "alias": [
+    "preleggi"
+   ],
+   "materie": [
+    "civile"
+   ],
+   "solo_corpo": false,
+   "citazione": "disp. prel. c.c.",
+   "urn_permalink": "urn:nir:stato:regio.decreto:1942-03-16;262:1"
+  },
+  "cost": {
+   "nome": "Costituzione della Repubblica Italiana",
+   "urn": "urn:nir:stato:costituzione:1947-12-27",
+   "doc_prefix": "",
+   "min_articoli": 130,
+   "libri": [
+    [
+     "Costituzione",
+     1,
+     139
+    ]
+   ],
+   "alias": [
+    "cost.",
+    "costituzione"
+   ],
+   "materie": [
+    "civile",
+    "amministrativo",
+    "penale"
+   ],
+   "solo_corpo": false,
+   "citazione": "Cost."
+  },
+  "cp": {
+   "nome": "Codice penale",
+   "urn": "urn:nir:stato:regio.decreto:1930-10-19;1398:1",
+   "doc_prefix": "CODICE PENALE",
+   "min_articoli": 700,
+   "libri": [
+    [
+     "Libro I — Dei reati in generale",
+     1,
+     240
+    ],
+    [
+     "Libro II — Dei delitti in particolare",
+     241,
+     649
+    ],
+    [
+     "Libro III — Delle contravvenzioni in particolare",
+     650,
+     734
+    ]
+   ],
+   "alias": [
+    "c.p.",
+    "cp",
+    "cod. pen.",
+    "codice penale"
+   ],
+   "materie": [
+    "penale",
+    "usura_bancario"
+   ],
+   "solo_corpo": false,
+   "citazione": "c.p."
+  },
+  "cds": {
+   "nome": "Codice della strada (D.Lgs. 285/1992)",
+   "urn": "urn:nir:stato:decreto.legislativo:1992-04-30;285",
+   "min_articoli": 200,
+   "alias": [
+    "d.lgs. 285/1992",
+    "dlgs 285/1992",
+    "d. lgs. 285/1992",
+    "cds",
+    "codice della strada"
+   ],
+   "materie": [
+    "circolazione"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Codice della strada (D.Lgs. 285/1992)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "D.Lgs. 285/1992"
+  },
+  "reg-cds": {
+   "nome": "Regolamento di esecuzione del Codice della strada (D.P.R. 495/1992)",
+   "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-16;495",
+   "min_articoli": 300,
+   "alias": [
+    "d.p.r. 495/1992",
+    "dpr 495/1992"
+   ],
+   "materie": [
+    "circolazione"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Regolamento di esecuzione del Codice della strada (D.P.R. 495/1992)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "D.P.R. 495/1992"
+  },
+  "cap": {
+   "nome": "Codice delle assicurazioni private (D.Lgs. 209/2005)",
+   "urn": "urn:nir:stato:decreto.legislativo:2005-09-07;209",
+   "min_articoli": 250,
+   "alias": [
+    "d.lgs. 209/2005",
+    "dlgs 209/2005",
+    "cap",
+    "codice delle assicurazioni"
+   ],
+   "materie": [
+    "assicurazioni",
+    "circolazione"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Codice delle assicurazioni private (D.Lgs. 209/2005)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "D.Lgs. 209/2005"
+  },
+  "dlgs-28-2010": {
+   "nome": "Mediazione civile e commerciale (D.Lgs. 28/2010)",
+   "urn": "urn:nir:stato:decreto.legislativo:2010-03-04;28",
+   "min_articoli": 15,
+   "alias": [
+    "d.lgs. 28/2010",
+    "dlgs 28/2010"
+   ],
+   "materie": [
+    "processo_civile",
+    "procedibilita"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Mediazione civile e commerciale (D.Lgs. 28/2010)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dl-132-2014": {
+   "nome": "Negoziazione assistita e degiurisdizionalizzazione (D.L. 132/2014)",
+   "urn": "urn:nir:stato:decreto.legge:2014-09-12;132",
+   "min_articoli": 15,
+   "alias": [
+    "d.l. 132/2014",
+    "dl 132/2014"
+   ],
+   "materie": [
+    "processo_civile",
+    "procedibilita"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Negoziazione assistita e degiurisdizionalizzazione (D.L. 132/2014)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "l-241-1990": {
+   "nome": "Procedimento amministrativo (L. 241/1990)",
+   "urn": "urn:nir:stato:legge:1990-08-07;241",
+   "min_articoli": 25,
+   "alias": [
+    "l. 241/1990",
+    "legge 241/1990"
+   ],
+   "materie": [
+    "amministrativo"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Procedimento amministrativo (L. 241/1990)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "tuel": {
+   "nome": "Testo unico degli enti locali (D.Lgs. 267/2000)",
+   "urn": "urn:nir:stato:decreto.legislativo:2000-08-18;267",
+   "min_articoli": 250,
+   "alias": [
+    "d.lgs. 267/2000",
+    "dlgs 267/2000",
+    "tuel"
+   ],
+   "materie": [
+    "enti_locali",
+    "amministrativo"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Testo unico degli enti locali (D.Lgs. 267/2000)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "TUEL"
+  },
+  "tus": {
+   "nome": "Testo unico imposta sulle successioni e donazioni (D.Lgs. 346/1990)",
+   "urn": "urn:nir:stato:decreto.legislativo:1990-10-31;346",
+   "min_articoli": 55,
+   "alias": [
+    "d.lgs. 346/1990",
+    "dlgs 346/1990",
+    "d. lgs. 346/1990",
+    "tus",
+    "t.u.s."
+   ],
+   "materie": [
+    "successioni"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Testo unico imposta sulle successioni e donazioni (D.Lgs. 346/1990)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "TUS"
+  },
+  "tu-347-1990": {
+   "nome": "Testo unico imposte ipotecaria e catastale (D.Lgs. 347/1990)",
+   "urn": "urn:nir:stato:decreto.legislativo:1990-10-31;347",
+   "min_articoli": 15,
+   "alias": [
+    "d.lgs. 347/1990",
+    "dlgs 347/1990",
+    "d. lgs. 347/1990"
+   ],
+   "materie": [
+    "successioni"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Testo unico imposte ipotecaria e catastale (D.Lgs. 347/1990)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dpr-131-1986": {
+   "nome": "Testo unico imposta di registro (D.P.R. 131/1986)",
+   "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131",
+   "min_articoli": 60,
+   "solo_corpo": true,
+   "alias": [
+    "d.p.r. 131/1986",
+    "dpr 131/1986"
+   ],
+   "materie": [
+    "successioni",
+    "registro"
+   ],
+   "doc_prefix": "",
+   "libri": [
+    [
+     "Testo unico imposta di registro (D.P.R. 131/1986)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dl-262-2006": {
+   "nome": "D.L. 262/2006 (art. 2 c. 47-53: reintroduzione dell'imposta di successione)",
+   "urn": "urn:nir:stato:decreto.legge:2006-10-03;262",
+   "min_articoli": 20,
+   "alias": [
+    "d.l. 262/2006",
+    "dl 262/2006"
+   ],
+   "materie": [
+    "successioni"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "D.L. 262/2006 (art. 2 c. 47-53: reintroduzione dell'imposta di successione)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dlgs-139-2024": {
+   "nome": "Riforma imposte di successione, donazione e registro (D.Lgs. 139/2024)",
+   "urn": "urn:nir:stato:decreto.legislativo:2024-09-18;139",
+   "min_articoli": 5,
+   "alias": [
+    "d.lgs. 139/2024",
+    "dlgs 139/2024"
+   ],
+   "materie": [
+    "successioni"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Riforma imposte di successione, donazione e registro (D.Lgs. 139/2024)",
+     1,
+     9999
+    ]
+   ],
+   "peso_ricerca": 0.5
+  },
+  "l-104-1992": {
+   "nome": "Legge-quadro sull'handicap (L. 104/1992)",
+   "urn": "urn:nir:stato:legge:1992-02-05;104",
+   "min_articoli": 35,
+   "alias": [
+    "l. 104/1992",
+    "legge 104/1992"
+   ],
+   "materie": [
+    "successioni",
+    "lavoro"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Legge-quadro sull'handicap (L. 104/1992)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dpr-445-2000": {
+   "nome": "Testo unico documentazione amministrativa (D.P.R. 445/2000)",
+   "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445",
+   "min_articoli": 60,
+   "alias": [
+    "d.p.r. 445/2000",
+    "dpr 445/2000"
+   ],
+   "materie": [
+    "successioni",
+    "amministrativo"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Testo unico documentazione amministrativa (D.P.R. 445/2000)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "tub": {
+   "nome": "Testo unico bancario (D.Lgs. 385/1993)",
+   "urn": "urn:nir:stato:decreto.legislativo:1993-09-01;385",
+   "min_articoli": 150,
+   "solo_corpo": true,
+   "alias": [
+    "d.lgs. 385/1993",
+    "dlgs 385/1993",
+    "tub",
+    "t.u.b.",
+    "testo unico bancario"
+   ],
+   "materie": [
+    "usura_bancario",
+    "consumo",
+    "contratti"
+   ],
+   "doc_prefix": "",
+   "libri": [
+    [
+     "Testo unico bancario (D.Lgs. 385/1993)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "TUB"
+  },
+  "cod-consumo": {
+   "nome": "Codice del consumo (D.Lgs. 206/2005)",
+   "urn": "urn:nir:stato:decreto.legislativo:2005-09-06;206",
+   "min_articoli": 150,
+   "solo_corpo": true,
+   "alias": [
+    "d.lgs. 206/2005",
+    "dlgs 206/2005",
+    "cod. consumo",
+    "cod. cons.",
+    "codice del consumo",
+    "codice consumo",
+    "c. cons."
+   ],
+   "materie": [
+    "consumo",
+    "contratti",
+    "usura_bancario"
+   ],
+   "doc_prefix": "",
+   "libri": [
+    [
+     "Codice del consumo (D.Lgs. 206/2005)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "Cod. consumo"
+  },
+  "l-108-1996": {
+   "nome": "Disposizioni in materia di usura (L. 108/1996)",
+   "urn": "urn:nir:stato:legge:1996-03-07;108",
+   "min_articoli": 10,
+   "alias": [
+    "l. 108/1996",
+    "legge 108/1996"
+   ],
+   "materie": [
+    "usura_bancario",
+    "penale"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Disposizioni in materia di usura (L. 108/1996)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dl-394-2000": {
+   "nome": "Interpretazione autentica della L. 108/1996 (D.L. 394/2000)",
+   "urn": "urn:nir:stato:decreto.legge:2000-12-29;394",
+   "min_articoli": 2,
+   "alias": [
+    "d.l. 394/2000",
+    "dl 394/2000"
+   ],
+   "materie": [
+    "usura_bancario"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Interpretazione autentica della L. 108/1996 (D.L. 394/2000)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dl-1-2012": {
+   "nome": "Liberalizzazioni — polizze connesse a mutui e credito al consumo (D.L. 1/2012)",
+   "urn": "urn:nir:stato:decreto.legge:2012-01-24;1",
+   "min_articoli": 80,
+   "alias": [
+    "d.l. 1/2012",
+    "dl 1/2012"
+   ],
+   "materie": [
+    "usura_bancario",
+    "assicurazioni",
+    "consumo"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Liberalizzazioni — polizze connesse a mutui e credito al consumo (D.L. 1/2012)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dl-179-2012": {
+   "nome": "Ulteriori misure urgenti per la crescita (D.L. 179/2012)",
+   "urn": "urn:nir:stato:decreto.legge:2012-10-18;179",
+   "min_articoli": 30,
+   "alias": [
+    "d.l. 179/2012",
+    "dl 179/2012"
+   ],
+   "materie": [
+    "usura_bancario",
+    "assicurazioni",
+    "processo_civile"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Ulteriori misure urgenti per la crescita (D.L. 179/2012)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dlgs-231-2001": {
+   "nome": "Responsabilità amministrativa degli enti (D.Lgs. 231/2001)",
+   "urn": "urn:nir:stato:decreto.legislativo:2001-06-08;231",
+   "min_articoli": 70,
+   "alias": [
+    "d.lgs. 231/2001",
+    "dlgs 231/2001"
+   ],
+   "materie": [
+    "compliance_231",
+    "societario"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Responsabilità amministrativa degli enti (D.Lgs. 231/2001)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dlgs-286-1998": {
+   "nome": "Testo unico immigrazione (D.Lgs. 286/1998)",
+   "urn": "urn:nir:stato:decreto.legislativo:1998-07-25;286",
+   "min_articoli": 40,
+   "alias": [
+    "d.lgs. 286/1998",
+    "dlgs 286/1998",
+    "t.u. immigrazione",
+    "tui",
+    "testo unico immigrazione"
+   ],
+   "materie": [
+    "immigrazione"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Testo unico immigrazione (D.Lgs. 286/1998)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dpr-394-1999": {
+   "nome": "Regolamento di attuazione del T.U. immigrazione (D.P.R. 394/1999)",
+   "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-08-31;394",
+   "min_articoli": 40,
+   "alias": [
+    "d.p.r. 394/1999",
+    "dpr 394/1999"
+   ],
+   "materie": [
+    "immigrazione"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Regolamento di attuazione del T.U. immigrazione (D.P.R. 394/1999)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dlgs-25-2008": {
+   "nome": "Procedure per il riconoscimento della protezione internazionale (D.Lgs. 25/2008)",
+   "urn": "urn:nir:stato:decreto.legislativo:2008-01-28;25",
+   "min_articoli": 30,
+   "alias": [
+    "d.lgs. 25/2008",
+    "dlgs 25/2008"
+   ],
+   "materie": [
+    "immigrazione"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Procedure per il riconoscimento della protezione internazionale (D.Lgs. 25/2008)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "ccii": {
+   "nome": "Codice della crisi d'impresa e dell'insolvenza (D.Lgs. 14/2019)",
+   "urn": "urn:nir:stato:decreto.legislativo:2019-01-12;14",
+   "min_articoli": 350,
+   "alias": [
+    "d.lgs. 14/2019",
+    "dlgs 14/2019",
+    "ccii",
+    "c.c.i.i.",
+    "codice della crisi"
+   ],
+   "materie": [
+    "crisi_impresa",
+    "societario"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Codice della crisi d'impresa e dell'insolvenza (D.Lgs. 14/2019)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "CCII"
+  },
+  "l-392-1978": {
+   "nome": "Equo canone — locazioni di immobili urbani (L. 392/1978)",
+   "urn": "urn:nir:stato:legge:1978-07-27;392",
+   "min_articoli": 60,
+   "alias": [
+    "l. 392/1978",
+    "legge 392/1978"
+   ],
+   "materie": [
+    "locazioni"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Equo canone — locazioni di immobili urbani (L. 392/1978)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "l-431-1998": {
+   "nome": "Locazioni abitative (L. 431/1998)",
+   "urn": "urn:nir:stato:legge:1998-12-09;431",
+   "min_articoli": 10,
+   "alias": [
+    "l. 431/1998",
+    "legge 431/1998"
+   ],
+   "materie": [
+    "locazioni"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Locazioni abitative (L. 431/1998)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dlgs-150-2011": {
+   "nome": "Semplificazione dei riti civili (D.Lgs. 150/2011)",
+   "urn": "urn:nir:stato:decreto.legislativo:2011-09-01;150",
+   "min_articoli": 30,
+   "alias": [
+    "d.lgs. 150/2011",
+    "dlgs 150/2011"
+   ],
+   "materie": [
+    "processo_civile",
+    "immigrazione",
+    "circolazione"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Semplificazione dei riti civili (D.Lgs. 150/2011)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dpr-115-2002": {
+   "nome": "Testo unico spese di giustizia (D.P.R. 115/2002)",
+   "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115",
+   "min_articoli": 250,
+   "solo_corpo": true,
+   "alias": [
+    "d.p.r. 115/2002",
+    "dpr 115/2002",
+    "t.u. spese di giustizia",
+    "tusg"
+   ],
+   "materie": [
+    "processo_civile",
+    "spese_giustizia"
+   ],
+   "doc_prefix": "",
+   "libri": [
+    [
+     "Testo unico spese di giustizia (D.P.R. 115/2002)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "D.P.R. 115/2002"
+  },
+  "dm-55-2014": {
+   "nome": "Parametri forensi (D.M. 55/2014)",
+   "urn": "urn:nir:ministero.giustizia:decreto:2014-03-10;55",
+   "min_articoli": 20,
+   "alias": [
+    "d.m. 55/2014",
+    "dm 55/2014"
+   ],
+   "materie": [
+    "parcella"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Parametri forensi (D.M. 55/2014)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "l-300-1970": {
+   "nome": "Statuto dei lavoratori (L. 300/1970)",
+   "urn": "urn:nir:stato:legge:1970-05-20;300",
+   "min_articoli": 35,
+   "alias": [
+    "l. 300/1970",
+    "legge 300/1970",
+    "statuto dei lavoratori",
+    "stat. lav."
+   ],
+   "materie": [
+    "lavoro"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Statuto dei lavoratori (L. 300/1970)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dlgs-23-2015": {
+   "nome": "Contratto a tutele crescenti (D.Lgs. 23/2015)",
+   "urn": "urn:nir:stato:decreto.legislativo:2015-03-04;23",
+   "min_articoli": 10,
+   "alias": [
+    "d.lgs. 23/2015",
+    "dlgs 23/2015"
+   ],
+   "materie": [
+    "lavoro"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Contratto a tutele crescenti (D.Lgs. 23/2015)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dlgs-81-2015": {
+   "nome": "Disciplina organica dei contratti di lavoro (D.Lgs. 81/2015)",
+   "urn": "urn:nir:stato:decreto.legislativo:2015-06-15;81",
+   "min_articoli": 50,
+   "alias": [
+    "d.lgs. 81/2015",
+    "dlgs 81/2015"
+   ],
+   "materie": [
+    "lavoro"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Disciplina organica dei contratti di lavoro (D.Lgs. 81/2015)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dm-44-2011": {
+   "nome": "Regole tecniche del processo civile telematico (D.M. Giustizia 44/2011)",
+   "urn": "urn:nir:ministero.giustizia:decreto:2011-02-21;44",
+   "min_articoli": 30,
+   "alias": [
+    "d.m. 44/2011",
+    "dm 44/2011",
+    "d.m. giustizia 44/2011",
+    "regole tecniche pct"
+   ],
+   "materie": [
+    "processo_civile",
+    "pct"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Regole tecniche del processo civile telematico (D.M. 44/2011)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "dm-110-2023": {
+   "nome": "Criteri di redazione, limiti e schemi degli atti giudiziari (D.M. Giustizia 110/2023)",
+   "urn": "urn:nir:ministero.giustizia:decreto:2023-08-07;110",
+   "min_articoli": 8,
+   "alias": [
+    "d.m. 110/2023",
+    "dm 110/2023",
+    "d.m. giustizia 110/2023"
+   ],
+   "materie": [
+    "processo_civile",
+    "pct",
+    "redazione"
+   ],
+   "doc_prefix": "",
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Criteri di redazione degli atti giudiziari (D.M. 110/2023)",
+     1,
+     9999
+    ]
+   ]
+  },
+  "disp-att-cc": {
+   "nome": "Disposizioni di attuazione del c.c. e disposizioni transitorie (R.D. 318/1942)",
+   "urn": "urn:nir:stato:regio.decreto:1942-03-30;318:1",
+   "doc_prefix": "",
+   "min_articoli": 250,
+   "alias": [
+    "disp. att. c.c.",
+    "disp att cc",
+    "disp. att. cod. civ.",
+    "disp. att. e trans. c.c.",
+    "r.d. 318/1942"
+   ],
+   "materie": [
+    "civile",
+    "successioni",
+    "condominio",
+    "famiglia",
+    "societario",
+    "obbligazioni"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Disposizioni di attuazione del c.c. e disposizioni transitorie (R.D. 318/1942)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "disp. att. c.c."
+  },
+  "dlgs-149-2022": {
+   "nome": "Riforma Cartabia del processo civile (D.Lgs. 149/2022)",
+   "urn": "urn:nir:stato:decreto.legislativo:2022-10-10;149",
+   "doc_prefix": "",
+   "min_articoli": 45,
+   "alias": [
+    "d.lgs. 149/2022",
+    "dlgs 149/2022",
+    "riforma cartabia"
+   ],
+   "materie": [
+    "processo_civile",
+    "termini",
+    "impugnazioni",
+    "esecuzione"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Riforma Cartabia del processo civile (D.Lgs. 149/2022)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "D.Lgs. 149/2022",
+   "peso_ricerca": 0.5
+  },
+  "dlgs-164-2024": {
+   "nome": "Correttivo della riforma Cartabia (D.Lgs. 164/2024)",
+   "urn": "urn:nir:stato:decreto.legislativo:2024-10-31;164",
+   "doc_prefix": "",
+   "min_articoli": 3,
+   "alias": [
+    "d.lgs. 164/2024",
+    "dlgs 164/2024",
+    "correttivo cartabia"
+   ],
+   "materie": [
+    "processo_civile",
+    "termini"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Correttivo della riforma Cartabia (D.Lgs. 164/2024)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "D.Lgs. 164/2024",
+   "peso_ricerca": 0.5
+  },
+  "dlgs-231-2002": {
+   "nome": "Ritardi di pagamento nelle transazioni commerciali (D.Lgs. 231/2002)",
+   "urn": "urn:nir:stato:decreto.legislativo:2002-10-09;231",
+   "doc_prefix": "",
+   "min_articoli": 10,
+   "alias": [
+    "d.lgs. 231/2002",
+    "dlgs 231/2002"
+   ],
+   "materie": [
+    "obbligazioni",
+    "contratti",
+    "interessi"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Ritardi di pagamento nelle transazioni commerciali (D.Lgs. 231/2002)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "D.Lgs. 231/2002"
+  },
+  "l-53-1994": {
+   "nome": "Notificazioni degli avvocati (L. 53/1994)",
+   "urn": "urn:nir:stato:legge:1994-01-21;53",
+   "doc_prefix": "",
+   "min_articoli": 10,
+   "alias": [
+    "l. 53/1994",
+    "legge 53/1994"
+   ],
+   "materie": [
+    "processo_civile",
+    "notifiche",
+    "pct"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Notificazioni degli avvocati (L. 53/1994)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 53/1994"
+  },
+  "l-689-1981": {
+   "nome": "Sanzioni amministrative — depenalizzazione (L. 689/1981)",
+   "urn": "urn:nir:stato:legge:1981-11-24;689",
+   "doc_prefix": "",
+   "min_articoli": 100,
+   "alias": [
+    "l. 689/1981",
+    "legge 689/1981"
+   ],
+   "materie": [
+    "sanzioni_amministrative",
+    "circolazione",
+    "amministrativo"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Sanzioni amministrative — depenalizzazione (L. 689/1981)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 689/1981"
+  },
+  "l-898-1970": {
+   "nome": "Disciplina dei casi di scioglimento del matrimonio — divorzio (L. 898/1970)",
+   "urn": "urn:nir:stato:legge:1970-12-01;898",
+   "doc_prefix": "",
+   "min_articoli": 10,
+   "alias": [
+    "l. 898/1970",
+    "legge 898/1970",
+    "legge sul divorzio",
+    "l. div."
+   ],
+   "materie": [
+    "famiglia"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Disciplina dei casi di scioglimento del matrimonio — divorzio (L. 898/1970)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 898/1970"
+  },
+  "l-76-2016": {
+   "nome": "Unioni civili e convivenze (L. 76/2016, legge Cirinnà)",
+   "urn": "urn:nir:stato:legge:2016-05-20;76",
+   "doc_prefix": "",
+   "min_articoli": 1,
+   "alias": [
+    "l. 76/2016",
+    "legge 76/2016",
+    "legge cirinnà",
+    "legge cirinna"
+   ],
+   "materie": [
+    "famiglia",
+    "successioni"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Unioni civili e convivenze (L. 76/2016, legge Cirinnà)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 76/2016"
+  },
+  "l-24-2017": {
+   "nome": "Sicurezza delle cure e responsabilità sanitaria (L. 24/2017, Gelli-Bianco)",
+   "urn": "urn:nir:stato:legge:2017-03-08;24",
+   "doc_prefix": "",
+   "min_articoli": 15,
+   "alias": [
+    "l. 24/2017",
+    "legge 24/2017",
+    "legge gelli",
+    "legge gelli-bianco"
+   ],
+   "materie": [
+    "responsabilita_sanitaria",
+    "assicurazioni",
+    "obbligazioni"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Sicurezza delle cure e responsabilità sanitaria (L. 24/2017, Gelli-Bianco)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 24/2017"
+  },
+  "dpr-380-2001": {
+   "nome": "Testo unico dell'edilizia (D.P.R. 380/2001)",
+   "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380",
+   "doc_prefix": "",
+   "min_articoli": 120,
+   "alias": [
+    "d.p.r. 380/2001",
+    "dpr 380/2001",
+    "t.u. edilizia",
+    "testo unico edilizia",
+    "testo unico dell'edilizia"
+   ],
+   "materie": [
+    "edilizia",
+    "condominio",
+    "contratti"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Testo unico dell'edilizia (D.P.R. 380/2001)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "D.P.R. 380/2001"
+  },
+  "l-47-1985": {
+   "nome": "Controllo dell'attività urbanistico-edilizia e condono (L. 47/1985)",
+   "urn": "urn:nir:stato:legge:1985-02-28;47",
+   "doc_prefix": "",
+   "min_articoli": 40,
+   "alias": [
+    "l. 47/1985",
+    "legge 47/1985"
+   ],
+   "materie": [
+    "edilizia",
+    "contratti"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Controllo dell'attività urbanistico-edilizia e condono (L. 47/1985)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 47/1985"
+  },
+  "l-247-2012": {
+   "nome": "Nuova disciplina dell'ordinamento della professione forense (L. 247/2012)",
+   "urn": "urn:nir:stato:legge:2012-12-31;247",
+   "doc_prefix": "",
+   "min_articoli": 60,
+   "alias": [
+    "l. 247/2012",
+    "legge 247/2012",
+    "legge professionale forense",
+    "ordinamento forense",
+    "l.p.f."
+   ],
+   "materie": [
+    "professione_forense",
+    "parcella"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Nuova disciplina dell'ordinamento della professione forense (L. 247/2012)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 247/2012"
+  },
+  "l-49-2023": {
+   "nome": "Equo compenso delle prestazioni professionali (L. 49/2023)",
+   "urn": "urn:nir:stato:legge:2023-04-21;49",
+   "doc_prefix": "",
+   "min_articoli": 10,
+   "alias": [
+    "l. 49/2023",
+    "legge 49/2023",
+    "legge sull'equo compenso"
+   ],
+   "materie": [
+    "parcella",
+    "professione_forense",
+    "contratti"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Equo compenso delle prestazioni professionali (L. 49/2023)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 49/2023"
+  },
+  "rd-267-1942": {
+   "nome": "Legge fallimentare (R.D. 267/1942)",
+   "urn": "urn:nir:stato:regio.decreto:1942-03-16;267",
+   "doc_prefix": "",
+   "min_articoli": 200,
+   "alias": [
+    "r.d. 267/1942",
+    "rd 267/1942",
+    "legge fallimentare",
+    "l. fall."
+   ],
+   "materie": [
+    "crisi_impresa",
+    "societario"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Legge fallimentare (R.D. 267/1942)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "R.D. 267/1942"
+  },
+  "tuf": {
+   "nome": "Testo unico delle disposizioni in materia di intermediazione finanziaria (D.Lgs. 58/1998)",
+   "urn": "urn:nir:stato:decreto.legislativo:1998-02-24;58",
+   "doc_prefix": "",
+   "min_articoli": 250,
+   "alias": [
+    "d.lgs. 58/1998",
+    "dlgs 58/1998",
+    "tuf",
+    "t.u.f.",
+    "testo unico della finanza"
+   ],
+   "materie": [
+    "finanza",
+    "usura_bancario",
+    "societario"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Testo unico delle disposizioni in materia di intermediazione finanziaria (D.Lgs. 58/1998)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "TUF"
+  },
+  "l-218-1995": {
+   "nome": "Riforma del sistema italiano di diritto internazionale privato (L. 218/1995)",
+   "urn": "urn:nir:stato:legge:1995-05-31;218",
+   "doc_prefix": "",
+   "min_articoli": 60,
+   "alias": [
+    "l. 218/1995",
+    "legge 218/1995"
+   ],
+   "materie": [
+    "internazionale_privato",
+    "famiglia",
+    "successioni",
+    "processo_civile"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Riforma del sistema italiano di diritto internazionale privato (L. 218/1995)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 218/1995"
+  },
+  "dlgs-196-2003": {
+   "nome": "Codice in materia di protezione dei dati personali (D.Lgs. 196/2003)",
+   "urn": "urn:nir:stato:decreto.legislativo:2003-06-30;196",
+   "doc_prefix": "",
+   "min_articoli": 100,
+   "alias": [
+    "d.lgs. 196/2003",
+    "dlgs 196/2003",
+    "codice privacy",
+    "codice della privacy",
+    "cod. privacy"
+   ],
+   "materie": [
+    "privacy"
+   ],
+   "solo_corpo": true,
+   "libri": [
+    [
+     "Codice in materia di protezione dei dati personali (D.Lgs. 196/2003)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "D.Lgs. 196/2003"
+  },
+  "l-13-1989": {
+   "nome": "Superamento delle barriere architettoniche negli edifici privati (L. 13/1989)",
+   "urn": "urn:nir:stato:legge:1989-01-09;13",
+   "doc_prefix": "",
+   "min_articoli": 8,
+   "alias": [
+    "l. 13/1989",
+    "legge 13/1989"
+   ],
+   "materie": [
+    "condominio",
+    "edilizia"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Superamento delle barriere architettoniche negli edifici privati (L. 13/1989)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 13/1989"
+  },
+  "l-590-1965": {
+   "nome": "Sviluppo della proprietà coltivatrice — prelazione agraria (L. 590/1965)",
+   "urn": "urn:nir:stato:legge:1965-05-26;590",
+   "doc_prefix": "",
+   "min_articoli": 20,
+   "alias": [
+    "l. 590/1965",
+    "legge 590/1965"
+   ],
+   "materie": [
+    "agrario",
+    "contratti",
+    "successioni"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Sviluppo della proprietà coltivatrice — prelazione agraria (L. 590/1965)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 590/1965"
+  },
+  "l-817-1971": {
+   "nome": "Proprietà coltivatrice — prelazione del confinante (L. 817/1971)",
+   "urn": "urn:nir:stato:legge:1971-08-14;817",
+   "doc_prefix": "",
+   "min_articoli": 8,
+   "alias": [
+    "l. 817/1971",
+    "legge 817/1971"
+   ],
+   "materie": [
+    "agrario",
+    "contratti"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Proprietà coltivatrice — prelazione del confinante (L. 817/1971)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 817/1971"
+  },
+  "l-742-1969": {
+   "nome": "Sospensione dei termini processuali nel periodo feriale (L. 742/1969)",
+   "urn": "urn:nir:stato:legge:1969-10-07;742",
+   "doc_prefix": "",
+   "min_articoli": 3,
+   "alias": [
+    "l. 742/1969",
+    "legge 742/1969"
+   ],
+   "materie": [
+    "termini",
+    "processo_civile"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Sospensione dei termini processuali nel periodo feriale (L. 742/1969)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 742/1969"
+  },
+  "l-89-2001": {
+   "nome": "Equa riparazione per irragionevole durata del processo (L. 89/2001, legge Pinto)",
+   "urn": "urn:nir:stato:legge:2001-03-24;89",
+   "doc_prefix": "",
+   "min_articoli": 5,
+   "alias": [
+    "l. 89/2001",
+    "legge 89/2001",
+    "legge pinto"
+   ],
+   "materie": [
+    "processo_civile"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Equa riparazione per irragionevole durata del processo (L. 89/2001, legge Pinto)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 89/2001"
+  },
+  "l-287-1990": {
+   "nome": "Tutela della concorrenza e del mercato (L. 287/1990)",
+   "urn": "urn:nir:stato:legge:1990-10-10;287",
+   "doc_prefix": "",
+   "min_articoli": 30,
+   "alias": [
+    "l. 287/1990",
+    "legge 287/1990",
+    "legge antitrust"
+   ],
+   "materie": [
+    "concorrenza",
+    "contratti",
+    "societario"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Tutela della concorrenza e del mercato (L. 287/1990)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 287/1990"
+  },
+  "l-130-1999": {
+   "nome": "Cartolarizzazione dei crediti (L. 130/1999)",
+   "urn": "urn:nir:stato:legge:1999-04-30;130",
+   "doc_prefix": "",
+   "min_articoli": 7,
+   "alias": [
+    "l. 130/1999",
+    "legge 130/1999"
+   ],
+   "materie": [
+    "usura_bancario",
+    "finanza"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Cartolarizzazione dei crediti (L. 130/1999)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "L. 130/1999"
+  },
+  "dlgs-122-2005": {
+   "nome": "Tutela degli acquirenti di immobili da costruire (D.Lgs. 122/2005)",
+   "urn": "urn:nir:stato:decreto.legislativo:2005-06-20;122",
+   "doc_prefix": "",
+   "min_articoli": 15,
+   "alias": [
+    "d.lgs. 122/2005",
+    "dlgs 122/2005"
+   ],
+   "materie": [
+    "contratti",
+    "edilizia"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Tutela degli acquirenti di immobili da costruire (D.Lgs. 122/2005)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "D.Lgs. 122/2005"
+  },
+  "dpr-602-1973": {
+   "nome": "Riscossione delle imposte sul reddito (D.P.R. 602/1973)",
+   "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;602",
+   "doc_prefix": "",
+   "min_articoli": 80,
+   "alias": [
+    "d.p.r. 602/1973",
+    "dpr 602/1973"
+   ],
+   "materie": [
+    "riscossione",
+    "esecuzione",
+    "tributario"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Riscossione delle imposte sul reddito (D.P.R. 602/1973)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "D.P.R. 602/1973"
+  },
+  "cad": {
+   "nome": "Codice dell'amministrazione digitale (D.Lgs. 82/2005)",
+   "urn": "urn:nir:stato:decreto.legislativo:2005-03-07;82",
+   "doc_prefix": "",
+   "min_articoli": 80,
+   "alias": [
+    "d.lgs. 82/2005",
+    "dlgs 82/2005",
+    "cad",
+    "codice dell'amministrazione digitale"
+   ],
+   "materie": [
+    "digitale",
+    "pct",
+    "amministrativo"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Codice dell'amministrazione digitale (D.Lgs. 82/2005)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "CAD"
+  },
+  "dlgs-116-2017": {
+   "nome": "Riforma organica della magistratura onoraria (D.Lgs. 116/2017)",
+   "urn": "urn:nir:stato:decreto.legislativo:2017-07-13;116",
+   "doc_prefix": "",
+   "min_articoli": 30,
+   "alias": [
+    "d.lgs. 116/2017",
+    "dlgs 116/2017"
+   ],
+   "materie": [
+    "processo_civile"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Riforma organica della magistratura onoraria (D.Lgs. 116/2017)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "D.Lgs. 116/2017"
+  },
+  "tuir": {
+   "nome": "Testo unico delle imposte sui redditi (D.P.R. 917/1986)",
+   "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917",
+   "doc_prefix": "",
+   "min_articoli": 150,
+   "alias": [
+    "d.p.r. 917/1986",
+    "dpr 917/1986",
+    "tuir",
+    "t.u.i.r."
+   ],
+   "materie": [
+    "tributario",
+    "successioni"
+   ],
+   "solo_corpo": false,
+   "libri": [
+    [
+     "Testo unico delle imposte sui redditi (D.P.R. 917/1986)",
+     1,
+     9999
+    ]
+   ],
+   "citazione": "TUIR"
+  }
+ }
+}

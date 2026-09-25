@@ -1,0 +1,566 @@
+{
+ "_meta": {
+  "codice": "l-104-1992",
+  "nome": "Legge-quadro sull'handicap (L. 104/1992)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-04-21",
+  "articoli": 48,
+  "file": [
+   "l-104-1992.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1992-02-05;104",
+  "versioni": [
+   {
+    "data": "1992-02-17",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1992-07-17",
+    "evento": "rp1",
+    "atto_modificante": "Circ. Ministro Per La Funzione Pubblica 26 giugno 1992, n. 9054"
+   },
+   {
+    "data": "1992-11-04",
+    "evento": "rp2",
+    "atto_modificante": "atto modificante non indicato (rp2)"
+   },
+   {
+    "data": "1993-08-28",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 27 agosto 1993, n. 324"
+   },
+   {
+    "data": "1993-12-28",
+    "evento": "rp4",
+    "atto_modificante": "L. 24 dicembre 1993, n. 537"
+   },
+   {
+    "data": "1994-06-01",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 31 maggio 1994, n. 330"
+   },
+   {
+    "data": "1994-06-15",
+    "evento": "rp6",
+    "atto_modificante": "D.P.R. 20 aprile 1994, n. 373"
+   },
+   {
+    "data": "1995-11-15",
+    "evento": "rp7",
+    "atto_modificante": "Circ. Ministro Per La Funzione Pubblica 30 ottobre 1995, n. 20"
+   },
+   {
+    "data": "1996-02-20",
+    "evento": "rp8",
+    "atto_modificante": "L. 15 febbraio 1996, n. 66"
+   },
+   {
+    "data": "1996-10-22",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 21 ottobre 1996, n. 535"
+   },
+   {
+    "data": "1998-05-29",
+    "evento": "rp10",
+    "atto_modificante": "L. 21 maggio 1998, n. 162"
+   },
+   {
+    "data": "1999-02-02",
+    "evento": "rp11",
+    "atto_modificante": "L. 28 gennaio 1999, n. 17"
+   },
+   {
+    "data": "1999-05-18",
+    "evento": "rp12",
+    "atto_modificante": "L. 30 aprile 1999, n. 136"
+   },
+   {
+    "data": "2000-03-13",
+    "evento": "rp13",
+    "atto_modificante": "L. 8 marzo 2000, n. 53"
+   },
+   {
+    "data": "2001-04-26",
+    "evento": "rp14",
+    "atto_modificante": "D.Lgs. 26 marzo 2001, n. 151"
+   },
+   {
+    "data": "2008-06-10",
+    "evento": "rp15",
+    "atto_modificante": "D.P.R. 4 aprile 2008, n. 105"
+   },
+   {
+    "data": "2009-03-14",
+    "evento": "rp16",
+    "atto_modificante": "L. 3 marzo 2009, n. 18"
+   },
+   {
+    "data": "2009-07-24",
+    "evento": "rp17",
+    "atto_modificante": "L. 15 luglio 2009, n. 94"
+   },
+   {
+    "data": "2010-11-09",
+    "evento": "rp18",
+    "atto_modificante": "L. 4 novembre 2010, n. 183"
+   },
+   {
+    "data": "2011-02-14",
+    "evento": "rp19",
+    "atto_modificante": "Circ. Presidenza Del Consiglio Dei Ministri Dipartimento Della Funzione Pubblica 6 dicembre 2010, n. 13"
+   },
+   {
+    "data": "2011-07-06",
+    "evento": "rp20",
+    "atto_modificante": "D.L. 6 luglio 2011, n. 98"
+   },
+   {
+    "data": "2011-07-27",
+    "evento": "rp21",
+    "atto_modificante": "D.Lgs. 18 luglio 2011, n. 119"
+   },
+   {
+    "data": "2012-05-11",
+    "evento": "rp22",
+    "atto_modificante": "Circ. Presidenza Del Consiglio Dei Ministri Dipartimento Della Funzione Pubblica 3 febbraio 2012, n. 1"
+   },
+   {
+    "data": "2013-09-12",
+    "evento": "rp23",
+    "atto_modificante": "D.L. 12 settembre 2013, n. 104"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 90"
+   },
+   {
+    "data": "2016-09-28",
+    "evento": "rp25",
+    "atto_modificante": "atto modificante non indicato (rp25)"
+   },
+   {
+    "data": "2017-05-16",
+    "evento": "rp26",
+    "atto_modificante": "D.Lgs. 13 aprile 2017, n. 66"
+   },
+   {
+    "data": "2018-07-12",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 12 luglio 2018, n. 86"
+   },
+   {
+    "data": "2018-12-31",
+    "evento": "rp28",
+    "atto_modificante": "L. 30 dicembre 2018, n. 145"
+   },
+   {
+    "data": "2019-08-28",
+    "evento": "rp29",
+    "atto_modificante": "D.Lgs. 7 agosto 2019, n. 96"
+   },
+   {
+    "data": "2020-03-17",
+    "evento": "rp30",
+    "atto_modificante": "D.L. 17 marzo 2020, n. 18"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp31",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2022-07-29",
+    "evento": "rp32",
+    "atto_modificante": "D.Lgs. 30 giugno 2022, n. 105"
+   },
+   {
+    "data": "2023-04-22",
+    "evento": "rp33",
+    "atto_modificante": "D.L. 22 aprile 2023, n. 44"
+   },
+   {
+    "data": "2023-06-21",
+    "evento": "rp34",
+    "atto_modificante": "L. 21 giugno 2023, n. 74"
+   },
+   {
+    "data": "2024-05-14",
+    "evento": "rp35",
+    "atto_modificante": "D.Lgs. 3 maggio 2024, n. 62"
+   },
+   {
+    "data": "2024-12-27",
+    "evento": "rp36",
+    "atto_modificante": "D.L. 27 dicembre 2024, n. 202"
+   },
+   {
+    "data": "2025-02-24",
+    "evento": "rp37",
+    "atto_modificante": "L. 21 febbraio 2025, n. 15"
+   },
+   {
+    "data": "2026-02-19",
+    "evento": "rp38",
+    "atto_modificante": "D.L. 19 febbraio 2026, n. 19"
+   },
+   {
+    "data": "2026-04-20",
+    "evento": "rp39",
+    "atto_modificante": "L. 20 aprile 2026, n. 50"
+   }
+  ],
+  "ultima_versione": "2026-04-20",
+  "datazione": {
+   "monoblocco": 48,
+   "api": 47,
+   "riportati": 1,
+   "ignota": 0,
+   "stima_anteriore": 36,
+   "chiamate": 47,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-104-1992.md",
+   "rubrica": "Finalita'",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "6e9716b74c41"
+  },
+  "2": {
+   "file": "l-104-1992.md",
+   "rubrica": "Principi generali",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "11fa00eb211e"
+  },
+  "2-bis": {
+   "file": "l-104-1992.md",
+   "rubrica": "Divieto di discriminazione",
+   "vigore_da": "2022-08-13",
+   "datazione": "api",
+   "h": "54aedf7346e7"
+  },
+  "3": {
+   "file": "l-104-1992.md",
+   "rubrica": "Persona con disabilita' avente diritto ai sostegni",
+   "vigore_da": "2025-02-25",
+   "datazione": "api",
+   "h": "a1fb6b99a3ee"
+  },
+  "4": {
+   "file": "l-104-1992.md",
+   "rubrica": "Riconoscimento della condizione di disabilita' attraverso la valutazione di base",
+   "vigore_da": "2026-04-21",
+   "datazione": "api",
+   "h": "f90045d21e06"
+  },
+  "5": {
+   "file": "l-104-1992.md",
+   "rubrica": "Principi generali per i diritti della persona handicappata",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "81c8f3f6c8bf"
+  },
+  "5-bis": {
+   "file": "l-104-1992.md",
+   "rubrica": "Accomodamento ragionevole",
+   "vigore_da": "2024-06-30",
+   "datazione": "api",
+   "h": "9545ad8c30c9"
+  },
+  "6": {
+   "file": "l-104-1992.md",
+   "rubrica": "Prevenzione e diagnosi precoce",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "e1a45c2cecd3"
+  },
+  "7": {
+   "file": "l-104-1992.md",
+   "rubrica": "Cura e riabilitazione",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "0ae4101708ea"
+  },
+  "8": {
+   "file": "l-104-1992.md",
+   "rubrica": "Inserimento ed integrazione sociale",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "2d92edc0ffed"
+  },
+  "9": {
+   "file": "l-104-1992.md",
+   "rubrica": "Servizio di aiuto personale",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "8f8bc9057d3a"
+  },
+  "10": {
+   "file": "l-104-1992.md",
+   "rubrica": "Interventi a favore di persone con handicap in situazione di gravita'",
+   "vigore_da": "1998-06-13",
+   "datazione": "api",
+   "h": "e45e7d34d2cc"
+  },
+  "11": {
+   "file": "l-104-1992.md",
+   "rubrica": "Soggiorno all'estero per cure",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "6ded7639711a"
+  },
+  "12": {
+   "file": "l-104-1992.md",
+   "rubrica": "Diritto all'educazione e all'istruzione",
+   "vigore_da": "2019-09-12",
+   "datazione": "api",
+   "h": "5041158cac6b"
+  },
+  "13": {
+   "file": "l-104-1992.md",
+   "rubrica": "Integrazione scolastica",
+   "vigore_da": "2013-11-12",
+   "datazione": "api",
+   "h": "e915561629fe"
+  },
+  "14": {
+   "file": "l-104-1992.md",
+   "rubrica": "Modalita' di attuazione dell'integrazione",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "f0170c49ae3c"
+  },
+  "15": {
+   "file": "l-104-1992.md",
+   "rubrica": "Gruppi per l'inclusione scolastica",
+   "vigore_da": "2019-09-12",
+   "datazione": "api",
+   "h": "6ed1b611e054"
+  },
+  "16": {
+   "file": "l-104-1992.md",
+   "rubrica": "Valutazione del rendimento e prove d'esame",
+   "vigore_da": "2023-06-22",
+   "datazione": "api",
+   "h": "339811614b77"
+  },
+  "17": {
+   "file": "l-104-1992.md",
+   "rubrica": "Formazione professionale",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "8ba13e31388f"
+  },
+  "18": {
+   "file": "l-104-1992.md",
+   "rubrica": "Integrazione lavorativa",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "d4a8cfd7ac2d"
+  },
+  "19": {
+   "file": "l-104-1992.md",
+   "rubrica": "Soggetti aventi diritto al collocamento obbligatorio",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "f87b902bc1c4"
+  },
+  "20": {
+   "file": "l-104-1992.md",
+   "rubrica": "Prove d'esame nei concorsi pubblici e per l'abilitazione alle professioni",
+   "vigore_da": "2014-08-19",
+   "datazione": "api",
+   "h": "b574181ee17a"
+  },
+  "21": {
+   "file": "l-104-1992.md",
+   "rubrica": "Precedenza nell'assegnazione di sede",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "1812c086ecff"
+  },
+  "22": {
+   "file": "l-104-1992.md",
+   "rubrica": "Accertamenti ai fini del lavoro pubblico e privato",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "dedde532c4a1"
+  },
+  "23": {
+   "file": "l-104-1992.md",
+   "rubrica": "Rimozione di ostacoli per l'esercizio di attivita' sportive, turistiche e ricreative",
+   "vigore_da": "1996-10-22",
+   "datazione": "api",
+   "h": "e5172d0490df"
+  },
+  "24": {
+   "file": "l-104-1992.md",
+   "rubrica": "Eliminazione o superamento delle barriere architettoniche",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "5e14971069cf"
+  },
+  "25": {
+   "file": "l-104-1992.md",
+   "rubrica": "Accesso alla informazione e alla comunicazione",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "ba869084272e"
+  },
+  "26": {
+   "file": "l-104-1992.md",
+   "rubrica": "Mobilita' e trasporti collettivi",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "a4fff45a50b7"
+  },
+  "27": {
+   "file": "l-104-1992.md",
+   "rubrica": "Trasporti individuali",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "58d575699de9"
+  },
+  "28": {
+   "file": "l-104-1992.md",
+   "rubrica": "Facilitazioni per i veicoli delle persone handicappate",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "d230d261b33a"
+  },
+  "29": {
+   "file": "l-104-1992.md",
+   "rubrica": "Esercizio del diritto di voto",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "4cb88818ed1c"
+  },
+  "30": {
+   "file": "l-104-1992.md",
+   "rubrica": "Partecipazione",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "b7e279908c5b"
+  },
+  "31": {
+   "file": "l-104-1992.md",
+   "rubrica": "Riserva di alloggi",
+   "vigore_da": "2000-05-19",
+   "datazione": "api",
+   "h": "6ec6bc3b74e8"
+  },
+  "32": {
+   "file": "l-104-1992.md",
+   "rubrica": "",
+   "vigore_da": "1994-06-01",
+   "datazione": "api",
+   "h": "1cac796897ed"
+  },
+  "33": {
+   "file": "l-104-1992.md",
+   "rubrica": "Agevolazioni",
+   "vigore_da": "2022-08-13",
+   "datazione": "api",
+   "h": "0ae712375cfb"
+  },
+  "34": {
+   "file": "l-104-1992.md",
+   "rubrica": "Protesi e ausili tecnici",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "a1d2a761b941"
+  },
+  "35": {
+   "file": "l-104-1992.md",
+   "rubrica": "Ricovero del minore handicappato",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "95ccae1cff19"
+  },
+  "36": {
+   "file": "l-104-1992.md",
+   "rubrica": "Aggravamento delle sanzioni penali",
+   "vigore_da": "2009-08-08",
+   "datazione": "api",
+   "h": "511ecfcea9e9"
+  },
+  "37": {
+   "file": "l-104-1992.md",
+   "rubrica": "Procedimento penale in cui sia interessata una persona handicappata",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "95b1441ddc5b"
+  },
+  "38": {
+   "file": "l-104-1992.md",
+   "rubrica": "Convenzioni",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "b8d20d569c5a"
+  },
+  "39": {
+   "file": "l-104-1992.md",
+   "rubrica": "Compiti delle regioni",
+   "vigore_da": "1998-06-13",
+   "datazione": "api",
+   "h": "730831c49070"
+  },
+  "40": {
+   "file": "l-104-1992.md",
+   "rubrica": "Compiti dei comuni",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "e3f4b5dc0f2b"
+  },
+  "41": {
+   "file": "l-104-1992.md",
+   "rubrica": "Competenze del Ministro per gli affari sociali e costituzione del Comitato nazionale per le politiche dell'handicap",
+   "vigore_da": "2018-08-15",
+   "datazione": "api",
+   "h": "f679b7298020"
+  },
+  "41-bis": {
+   "file": "l-104-1992.md",
+   "rubrica": "Conferenza nazionale sulle politiche dell'handicap",
+   "vigore_da": "2018-08-15",
+   "datazione": "api",
+   "h": "c4381841ca6c"
+  },
+  "41-ter": {
+   "file": "l-104-1992.md",
+   "rubrica": "Progetti sperimentali",
+   "vigore_da": "1998-06-13",
+   "datazione": "api",
+   "h": "5d69e2b11d0d"
+  },
+  "42": {
+   "file": "l-104-1992.md",
+   "rubrica": "Copertura finanziaria",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "63ff13a5ed25"
+  },
+  "43": {
+   "file": "l-104-1992.md",
+   "rubrica": "Abrogazioni",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "ace6c77ebb73"
+  },
+  "44": {
+   "file": "l-104-1992.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "1992-02-18",
+   "datazione": "api",
+   "h": "84cb7f8203a3"
+  }
+ }
+}

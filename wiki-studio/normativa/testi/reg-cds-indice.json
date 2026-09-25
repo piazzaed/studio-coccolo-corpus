@@ -1,0 +1,3255 @@
+{
+ "_meta": {
+  "codice": "reg-cds",
+  "nome": "Regolamento di esecuzione del Codice della strada (D.P.R. 495/1992)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2025-03-11",
+  "articoli": 409,
+  "file": [
+   "reg-cds.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-16;495",
+  "versioni": [
+   {
+    "data": "1992-12-28",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1993-05-19",
+    "evento": "rp1",
+    "atto_modificante": "D.P.R. 26 aprile 1993, n. 147"
+   },
+   {
+    "data": "1994-01-07",
+    "evento": "rp2",
+    "atto_modificante": "D.P.R. 16 dicembre 1993, n. 575"
+   },
+   {
+    "data": "1994-12-30",
+    "evento": "rp3",
+    "atto_modificante": "atto modificante non indicato (rp3)"
+   },
+   {
+    "data": "1995-04-01",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 1 aprile 1995, n. 98"
+   },
+   {
+    "data": "1995-11-27",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 25 novembre 1995, n. 501"
+   },
+   {
+    "data": "1996-12-04",
+    "evento": "rp6",
+    "atto_modificante": "D.P.R. 16 settembre 1996, n. 610"
+   },
+   {
+    "data": "1997-02-10",
+    "evento": "rp7",
+    "atto_modificante": "atto modificante non indicato (rp7)"
+   },
+   {
+    "data": "1997-03-08",
+    "evento": "rp8",
+    "atto_modificante": "L. 7 marzo 1997, n. 48"
+   },
+   {
+    "data": "1997-11-11",
+    "evento": "rp9",
+    "atto_modificante": "Circ. Ministero Dei Lavori Pubblici 5 agosto 1997, n. 3973"
+   },
+   {
+    "data": "1997-12-10",
+    "evento": "rp10",
+    "atto_modificante": "D.Lgs. 19 novembre 1997, n. 422"
+   },
+   {
+    "data": "1997-12-30",
+    "evento": "rp11",
+    "atto_modificante": "L. 27 dicembre 1997, n. 449"
+   },
+   {
+    "data": "1997-12-31",
+    "evento": "rp12",
+    "atto_modificante": "L. 23 dicembre 1997, n. 454"
+   },
+   {
+    "data": "1998-01-15",
+    "evento": "rp13",
+    "atto_modificante": "D.P.R. 4 novembre 1997, n. 479"
+   },
+   {
+    "data": "1998-10-14",
+    "evento": "rp14",
+    "atto_modificante": "D.P.R. 4 settembre 1998, n. 355"
+   },
+   {
+    "data": "1998-11-23",
+    "evento": "rp15",
+    "atto_modificante": "D.M. Ministero Dei Trasporti E Della Navigazione 4 settembre 1998, n. 401"
+   },
+   {
+    "data": "1998-11-30",
+    "evento": "rp16",
+    "atto_modificante": "atto modificante non indicato (rp16)"
+   },
+   {
+    "data": "1998-12-31",
+    "evento": "rp17",
+    "atto_modificante": "atto modificante non indicato (rp17)"
+   },
+   {
+    "data": "1999-11-04",
+    "evento": "rp18",
+    "atto_modificante": "D.Lgs. 20 settembre 1999, n. 400"
+   },
+   {
+    "data": "1999-12-16",
+    "evento": "rp19",
+    "atto_modificante": "L. 7 dicembre 1999, n. 472"
+   },
+   {
+    "data": "2000-03-15",
+    "evento": "rp20",
+    "atto_modificante": "D.Lgs. 18 febbraio 2000, n. 56"
+   },
+   {
+    "data": "2000-04-28",
+    "evento": "rp21",
+    "atto_modificante": "D.P.R. 9 marzo 2000, n. 104"
+   },
+   {
+    "data": "2000-11-14",
+    "evento": "rp22",
+    "atto_modificante": "D.P.R. 28 settembre 2000, n. 329"
+   },
+   {
+    "data": "2001-02-01",
+    "evento": "rp23",
+    "atto_modificante": "atto modificante non indicato (rp23)"
+   },
+   {
+    "data": "2001-10-03",
+    "evento": "rp24",
+    "atto_modificante": "D.P.R. 5 giugno 2001, n. 360"
+   },
+   {
+    "data": "2002-01-30",
+    "evento": "rp25",
+    "atto_modificante": "D.P.R. 24 novembre 2001, n. 474"
+   },
+   {
+    "data": "2003-03-24",
+    "evento": "rp26",
+    "atto_modificante": "atto modificante non indicato (rp26)"
+   },
+   {
+    "data": "2003-06-30",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 27 giugno 2003, n. 151"
+   },
+   {
+    "data": "2003-10-02",
+    "evento": "rp28",
+    "atto_modificante": "D.L. 30 settembre 2003, n. 269"
+   },
+   {
+    "data": "2004-09-08",
+    "evento": "rp29",
+    "atto_modificante": "D.P.R. 28 luglio 2004, n. 235"
+   },
+   {
+    "data": "2005-01-27",
+    "evento": "rp30",
+    "atto_modificante": "D.P.R. 13 dicembre 2004, n. 327"
+   },
+   {
+    "data": "2005-03-03",
+    "evento": "rp31",
+    "atto_modificante": "atto modificante non indicato (rp31)"
+   },
+   {
+    "data": "2006-01-09",
+    "evento": "rp32",
+    "atto_modificante": "D.Lgs. 21 novembre 2005, n. 286"
+   },
+   {
+    "data": "2006-03-30",
+    "evento": "rp33",
+    "atto_modificante": "D.P.R. 15 febbraio 2006, n. 133"
+   },
+   {
+    "data": "2006-04-15",
+    "evento": "rp34",
+    "atto_modificante": "D.P.R. 6 marzo 2006, n. 153"
+   },
+   {
+    "data": "2006-04-21",
+    "evento": "rp35",
+    "atto_modificante": "atto modificante non indicato (rp35)"
+   },
+   {
+    "data": "2007-03-19",
+    "evento": "rp36",
+    "atto_modificante": "atto modificante non indicato (rp36)"
+   },
+   {
+    "data": "2007-03-30",
+    "evento": "rp37",
+    "atto_modificante": "D.P.R. 13 febbraio 2007, n. 37"
+   },
+   {
+    "data": "2008-05-22",
+    "evento": "rp38",
+    "atto_modificante": "D.P.R. 4 aprile 2008, n. 89"
+   },
+   {
+    "data": "2009-07-24",
+    "evento": "rp39",
+    "atto_modificante": "L. 15 luglio 2009, n. 94"
+   },
+   {
+    "data": "2009-09-22",
+    "evento": "rp40",
+    "atto_modificante": "atto modificante non indicato (rp40)"
+   },
+   {
+    "data": "2011-02-11",
+    "evento": "rp41",
+    "atto_modificante": "atto modificante non indicato (rp41)"
+   },
+   {
+    "data": "2011-04-30",
+    "evento": "rp42",
+    "atto_modificante": "D.Lgs. 18 aprile 2011, n. 59"
+   },
+   {
+    "data": "2012-02-09",
+    "evento": "rp43",
+    "atto_modificante": "D.L. 9 febbraio 2012, n. 5"
+   },
+   {
+    "data": "2012-08-31",
+    "evento": "rp44",
+    "atto_modificante": "D.P.R. 30 luglio 2012, n. 151"
+   },
+   {
+    "data": "2012-10-19",
+    "evento": "rp45",
+    "atto_modificante": "D.L. 18 ottobre 2012, n. 179"
+   },
+   {
+    "data": "2012-11-22",
+    "evento": "rp46",
+    "atto_modificante": "D.P.R. 28 settembre 2012, n. 198"
+   },
+   {
+    "data": "2013-01-25",
+    "evento": "rp47",
+    "atto_modificante": "atto modificante non indicato (rp47)"
+   },
+   {
+    "data": "2013-04-04",
+    "evento": "rp48",
+    "atto_modificante": "D.P.R. 12 febbraio 2013, n. 31"
+   },
+   {
+    "data": "2013-06-18",
+    "evento": "rp49",
+    "atto_modificante": "D.P.R. 16 aprile 2013, n. 68"
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp50",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp51",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 90"
+   },
+   {
+    "data": "2015-01-31",
+    "evento": "rp52",
+    "atto_modificante": "atto modificante non indicato (rp52)"
+   },
+   {
+    "data": "2015-08-04",
+    "evento": "rp53",
+    "atto_modificante": "atto modificante non indicato (rp53)"
+   },
+   {
+    "data": "2015-12-30",
+    "evento": "rp54",
+    "atto_modificante": "L. 28 dicembre 2015, n. 208"
+   },
+   {
+    "data": "2016-01-13",
+    "evento": "rp55",
+    "atto_modificante": "atto modificante non indicato (rp55)"
+   },
+   {
+    "data": "2017-02-25",
+    "evento": "rp56",
+    "atto_modificante": "atto modificante non indicato (rp56)"
+   },
+   {
+    "data": "2017-09-21",
+    "evento": "rp57",
+    "atto_modificante": "D.P.R. 10 luglio 2017, n. 139"
+   },
+   {
+    "data": "2017-09-22",
+    "evento": "rp58",
+    "atto_modificante": "D.P.R. 20 luglio 2017, n. 140"
+   },
+   {
+    "data": "2017-09-23",
+    "evento": "rp59",
+    "atto_modificante": "D.P.R. 25 luglio 2017, n. 141"
+   },
+   {
+    "data": "2018-12-29",
+    "evento": "rp60",
+    "atto_modificante": "D.P.R. 8 novembre 2018, n. 144"
+   },
+   {
+    "data": "2019-02-08",
+    "evento": "rp61",
+    "atto_modificante": "atto modificante non indicato (rp61)"
+   },
+   {
+    "data": "2019-06-14",
+    "evento": "rp62",
+    "atto_modificante": "D.P.R. 28 marzo 2019, n. 54"
+   },
+   {
+    "data": "2020-01-24",
+    "evento": "rp63",
+    "atto_modificante": "atto modificante non indicato (rp63)"
+   },
+   {
+    "data": "2020-06-27",
+    "evento": "rp64",
+    "atto_modificante": "D.P.R. 23 aprile 2020, n. 69"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp65",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   },
+   {
+    "data": "2020-09-12",
+    "evento": "rp66",
+    "atto_modificante": "D.Lgs. 3 settembre 2020, n. 119"
+   },
+   {
+    "data": "2020-09-14",
+    "evento": "rp67",
+    "atto_modificante": "L. 11 settembre 2020, n. 120"
+   },
+   {
+    "data": "2021-02-05",
+    "evento": "rp68",
+    "atto_modificante": "atto modificante non indicato (rp68)"
+   },
+   {
+    "data": "2023-03-15",
+    "evento": "rp69",
+    "atto_modificante": "atto modificante non indicato (rp69)"
+   },
+   {
+    "data": "2024-11-29",
+    "evento": "rp70",
+    "atto_modificante": "L. 25 novembre 2024, n. 177"
+   },
+   {
+    "data": "2025-02-24",
+    "evento": "rp71",
+    "atto_modificante": "atto modificante non indicato (rp71)"
+   }
+  ],
+  "ultima_versione": "2025-02-24",
+  "datazione": {
+   "monoblocco": 409,
+   "api": 372,
+   "riportati": 31,
+   "ignota": 6,
+   "falliti": 6,
+   "stima_anteriore": 186,
+   "chiamate": 378,
+   "errori_rete": 6,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "reg-cds.md",
+   "rubrica": "Relazione annuale",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "96faada5425e"
+  },
+  "2": {
+   "file": "reg-cds.md",
+   "rubrica": "Classificazione delle strade",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "1a6ff40d42a2"
+  },
+  "3": {
+   "file": "reg-cds.md",
+   "rubrica": "Declassificazione delle strade",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "29704fbd2e46"
+  },
+  "4": {
+   "file": "reg-cds.md",
+   "rubrica": "Passaggi di proprieta' fra enti proprietari delle strade",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "cde56fe8cf8c"
+  },
+  "5": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "49950ebc3a67"
+  },
+  "6": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "9281f942dcc7"
+  },
+  "7": {
+   "file": "reg-cds.md",
+   "rubrica": "Limitazioni alla circolazione. Condizioni e deroghe",
+   "vigore_da": "2012-04-07",
+   "datazione": "api",
+   "h": "2a2f08694baa"
+  },
+  "8": {
+   "file": "reg-cds.md",
+   "rubrica": "Aree interne ai porti e aeroporti",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "f49544732d9f"
+  },
+  "9": {
+   "file": "reg-cds.md",
+   "rubrica": "Veicoli eccezionali e veicoli adibiti a trasporti eccezionali",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "1b017d95d421"
+  },
+  "10": {
+   "file": "reg-cds.md",
+   "rubrica": "Veicoli qualificati mezzi d'opera",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "3b3430c6791e"
+  },
+  "11": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di segnalazione visiva",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "8e6c4a66bf0a"
+  },
+  "12": {
+   "file": "reg-cds.md",
+   "rubrica": "Autoveicoli adibiti al soccorso o alla rimozione di veicoli",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "b49ef71a27c6"
+  },
+  "13": {
+   "file": "reg-cds.md",
+   "rubrica": "Tipi di autorizzazioni alla circolazione per veicoli e trasporti eccezionali",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "038574860a22"
+  },
+  "14": {
+   "file": "reg-cds.md",
+   "rubrica": "Art. 10 Codice della strada",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "ec3b731cee60"
+  },
+  "15": {
+   "file": "reg-cds.md",
+   "rubrica": "Art.10 Codice della strada",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "128dd8c02144"
+  },
+  "16": {
+   "file": "reg-cds.md",
+   "rubrica": "Provvedimento di autorizzazione",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "df8333f47d0a"
+  },
+  "17": {
+   "file": "reg-cds.md",
+   "rubrica": "Durata delle autorizzazioni",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "778096f3a053"
+  },
+  "18": {
+   "file": "reg-cds.md",
+   "rubrica": "Indennizzo",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "8d77cb984831"
+  },
+  "19": {
+   "file": "reg-cds.md",
+   "rubrica": "Oneri a carico del richiedente",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "8c070aba68c0"
+  },
+  "20": {
+   "file": "reg-cds.md",
+   "rubrica": "Aggiornamenti",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "3264ceeff61c"
+  },
+  "21": {
+   "file": "reg-cds.md",
+   "rubrica": "Coordinamento dei servizi di Polizia Stradale. Rilascio di informazioni",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "f2845189ff89"
+  },
+  "22": {
+   "file": "reg-cds.md",
+   "rubrica": "Organi preposti",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e84264a3b6ca"
+  },
+  "23": {
+   "file": "reg-cds.md",
+   "rubrica": "Esame di qualificazione",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "9860d3db6b66"
+  },
+  "24": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "5d266514420e"
+  },
+  "25": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "8d7c1eff4b14"
+  },
+  "26": {
+   "file": "reg-cds.md",
+   "rubrica": "Fasce di rispetto fuori dai centri abitati",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "8c5f35d739c6"
+  },
+  "27": {
+   "file": "reg-cds.md",
+   "rubrica": "Fasce di rispetto nelle curve fuori dai centri abitati",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "aef8b2bec908"
+  },
+  "28": {
+   "file": "reg-cds.md",
+   "rubrica": "Fasce di rispetto per l'edificazione nei centri abitati",
+   "vigore_da": "1993-06-03",
+   "datazione": "api",
+   "h": "cf4fe0866ad0"
+  },
+  "29": {
+   "file": "reg-cds.md",
+   "rubrica": "Ubicazione di chioschi od altre installazioni",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "c9bfd726a940"
+  },
+  "30": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnalamento temporaneo",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "ca7fb41c5ad1"
+  },
+  "31": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnalamento e delimitazione dei cantieri",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "732dbc9058f8"
+  },
+  "32": {
+   "file": "reg-cds.md",
+   "rubrica": "Barriere",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d8ac57dcf148"
+  },
+  "33": {
+   "file": "reg-cds.md",
+   "rubrica": "Delineatori speciali",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "6cff36905278"
+  },
+  "34": {
+   "file": "reg-cds.md",
+   "rubrica": "Coni e delineatori flessibili",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "21f0e2b46cb2"
+  },
+  "35": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "db94931ed8f5"
+  },
+  "36": {
+   "file": "reg-cds.md",
+   "rubrica": "Visibilita' notturna",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "98c25119516b"
+  },
+  "37": {
+   "file": "reg-cds.md",
+   "rubrica": "Persone al lavoro",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "7c3d85db5ff3"
+  },
+  "38": {
+   "file": "reg-cds.md",
+   "rubrica": "Veicoli operativi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "984736eab031"
+  },
+  "39": {
+   "file": "reg-cds.md",
+   "rubrica": "Cantieri mobili",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "0dc21bed690d"
+  },
+  "40": {
+   "file": "reg-cds.md",
+   "rubrica": "Sicurezza dei pedoni nei cantieri stradali",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "3fd1de2d2799"
+  },
+  "41": {
+   "file": "reg-cds.md",
+   "rubrica": "Limitazioni di velocita' in prossimita' di lavori o di cantieri stradali",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "498a358ee12b"
+  },
+  "42": {
+   "file": "reg-cds.md",
+   "rubrica": "Strettoie e sensi unici alternati",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "4db91fb0f5d9"
+  },
+  "43": {
+   "file": "reg-cds.md",
+   "rubrica": "Deviazioni di itinerario",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "bf190177c37a"
+  },
+  "44": {
+   "file": "reg-cds.md",
+   "rubrica": "Accessi in generale",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "cc1c0bee9f5d"
+  },
+  "45": {
+   "file": "reg-cds.md",
+   "rubrica": "Accessi alle strade extraurbane",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "26afc331b283"
+  },
+  "46": {
+   "file": "reg-cds.md",
+   "rubrica": "Accessi nelle strade urbane. Passo carrabile",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "49712985fbd5"
+  },
+  "47": {
+   "file": "reg-cds.md",
+   "rubrica": "Definizione dei mezzi pubblicitari",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e0e87ffd592a"
+  },
+  "48": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d163645ebe33"
+  },
+  "49": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche dei cartelli, delle insegne di esercizio e degli altri mezzi pubblicitari",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d753f9365313"
+  },
+  "50": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche dei cartelli e dei mezzi pubblicitari luminosi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e8ffe33bfccc"
+  },
+  "51": {
+   "file": "reg-cds.md",
+   "rubrica": "Ubicazione lungo le strade e le fasce di pertinenza",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "744a155883a8"
+  },
+  "52": {
+   "file": "reg-cds.md",
+   "rubrica": "Ubicazione dei mezzi pubblicitari nelle stazioni di servizio e nelle aree di parcheggio",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "14845d1b3fd5"
+  },
+  "53": {
+   "file": "reg-cds.md",
+   "rubrica": "Autorizzazioni",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "878cb759b57c"
+  },
+  "54": {
+   "file": "reg-cds.md",
+   "rubrica": "Obblighi del titolare dell'autorizzazione",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "9cd888891a5d"
+  },
+  "55": {
+   "file": "reg-cds.md",
+   "rubrica": "Targhette di identificazione",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "ac150f938f55"
+  },
+  "56": {
+   "file": "reg-cds.md",
+   "rubrica": "Vigilanza",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "6bbfb7171f63"
+  },
+  "57": {
+   "file": "reg-cds.md",
+   "rubrica": "Pubblicita' sui veicoli",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "e8c100461c3c"
+  },
+  "58": {
+   "file": "reg-cds.md",
+   "rubrica": "Adattamenti delle forme di pubblicita' esistenti all'entrata in vigore del codice",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "6229fa8b32c3"
+  },
+  "59": {
+   "file": "reg-cds.md",
+   "rubrica": "Pubblicita' fonica",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "8a303b80efaf"
+  },
+  "60": {
+   "file": "reg-cds.md",
+   "rubrica": "Ubicazione delle pertinenze di servizio",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "a7fc95c2804a"
+  },
+  "61": {
+   "file": "reg-cds.md",
+   "rubrica": "Aree di servizio destinate al rifornimento e al ristoro degli utenti",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "d6c158fe304a"
+  },
+  "62": {
+   "file": "reg-cds.md",
+   "rubrica": "Aree di servizio destinate a parcheggio e sosta",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "477782e32e62"
+  },
+  "63": {
+   "file": "reg-cds.md",
+   "rubrica": "Aree e fabbricati di manutenzione e di esercizio della rete viaria",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "89046b308216"
+  },
+  "64": {
+   "file": "reg-cds.md",
+   "rubrica": "Concessione",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "7cb41c6b32a1"
+  },
+  "65": {
+   "file": "reg-cds.md",
+   "rubrica": "Attraversamenti ed occupazioni stradali in generale",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "b5a742a690d5"
+  },
+  "66": {
+   "file": "reg-cds.md",
+   "rubrica": "Attraversamenti in sotterraneo o con strutture sopraelevate",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "c34988cdbd15"
+  },
+  "67": {
+   "file": "reg-cds.md",
+   "rubrica": "Concessione per la realizzazione degli attraversamenti e delle occupazioni stradali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "bddac5127269"
+  },
+  "68": {
+   "file": "reg-cds.md",
+   "rubrica": "Cassonetti per la raccolta anche differenziata dei rifiuti",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "2ece92bf9536"
+  },
+  "69": {
+   "file": "reg-cds.md",
+   "rubrica": "Obblighi dei concessionari di determinati servizi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "6321c3245196"
+  },
+  "70": {
+   "file": "reg-cds.md",
+   "rubrica": "Condotta delle acque",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "c52bbe862155"
+  },
+  "71": {
+   "file": "reg-cds.md",
+   "rubrica": "Canali artificiali e manufatti sui medesimi",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "99a8544fcc4f"
+  },
+  "72": {
+   "file": "reg-cds.md",
+   "rubrica": "Oneri supplementari a carico dei mezzi d'opera per l'adeguamento delle infrastrutture stradali",
+   "vigore_da": "2016-01-01",
+   "datazione": "api",
+   "h": "ddb94efe041d"
+  },
+  "73": {
+   "file": "reg-cds.md",
+   "rubrica": "Competenze",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "13966f3d3f0f"
+  },
+  "74": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "h": "6374c031efe3"
+  },
+  "75": {
+   "file": "reg-cds.md",
+   "rubrica": "Campo di applicazione delle norme sulla segnaletica",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "4dd63cdadd1c"
+  },
+  "76": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali per le esigenze dell'autorita' militare",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "63624bf25c12"
+  },
+  "77": {
+   "file": "reg-cds.md",
+   "rubrica": "Norme generali sui segnali verticali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "cf913ff2514e"
+  },
+  "78": {
+   "file": "reg-cds.md",
+   "rubrica": "Colori dei segnali verticali",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "7488de923031"
+  },
+  "79": {
+   "file": "reg-cds.md",
+   "rubrica": "Visibilita' dei segnali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "7f134ebfdb74"
+  },
+  "80": {
+   "file": "reg-cds.md",
+   "rubrica": "Dimensioni e formati dei segnali verticali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "5f2e060a23e5"
+  },
+  "81": {
+   "file": "reg-cds.md",
+   "rubrica": "Installazione dei segnali verticali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "c76bcfaee24e"
+  },
+  "82": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche dei sostegni, supporti ed altri materiali usati per la segnaletica stradale",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "4071bee170ab"
+  },
+  "83": {
+   "file": "reg-cds.md",
+   "rubrica": "Pannelli integrativi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "8b4e191a3c25"
+  },
+  "84": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di pericolo in generale",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "5340e5051e32"
+  },
+  "85": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali relativi a strada deformata, dosso e cunetta",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "1a2d6ef131dd"
+  },
+  "86": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali relativi a curve pericolose",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "5ed2a2a8a09c"
+  },
+  "87": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di passaggio a livello",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e9e2d409b6ba"
+  },
+  "88": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di attraversamento tranviario, attraversamento pedonale e attraversamento ciclabile",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "5f6fe95af145"
+  },
+  "89": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di pendenza pericolosa",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "fd3e4eeeb98c"
+  },
+  "90": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di strettoia",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "c7fcbee8daae"
+  },
+  "91": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale di ponte mobile",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "379f2f27d739"
+  },
+  "92": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale di banchina pericolosa",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "a67cfcd9d4f2"
+  },
+  "93": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale di strada sdrucciolevole",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d8a2fbc558e7"
+  },
+  "94": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale bambini",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "e9d6e9522ea9"
+  },
+  "95": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali relativi agli animali",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "c33be9ccd751"
+  },
+  "96": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di doppio senso di circolazione e di circolazione rotatoria",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "05afb344024a"
+  },
+  "97": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale di sbocco su molo o su argine",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "205690053c76"
+  },
+  "98": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di materiale instabile sulla strada e di caduta massi",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "97a3b6ecfa3a"
+  },
+  "99": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale semaforo",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "5f5dc5a8169a"
+  },
+  "100": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale aeromobili",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "b0d36c0368b9"
+  },
+  "101": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale forte vento laterale",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "1b48157cac39"
+  },
+  "102": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale pericolo di incendio",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "706d72a02afa"
+  },
+  "103": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale di altri pericoli",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "416a2f0bbc2e"
+  },
+  "104": {
+   "file": "reg-cds.md",
+   "rubrica": "Disposizioni generali sui segnali di prescrizione",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "fa26ec2c243e"
+  },
+  "105": {
+   "file": "reg-cds.md",
+   "rubrica": "Disposizioni generali sui segnali di precedenza",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "f4082cb85c01"
+  },
+  "106": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale di dare precedenza",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "682fbfc4f7c2"
+  },
+  "107": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale fermarsi e dare precedenza",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "dd18423e7284"
+  },
+  "108": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di preavviso di precedenza",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "abde828687fb"
+  },
+  "109": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale di intersezione con precedenza a destra",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "4a1b6f9b62cf"
+  },
+  "110": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale di dare precedenza nei sensi unici alternati",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "799b84bc865e"
+  },
+  "111": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale di fine del diritto di precedenza",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "550e962cf590"
+  },
+  "112": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale di intersezione con diritto di precedenza",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "93f4c03538e6"
+  },
+  "113": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale di diritto di precedenza",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "1f4c3c5923fe"
+  },
+  "114": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale di diritto di precedenza nei sensi unici alternati",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "692567e39086"
+  },
+  "115": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di divieto in generale",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "bfcf2c407a29"
+  },
+  "116": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di divieto generici",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "f54e241520ef"
+  },
+  "117": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di divieto specifici",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "7cec71e117c1"
+  },
+  "118": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di limitazioni alle dimensioni e alla massa dei veicoli",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "c79c40e15a6c"
+  },
+  "119": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "5e2ac6a4aa0f"
+  },
+  "120": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di fermata, di sosta e di parcheggio",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e3c9068786e8"
+  },
+  "121": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di obbligo in generale",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "7cda2d644b08"
+  },
+  "122": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di obbligo generico",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "2362f0b57ac2"
+  },
+  "123": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di obbligo specifico",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "d17af02fb1db"
+  },
+  "124": {
+   "file": "reg-cds.md",
+   "rubrica": "Generalita' dei segnali di indicazione",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "542192ab0805"
+  },
+  "125": {
+   "file": "reg-cds.md",
+   "rubrica": "Iscrizioni, lettere e simboli relativi ai segnali di indicazione",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "eb6504b2c2a2"
+  },
+  "126": {
+   "file": "reg-cds.md",
+   "rubrica": "Posizionamento dei segnali di indicazione",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "66d5f456e5c5"
+  },
+  "127": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di preavviso",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "5040be39e814"
+  },
+  "128": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di direzione",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e2e7e0c6b0e8"
+  },
+  "129": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di identificazione strade e progressive distanziometriche",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "a9c463425fd0"
+  },
+  "130": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale di itinerario",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "d216a724280f"
+  },
+  "131": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di localita' e di localizzazione",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d2654398c961"
+  },
+  "132": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali di conferma",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "65dec4550eaf"
+  },
+  "133": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale nome-strada",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "24b5622b2f23"
+  },
+  "134": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali turistici e di territorio",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "dcc0204ae5e4"
+  },
+  "135": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali utili per la guida",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "59f864052469"
+  },
+  "136": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali che forniscono indicazioni di servizi utili",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "2089e17a2975"
+  },
+  "137": {
+   "file": "reg-cds.md",
+   "rubrica": "Disposizioni generali sui segnali orizzontali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "84b1427d801f"
+  },
+  "138": {
+   "file": "reg-cds.md",
+   "rubrica": "Strisce longitudinali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "ccd90484cde9"
+  },
+  "139": {
+   "file": "reg-cds.md",
+   "rubrica": "Strisce di separazione dei sensi di marcia",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e7b77954c998"
+  },
+  "140": {
+   "file": "reg-cds.md",
+   "rubrica": "Strisce di corsia",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "f2e223f656e9"
+  },
+  "141": {
+   "file": "reg-cds.md",
+   "rubrica": "Strisce di margine della carreggiata",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "bdfcdae407e8"
+  },
+  "142": {
+   "file": "reg-cds.md",
+   "rubrica": "Strisce di raccordo",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "558e6805333e"
+  },
+  "143": {
+   "file": "reg-cds.md",
+   "rubrica": "Strisce di guida sulle intersezioni",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "1f6c9ce56934"
+  },
+  "144": {
+   "file": "reg-cds.md",
+   "rubrica": "Strisce trasversali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "4f253594e2bb"
+  },
+  "145": {
+   "file": "reg-cds.md",
+   "rubrica": "Attraversamenti pedonali",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "47e06f3eb66e"
+  },
+  "146": {
+   "file": "reg-cds.md",
+   "rubrica": "Attraversamenti ciclabili",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "6cc214b79323"
+  },
+  "147": {
+   "file": "reg-cds.md",
+   "rubrica": "Frecce direzionali",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "ad0f07f9c42d"
+  },
+  "148": {
+   "file": "reg-cds.md",
+   "rubrica": "Iscrizioni e simboli",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "653e2f9da8f6"
+  },
+  "149": {
+   "file": "reg-cds.md",
+   "rubrica": "Strisce di delimitazione degli stalli di sosta o per la sosta riservata",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "ad314b391c05"
+  },
+  "150": {
+   "file": "reg-cds.md",
+   "rubrica": "Presegnalamento di isole di traffico o di ostacoli entro la carreggiata",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "e56f27d754dc"
+  },
+  "151": {
+   "file": "reg-cds.md",
+   "rubrica": "Strisce di delimitazione della fermata dei veicoli in servizio di trasporto pubblico collettivo di linea",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "6265845d9712"
+  },
+  "152": {
+   "file": "reg-cds.md",
+   "rubrica": "Altri segnali orizzontali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e6955002b3d7"
+  },
+  "153": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi retroriflettenti integrativi dei segnali orizzontali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e5ca3c6d4f22"
+  },
+  "154": {
+   "file": "reg-cds.md",
+   "rubrica": "Altri dispositivi per segnaletica orizzontale",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "135b4861737a"
+  },
+  "155": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali orizzontali vietati",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "7e0764b147d5"
+  },
+  "156": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali luminosi di pericolo e di prescrizione",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "1174b5d3a035"
+  },
+  "157": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali luminosi di indicazione",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "edd591ae4bbb"
+  },
+  "158": {
+   "file": "reg-cds.md",
+   "rubrica": "Funzione delle lanterne semaforiche",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "86876a58c41c"
+  },
+  "159": {
+   "file": "reg-cds.md",
+   "rubrica": "Lanterne semaforiche veicolari normali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "a02d9b6173d3"
+  },
+  "160": {
+   "file": "reg-cds.md",
+   "rubrica": "Lanterne semaforiche veicolari di corsia",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d8226cd9d0aa"
+  },
+  "161": {
+   "file": "reg-cds.md",
+   "rubrica": "Lanterne semaforiche per i veicoli di trasporto pubblico",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "a2ba50e2f59f"
+  },
+  "162": {
+   "file": "reg-cds.md",
+   "rubrica": "Lanterne semaforiche pedonali",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "ed30cb23efa7"
+  },
+  "163": {
+   "file": "reg-cds.md",
+   "rubrica": "Lanterne semaforiche per velocipedi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "f401ad423c9b"
+  },
+  "164": {
+   "file": "reg-cds.md",
+   "rubrica": "Lanterne semaforiche veicolari per corsie reversibili",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "a85347e19413"
+  },
+  "165": {
+   "file": "reg-cds.md",
+   "rubrica": "Lanterne semaforiche gialle lampeggianti",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "017a35c53909"
+  },
+  "166": {
+   "file": "reg-cds.md",
+   "rubrica": "Lanterne semaforiche speciali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d72ae6aeddd3"
+  },
+  "167": {
+   "file": "reg-cds.md",
+   "rubrica": "Dimensioni ed illuminazione delle luci semaforiche",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "3005934615a8"
+  },
+  "168": {
+   "file": "reg-cds.md",
+   "rubrica": "Installazione delle lanterne semaforiche",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "cf3ca8d68f1b"
+  },
+  "169": {
+   "file": "reg-cds.md",
+   "rubrica": "Funzionamento degli impianti semaforici",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "dc1d003fad69"
+  },
+  "170": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali luminosi particolari",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "89ecadec875a"
+  },
+  "171": {
+   "file": "reg-cds.md",
+   "rubrica": "Frequenza dei lampeggiatori",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "6ee6cb77e5ff"
+  },
+  "172": {
+   "file": "reg-cds.md",
+   "rubrica": "Generalita' e suddivisioni",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "117b175fd7e6"
+  },
+  "173": {
+   "file": "reg-cds.md",
+   "rubrica": "Delineatori normali di margine",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "ce263b20fed7"
+  },
+  "174": {
+   "file": "reg-cds.md",
+   "rubrica": "Delineatori speciali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "b2760558ed38"
+  },
+  "175": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di segnalazione di ostacoli",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "724e92f793cd"
+  },
+  "176": {
+   "file": "reg-cds.md",
+   "rubrica": "Modalita' di realizzazione delle isole di traffico",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "b4b01c2258b3"
+  },
+  "177": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnalazione delle isole di traffico",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "5e17062118c1"
+  },
+  "178": {
+   "file": "reg-cds.md",
+   "rubrica": "Elementi prefabbricati per salvagenti pedonali e delimitatori di corsia",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "9abd5a77a895"
+  },
+  "179": {
+   "file": "reg-cds.md",
+   "rubrica": "Rallentatori di velocita'",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "98460bd3d313"
+  },
+  "180": {
+   "file": "reg-cds.md",
+   "rubrica": "Dissuasori di sosta",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "4b88e2e966f9"
+  },
+  "181": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnali manuali degli agenti del traffico",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "dd124500e6ed"
+  },
+  "182": {
+   "file": "reg-cds.md",
+   "rubrica": "Altri segnali degli agenti del traffico",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "a2e172136600"
+  },
+  "183": {
+   "file": "reg-cds.md",
+   "rubrica": "Visibilita' degli agenti del traffico",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "40c1cd33b0f7"
+  },
+  "184": {
+   "file": "reg-cds.md",
+   "rubrica": "Disposizioni generali sulle segnalazioni dei passaggi a livello",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "7bfb6dcb7091"
+  },
+  "185": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche delle strisce bianche e rosse delle barriere",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "ba0590181a5f"
+  },
+  "186": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di segnalazione acustica ed ottica delle barriere",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "27eee5fbcf99"
+  },
+  "187": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di segnalazione ottica ed acustica delle semibarriere",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "076efc1c0938"
+  },
+  "188": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche dei dispositivi di segnalazione dei passaggi a livello senza barriere",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "4827fc1b6807"
+  },
+  "189": {
+   "file": "reg-cds.md",
+   "rubrica": "Cavalletti da impiegarsi in corrispondenza dei passaggi a livello",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "d93d0fe44ae4"
+  },
+  "190": {
+   "file": "reg-cds.md",
+   "rubrica": "Visibilita' ai passaggi a livello senza barriere non forniti di segnalazione luminosa",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "a0a7ec52ca54"
+  },
+  "191": {
+   "file": "reg-cds.md",
+   "rubrica": "Attraversamento di linee ferroviarie di raccordo",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "a3e16b381985"
+  },
+  "192": {
+   "file": "reg-cds.md",
+   "rubrica": "Omologazione ed approvazione",
+   "vigore_da": "2020-02-08",
+   "datazione": "api",
+   "h": "f65f6e5d1c68"
+  },
+  "193": {
+   "file": "reg-cds.md",
+   "rubrica": "Imprese autorizzate alla fabbricazione dei segnali stradali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "cd63cf26dd4e"
+  },
+  "194": {
+   "file": "reg-cds.md",
+   "rubrica": "Dotazioni tecniche e attrezzature",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "99a17e586624"
+  },
+  "195": {
+   "file": "reg-cds.md",
+   "rubrica": "Condizioni per la revoca e la sospensione dell'autorizzazione",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "b30619dbedd0"
+  },
+  "196": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche dei veicoli per uso di bambini o di invalidi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "0acdad2588cf"
+  },
+  "197": {
+   "file": "reg-cds.md",
+   "rubrica": "Azionamento dei veicoli a braccia",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "e11997b1d6ce"
+  },
+  "198": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche costruttive e modalita' di controllo dei ciclomotori",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "c04695122e1b"
+  },
+  "199": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche costruttive dei quadricicli a motore",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "620a3d08f8d0"
+  },
+  "200": {
+   "file": "reg-cds.md",
+   "rubrica": "Motoveicoli per trasporti specifici e motoveicoli per uso speciale",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "0b577bfedcb4"
+  },
+  "201": {
+   "file": "reg-cds.md",
+   "rubrica": "Autotreni attrezzati per carichi indivisibili",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "3dccd48d9188"
+  },
+  "202": {
+   "file": "reg-cds.md",
+   "rubrica": "Materiali trasportabili dai veicoli mezzi d'opera",
+   "vigore_da": "1998-01-15",
+   "datazione": "api",
+   "h": "3d2c97ec17e5"
+  },
+  "203": {
+   "file": "reg-cds.md",
+   "rubrica": "Autoveicoli per trasporti specifici ed autoveicoli per uso speciale",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e436c929b37d"
+  },
+  "204": {
+   "file": "reg-cds.md",
+   "rubrica": "Rimorchi per trasporti specifici e rimorchi per uso speciale",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "8e18824c923b"
+  },
+  "205": {
+   "file": "reg-cds.md",
+   "rubrica": "Dimensioni, masse, organi di traino ed identificazione dei carrelli-appendice",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "e91f7de72e88"
+  },
+  "206": {
+   "file": "reg-cds.md",
+   "rubrica": "Attrezzature delle macchine agricole",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "a2ee25a08bb9"
+  },
+  "207": {
+   "file": "reg-cds.md",
+   "rubrica": "Trattrici agricole con piano di carico",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "dbd28ea31396"
+  },
+  "208": {
+   "file": "reg-cds.md",
+   "rubrica": "Limiti per il trasporto delle persone con le macchine agricole",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "60435e97b4ad"
+  },
+  "209": {
+   "file": "reg-cds.md",
+   "rubrica": "Equipaggiamento ed attrezzatura delle macchine agricole semoventi per il trasporto di persone",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "05ff35b30a85"
+  },
+  "210": {
+   "file": "reg-cds.md",
+   "rubrica": "Velocita' teorica ed effettiva delle macchine agricole semoventi",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "8b516c1db62f"
+  },
+  "211": {
+   "file": "reg-cds.md",
+   "rubrica": "Limiti e modalita' di circolazione delle macchine operatrici",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "3e0e36f3bd14"
+  },
+  "212": {
+   "file": "reg-cds.md",
+   "rubrica": "Attrezzature delle macchine operatrici",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "508e7138ec49"
+  },
+  "213": {
+   "file": "reg-cds.md",
+   "rubrica": "Disciplina dei mezzi di movimentazione destinati ad operare nelle aree portuali",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "785f460ccc34"
+  },
+  "214": {
+   "file": "reg-cds.md",
+   "rubrica": "Motoveicoli ed autoveicoli d'epoca",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "96bdd828c789"
+  },
+  "215": {
+   "file": "reg-cds.md",
+   "rubrica": "Motoveicoli ed autoveicoli d'interesse storico o collezionistico",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d0ef02e4c9fc"
+  },
+  "216": {
+   "file": "reg-cds.md",
+   "rubrica": "Lunghezza massima degli autoarticolati, degli autotreni e dei filotreni",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "e5c5ca6d80a4"
+  },
+  "217": {
+   "file": "reg-cds.md",
+   "rubrica": "Inscrivibilita' in curva dei veicoli - Fascia d'ingombro",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "c4db01b7a033"
+  },
+  "218": {
+   "file": "reg-cds.md",
+   "rubrica": "Massa limite sugli assi",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "cee12e23fc04"
+  },
+  "219": {
+   "file": "reg-cds.md",
+   "rubrica": "Valore massimo della massa rimorchiabile e sua determinazione. Procedure per l'agganciamento dei rimorchi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d69ac098d996"
+  },
+  "220": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di frenatura dei veicoli a trazione animale e delle slitte",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "3a094138c1b8"
+  },
+  "221": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di segnalazione visiva dei veicoli a trazione animale e delle slitte",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "8eaf7da1c7a3"
+  },
+  "222": {
+   "file": "reg-cds.md",
+   "rubrica": "Targhe dei veicoli a trazione animale e delle slitte",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "db6fb4db2ab1"
+  },
+  "223": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d397e0c2cd10"
+  },
+  "224": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di segnalazione visiva dei velocipedi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "201c714b4db2"
+  },
+  "225": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "abc2364eb5be"
+  },
+  "226": {
+   "file": "reg-cds.md",
+   "rubrica": "Servizio di piazza con veicoli a trazione animale",
+   "vigore_da": "2007-04-14",
+   "datazione": "api",
+   "h": "6cb4df0a53e3"
+  },
+  "227": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche costruttive e funzionali dei veicoli a motore e loro rimorchi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "db997fc02e4f"
+  },
+  "228": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di equipaggiamento dei veicoli a motore e loro rimorchi",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "808d37f002bd"
+  },
+  "229": {
+   "file": "reg-cds.md",
+   "rubrica": "Contachilometri",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "8cc35873010e"
+  },
+  "230": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnale mobile plurifunzionale di soccorso",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "5fc68c76c49a"
+  },
+  "231": {
+   "file": "reg-cds.md",
+   "rubrica": "Particolari costruttivi del segnale mobile plurifunzionale di soccorso",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "2079fc827d25"
+  },
+  "232": {
+   "file": "reg-cds.md",
+   "rubrica": "Targhette e numeri di identificazione",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "37735482804d"
+  },
+  "233": {
+   "file": "reg-cds.md",
+   "rubrica": "Punzonatura d'ufficio del numero di telaio",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "fa40970dd430"
+  },
+  "234": {
+   "file": "reg-cds.md",
+   "rubrica": "Certificato di approvazione",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "96026688b3f1"
+  },
+  "235": {
+   "file": "reg-cds.md",
+   "rubrica": "Certificato di origine",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "b93cc3d019bc"
+  },
+  "236": {
+   "file": "reg-cds.md",
+   "rubrica": "Modifica delle caratteristiche costruttive dei veicoli in circolazione e aggiornamento della carta di circolazione",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "85bee759f17e"
+  },
+  "237": {
+   "file": "reg-cds.md",
+   "rubrica": "Efficienza dei veicoli a motore e loro rimorchi in circolazione",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "66ecf7c98643"
+  },
+  "238": {
+   "file": "reg-cds.md",
+   "rubrica": "Elementi su cui devono essere effettuati i controlli tecnici",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "804000b1c9e3"
+  },
+  "239": {
+   "file": "reg-cds.md",
+   "rubrica": "Revisioni presso imprese o consorzi e requisiti tecnico-professionali degli stessi",
+   "vigore_da": "2001-10-18",
+   "datazione": "api",
+   "h": "50ce94e2a86e"
+  },
+  "240": {
+   "file": "reg-cds.md",
+   "rubrica": "Requisiti dei titolari delle imprese e dei responsabili tecnici",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "h": "22201278292b"
+  },
+  "241": {
+   "file": "reg-cds.md",
+   "rubrica": "Attrezzature delle imprese e dei consorzi abilitati alla revisione dei veicoli",
+   "vigore_da": "2000-11-29",
+   "datazione": "api",
+   "h": "d7dceb12bc7b"
+  },
+  "242": {
+   "file": "reg-cds.md",
+   "rubrica": "Profili professionali che da'nno titolo all'effettuazione degli accertamenti tecnici",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "36c8e61dbae4"
+  },
+  "243": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche costruttive dei veicoli in relazione alla destinazione ed all'uso degli stessi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "824c40be535f"
+  },
+  "244": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "79d667fdb1b4"
+  },
+  "245": {
+   "file": "reg-cds.md",
+   "rubrica": "Comunicazioni fra gli uffici della M.C.T.C e del P.R.A.",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "a42bd437d79f"
+  },
+  "246": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche dei veicoli destinati a servizio di polizia stradale",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "22ae65d2f760"
+  },
+  "247": {
+   "file": "reg-cds.md",
+   "rubrica": "Comunicazioni degli uffici della M.C.T.C. e del P.R.A.",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "716fca490598"
+  },
+  "247-bis": {
+   "file": "reg-cds.md",
+   "rubrica": "Variazione dell'intestatario della carta di circolazione e intestazione temporanea di autoveicoli, motoveicoli e rimorchi",
+   "vigore_da": "2012-12-07",
+   "datazione": "api",
+   "h": "aeea5264cad7"
+  },
+  "248": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-14",
+   "datazione": "api",
+   "h": "a434f54b33ff"
+  },
+  "249": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-14",
+   "datazione": "api",
+   "h": "84987fc4281a"
+  },
+  "250": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-14",
+   "datazione": "api",
+   "h": "76f89164435f"
+  },
+  "251": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-14",
+   "datazione": "api",
+   "h": "e0341f965f9e"
+  },
+  "252": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "2006-07-14",
+   "datazione": "api",
+   "h": "e68744582872"
+  },
+  "253": {
+   "file": "reg-cds.md",
+   "rubrica": "Norme transitorie per i ciclomotori in circolazione",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "fbdeb0e5b8ba"
+  },
+  "254": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "2002-02-14",
+   "datazione": "api",
+   "h": "fef16841d1c1"
+  },
+  "255": {
+   "file": "reg-cds.md",
+   "rubrica": "Targhe provvisorie di circolazione",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "6669f257ed4d"
+  },
+  "256": {
+   "file": "reg-cds.md",
+   "rubrica": "Definizione delle targhe di immatricolazione, ripetitrici e di riconoscimento",
+   "vigore_da": "2013-02-20",
+   "datazione": "api",
+   "h": "eb0574ab3baa"
+  },
+  "257": {
+   "file": "reg-cds.md",
+   "rubrica": "Criteri per la formazione dei dati delle targhe dei veicoli a motore e dei rimorchi",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "4d9f15169928"
+  },
+  "258": {
+   "file": "reg-cds.md",
+   "rubrica": "Collocazione delle targhe di immatricolazione, ripetitrici e di riconoscimento",
+   "vigore_da": "2013-02-20",
+   "datazione": "api",
+   "h": "9fefc43be3a4"
+  },
+  "259": {
+   "file": "reg-cds.md",
+   "rubrica": "Modalita' di installazione delle targhe",
+   "vigore_da": "2013-02-20",
+   "datazione": "api",
+   "h": "f969c0a2071d"
+  },
+  "260": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche costruttive, dimensionali, fotometriche, cromatiche e di leggibilita' delle targhe. Requisiti di idoneita' per la loro accettazione",
+   "vigore_da": "2013-02-20",
+   "datazione": "api",
+   "h": "a6d5e0962adf"
+  },
+  "261": {
+   "file": "reg-cds.md",
+   "rubrica": "Modelli di targhe",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "f10586e8abe7"
+  },
+  "262": {
+   "file": "reg-cds.md",
+   "rubrica": "Marchio ufficiale",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "217752fb1c3b"
+  },
+  "263": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "cd9b9c26afcd"
+  },
+  "264": {
+   "file": "reg-cds.md",
+   "rubrica": "Informazioni in tema di cessazione dalla circolazione",
+   "vigore_da": "2020-09-27",
+   "datazione": "api",
+   "h": "3f3f3fae0e6c"
+  },
+  "265": {
+   "file": "reg-cds.md",
+   "rubrica": "Pannelli di segnalazione delle macchine agricole eccezionali e delle macchine agricole equipaggiate con attrezzature portate e semiportate",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "c6f9254f59cc"
+  },
+  "266": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivo supplementare di segnalazione visiva delle macchine agricole",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "33d91fc54a63"
+  },
+  "267": {
+   "file": "reg-cds.md",
+   "rubrica": "Ripartizione delle masse delle macchine agricole eccezionali",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "2703e0ea3bf9"
+  },
+  "268": {
+   "file": "reg-cds.md",
+   "rubrica": "Art. 104 Codice della strada",
+   "vigore_da": "2013-06-03",
+   "datazione": "api",
+   "h": "5ef09549c3f5"
+  },
+  "269": {
+   "file": "reg-cds.md",
+   "rubrica": "Blocco dei comandi dei sistemi di lavoro degli attrezzi delle macchine agricole",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "e85ca711ce87"
+  },
+  "270": {
+   "file": "reg-cds.md",
+   "rubrica": "Campo di visibilita' e tergicristallo delle macchine agricole",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "57bf978cea9c"
+  },
+  "271": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di protezione in caso di capovolgimento delle trattrici agricole",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "f5d072c97107"
+  },
+  "272": {
+   "file": "reg-cds.md",
+   "rubrica": "Sedile per il conducente delle trattrici agricole",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "8db017172835"
+  },
+  "273": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di segnalazione visiva e di illuminazione delle macchine agricole",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "3602b14a1d70"
+  },
+  "274": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di frenatura delle macchine agricole semoventi",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "65a7c0d97aff"
+  },
+  "275": {
+   "file": "reg-cds.md",
+   "rubrica": "Massa rimorchiabile delle macchine agricole semoventi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "f078885ff8be"
+  },
+  "276": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di frenatura dei rimorchi agricoli e delle macchine agricole operatrici trainate",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "b72262691a88"
+  },
+  "277": {
+   "file": "reg-cds.md",
+   "rubrica": "Efficienza della frenatura dei treni costituiti da macchine agricole",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "95c46810f2c9"
+  },
+  "278": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivo di sterzo delle macchine agricole",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "be48f56e05d3"
+  },
+  "279": {
+   "file": "reg-cds.md",
+   "rubrica": "Fascia di ingombro delle macchine agricole eccezionali",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "9d205679d4f5"
+  },
+  "280": {
+   "file": "reg-cds.md",
+   "rubrica": "Livelli sonori delle macchine agricole semoventi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "3fff17bb007e"
+  },
+  "281": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di segnalazione acustica delle macchine agricole semoventi",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "f2ae522a2e45"
+  },
+  "282": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivo retrovisore delle macchine agricole semoventi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "30fd88a3f74f"
+  },
+  "283": {
+   "file": "reg-cds.md",
+   "rubrica": "Sovrapattini delle macchine agricole cingolate",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "be6825030578"
+  },
+  "284": {
+   "file": "reg-cds.md",
+   "rubrica": "Ganci delle macchine agricole semoventi",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "1703de680b0a"
+  },
+  "285": {
+   "file": "reg-cds.md",
+   "rubrica": "Occhioni delle macchine agricole trainate",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "9b9765761738"
+  },
+  "286": {
+   "file": "reg-cds.md",
+   "rubrica": "Timoni delle macchine agricole trainate",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "50bf5cba10ea"
+  },
+  "287": {
+   "file": "reg-cds.md",
+   "rubrica": "Verifica per le macchine agricole della posizione del dispositivo di traino nonche' del carico verticale ammissibile su di esso",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "83d5bfcc6b6d"
+  },
+  "288": {
+   "file": "reg-cds.md",
+   "rubrica": "Inquinamento da gas di scarico prodotto dalle macchine agricole",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "6c4fa32cf077"
+  },
+  "289": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche costruttive e funzionali delle macchine agricole",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "8a17f65f8649"
+  },
+  "290": {
+   "file": "reg-cds.md",
+   "rubrica": "Definizione della potenza e determinazione delle curve caratteristiche dei motori installati su macchine agricole",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "f3cc86168450"
+  },
+  "291": {
+   "file": "reg-cds.md",
+   "rubrica": "Verifiche e prove per l'omologazione delle macchine agricole",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "a2ba0a8afb9b"
+  },
+  "292": {
+   "file": "reg-cds.md",
+   "rubrica": "Macchine agricole operatrici trainate escluse dall'accertamento dei requisiti",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "1254e8a0d339"
+  },
+  "293": {
+   "file": "reg-cds.md",
+   "rubrica": "Carta di circolazione e certificato di idoneita' tecnica delle macchine agricole",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "bcc1f82eada4"
+  },
+  "294": {
+   "file": "reg-cds.md",
+   "rubrica": "Immatricolazione, rilascio della carta di circolazione e del certificato di idoneita' tecnica, trasferimento di proprieta' delle macchine agricole",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "182d8ce3083f"
+  },
+  "295": {
+   "file": "reg-cds.md",
+   "rubrica": "Revisione delle macchine agricole in circolazione",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "ea0f887bb60b"
+  },
+  "296": {
+   "file": "reg-cds.md",
+   "rubrica": "Segnalazione delle macchine operatrici eccezionali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "4676da65615a"
+  },
+  "297": {
+   "file": "reg-cds.md",
+   "rubrica": "Campo di visibilita' delle macchine operatrici",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "862fedbd941a"
+  },
+  "298": {
+   "file": "reg-cds.md",
+   "rubrica": "Registrazione e targatura delle macchine operatrici",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "76cf615322ef"
+  },
+  "299": {
+   "file": "reg-cds.md",
+   "rubrica": "Macchine operatrici: dispositivo antincastro",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "0933f950e792"
+  },
+  "300": {
+   "file": "reg-cds.md",
+   "rubrica": "Organi di traino delle macchine operatrici ed accertamento della massa massima rimorchiabile",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "66a3cf973f9b"
+  },
+  "301": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di frenatura delle macchine operatrici semoventi",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "2639520b8a47"
+  },
+  "302": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di frenatura delle macchine operatrici trainate",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "3cb9d44340d9"
+  },
+  "303": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "4a996c0026f9"
+  },
+  "304": {
+   "file": "reg-cds.md",
+   "rubrica": "Revisione delle macchine operatrici in circolazione",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "04803b43e4b1"
+  },
+  "305": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche costruttive e funzionali delle macchine operatrici",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "324ad2c466b6"
+  },
+  "306": {
+   "file": "reg-cds.md",
+   "rubrica": "Norme di richiamo",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d70190871884"
+  },
+  "307": {
+   "file": "reg-cds.md",
+   "rubrica": "Attestato di idoneita' psicofisica",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "6773fcca1889"
+  },
+  "308": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "b7de4fee674f"
+  },
+  "309": {
+   "file": "reg-cds.md",
+   "rubrica": "Annotazione del gruppo sanguigno",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "7d5720bc0d65"
+  },
+  "310": {
+   "file": "reg-cds.md",
+   "rubrica": "Tipi di certificati di abilitazione professionale: CAP",
+   "vigore_da": "1998-01-01",
+   "datazione": "api",
+   "h": "133ac29b2946"
+  },
+  "311": {
+   "file": "reg-cds.md",
+   "rubrica": "Requisiti per il rilascio del CAP",
+   "vigore_da": "1998-01-01",
+   "datazione": "api",
+   "h": "90d45c427b3d"
+  },
+  "312": {
+   "file": "reg-cds.md",
+   "rubrica": "Programma d'esame per il conseguimento dei certificati di abilitazione professionale",
+   "vigore_da": "1998-01-01",
+   "datazione": "api",
+   "h": "cbef2c77bf73"
+  },
+  "313": {
+   "file": "reg-cds.md",
+   "rubrica": "Modalita' di rilascio e relativa validita'. Sostituzione dei CAP di precedente modello",
+   "vigore_da": "1998-01-01",
+   "datazione": "api",
+   "h": "7eb8333e8538"
+  },
+  "314": {
+   "file": "reg-cds.md",
+   "rubrica": "Rilascio del CAP per conversione di documento estero",
+   "vigore_da": "1998-01-01",
+   "datazione": "api",
+   "h": "160d7a5a82c1"
+  },
+  "315": {
+   "file": "reg-cds.md",
+   "rubrica": "Certificato di formazione professionale relativo alle merci pericolose",
+   "vigore_da": "1998-01-01",
+   "datazione": "api",
+   "h": "595743524dfb"
+  },
+  "316": {
+   "file": "reg-cds.md",
+   "rubrica": "Limitazioni nella guida",
+   "vigore_da": "1995-04-02",
+   "datazione": "api",
+   "h": "10bea111fbf9"
+  },
+  "317": {
+   "file": "reg-cds.md",
+   "rubrica": "Esami per il conseguimento del certificato di idoneita' alla guida di filoveicoli",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "4aa77d1ba3a0"
+  },
+  "318": {
+   "file": "reg-cds.md",
+   "rubrica": "Rilascio del certificato di idoneita' alla guida di filoveicoli",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "48439e376bf4"
+  },
+  "319": {
+   "file": "reg-cds.md",
+   "rubrica": "Requisiti fisici e psichici per il conseguimento, la revisione e la conferma di validita' della patente di guida",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "884793a300bb"
+  },
+  "320": {
+   "file": "reg-cds.md",
+   "rubrica": "Malattie invalidanti",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "0c879ed6a2b0"
+  },
+  "321": {
+   "file": "reg-cds.md",
+   "rubrica": "Efficienza degli arti",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "b0690a202595"
+  },
+  "322": {
+   "file": "reg-cds.md",
+   "rubrica": "Requisiti visivi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "4943c56fa7c0"
+  },
+  "323": {
+   "file": "reg-cds.md",
+   "rubrica": "Requisiti uditivi",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "d29a2d85a0d3"
+  },
+  "324": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "b6274982d2ae"
+  },
+  "325": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "12f0b2e76d86"
+  },
+  "326": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "238260bce0f1"
+  },
+  "327": {
+   "file": "reg-cds.md",
+   "rubrica": "Requisiti relativi agli arti e alla colonna vertebrale, per il conseguimento, la conferma e la revisione della patente speciale delle categorie A, B, C e D",
+   "vigore_da": "2003-08-13",
+   "datazione": "api",
+   "h": "87cf10eb1022"
+  },
+  "328": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "35ecdd1126ba"
+  },
+  "329": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "908a6b52d6e4"
+  },
+  "330": {
+   "file": "reg-cds.md",
+   "rubrica": "Commissioni mediche locali",
+   "vigore_da": "2014-08-19",
+   "datazione": "api",
+   "h": "6227d52b4ded"
+  },
+  "331": {
+   "file": "reg-cds.md",
+   "rubrica": "Attestazione dei requisiti di idoneita' psicofisica alla guida di veicoli a motore",
+   "vigore_da": "2019-06-29",
+   "datazione": "api",
+   "h": "8d6f118b49f1"
+  },
+  "332": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "2017-10-08",
+   "datazione": "api",
+   "h": "3b1e64d3e359"
+  },
+  "333": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "3078e59d8335"
+  },
+  "334": {
+   "file": "reg-cds.md",
+   "rubrica": "Contrassegno per le esercitazioni di guida",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "804e5bf47b28"
+  },
+  "335": {
+   "file": "reg-cds.md",
+   "rubrica": "Rilascio dell'autorizzazione alle autoscuole",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "cd715c0a98c5"
+  },
+  "336": {
+   "file": "reg-cds.md",
+   "rubrica": "Vigilanza tecnica sulle autoscuole",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "9ca7e4768a3a"
+  },
+  "337": {
+   "file": "reg-cds.md",
+   "rubrica": "Attivita' di consulenza da parte degli enti pubblici non economici",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "a44634bba87a"
+  },
+  "338": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "2000-05-13",
+   "datazione": "api",
+   "h": "6d1c820b2b5c"
+  },
+  "339": {
+   "file": "reg-cds.md",
+   "rubrica": "Identificazione dei veicoli immatricolati negli Stati esteri e sigla distintiva dello Stato italiano",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "9129395d01bd"
+  },
+  "340": {
+   "file": "reg-cds.md",
+   "rubrica": "Immatricolazione di autoveicoli e motoveicoli appartenenti a cittadini italiani residenti all'estero o a stranieri",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "887119baa91d"
+  },
+  "341": {
+   "file": "reg-cds.md",
+   "rubrica": "Patente di servizio per il personale che esplica il servizio di polizia stradale",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "02fd29654300"
+  },
+  "342": {
+   "file": "reg-cds.md",
+   "rubrica": "Obbligo di limitare la velocita'",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "b927bfb91058"
+  },
+  "343": {
+   "file": "reg-cds.md",
+   "rubrica": "Limitazioni temporanee di velocita'",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "578fea0ac2ed"
+  },
+  "344": {
+   "file": "reg-cds.md",
+   "rubrica": "Limitazioni permanenti di velocita'",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "f39ad4f24256"
+  },
+  "345": {
+   "file": "reg-cds.md",
+   "rubrica": "Apparecchiature e mezzi di accertamento della osservanza dei limiti di velocita'",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "479519a83b34"
+  },
+  "346": {
+   "file": "reg-cds.md",
+   "rubrica": "Marcia per file parallele",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "f77efcd50e87"
+  },
+  "347": {
+   "file": "reg-cds.md",
+   "rubrica": "Sorpasso",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "29615b5d1301"
+  },
+  "348": {
+   "file": "reg-cds.md",
+   "rubrica": "Distanza di sicurezza tra i veicoli",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "cce17c4f4f42"
+  },
+  "349": {
+   "file": "reg-cds.md",
+   "rubrica": "Inversione",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "fd78b40c3f1e"
+  },
+  "350": {
+   "file": "reg-cds.md",
+   "rubrica": "Limiti sonori massimi",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "11effe66c373"
+  },
+  "351": {
+   "file": "reg-cds.md",
+   "rubrica": "Arresti e soste dei veicoli in generale",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "81cc31d65ccb"
+  },
+  "352": {
+   "file": "reg-cds.md",
+   "rubrica": "Fermata degli autoveicoli in servizio pubblico di linea per trasporto di persone",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d9f5ef099eca"
+  },
+  "353": {
+   "file": "reg-cds.md",
+   "rubrica": "Fermata e sosta dei veicoli",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "c5911bafeea5"
+  },
+  "354": {
+   "file": "reg-cds.md",
+   "rubrica": "Concessione del servizio di rimozione e veicoli ad esso addetti",
+   "vigore_da": "1998-11-23",
+   "datazione": "api",
+   "h": "d5642d5d17bc"
+  },
+  "355": {
+   "file": "reg-cds.md",
+   "rubrica": "Attrezzo a chiave per il blocco dei veicoli",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "338deb21f2e5"
+  },
+  "356": {
+   "file": "reg-cds.md",
+   "rubrica": "Ingombro della carreggiata",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "21e2a99a78d5"
+  },
+  "357": {
+   "file": "reg-cds.md",
+   "rubrica": "Presegnalamento e posizione del segnale mobile di pericolo",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "a569b9df0e1e"
+  },
+  "358": {
+   "file": "reg-cds.md",
+   "rubrica": "Tipo ed omologazione del segnale mobile di pericolo",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "eea737334c29"
+  },
+  "359": {
+   "file": "reg-cds.md",
+   "rubrica": "Caratteristiche colorimetriche, fotometriche e tecnologiche del segnale mobile di pericolo",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "d77585fa271a"
+  },
+  "360": {
+   "file": "reg-cds.md",
+   "rubrica": "Convogli militari, cortei e simili",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "c651050b0703"
+  },
+  "361": {
+   "file": "reg-cds.md",
+   "rubrica": "Pannelli per la segnalazione della sporgenza longitudinale del carico",
+   "vigore_da": "2020-02-08",
+   "datazione": "api",
+   "h": "eeb82c4425dc"
+  },
+  "362": {
+   "file": "reg-cds.md",
+   "rubrica": "Restituzione dei documenti",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "41df70c80b9c"
+  },
+  "363": {
+   "file": "reg-cds.md",
+   "rubrica": "Accertamento della massa dei veicoli",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "47dbec65de2e"
+  },
+  "364": {
+   "file": "reg-cds.md",
+   "rubrica": "Disposizioni applicabili",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "cdf3d5fe1396"
+  },
+  "365": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "91ee9bd76f27"
+  },
+  "366": {
+   "file": "reg-cds.md",
+   "rubrica": "Circolazione dei veicoli che trasportano merci pericolose",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "848467e68a3e"
+  },
+  "367": {
+   "file": "reg-cds.md",
+   "rubrica": "Sosta dei veicoli che trasportano merci pericolose",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "d8c3aa5908c1"
+  },
+  "368": {
+   "file": "reg-cds.md",
+   "rubrica": "Trasporto merci pericolose con veicoli eccezionali od in condizioni di eccezionalita'",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "4bf5b12418c4"
+  },
+  "369": {
+   "file": "reg-cds.md",
+   "rubrica": "Controlli",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "495ec10469da"
+  },
+  "370": {
+   "file": "reg-cds.md",
+   "rubrica": "Incidenti in cui siano coinvolti veicoli che trasportano merci pericolose",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "4c1380c197ea"
+  },
+  "371": {
+   "file": "reg-cds.md",
+   "rubrica": "Persone e carichi trasportabili",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "dd23ceedd62a"
+  },
+  "372": {
+   "file": "reg-cds.md",
+   "rubrica": "Disposizioni in ordine alla circolazione sulle autostrade e sulle strade extraurbane principali",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "4dd45a80e894"
+  },
+  "373": {
+   "file": "reg-cds.md",
+   "rubrica": "Pedaggi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e9eeeebf7a78"
+  },
+  "374": {
+   "file": "reg-cds.md",
+   "rubrica": "Soccorso stradale e rimozione",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "0e0ec9d575c1"
+  },
+  "375": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d4c751c25b1c"
+  },
+  "376": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "c457ea3f37cf"
+  },
+  "377": {
+   "file": "reg-cds.md",
+   "rubrica": "Circolazione dei velocipedi",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "1f7c0ad567f4"
+  },
+  "378": {
+   "file": "reg-cds.md",
+   "rubrica": "Impianti di smaltimento igienico-sanitario",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "31e4fe6fe45d"
+  },
+  "379": {
+   "file": "reg-cds.md",
+   "rubrica": "Guida sotto l'influenza dell'alcool",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "b1505be1dafb"
+  },
+  "380": {
+   "file": "reg-cds.md",
+   "rubrica": "Revisione della patente",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e4b4ca138c4f"
+  },
+  "381": {
+   "file": "reg-cds.md",
+   "rubrica": "Strutture , contrassegno e segnaletica per la mobilita' delle persone invalide",
+   "vigore_da": "2014-08-19",
+   "datazione": "api",
+   "h": "c719eb72b8c7"
+  },
+  "382": {
+   "file": "reg-cds.md",
+   "rubrica": "Solidarieta' e iscrizione a ruolo",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "2d62bc49029c"
+  },
+  "383": {
+   "file": "reg-cds.md",
+   "rubrica": "Contestazione - Verbale di accertamento",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "de3f4a478612"
+  },
+  "384": {
+   "file": "reg-cds.md",
+   "rubrica": "Casi di impossibilita' della contestazione immediata",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e3f4780c5691"
+  },
+  "385": {
+   "file": "reg-cds.md",
+   "rubrica": "Modalita' della contestazione non immediata",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "fc52a58f396c"
+  },
+  "386": {
+   "file": "reg-cds.md",
+   "rubrica": "Notificazione dei verbali a soggetto estraneo",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "5dcbef60b73f"
+  },
+  "387": {
+   "file": "reg-cds.md",
+   "rubrica": "Quietanza del pagamento in misura ridotta",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "0329e7a0b15d"
+  },
+  "388": {
+   "file": "reg-cds.md",
+   "rubrica": "Ricorso al Prefetto",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "425175d97882"
+  },
+  "389": {
+   "file": "reg-cds.md",
+   "rubrica": "Ricevibilita' ed effetti dei pagamenti",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "c3014e6a33d2"
+  },
+  "390": {
+   "file": "reg-cds.md",
+   "rubrica": "Erronea iscrizione a ruolo",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "d523c6bbfd36"
+  },
+  "391": {
+   "file": "reg-cds.md",
+   "rubrica": "Quietanza versamento della cauzione o ritiro della patente",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "8a93ddbbf7ad"
+  },
+  "392": {
+   "file": "reg-cds.md",
+   "rubrica": "Versamenti all'Ufficio del registro",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "418d805236ed"
+  },
+  "393": {
+   "file": "reg-cds.md",
+   "rubrica": "Proventi delle violazioni spettanti agli enti locali ed alle Forze dell'Ordine",
+   "vigore_da": "2009-08-08",
+   "datazione": "api",
+   "h": "8111570f3107"
+  },
+  "394": {
+   "file": "reg-cds.md",
+   "rubrica": "Sequestro del veicolo",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "959538579573"
+  },
+  "395": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "2003-10-02",
+   "datazione": "api",
+   "h": "a48dfeb27869"
+  },
+  "396": {
+   "file": "reg-cds.md",
+   "rubrica": "Fermo amministrativo del veicolo",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "354c63be5003"
+  },
+  "397": {
+   "file": "reg-cds.md",
+   "rubrica": "Rimozione del veicolo",
+   "vigore_da": "2003-10-02",
+   "datazione": "api",
+   "h": "9b113f18a0cf"
+  },
+  "398": {
+   "file": "reg-cds.md",
+   "rubrica": "Blocco del veicolo",
+   "vigore_da": "2003-10-02",
+   "datazione": "api",
+   "h": "01f1d26b89d1"
+  },
+  "399": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "b89f8bc91b12"
+  },
+  "400": {
+   "file": "reg-cds.md",
+   "rubrica": "Sospensione della patente di guida in caso di recidiva",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "99fcfd7d07c9"
+  },
+  "401": {
+   "file": "reg-cds.md",
+   "rubrica": "Archivio nazionale delle strade",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "ccabf6b6a88c"
+  },
+  "402": {
+   "file": "reg-cds.md",
+   "rubrica": "Archivio nazionale dei veicoli",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "00259f8e20c7"
+  },
+  "403": {
+   "file": "reg-cds.md",
+   "rubrica": "Anagrafe nazionale degli abilitati alla guida",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "f4117ad76cae"
+  },
+  "404": {
+   "file": "reg-cds.md",
+   "rubrica": "Dispositivi di monitoraggio",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "76375bbcc75f"
+  },
+  "405": {
+   "file": "reg-cds.md",
+   "rubrica": "",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "e62d18df19c2"
+  },
+  "406": {
+   "file": "reg-cds.md",
+   "rubrica": "Abrogazione di disposizioni regolamentari precedentemente in vigore e recepimento delle direttive comunitarie",
+   "vigore_da": "1996-12-19",
+   "datazione": "api",
+   "h": "d0023450b983"
+  },
+  "407": {
+   "file": "reg-cds.md",
+   "rubrica": "Disposizione transitoria",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "3f288569268f"
+  },
+  "408": {
+   "file": "reg-cds.md",
+   "rubrica": "Entrata in vigore delle disposizioni del presente regolamento",
+   "vigore_da": "1993-01-01",
+   "datazione": "api",
+   "h": "5275a924465a"
+  }
+ }
+}

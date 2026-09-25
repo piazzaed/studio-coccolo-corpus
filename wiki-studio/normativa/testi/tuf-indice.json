@@ -1,0 +1,4715 @@
+{
+ "_meta": {
+  "codice": "tuf",
+  "nome": "Testo unico delle disposizioni in materia di intermediazione finanziaria (D.Lgs. 58/1998)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-08-07",
+  "articoli": 572,
+  "file": [
+   "tuf.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:1998-02-24;58",
+  "versioni": [
+   {
+    "data": "1998-03-26",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1999-06-28",
+    "evento": "rp1",
+    "atto_modificante": "L. 25 giugno 1999, n. 205"
+   },
+   {
+    "data": "2001-06-07",
+    "evento": "rp2",
+    "atto_modificante": "D.Lgs. 12 aprile 2001, n. 210"
+   },
+   {
+    "data": "2001-09-26",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 25 settembre 2001, n. 351"
+   },
+   {
+    "data": "2002-04-15",
+    "evento": "rp4",
+    "atto_modificante": "D.Lgs. 11 aprile 2002, n. 61"
+   },
+   {
+    "data": "2003-10-02",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 30 settembre 2003, n. 269"
+   },
+   {
+    "data": "2003-10-07",
+    "evento": "rp6",
+    "atto_modificante": "D.Lgs. 1 agosto 2003, n. 274"
+   },
+   {
+    "data": "2003-12-27",
+    "evento": "rp7",
+    "atto_modificante": "L. 24 dicembre 2003, n. 350"
+   },
+   {
+    "data": "2004-02-14",
+    "evento": "rp8",
+    "atto_modificante": "D.Lgs. 6 febbraio 2004, n. 37"
+   },
+   {
+    "data": "2004-03-08",
+    "evento": "rp9",
+    "atto_modificante": "atto modificante non indicato (rp9)"
+   },
+   {
+    "data": "2004-07-15",
+    "evento": "rp10",
+    "atto_modificante": "D.Lgs. 21 maggio 2004, n. 170"
+   },
+   {
+    "data": "2004-08-05",
+    "evento": "rp11",
+    "atto_modificante": "D.Lgs. 9 luglio 2004, n. 197"
+   },
+   {
+    "data": "2005-04-27",
+    "evento": "rp12",
+    "atto_modificante": "L. 18 aprile 2005, n. 62"
+   },
+   {
+    "data": "2005-12-28",
+    "evento": "rp13",
+    "atto_modificante": "L. 28 dicembre 2005, n. 262"
+   },
+   {
+    "data": "2005-12-30",
+    "evento": "rp14",
+    "atto_modificante": "D.L. 30 dicembre 2005, n. 273"
+   },
+   {
+    "data": "2006-01-11",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 10 gennaio 2006, n. 4"
+   },
+   {
+    "data": "2006-12-27",
+    "evento": "rp16",
+    "atto_modificante": "D.L. 27 dicembre 2006, n. 297"
+   },
+   {
+    "data": "2007-01-10",
+    "evento": "rp17",
+    "atto_modificante": "D.Lgs. 29 dicembre 2006, n. 303"
+   },
+   {
+    "data": "2007-02-17",
+    "evento": "rp18",
+    "atto_modificante": "L. 6 febbraio 2007, n. 13"
+   },
+   {
+    "data": "2007-03-28",
+    "evento": "rp19",
+    "atto_modificante": "D.Lgs. 2 febbraio 2007, n. 32"
+   },
+   {
+    "data": "2007-04-06",
+    "evento": "rp20",
+    "atto_modificante": "D.M. Ministero Dell'Economia E Delle Finanze 2 marzo 2007, n. 44"
+   },
+   {
+    "data": "2007-04-23",
+    "evento": "rp21",
+    "atto_modificante": "D.Lgs. 28 marzo 2007, n. 51"
+   },
+   {
+    "data": "2007-10-08",
+    "evento": "rp22",
+    "atto_modificante": "D.Lgs. 17 settembre 2007, n. 164"
+   },
+   {
+    "data": "2007-11-09",
+    "evento": "rp23",
+    "atto_modificante": "D.Lgs. 6 novembre 2007, n. 195"
+   },
+   {
+    "data": "2007-12-13",
+    "evento": "rp24",
+    "atto_modificante": "D.Lgs. 19 novembre 2007, n. 229"
+   },
+   {
+    "data": "2008-11-06",
+    "evento": "rp25",
+    "atto_modificante": "D.Lgs. 3 novembre 2008, n. 173"
+   },
+   {
+    "data": "2008-11-29",
+    "evento": "rp26",
+    "atto_modificante": "D.L. 29 novembre 2008, n. 185"
+   },
+   {
+    "data": "2009-02-11",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 10 febbraio 2009, n. 5"
+   },
+   {
+    "data": "2009-06-19",
+    "evento": "rp28",
+    "atto_modificante": "L. 18 giugno 2009, n. 69"
+   },
+   {
+    "data": "2009-08-03",
+    "evento": "rp29",
+    "atto_modificante": "D.Lgs. 17 luglio 2009, n. 101"
+   },
+   {
+    "data": "2009-10-22",
+    "evento": "rp30",
+    "atto_modificante": "D.Lgs. 25 settembre 2009, n. 146"
+   },
+   {
+    "data": "2010-02-23",
+    "evento": "rp31",
+    "atto_modificante": "D.Lgs. 27 gennaio 2010, n. 21"
+   },
+   {
+    "data": "2010-03-05",
+    "evento": "rp32",
+    "atto_modificante": "D.Lgs. 27 gennaio 2010, n. 27"
+   },
+   {
+    "data": "2010-03-23",
+    "evento": "rp33",
+    "atto_modificante": "D.Lgs. 27 gennaio 2010, n. 39"
+   },
+   {
+    "data": "2010-05-31",
+    "evento": "rp34",
+    "atto_modificante": "D.L. 31 maggio 2010, n. 78"
+   },
+   {
+    "data": "2010-07-07",
+    "evento": "rp35",
+    "atto_modificante": "D.Lgs. 2 luglio 2010, n. 104"
+   },
+   {
+    "data": "2010-09-04",
+    "evento": "rp36",
+    "atto_modificante": "D.Lgs. 13 agosto 2010, n. 141"
+   },
+   {
+    "data": "2010-10-28",
+    "evento": "rp37",
+    "atto_modificante": "D.Lgs. 5 ottobre 2010, n. 176"
+   },
+   {
+    "data": "2010-12-18",
+    "evento": "rp38",
+    "atto_modificante": "D.Lgs. 14 dicembre 2010, n. 218"
+   },
+   {
+    "data": "2010-12-24",
+    "evento": "rp39",
+    "atto_modificante": "D.Lgs. 29 novembre 2010, n. 224"
+   },
+   {
+    "data": "2011-01-13",
+    "evento": "rp40",
+    "atto_modificante": "D.Lgs. 30 dicembre 2010, n. 239"
+   },
+   {
+    "data": "2011-02-07",
+    "evento": "rp41",
+    "atto_modificante": "D.Lgs. 30 dicembre 2010, n. 259"
+   },
+   {
+    "data": "2011-04-21",
+    "evento": "rp42",
+    "atto_modificante": "D.Lgs. 24 marzo 2011, n. 48"
+   },
+   {
+    "data": "2011-07-28",
+    "evento": "rp43",
+    "atto_modificante": "L. 12 luglio 2011, n. 120"
+   },
+   {
+    "data": "2012-01-02",
+    "evento": "rp44",
+    "atto_modificante": "L. 15 dicembre 2011, n. 217"
+   },
+   {
+    "data": "2012-04-28",
+    "evento": "rp45",
+    "atto_modificante": "D.Lgs. 16 aprile 2012, n. 47"
+   },
+   {
+    "data": "2012-07-02",
+    "evento": "rp46",
+    "atto_modificante": "D.Lgs. 18 giugno 2012, n. 91"
+   },
+   {
+    "data": "2012-08-08",
+    "evento": "rp47",
+    "atto_modificante": "D.Lgs. 30 luglio 2012, n. 130"
+   },
+   {
+    "data": "2012-09-18",
+    "evento": "rp48",
+    "atto_modificante": "D.Lgs. 14 settembre 2012, n. 160"
+   },
+   {
+    "data": "2012-10-02",
+    "evento": "rp49",
+    "atto_modificante": "D.Lgs. 19 settembre 2012, n. 169"
+   },
+   {
+    "data": "2012-10-19",
+    "evento": "rp50",
+    "atto_modificante": "D.L. 18 ottobre 2012, n. 179"
+   },
+   {
+    "data": "2012-10-29",
+    "evento": "rp51",
+    "atto_modificante": "D.Lgs. 11 ottobre 2012, n. 184"
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp52",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2013-08-20",
+    "evento": "rp53",
+    "atto_modificante": "L. 6 agosto 2013, n. 97"
+   },
+   {
+    "data": "2014-03-25",
+    "evento": "rp54",
+    "atto_modificante": "D.Lgs. 4 marzo 2014, n. 44"
+   },
+   {
+    "data": "2014-04-01",
+    "evento": "rp55",
+    "atto_modificante": "D.Lgs. 4 marzo 2014, n. 53"
+   },
+   {
+    "data": "2014-04-23",
+    "evento": "rp56",
+    "atto_modificante": "atto modificante non indicato (rp56)"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp57",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 91"
+   },
+   {
+    "data": "2014-09-12",
+    "evento": "rp58",
+    "atto_modificante": "D.L. 12 settembre 2014, n. 133"
+   },
+   {
+    "data": "2014-11-10",
+    "evento": "rp59",
+    "atto_modificante": "L. 30 ottobre 2014, n. 161"
+   },
+   {
+    "data": "2015-01-24",
+    "evento": "rp60",
+    "atto_modificante": "D.L. 24 gennaio 2015, n. 3"
+   },
+   {
+    "data": "2015-05-21",
+    "evento": "rp61",
+    "atto_modificante": "D.Lgs. 7 maggio 2015, n. 66"
+   },
+   {
+    "data": "2015-06-12",
+    "evento": "rp62",
+    "atto_modificante": "D.Lgs. 12 maggio 2015, n. 72"
+   },
+   {
+    "data": "2015-11-16",
+    "evento": "rp63",
+    "atto_modificante": "D.Lgs. 16 novembre 2015, n. 181"
+   },
+   {
+    "data": "2015-12-30",
+    "evento": "rp64",
+    "atto_modificante": "L. 28 dicembre 2015, n. 208"
+   },
+   {
+    "data": "2016-02-15",
+    "evento": "rp65",
+    "atto_modificante": "D.L. 14 febbraio 2016, n. 18"
+   },
+   {
+    "data": "2016-03-03",
+    "evento": "rp66",
+    "atto_modificante": "D.Lgs. 15 febbraio 2016, n. 25"
+   },
+   {
+    "data": "2016-05-20",
+    "evento": "rp67",
+    "atto_modificante": "D.Lgs. 18 aprile 2016, n. 71"
+   },
+   {
+    "data": "2016-05-25",
+    "evento": "rp68",
+    "atto_modificante": "atto modificante non indicato (rp68)"
+   },
+   {
+    "data": "2016-09-09",
+    "evento": "rp69",
+    "atto_modificante": "D.Lgs. 12 agosto 2016, n. 176"
+   },
+   {
+    "data": "2016-11-28",
+    "evento": "rp70",
+    "atto_modificante": "D.Lgs. 14 novembre 2016, n. 224"
+   },
+   {
+    "data": "2016-12-21",
+    "evento": "rp71",
+    "atto_modificante": "L. 11 dicembre 2016, n. 232"
+   },
+   {
+    "data": "2017-01-10",
+    "evento": "rp72",
+    "atto_modificante": "D.Lgs. 30 dicembre 2016, n. 254"
+   },
+   {
+    "data": "2017-07-19",
+    "evento": "rp73",
+    "atto_modificante": "D.Lgs. 3 luglio 2017, n. 112"
+   },
+   {
+    "data": "2017-08-25",
+    "evento": "rp74",
+    "atto_modificante": "D.Lgs. 3 agosto 2017, n. 129"
+   },
+   {
+    "data": "2017-10-16",
+    "evento": "rp75",
+    "atto_modificante": "D.L. 16 ottobre 2017, n. 148"
+   },
+   {
+    "data": "2017-12-29",
+    "evento": "rp76",
+    "atto_modificante": "L. 27 dicembre 2017, n. 205"
+   },
+   {
+    "data": "2018-01-27",
+    "evento": "rp77",
+    "atto_modificante": "atto modificante non indicato (rp77)"
+   },
+   {
+    "data": "2018-02-13",
+    "evento": "rp78",
+    "atto_modificante": "D.Lgs. 15 dicembre 2017, n. 233"
+   },
+   {
+    "data": "2018-06-16",
+    "evento": "rp79",
+    "atto_modificante": "D.Lgs. 21 maggio 2018, n. 68"
+   },
+   {
+    "data": "2018-08-10",
+    "evento": "rp80",
+    "atto_modificante": "D.Lgs. 20 luglio 2018, n. 95"
+   },
+   {
+    "data": "2018-09-14",
+    "evento": "rp81",
+    "atto_modificante": "D.Lgs. 10 agosto 2018, n. 107"
+   },
+   {
+    "data": "2018-12-12",
+    "evento": "rp82",
+    "atto_modificante": "atto modificante non indicato (rp82)"
+   },
+   {
+    "data": "2018-12-31",
+    "evento": "rp83",
+    "atto_modificante": "L. 30 dicembre 2018, n. 145"
+   },
+   {
+    "data": "2019-03-13",
+    "evento": "rp84",
+    "atto_modificante": "D.Lgs. 13 febbraio 2019, n. 19"
+   },
+   {
+    "data": "2019-03-25",
+    "evento": "rp85",
+    "atto_modificante": "D.L. 25 marzo 2019, n. 22"
+   },
+   {
+    "data": "2019-03-27",
+    "evento": "rp86",
+    "atto_modificante": "atto modificante non indicato (rp86)"
+   },
+   {
+    "data": "2019-04-30",
+    "evento": "rp87",
+    "atto_modificante": "D.L. 30 aprile 2019, n. 34"
+   },
+   {
+    "data": "2019-05-11",
+    "evento": "rp88",
+    "atto_modificante": "L. 3 maggio 2019, n. 37"
+   },
+   {
+    "data": "2019-05-15",
+    "evento": "rp89",
+    "atto_modificante": "atto modificante non indicato (rp89)"
+   },
+   {
+    "data": "2019-06-10",
+    "evento": "rp90",
+    "atto_modificante": "D.Lgs. 10 maggio 2019, n. 49"
+   },
+   {
+    "data": "2019-06-29",
+    "evento": "rp91",
+    "atto_modificante": "L. 28 giugno 2019, n. 58"
+   },
+   {
+    "data": "2019-10-26",
+    "evento": "rp92",
+    "atto_modificante": "D.L. 26 ottobre 2019, n. 124"
+   },
+   {
+    "data": "2019-12-24",
+    "evento": "rp93",
+    "atto_modificante": "L. 19 dicembre 2019, n. 157"
+   },
+   {
+    "data": "2019-12-30",
+    "evento": "rp94",
+    "atto_modificante": "L. 27 dicembre 2019, n. 160"
+   },
+   {
+    "data": "2020-01-09",
+    "evento": "rp95",
+    "atto_modificante": "D.Lgs. 25 novembre 2019, n. 165"
+   },
+   {
+    "data": "2020-04-08",
+    "evento": "rp96",
+    "atto_modificante": "D.L. 8 aprile 2020, n. 23"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp97",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp98",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   },
+   {
+    "data": "2020-07-18",
+    "evento": "rp99",
+    "atto_modificante": "L. 17 luglio 2020, n. 77"
+   },
+   {
+    "data": "2020-07-30",
+    "evento": "rp100",
+    "atto_modificante": "D.Lgs. 14 luglio 2020, n. 84"
+   },
+   {
+    "data": "2020-08-14",
+    "evento": "rp101",
+    "atto_modificante": "D.L. 14 agosto 2020, n. 104"
+   },
+   {
+    "data": "2020-09-14",
+    "evento": "rp102",
+    "atto_modificante": "L. 11 settembre 2020, n. 120"
+   },
+   {
+    "data": "2020-10-13",
+    "evento": "rp103",
+    "atto_modificante": "L. 13 ottobre 2020, n. 126"
+   },
+   {
+    "data": "2020-12-30",
+    "evento": "rp104",
+    "atto_modificante": "L. 30 dicembre 2020, n. 178"
+   },
+   {
+    "data": "2021-02-24",
+    "evento": "rp105",
+    "atto_modificante": "D.Lgs. 2 febbraio 2021, n. 17"
+   },
+   {
+    "data": "2021-05-05",
+    "evento": "rp106",
+    "atto_modificante": "atto modificante non indicato (rp106)"
+   },
+   {
+    "data": "2021-11-29",
+    "evento": "rp107",
+    "atto_modificante": "D.Lgs. 8 novembre 2021, n. 182"
+   },
+   {
+    "data": "2021-11-30",
+    "evento": "rp108+rp109",
+    "atto_modificante": "D.Lgs. 5 novembre 2021, n. 191; D.Lgs. 8 novembre 2021, n. 193"
+   },
+   {
+    "data": "2021-12-01",
+    "evento": "rp110",
+    "atto_modificante": "D.Lgs. 5 novembre 2021, n. 201"
+   },
+   {
+    "data": "2022-01-17",
+    "evento": "rp111",
+    "atto_modificante": "L. 23 dicembre 2021, n. 238"
+   },
+   {
+    "data": "2022-05-17",
+    "evento": "rp112",
+    "atto_modificante": "D.L. 17 maggio 2022, n. 50"
+   },
+   {
+    "data": "2022-07-15",
+    "evento": "rp113",
+    "atto_modificante": "L. 15 luglio 2022, n. 91"
+   },
+   {
+    "data": "2022-08-08",
+    "evento": "rp114",
+    "atto_modificante": "D.Lgs. 2 agosto 2022, n. 113"
+   },
+   {
+    "data": "2022-09-02",
+    "evento": "rp115",
+    "atto_modificante": "D.Lgs. 3 agosto 2022, n. 131"
+   },
+   {
+    "data": "2023-03-17",
+    "evento": "rp116",
+    "atto_modificante": "D.L. 17 marzo 2023, n. 25"
+   },
+   {
+    "data": "2023-03-23",
+    "evento": "rp117",
+    "atto_modificante": "D.Lgs. 10 marzo 2023, n. 29"
+   },
+   {
+    "data": "2023-03-24",
+    "evento": "rp118+rp119",
+    "atto_modificante": "D.Lgs. 10 marzo 2023, n. 30; D.Lgs. 10 marzo 2023, n. 31"
+   },
+   {
+    "data": "2023-12-23",
+    "evento": "rp120",
+    "atto_modificante": "D.Lgs. 6 dicembre 2023, n. 204"
+   },
+   {
+    "data": "2023-12-27",
+    "evento": "rp121",
+    "atto_modificante": "D.Lgs. 7 dicembre 2023, n. 207"
+   },
+   {
+    "data": "2024-01-16",
+    "evento": "rp122",
+    "atto_modificante": "D.Lgs. 6 dicembre 2023, n. 224"
+   },
+   {
+    "data": "2024-03-12",
+    "evento": "rp123",
+    "atto_modificante": "L. 5 marzo 2024, n. 21"
+   },
+   {
+    "data": "2024-09-10",
+    "evento": "rp124",
+    "atto_modificante": "D.Lgs. 6 settembre 2024, n. 125"
+   },
+   {
+    "data": "2024-11-07",
+    "evento": "rp125",
+    "atto_modificante": "L. 28 ottobre 2024, n. 162"
+   },
+   {
+    "data": "2025-03-11",
+    "evento": "rp126",
+    "atto_modificante": "D.Lgs. 10 marzo 2025, n. 23"
+   },
+   {
+    "data": "2025-03-20",
+    "evento": "rp127",
+    "atto_modificante": "L. 11 marzo 2025, n. 28"
+   },
+   {
+    "data": "2025-06-30",
+    "evento": "rp128",
+    "atto_modificante": "D.L. 30 giugno 2025, n. 95"
+   },
+   {
+    "data": "2025-08-09",
+    "evento": "rp129",
+    "atto_modificante": "L. 8 agosto 2025, n. 118"
+   },
+   {
+    "data": "2025-09-25",
+    "evento": "rp130",
+    "atto_modificante": "L. 23 settembre 2025, n. 132"
+   },
+   {
+    "data": "2026-01-08",
+    "evento": "rp131",
+    "atto_modificante": "D.Lgs. 31 dicembre 2025, n. 208"
+   },
+   {
+    "data": "2026-03-05",
+    "evento": "rp132",
+    "atto_modificante": "D.Lgs. 9 febbraio 2026, n. 28"
+   },
+   {
+    "data": "2026-03-27",
+    "evento": "rp133",
+    "atto_modificante": "D.Lgs. 13 marzo 2026, n. 39"
+   },
+   {
+    "data": "2026-04-14",
+    "evento": "rp134",
+    "atto_modificante": "D.Lgs. 27 marzo 2026, n. 47"
+   },
+   {
+    "data": "2026-05-21",
+    "evento": "rp135",
+    "atto_modificante": "D.Lgs. 29 aprile 2026, n. 86"
+   },
+   {
+    "data": "2026-07-23",
+    "evento": "rp136",
+    "atto_modificante": "D.Lgs. 25 giugno 2026, n. 128"
+   }
+  ],
+  "ultima_versione": "2026-07-23",
+  "datazione": {
+   "monoblocco": 572,
+   "api": 442,
+   "riportati": 103,
+   "ignota": 27,
+   "falliti": 2,
+   "testo_diverso": 25,
+   "stima_anteriore": 190,
+   "stima_posteriore": 3,
+   "chiamate": 469,
+   "assenti": 2,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "tuf.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2026-05-22",
+   "datazione": "api",
+   "h": "f14dfbc5198b"
+  },
+  "2": {
+   "file": "tuf.md",
+   "rubrica": "Rapporti con il diritto dell'Unione europea e integrazione nel SEVIF",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "ad25cc123434"
+  },
+  "3": {
+   "file": "tuf.md",
+   "rubrica": "Provvedimenti",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "044bf28a85cc"
+  },
+  "3-bis": {
+   "file": "tuf.md",
+   "rubrica": "Quesiti alle Autorita'",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "5a2a0979de14"
+  },
+  "4": {
+   "file": "tuf.md",
+   "rubrica": "Collaborazione tra autorita' e segreto d'ufficio",
+   "vigore_da": "2026-03-28",
+   "datazione": "api",
+   "h": "c0a3b31d2328"
+  },
+  "4-bis": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione dell'autorita' competente e delle autorita' competenti settoriali ai fini del regolamento (CE) n. 1060/2009, e successive modificazioni, relativo alle agenzie di rating del credito",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "f75e9bb350c1"
+  },
+  "4-ter": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti ai sensi del regolamento UE n. 236/2012 relativo alle vendite allo scoperto e a taluni aspetti dei contratti derivati aventi ad oggetto la copertura del rischio di inadempimento dell'emittente credit default swap",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "b48a8322650c"
+  },
+  "4-quater": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, e ai sensi del regolamento (UE) 2015/2365 del Parlamento europeo e del Consiglio, del 25 novembre 2015",
+   "vigore_da": "2019-03-28",
+   "datazione": "api",
+   "h": "6cade7069e57"
+  },
+  "4-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "5b7d3fead82f"
+  },
+  "4-quinquies.1": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2021-12-15",
+   "datazione": "api",
+   "h": "84a87b6b5712"
+  },
+  "4-quinquies.2": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2021-12-15",
+   "datazione": "api",
+   "h": "6a1e4ba5991c"
+  },
+  "4-quinquies.3": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2019/1156 per facilitare la distribuzione transfrontaliera degli organismi di investimento collettivo e che modifica i regolamenti (UE) n. 345/2013, (UE) n. 346/2013 e (UE) n. 1286/2014",
+   "vigore_da": "2021-12-15",
+   "datazione": "api",
+   "h": "15cf867f0b99"
+  },
+  "4-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) n. 1286/2014, relativo ai documenti contenenti le informazioni chiave per i prodotti d'investimento al dettaglio e assicurativi preassemblati (PRIIPs)",
+   "vigore_da": "2020-07-19",
+   "datazione": "api",
+   "h": "cd2222f58065"
+  },
+  "4-sexies.1": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2020/1503, relativo ai fornitori europei di servizi di crowdfunding per le imprese, e che modifica il regolamento (UE) 2017/1129 e la direttiva (UE) 2019/1937",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "89c10dda27bc"
+  },
+  "4-septies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri d'intervento relativi alla violazione delle disposizioni previste dal regolamento UE n. 1286/2014",
+   "vigore_da": "2020-07-19",
+   "datazione": "api",
+   "h": "9c1fd3112611"
+  },
+  "4-septies.1": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti ai sensi del regolamento UE 2016/1011 sugli indici usati come parametri di riferimento negli strumenti finanziari e nei contratti finanziari o per misurare la performance di fondi di investimento",
+   "vigore_da": "2024-01-11",
+   "datazione": "api",
+   "h": "ad2ae1a936df"
+  },
+  "4-septies.2": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2017/2402 che stabilisce un quadro generale per la cartolarizzazione, instaura un quadro specifico per cartolarizzazioni semplici, trasparenti e standardizzate",
+   "vigore_da": "2023-12-24",
+   "datazione": "api",
+   "h": "23eda33203d1"
+  },
+  "4-octies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "e1ec38ecaa6b"
+  },
+  "4-novies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "e1ec38ecaa6b"
+  },
+  "4-decies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2020-07-19",
+   "datazione": "api",
+   "h": "96e2a302a091"
+  },
+  "4-undecies": {
+   "file": "tuf.md",
+   "rubrica": "Sistemi interni di segnalazione delle violazioni",
+   "vigore_da": "2021-03-11",
+   "datazione": "api",
+   "h": "aaef96e3fe66"
+  },
+  "4-duodecies": {
+   "file": "tuf.md",
+   "rubrica": "Procedura di segnalazione alle Autorita' di Vigilanza",
+   "vigore_da": "2021-03-11",
+   "datazione": "api",
+   "h": "fbbf6cfbbf1a"
+  },
+  "4-terdecies": {
+   "file": "tuf.md",
+   "rubrica": "Esenzioni",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "1c2591cf7c32"
+  },
+  "5": {
+   "file": "tuf.md",
+   "rubrica": "Finalita' e destinatari della vigilanza",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "dfe0a12196cb"
+  },
+  "6": {
+   "file": "tuf.md",
+   "rubrica": "Poteri regolamentari",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "18b91208d439"
+  },
+  "6-bis": {
+   "file": "tuf.md",
+   "rubrica": "Poteri informativi e di indagine",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "c1302cbb788f"
+  },
+  "6-ter": {
+   "file": "tuf.md",
+   "rubrica": "Poteri ispettivi",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "4b7b155728d8"
+  },
+  "7": {
+   "file": "tuf.md",
+   "rubrica": "Poteri di intervento sui soggetti abilitati",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "43b3f8bf834e"
+  },
+  "7-bis": {
+   "file": "tuf.md",
+   "rubrica": "Poteri di intervento di cui al Titolo VII, Capo I, del regolamento (UE) n. 600/2014",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "f12953adb66e"
+  },
+  "7-ter": {
+   "file": "tuf.md",
+   "rubrica": "Poteri ingiuntivi nei confronti degli intermediari nazionali e non UE",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "710b57578906"
+  },
+  "7-quater": {
+   "file": "tuf.md",
+   "rubrica": "Poteri ingiuntivi nei confronti di intermediari UE",
+   "vigore_da": "2026-03-28",
+   "datazione": "api",
+   "h": "7a651464ecf0"
+  },
+  "7-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri ingiuntivi nei confronti degli OICVM UE, FIA UE e non UE con quote o azioni offerte in Italia",
+   "vigore_da": "2026-03-28",
+   "datazione": "api",
+   "h": "8e66ac1c67ea"
+  },
+  "7-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Sospensione degli organi amministrativi",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "1ec1980cf1ff"
+  },
+  "7-septies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri cautelari applicabili ai consulenti finanziari autonomi, alle societa' di consulenza finanziaria ed ai consulenti finanziari abilitati all'offerta fuori sede",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "d14501c914b7"
+  },
+  "7-octies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri di contrasto all'abusivismo",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "2e519fd784e3"
+  },
+  "7-novies": {
+   "file": "tuf.md",
+   "rubrica": "Riserve di capitale",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "e13f93dfb520"
+  },
+  "7-decies": {
+   "file": "tuf.md",
+   "rubrica": "Vigilanza sul rispetto di disposizioni dell'Unione europea direttamente applicabili",
+   "vigore_da": "2021-12-02",
+   "datazione": "api",
+   "h": "b5178155fa84"
+  },
+  "7-undecies": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2019/2033",
+   "vigore_da": "2021-12-02",
+   "datazione": "api",
+   "h": "d6f40f216a93"
+  },
+  "7-duodecies": {
+   "file": "tuf.md",
+   "rubrica": "Disciplina applicabile alle Sim di classe 1-minus",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "e0ea53b87d0c"
+  },
+  "8": {
+   "file": "tuf.md",
+   "rubrica": "Doveri informativi",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "ecadbe148013"
+  },
+  "8-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "f23952a5daaa"
+  },
+  "8-ter": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "f23952a5daaa"
+  },
+  "9": {
+   "file": "tuf.md",
+   "rubrica": "Revisione legale",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "336657924308"
+  },
+  "10": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "f23952a5daaa"
+  },
+  "11": {
+   "file": "tuf.md",
+   "rubrica": "Composizione del gruppo",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "26a80db5d86c"
+  },
+  "11-bis": {
+   "file": "tuf.md",
+   "rubrica": "Impresa madre UE intermedia",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "1da85e17ef5d"
+  },
+  "12": {
+   "file": "tuf.md",
+   "rubrica": "Vigilanza sul gruppo",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "c1a2707ca80b"
+  },
+  "12-bis": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni applicabili alle societa' che controllano una o piu' imprese di investimento UE",
+   "vigore_da": "2021-12-02",
+   "datazione": "api",
+   "h": "d2f5bd408ac1"
+  },
+  "13": {
+   "file": "tuf.md",
+   "rubrica": "Esponenti aziendali e responsabili delle principali funzioni aziendali",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "ea26a87ef654"
+  },
+  "14": {
+   "file": "tuf.md",
+   "rubrica": "Partecipanti al capitale",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "3fefae87eae5"
+  },
+  "15": {
+   "file": "tuf.md",
+   "rubrica": "Acquisizione e cessione di partecipazioni",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "b0d12eab1b54"
+  },
+  "15-bis": {
+   "file": "tuf.md",
+   "rubrica": "Persone che agiscono di concerto",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "f2da02b5d6fb"
+  },
+  "16": {
+   "file": "tuf.md",
+   "rubrica": "Sospensione del diritto di voto e degli altri diritti, obbligo di alienazione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "719cafbfd68a"
+  },
+  "17": {
+   "file": "tuf.md",
+   "rubrica": "Richiesta di informazioni sulle partecipazioni",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "2244fd48ac3c"
+  },
+  "18": {
+   "file": "tuf.md",
+   "rubrica": "Soggetti",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "013eefcc6bd6"
+  },
+  "18-bis": {
+   "file": "tuf.md",
+   "rubrica": "Consulenti finanziari autonomi",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "48a8bea9d1e3"
+  },
+  "18-ter": {
+   "file": "tuf.md",
+   "rubrica": "Societa' di consulenza finanziaria",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "07e4758127de"
+  },
+  "19": {
+   "file": "tuf.md",
+   "rubrica": "Autorizzazione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "0a67e00afb69"
+  },
+  "20": {
+   "file": "tuf.md",
+   "rubrica": "Albo",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "c07ed74f893c"
+  },
+  "20-bis": {
+   "file": "tuf.md",
+   "rubrica": "Revoca dell'autorizzazione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "273b2a412c4a"
+  },
+  "20-bis.1": {
+   "file": "tuf.md",
+   "rubrica": "Sim di classe 1",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "253c6f6d3ee7"
+  },
+  "20-ter": {
+   "file": "tuf.md",
+   "rubrica": "Autorizzazione e vigilanza dei soggetti legittimati a presentare domanda di partecipazione al mercato delle aste, ai sensi del regolamento (UE) n. 1031/2010 della Commissione, del 12 novembre 2010, relativo ai tempi, alla gestione e ad altri aspetti della vendita all'asta delle quote di emissioni dei gas a effetto serra, come modificato dal regolamento (UE) n. 1210/2011 della Commissione, del 23 novembre 2011",
+   "vigore_da": "2019-05-26",
+   "datazione": "api",
+   "h": "d144daaf31c1"
+  },
+  "21": {
+   "file": "tuf.md",
+   "rubrica": "Criteri generali",
+   "vigore_da": "2026-06-06",
+   "datazione": "api",
+   "h": "ce8765fa5bb1"
+  },
+  "21-bis": {
+   "file": "tuf.md",
+   "rubrica": "Ricerca in materia di investimenti",
+   "vigore_da": "2026-05-22",
+   "datazione": "api",
+   "h": "db33bae7c155"
+  },
+  "22": {
+   "file": "tuf.md",
+   "rubrica": "Separazione patrimoniale",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "504cf5314fb3"
+  },
+  "23": {
+   "file": "tuf.md",
+   "rubrica": "Contratti",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "18dbe918cfa9"
+  },
+  "24": {
+   "file": "tuf.md",
+   "rubrica": "Gestione di portafogli",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "341f8e1afb81"
+  },
+  "24-bis": {
+   "file": "tuf.md",
+   "rubrica": "Consulenza in materia di investimenti",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "293465bb0666"
+  },
+  "25": {
+   "file": "tuf.md",
+   "rubrica": "Attivita' di negoziazione nei mercati regolamentati, nei sistemi multilaterali di negoziazione e nei sistemi organizzati di negoziazione",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "a66f73a4ee75"
+  },
+  "25-bis": {
+   "file": "tuf.md",
+   "rubrica": "Depositi strutturati e prodotti finanziari, diversi dagli strumenti finanziari, emessi da banche",
+   "vigore_da": "2020-01-24",
+   "datazione": "api",
+   "h": "06b5ddac0743"
+  },
+  "25-ter": {
+   "file": "tuf.md",
+   "rubrica": "Prodotti di investimento assicurativo",
+   "vigore_da": "2020-01-24",
+   "datazione": "api",
+   "h": "c84abaa15c04"
+  },
+  "25-quater": {
+   "file": "tuf.md",
+   "rubrica": "Obbligazioni bancarie e altri strumenti di debito",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "f5db617afc6e"
+  },
+  "26": {
+   "file": "tuf.md",
+   "rubrica": "Succursali e libera prestazione di servizi di Sim",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "7260ec4a6091"
+  },
+  "27": {
+   "file": "tuf.md",
+   "rubrica": "Imprese di investimento dell'Unione europea",
+   "vigore_da": "2021-12-02",
+   "datazione": "api",
+   "h": "6951b4e9cae0"
+  },
+  "28": {
+   "file": "tuf.md",
+   "rubrica": "Imprese di paesi terzi diverse dalle banche",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "c55aea217773"
+  },
+  "29": {
+   "file": "tuf.md",
+   "rubrica": "Banche italiane",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "e1366aac07db"
+  },
+  "29-bis": {
+   "file": "tuf.md",
+   "rubrica": "Banche dell'Unione europea",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "49acc0c68782"
+  },
+  "29-ter": {
+   "file": "tuf.md",
+   "rubrica": "Banche di paesi terzi",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "93d16a0a2592"
+  },
+  "30": {
+   "file": "tuf.md",
+   "rubrica": "Offerta fuori sede",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "5250c14a0bc0"
+  },
+  "30-bis": {
+   "file": "tuf.md",
+   "rubrica": "Modalita' di prestazione del servizio di consulenza in materia di investimenti da parte dei consulenti finanziari autonomi e delle societa' di consulenza finanziaria",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "f0ea28254338"
+  },
+  "31": {
+   "file": "tuf.md",
+   "rubrica": "Consulenti finanziari abilitati all'offerta fuori sede e Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "ea2f5ee69b51"
+  },
+  "31-bis": {
+   "file": "tuf.md",
+   "rubrica": "Vigilanza della Consob sull'Organismo",
+   "vigore_da": "2025-03-21",
+   "datazione": "api",
+   "h": "5bfd0a4b6692"
+  },
+  "32": {
+   "file": "tuf.md",
+   "rubrica": "Promozione e collocamento a distanza di servizi e attivita' di investimento e di prodotti finanziari",
+   "vigore_da": "2020-01-24",
+   "datazione": "api",
+   "h": "11561491364d"
+  },
+  "32-bis": {
+   "file": "tuf.md",
+   "rubrica": "Tutela degli interessi collettivi degli investitori",
+   "vigore_da": "2007-11-01",
+   "datazione": "api",
+   "h": "09e38698eaaf"
+  },
+  "32-ter": {
+   "file": "tuf.md",
+   "rubrica": "Risoluzione stragiudiziale di controversie",
+   "vigore_da": "2020-01-24",
+   "datazione": "api",
+   "h": "6cb9fa300a08"
+  },
+  "32-ter.1": {
+   "file": "tuf.md",
+   "rubrica": "Fondo per la tutela stragiudiziale dei risparmiatori e degli investitori",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "53c635743c56"
+  },
+  "32-quater": {
+   "file": "tuf.md",
+   "rubrica": "Riserva di attivita'",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "ff6994fe21ba"
+  },
+  "33": {
+   "file": "tuf.md",
+   "rubrica": "Attivita' esercitabili",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "62dc5e84cc81"
+  },
+  "34": {
+   "file": "tuf.md",
+   "rubrica": "Autorizzazione della societa' di gestione del risparmio",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "73cf7a77b7f2"
+  },
+  "35": {
+   "file": "tuf.md",
+   "rubrica": "Albo",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "58a3d15bf057"
+  },
+  "35-bis": {
+   "file": "tuf.md",
+   "rubrica": "Autorizzazione della Sicav in gestione interna e della Sicaf in gestione interna",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "b7835200d971"
+  },
+  "35-ter": {
+   "file": "tuf.md",
+   "rubrica": "Albi",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "320239bebd5f"
+  },
+  "35-quater": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "443846c47868"
+  },
+  "35-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "2d47f0b82b59"
+  },
+  "35-sexies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "a440ba55c1b3"
+  },
+  "35-septies": {
+   "file": "tuf.md",
+   "rubrica": "Modifiche dello statuto",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "5134e7b04a0c"
+  },
+  "35-octies": {
+   "file": "tuf.md",
+   "rubrica": "Scioglimento e liquidazione volontaria",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "0c022b53b1bd"
+  },
+  "35-novies": {
+   "file": "tuf.md",
+   "rubrica": "Trasformazione",
+   "vigore_da": "2014-04-09",
+   "datazione": "api",
+   "h": "720561ae1799"
+  },
+  "35-novies.1": {
+   "file": "tuf.md",
+   "rubrica": "Autorizzazione della societa' di partenariato in gestione interna",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "686cd28a2e54"
+  },
+  "35-novies.2": {
+   "file": "tuf.md",
+   "rubrica": "Albo delle societa' di partenariato in gestione interna",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "ea4f817718ad"
+  },
+  "35-novies.3": {
+   "file": "tuf.md",
+   "rubrica": "Capitale e azioni della societa' di partenariato in gestione interna autorizzata",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "e8e20e78dae2"
+  },
+  "35-novies.4": {
+   "file": "tuf.md",
+   "rubrica": "Modifiche dello statuto e diritto di recesso",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "9af5b6344ea2"
+  },
+  "35-novies.5": {
+   "file": "tuf.md",
+   "rubrica": "Scioglimento e liquidazione volontaria",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "43434c01d950"
+  },
+  "35-novies.6": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni applicabili",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "5c7481cee902"
+  },
+  "35-decies": {
+   "file": "tuf.md",
+   "rubrica": "Regole di comportamento e diritto di voto",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "4ff592473b5d"
+  },
+  "35-undecies": {
+   "file": "tuf.md",
+   "rubrica": "Deroghe per i GEFIA italiani",
+   "vigore_da": "2024-11-22",
+   "datazione": "api",
+   "vigore_a": "2027-01-29",
+   "h": "9c52e8cf3ecd"
+  },
+  "35-duodecies": {
+   "file": "tuf.md",
+   "rubrica": "Valutazione del merito di credito",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "e7e6e4e759d5"
+  },
+  "35-terdecies": {
+   "file": "tuf.md",
+   "rubrica": "Revoca dell'autorizzazione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "2a9db3a4392e"
+  },
+  "35-quaterdecies": {
+   "file": "tuf.md",
+   "rubrica": "Registrazione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "b4efd8ab4d83"
+  },
+  "35-quinquiesdecies": {
+   "file": "tuf.md",
+   "rubrica": "Cancellazione dal registro",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "3ef0e194445f"
+  },
+  "35-sexiesdecies": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni sull'attivita' dei GEFIA sotto soglia registrati",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "2f3af3a065a2"
+  },
+  "35-septiesdecies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri delle Autorita'",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "8e6c61393392"
+  },
+  "36": {
+   "file": "tuf.md",
+   "rubrica": "Fondi comuni di investimento",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "776329bc78ec"
+  },
+  "37": {
+   "file": "tuf.md",
+   "rubrica": "Regolamento del fondo",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "05adbbfe46f2"
+  },
+  "38": {
+   "file": "tuf.md",
+   "rubrica": "Sicav e Sicaf che designano un gestore esterno",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "f27b5e3c6789"
+  },
+  "38-bis": {
+   "file": "tuf.md",
+   "rubrica": "Societa' di partenariato in gestione esterna",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "2594cfcdbd5e"
+  },
+  "39": {
+   "file": "tuf.md",
+   "rubrica": "Struttura degli Oicr italiani",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "vigore_a": "2027-01-29",
+   "h": "448136a6b933"
+  },
+  "39-bis": {
+   "file": "tuf.md",
+   "rubrica": "Oggetto dell'investimento degli Oicr",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "7b328a2e77d3"
+  },
+  "39-ter": {
+   "file": "tuf.md",
+   "rubrica": "Oggetto dell'investimento degli OICVM italiani",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "052886d44e37"
+  },
+  "39-quater": {
+   "file": "tuf.md",
+   "rubrica": "Oggetto dell'investimento e struttura dei FIA italiani",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "2b58778c7585"
+  },
+  "39-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Ammissione alle negoziazioni",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "902b9ef96705"
+  },
+  "39-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Durata",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "fa0711becf22"
+  },
+  "39-septies": {
+   "file": "tuf.md",
+   "rubrica": "Modalita' di partecipazione e di rimborso per gli Oicr italiani aperti",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "4a1615fbe257"
+  },
+  "39-octies": {
+   "file": "tuf.md",
+   "rubrica": "Modalita' di partecipazione ai FIA italiani chiusi",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "1f557a1c1668"
+  },
+  "39-novies": {
+   "file": "tuf.md",
+   "rubrica": "Modalita' di rimborso dei FIA italiani chiusi",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "95bba6ce2708"
+  },
+  "39-decies": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi informativi per gli OICVM italiani",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "68656185732f"
+  },
+  "39-undecies": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi informativi per i FIA italiani",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "f112fbd40987"
+  },
+  "40": {
+   "file": "tuf.md",
+   "rubrica": "Autorizzazione e regole di funzionamento delle strutture master-feeder",
+   "vigore_da": "2014-04-09",
+   "datazione": "api",
+   "h": "cda6e7f98d4f"
+  },
+  "40-bis": {
+   "file": "tuf.md",
+   "rubrica": "Fusione e scissione di Oicr",
+   "vigore_da": "2014-04-09",
+   "datazione": "api",
+   "h": "814db492febe"
+  },
+  "40-ter": {
+   "file": "tuf.md",
+   "rubrica": "Fusione transfrontaliera di OICVM",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "c9ed92357d29"
+  },
+  "41": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "b33b7ecd7f22"
+  },
+  "41-bis": {
+   "file": "tuf.md",
+   "rubrica": "Societa' di gestione UE",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "d9af203b52c4"
+  },
+  "41-ter": {
+   "file": "tuf.md",
+   "rubrica": "GEFIA UE",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "1c755f9df6ab"
+  },
+  "41-quater": {
+   "file": "tuf.md",
+   "rubrica": "GEFIA non UE",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "832d4955e626"
+  },
+  "42": {
+   "file": "tuf.md",
+   "rubrica": "Commercializzazione in Italia di quote o di azioni di OICVM UE",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "0ae77a5a7ab5"
+  },
+  "42-bis": {
+   "file": "tuf.md",
+   "rubrica": "Pre-commercializzazione di FIA riservati",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "b93660d65e27"
+  },
+  "43": {
+   "file": "tuf.md",
+   "rubrica": "Commercializzazione di FIA riservati",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "3114079315d4"
+  },
+  "43-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2014-04-09",
+   "datazione": "api",
+   "h": "600d7b8148b7"
+  },
+  "44": {
+   "file": "tuf.md",
+   "rubrica": "Commercializzazione di FIA non riservati",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "c44bdc8d243f"
+  },
+  "45": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi relativi all'acquisizione di partecipazioni rilevanti o di controllo di societa' non quotate",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "33ecbb6298ef"
+  },
+  "46": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi relativi all'acquisizione di partecipazioni di controllo di un emittente",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "83bbe05f51e1"
+  },
+  "46-bis": {
+   "file": "tuf.md",
+   "rubrica": "FIA italiani che investono in crediti",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "485139eda648"
+  },
+  "46-ter": {
+   "file": "tuf.md",
+   "rubrica": "FIA UE che investono in crediti in Italia",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "94367396b7c2"
+  },
+  "46-quater": {
+   "file": "tuf.md",
+   "rubrica": "Altre disposizioni applicabili",
+   "vigore_da": "2026-03-28",
+   "datazione": "api",
+   "h": "674a53fb2c82"
+  },
+  "47": {
+   "file": "tuf.md",
+   "rubrica": "Incarico di depositario",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "5e714bbe8e2f"
+  },
+  "48": {
+   "file": "tuf.md",
+   "rubrica": "Compiti del depositario",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "1887c00f44c9"
+  },
+  "49": {
+   "file": "tuf.md",
+   "rubrica": "Responsabilita' del depositario",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "096ed3d98524"
+  },
+  "50": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2014-04-09",
+   "datazione": "api",
+   "h": "adc9acc98834"
+  },
+  "50-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2014-04-09",
+   "datazione": "api",
+   "h": "adc9acc98834"
+  },
+  "50-ter": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2014-04-09",
+   "datazione": "api",
+   "h": "adc9acc98834"
+  },
+  "50-quater": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2014-04-09",
+   "datazione": "api",
+   "h": "adc9acc98834"
+  },
+  "50-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2023-04-08",
+   "datazione": "api",
+   "h": "59a9ba43e839"
+  },
+  "51": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "e1ec38ecaa6b"
+  },
+  "52": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "e1ec38ecaa6b"
+  },
+  "53": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "e1ec38ecaa6b"
+  },
+  "54": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "e1ec38ecaa6b"
+  },
+  "55": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "e1ec38ecaa6b"
+  },
+  "55-bis": {
+   "file": "tuf.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2021-12-02",
+   "datazione": "api",
+   "h": "58a7edfde831"
+  },
+  "55-ter": {
+   "file": "tuf.md",
+   "rubrica": "Piani di risanamento",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "63ab178bc36f"
+  },
+  "55-quater": {
+   "file": "tuf.md",
+   "rubrica": "Sostegno finanziario di gruppo",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "7809aa34cc05"
+  },
+  "55-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Intervento precoce",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "af9d5d3d2204"
+  },
+  "55-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Partecipazione al Meccanismo di Vigilanza Unico e al Meccanismo di Risoluzione Unico",
+   "vigore_da": "2021-12-02",
+   "datazione": "api",
+   "h": "4ac7044dc02e"
+  },
+  "56": {
+   "file": "tuf.md",
+   "rubrica": "Amministrazione straordinaria",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "83cda4d5647a"
+  },
+  "56-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "f924f43f97c4"
+  },
+  "57": {
+   "file": "tuf.md",
+   "rubrica": "Liquidazione coatta amministrativa",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "c622fd9a925f"
+  },
+  "57-bis": {
+   "file": "tuf.md",
+   "rubrica": "Liquidazione ordinaria",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "22dcd755b8f0"
+  },
+  "57-ter": {
+   "file": "tuf.md",
+   "rubrica": "Crisi del fondo comune di investimento e del relativo comparto",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "f0367c5ac971"
+  },
+  "57-quater": {
+   "file": "tuf.md",
+   "rubrica": "Crisi del GEFIA sotto soglia registrato, di un FIA da esso gestito o del relativo comparto",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "4a4311801efd"
+  },
+  "58": {
+   "file": "tuf.md",
+   "rubrica": "Succursali in Italia di imprese di investimento e di gestori esteri",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "869bb8e688d2"
+  },
+  "58-bis": {
+   "file": "tuf.md",
+   "rubrica": "Imprese di investimento operanti nell'Unione europea",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "3f3401017385"
+  },
+  "59": {
+   "file": "tuf.md",
+   "rubrica": "Sistemi di indennizzo",
+   "vigore_da": "2007-11-01",
+   "datazione": "api",
+   "h": "766cbad6cada"
+  },
+  "60": {
+   "file": "tuf.md",
+   "rubrica": "Adesione ai sistemi d'indennizzo da parte di intermediari esteri",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "5f824d5d90c9"
+  },
+  "60-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "7f0628a9f70e"
+  },
+  "60-bis.1": {
+   "file": "tuf.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2021-12-02",
+   "datazione": "api",
+   "h": "e87d080fd41f"
+  },
+  "60-bis.2": {
+   "file": "tuf.md",
+   "rubrica": "Piani di risoluzione",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "7ec569294f34"
+  },
+  "60-bis.3": {
+   "file": "tuf.md",
+   "rubrica": "Risolvibilita'",
+   "vigore_da": "2021-12-02",
+   "datazione": "api",
+   "h": "ca74b42c85cb"
+  },
+  "60-bis.4": {
+   "file": "tuf.md",
+   "rubrica": "Risoluzione e altre procedure di gestione delle crisi",
+   "vigore_da": "2021-12-02",
+   "datazione": "api",
+   "h": "ba14c0ae5b83"
+  },
+  "60-ter": {
+   "file": "tuf.md",
+   "rubrica": "Principi di regolamentazione",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "d52c5229b5e1"
+  },
+  "60-bis.4-bis": {
+   "file": "tuf.md",
+   "rubrica": "Strumenti di debito chirografario di secondo livello e valore nominale unitario minimo",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "b63e81168690"
+  },
+  "61": {
+   "file": "tuf.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2026-05-22",
+   "datazione": "api",
+   "h": "9aca626d8a6b"
+  },
+  "61-bis": {
+   "file": "tuf.md",
+   "rubrica": "Principi di regolamentazione",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "6a388603a7f1"
+  },
+  "62": {
+   "file": "tuf.md",
+   "rubrica": "Vigilanza sulle sedi di negoziazione",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "9ef6ba9605dc"
+  },
+  "62-bis": {
+   "file": "tuf.md",
+   "rubrica": "Sedi di negoziazione all'ingrosso di titoli di Stato e operatori principali",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "39fb0d465230"
+  },
+  "62-ter": {
+   "file": "tuf.md",
+   "rubrica": "Vigilanza sulle sedi di negoziazione all'ingrosso",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "081e4e303b1a"
+  },
+  "62-quater": {
+   "file": "tuf.md",
+   "rubrica": "Vigilanza regolamentare e informativa sulle sedi di negoziazione all'ingrosso",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "43da624b62c4"
+  },
+  "62-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Vigilanza sul rispetto di disposizioni dell'Unione europea direttamente applicabili",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "9032972146fc"
+  },
+  "62-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Vigilanza sulle sedi di negoziazione di strumenti finanziari sull'energia e il gas",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "cceac7afff63"
+  },
+  "62-septies": {
+   "file": "tuf.md",
+   "rubrica": "Vigilanza sui sistemi multilaterali di scambio di depositi monetari in euro",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "26dc9d8b640d"
+  },
+  "62-octies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri informativi e di indagine",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "8f26ec2e9831"
+  },
+  "62-novies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri ispettivi",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "d5747655b3b2"
+  },
+  "62-decies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri di intervento",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "8bfdbdf3be75"
+  },
+  "62-undecies": {
+   "file": "tuf.md",
+   "rubrica": "Doveri informativi dei soggetti incaricati della revisione legale dei conti",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "19cd0b4a1d7f"
+  },
+  "63": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "27d89626b435"
+  },
+  "64": {
+   "file": "tuf.md",
+   "rubrica": "L'attivita' di organizzazione e gestione di mercati regolamentati",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "9b277bf21342"
+  },
+  "64-bis": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi riguardanti le persone che esercitano un'influenza significativa sulla gestione del mercato regolamentato",
+   "vigore_da": "2020-10-14",
+   "datazione": "api",
+   "h": "ddca440e5496"
+  },
+  "64-ter": {
+   "file": "tuf.md",
+   "rubrica": "Requisiti degli esponenti aziendali del gestore del mercato regolamentato",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "6fd16a8f2b48"
+  },
+  "64-quater": {
+   "file": "tuf.md",
+   "rubrica": "Autorizzazione dei mercati regolamentati",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "337b3531c1c7"
+  },
+  "64-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Revoca dell'autorizzazione, provvedimenti straordinari a tutela del mercato e crisi del gestore del mercato regolamentato",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "9e1c76abd43d"
+  },
+  "65": {
+   "file": "tuf.md",
+   "rubrica": "Requisiti organizzativi dei mercati regolamentati",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "9ac760666f89"
+  },
+  "65-bis": {
+   "file": "tuf.md",
+   "rubrica": "Requisiti dei sistemi multilaterali di negoziazione e dei sistemi organizzati di negoziazione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "14a0dd1de2c3"
+  },
+  "65-ter": {
+   "file": "tuf.md",
+   "rubrica": "Requisiti specifici per i sistemi multilaterali di negoziazione",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "0a2566f0e321"
+  },
+  "65-quater": {
+   "file": "tuf.md",
+   "rubrica": "Requisiti specifici per i sistemi organizzati di negoziazione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "dc5751e4b1f5"
+  },
+  "65-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Negoziazione «matched principal» e operativita' in conto proprio del gestore di una sede di negoziazione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "0678f3781366"
+  },
+  "65-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Requisiti operativi delle sedi di negoziazione",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "f526754158aa"
+  },
+  "65-septies": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi informativi e di comunicazione",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "f1e86ec25876"
+  },
+  "66": {
+   "file": "tuf.md",
+   "rubrica": "Criteri generali di ammissione alla quotazione e alle negoziazioni",
+   "vigore_da": "2026-05-22",
+   "datazione": "api",
+   "h": "b23dbdcb3d09"
+  },
+  "66-bis": {
+   "file": "tuf.md",
+   "rubrica": "Condizioni per la quotazione di determinate societa'",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "d0e0b76fde89"
+  },
+  "66-ter": {
+   "file": "tuf.md",
+   "rubrica": "Provvedimenti di ammissione, sospensione ed esclusione di strumenti finanziari dalla quotazione e dalle negoziazioni adottati dal gestore della sede di negoziazione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "c8fc6537ae03"
+  },
+  "66-quater": {
+   "file": "tuf.md",
+   "rubrica": "Provvedimenti di sospensione ed esclusione di strumenti finanziari dalle negoziazioni su iniziativa della Consob",
+   "vigore_da": "2020-01-24",
+   "datazione": "api",
+   "h": "d2b14719575d"
+  },
+  "66-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Negoziazione di strumenti finanziari emessi dal gestore del mercato regolamentato",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "33961ca5861e"
+  },
+  "66.1": {
+   "file": "tuf.md",
+   "rubrica": "Condizioni particolari relative all'ammissione di azioni alla negoziazione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "2fd934169213"
+  },
+  "67": {
+   "file": "tuf.md",
+   "rubrica": "Criteri generali di accesso degli operatori",
+   "vigore_da": "2021-01-01",
+   "datazione": "api",
+   "h": "0ed9a0897d31"
+  },
+  "67-bis": {
+   "file": "tuf.md",
+   "rubrica": "Ammissione, sospensione ed esclusione degli operatori da un mercato regolamentato",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "9c23f235eab7"
+  },
+  "67-ter": {
+   "file": "tuf.md",
+   "rubrica": "Negoziazione algoritmica, accesso elettronico diretto, partecipazione a controparti centrali",
+   "vigore_da": "2019-01-24",
+   "datazione": "api",
+   "h": "b8b5fe3f2360"
+  },
+  "68": {
+   "file": "tuf.md",
+   "rubrica": "Limiti alle posizioni in strumenti derivati su merci",
+   "vigore_da": "2023-04-08",
+   "datazione": "api",
+   "h": "a3e9e1799a1a"
+  },
+  "68-bis": {
+   "file": "tuf.md",
+   "rubrica": "Controlli del gestore della sede di negoziazione sulle posizioni in strumenti derivati su merci e strumenti derivati sulle quote di emissione",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "581e4b0f14b9"
+  },
+  "68-ter": {
+   "file": "tuf.md",
+   "rubrica": "Caratteristiche dei limiti e dei controlli sulla gestione delle posizioni e obblighi di informazione",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "a9c2885869ea"
+  },
+  "68-quater": {
+   "file": "tuf.md",
+   "rubrica": "Notifica dei titolari di posizioni in base alle categorie",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "02b290179562"
+  },
+  "68-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri della Consob e obblighi di collaborazione",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "7710b16ea403"
+  },
+  "69": {
+   "file": "tuf.md",
+   "rubrica": "Mercati di crescita per le piccole e medie imprese",
+   "vigore_da": "2026-05-22",
+   "datazione": "api",
+   "h": "7ce31e715e8e"
+  },
+  "69-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "0b9a2e614cbd"
+  },
+  "70": {
+   "file": "tuf.md",
+   "rubrica": "Riconoscimento dei mercati",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "d077ac61f72b"
+  },
+  "70-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "0b9a2e614cbd"
+  },
+  "70-ter": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "0b9a2e614cbd"
+  },
+  "71": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi dell'internalizzatore sistematico",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "513ef66249f6"
+  },
+  "71-bis": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione dell'Autorita' competente ai fini dell'articolo 21-bis del regolamento (UE) 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "8c7d6c6d598b"
+  },
+  "72": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione dell'autorita' competente",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "ecce4e5973b5"
+  },
+  "73": {
+   "file": "tuf.md",
+   "rubrica": "Vigilanza",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "657d5fdbcf57"
+  },
+  "74": {
+   "file": "tuf.md",
+   "rubrica": "Esenzioni dai requisiti di trasparenza pre-negoziazione delle sedi di negoziazione",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "de49773e7f52"
+  },
+  "75": {
+   "file": "tuf.md",
+   "rubrica": "Provvedimenti di temporanea sospensione degli obblighi di trasparenza pre-negoziazione",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "6b6d4c07bbad"
+  },
+  "76": {
+   "file": "tuf.md",
+   "rubrica": "Pubblicazione differita",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "5906405795b5"
+  },
+  "77": {
+   "file": "tuf.md",
+   "rubrica": "Provvedimenti di temporanea sospensione degli obblighi di trasparenza post-negoziazione",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "d30e7bf2ed2e"
+  },
+  "77-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "0b9a2e614cbd"
+  },
+  "78": {
+   "file": "tuf.md",
+   "rubrica": "Informazioni da fornire ai fini della trasparenza e dell'effettuazione degli altri calcoli e obblighi di pubblicazione",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "fe5365fe6659"
+  },
+  "79": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione dell'autorita' competente",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "b3bc44b807ed"
+  },
+  "79-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2022-05-18",
+   "datazione": "api",
+   "h": "33dea7d2eece"
+  },
+  "79-ter": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2022-05-18",
+   "datazione": "api",
+   "h": "33dea7d2eece"
+  },
+  "79-ter.1": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2022-05-18",
+   "datazione": "api",
+   "h": "33dea7d2eece"
+  },
+  "79-quater": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "6864e4cb9867"
+  },
+  "79-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti sulle controparti centrali",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "07c85272efbc"
+  },
+  "79-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Autorizzazione e vigilanza delle controparti centrali",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "8d8af48b57eb"
+  },
+  "79-septies": {
+   "file": "tuf.md",
+   "rubrica": "Garanzie acquisite nell'esercizio dell'attivita' di controparte centrale e prevalenza delle disposizioni in materia di segregazione e portabilita' delle posizioni e delle garanzie della clientela",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "0c819deae492"
+  },
+  "79-octies": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti per l'esercizio di ulteriori poteri di vigilanza ai sensi del regolamento (UE) n. 648/2012",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "cfc1acf86e40"
+  },
+  "79-octies.1": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti per l'esercizio di ulteriori poteri di vigilanza ai sensi del regolamento (UE) n. 600/2014",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "b3e22e5ed484"
+  },
+  "79-novies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri di vigilanza",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "2d2a69e28c5a"
+  },
+  "79-novies.1": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2024-01-31",
+   "datazione": "api",
+   "h": "691a4fb42bfb"
+  },
+  "79-novies.2": {
+   "file": "tuf.md",
+   "rubrica": "Amministrazione straordinaria",
+   "vigore_da": "2024-01-31",
+   "datazione": "api",
+   "h": "ec21af80bff7"
+  },
+  "79-novies.3": {
+   "file": "tuf.md",
+   "rubrica": "Liquidazione coatta amministrativa",
+   "vigore_da": "2024-01-31",
+   "datazione": "api",
+   "h": "0bd725a177d1"
+  },
+  "79-novies.4": {
+   "file": "tuf.md",
+   "rubrica": "Liquidazione ordinaria",
+   "vigore_da": "2024-01-31",
+   "datazione": "api",
+   "h": "7e312baa3e2e"
+  },
+  "79-decies": {
+   "file": "tuf.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "41228726e39d"
+  },
+  "79-undecies": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti sui depositari centrali",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "5179eb2118d6"
+  },
+  "79-duodecies": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti a svolgere le ulteriori funzioni previste dal regolamento (UE) n. 909/2014",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "a5f9fd20ce7d"
+  },
+  "79-terdecies": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali rilevanti",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "fefa79b409bd"
+  },
+  "79-quaterdecies": {
+   "file": "tuf.md",
+   "rubrica": "Finalita' e poteri di vigilanza",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "990a7a672358"
+  },
+  "79-quinquiesdecies": {
+   "file": "tuf.md",
+   "rubrica": "Regolamento dei servizi",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "24453e13e746"
+  },
+  "79-sexiesdecies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "f23952a5daaa"
+  },
+  "79-septiesdecies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "f23952a5daaa"
+  },
+  "79-octiesdecies": {
+   "file": "tuf.md",
+   "rubrica": "Revisione legale dei conti",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "5b625f10fd19"
+  },
+  "79-noviesdecies": {
+   "file": "tuf.md",
+   "rubrica": "Violazione della disciplina sulle partecipazioni qualificate",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "c85b09246446"
+  },
+  "79-bis-decies": {
+   "file": "tuf.md",
+   "rubrica": "Crisi",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "bd4b71eebf2a"
+  },
+  "79-noviesdecies.1": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni applicabili allo svolgimento di servizi e attivita' di investimento da parte dei depositari centrali",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "3df6dccee96b"
+  },
+  "80": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "6864e4cb9867"
+  },
+  "81": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "6864e4cb9867"
+  },
+  "81-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "6864e4cb9867"
+  },
+  "82": {
+   "file": "tuf.md",
+   "rubrica": "Attivita' e regolamento della gestione accentrata",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "aa2a2772a0a9"
+  },
+  "83": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "6864e4cb9867"
+  },
+  "83-bis": {
+   "file": "tuf.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "32f86771d059"
+  },
+  "83-ter": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "6864e4cb9867"
+  },
+  "83-quater": {
+   "file": "tuf.md",
+   "rubrica": "Attribuzioni dei depositari centrali e degli intermediari",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "b71a0657ef41"
+  },
+  "83-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Diritti del titolare del conto",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "195ce4d4e4eb"
+  },
+  "83-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Diritto d'intervento in assemblea ed esercizio del voto",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "82d9b597cc51"
+  },
+  "83-septies": {
+   "file": "tuf.md",
+   "rubrica": "Eccezioni opponibili",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "7898c4a905b8"
+  },
+  "83-octies": {
+   "file": "tuf.md",
+   "rubrica": "Costituzione di vincoli",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "5946b4710cf0"
+  },
+  "83-novies": {
+   "file": "tuf.md",
+   "rubrica": "Compiti dell'intermediario",
+   "vigore_da": "2019-06-10",
+   "datazione": "api",
+   "h": "ef8c8e2fb19b"
+  },
+  "83-novies.1": {
+   "file": "tuf.md",
+   "rubrica": "Non discriminazione, proporzionalita' e trasparenza dei costi",
+   "vigore_da": "2019-06-10",
+   "datazione": "api",
+   "h": "452bc4a4c7d6"
+  },
+  "83-decies": {
+   "file": "tuf.md",
+   "rubrica": "Responsabilita' dell'intermediario",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "8f83b08747b3"
+  },
+  "83-undecies": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi degli emittenti azioni",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "1d9e97235722"
+  },
+  "83-duodecies": {
+   "file": "tuf.md",
+   "rubrica": "Identificazione degli azionisti",
+   "vigore_da": "2019-06-10",
+   "datazione": "api",
+   "h": "0ea4446d40f4"
+  },
+  "83-terdecies": {
+   "file": "tuf.md",
+   "rubrica": "Pagamento dei dividendi",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "f46e75ad21ab"
+  },
+  "83-quaterdecies": {
+   "file": "tuf.md",
+   "rubrica": "Accesso degli emittenti ad un depositario centrale stabilito in un altro Stato membro",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "5a1ab7874a5d"
+  },
+  "84": {
+   "file": "tuf.md",
+   "rubrica": "Rilevazioni e comunicazioni inerenti agli strumenti finanziari accentrati",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "cb5f26d6c827"
+  },
+  "85": {
+   "file": "tuf.md",
+   "rubrica": "Deposito accentrato",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "348e9f033a2d"
+  },
+  "86": {
+   "file": "tuf.md",
+   "rubrica": "Trasferimento dei diritti inerenti agli strumenti finanziari depositati",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "fe101af4a6c4"
+  },
+  "87": {
+   "file": "tuf.md",
+   "rubrica": "Vincoli sugli strumenti finanziari accentrati",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "45077c760573"
+  },
+  "88": {
+   "file": "tuf.md",
+   "rubrica": "Ritiro degli strumenti finanziari accentrati",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "199a687ac58e"
+  },
+  "89": {
+   "file": "tuf.md",
+   "rubrica": "Aggiornamento del libro soci",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "dd20d86dc53b"
+  },
+  "90": {
+   "file": "tuf.md",
+   "rubrica": "Gestione accentrata dei titoli di Stato",
+   "vigore_da": "2016-09-24",
+   "datazione": "api",
+   "h": "32b944945d85"
+  },
+  "90-bis": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti in materia di accesso ai depositari centrali stabiliti sul territorio della Repubblica",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "2bdfa8284e82"
+  },
+  "90-ter": {
+   "file": "tuf.md",
+   "rubrica": "Individuazione delle autorita' nazionali competenti in materia di accesso tra sedi di negoziazione e infrastrutture di post-trading",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "d3c2b52b6787"
+  },
+  "90-quater": {
+   "file": "tuf.md",
+   "rubrica": "Accesso alle controparti centrali su base transfrontaliera",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "e79c48b0a8ab"
+  },
+  "90-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Accesso ai servizi di regolamento delle operazioni su strumenti finanziari su base transfrontaliera",
+   "vigore_da": "2020-08-14",
+   "datazione": "api",
+   "h": "e20eecabc6f9"
+  },
+  "90-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Accordi conclusi dai gestori dei mercati regolamentati e dei sistemi multilaterali di negoziazione con controparti centrali o con depositari centrali che gestiscono servizi di regolamento",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "936a2cd780a1"
+  },
+  "90-septies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri di vigilanza",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "bac59e2a0b10"
+  },
+  "91": {
+   "file": "tuf.md",
+   "rubrica": "Poteri della CONSOB",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "ed2ab49b9a1c"
+  },
+  "91-bis": {
+   "file": "tuf.md",
+   "rubrica": "Comunicazione dello Stato membro d'origine",
+   "vigore_da": "2016-03-18",
+   "datazione": "api",
+   "h": "82058b5a8763"
+  },
+  "92": {
+   "file": "tuf.md",
+   "rubrica": "Parita' di trattamento",
+   "vigore_da": "2007-11-24",
+   "datazione": "api",
+   "h": "ece78817656c"
+  },
+  "93": {
+   "file": "tuf.md",
+   "rubrica": "Definizione di controllo",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "a6b95f99b666"
+  },
+  "93-bis": {
+   "file": "tuf.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "bb69cbd525be"
+  },
+  "93.1": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "a0fafae32863"
+  },
+  "94": {
+   "file": "tuf.md",
+   "rubrica": "Offerta al pubblico di titoli",
+   "vigore_da": "2026-05-22",
+   "datazione": "api",
+   "h": "00d346caacce"
+  },
+  "94-bis": {
+   "file": "tuf.md",
+   "rubrica": "Offerta al pubblico di prodotti finanziari diversi dai titoli e dalle quote o azioni di Oicr aperti",
+   "vigore_da": "2026-05-22",
+   "datazione": "api",
+   "h": "b0bb6b139840"
+  },
+  "95": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni di attuazione",
+   "vigore_da": "2026-05-22",
+   "datazione": "api",
+   "h": "2ab868f8b7fa"
+  },
+  "95-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2021-03-11",
+   "datazione": "api",
+   "h": "5314d94a22ce"
+  },
+  "96": {
+   "file": "tuf.md",
+   "rubrica": "Bilanci dell'emittente",
+   "vigore_da": "2021-03-11",
+   "datazione": "api",
+   "h": "7b83d9a17789"
+  },
+  "97": {
+   "file": "tuf.md",
+   "rubrica": "Poteri di indagine e di vigilanza",
+   "vigore_da": "2021-03-11",
+   "datazione": "api",
+   "h": "a2a6c2f39a83"
+  },
+  "98": {
+   "file": "tuf.md",
+   "rubrica": "Pubblicazione del prospetto dei FIA chiusi o dei FIA UE chiusi",
+   "vigore_da": "2021-03-11",
+   "datazione": "api",
+   "h": "5b8a5a3326a6"
+  },
+  "98-bis": {
+   "file": "tuf.md",
+   "rubrica": "Emittenti di Paesi extracomunitari",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "d9fc4addf9be"
+  },
+  "98-ter": {
+   "file": "tuf.md",
+   "rubrica": "KID e prospetto",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "a4e3936492bb"
+  },
+  "98-ter.1": {
+   "file": "tuf.md",
+   "rubrica": "Offerte rivolte agli investitori non al dettaglio",
+   "vigore_da": "2026-03-28",
+   "datazione": "api",
+   "h": "e53785ddf91d"
+  },
+  "98-quater": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni di attuazione",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "88f401993a49"
+  },
+  "98-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi informativi",
+   "vigore_da": "2014-04-09",
+   "datazione": "api",
+   "h": "7b8c8575ecf0"
+  },
+  "98-sexies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "f23952a5daaa"
+  },
+  "99": {
+   "file": "tuf.md",
+   "rubrica": "Poteri della Consob",
+   "vigore_da": "2021-03-11",
+   "datazione": "api",
+   "h": "60bf5e254cdf"
+  },
+  "100": {
+   "file": "tuf.md",
+   "rubrica": "Casi di esenzione",
+   "vigore_da": "2026-05-22",
+   "datazione": "api",
+   "h": "467322ccc115"
+  },
+  "100-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "d6fcbe1b152d"
+  },
+  "100-ter": {
+   "file": "tuf.md",
+   "rubrica": "Offerte di crowdfunding",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "802e689cd813"
+  },
+  "101": {
+   "file": "tuf.md",
+   "rubrica": "Attivita' pubblicitaria",
+   "vigore_da": "2021-12-15",
+   "datazione": "api",
+   "h": "49b347eca64a"
+  },
+  "101-bis": {
+   "file": "tuf.md",
+   "rubrica": "Definizioni e ambito applicativo",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "c500e390ef89"
+  },
+  "101-ter": {
+   "file": "tuf.md",
+   "rubrica": "Autorita' di vigilanza e diritto applicabile",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "027d075536ea"
+  },
+  "102": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi degli offerenti e poteri interdittivi",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "b01f5e7ec8a9"
+  },
+  "103": {
+   "file": "tuf.md",
+   "rubrica": "Svolgimento dell'offerta",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "4b4430ff5cc1"
+  },
+  "104": {
+   "file": "tuf.md",
+   "rubrica": "Difese",
+   "vigore_da": "2018-09-29",
+   "datazione": "api",
+   "h": "e3ce4ed941ef"
+  },
+  "104-bis": {
+   "file": "tuf.md",
+   "rubrica": "Regola di neutralizzazione",
+   "vigore_da": "2014-08-21",
+   "datazione": "api",
+   "h": "8123ec380ebd"
+  },
+  "104-ter": {
+   "file": "tuf.md",
+   "rubrica": "Clausola di reciprocita'",
+   "vigore_da": "2018-09-29",
+   "datazione": "api",
+   "h": "f6a446aa64e1"
+  },
+  "105": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni generali",
+   "vigore_da": "2014-08-21",
+   "datazione": "api",
+   "h": "916788a1fcd5"
+  },
+  "106": {
+   "file": "tuf.md",
+   "rubrica": "Offerta pubblica di acquisto totalitaria",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "d2e294f0e48f"
+  },
+  "107": {
+   "file": "tuf.md",
+   "rubrica": "Offerta pubblica di acquisto preventiva",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "d1f3bce5c442"
+  },
+  "108": {
+   "file": "tuf.md",
+   "rubrica": "Obbligo di acquisto",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "257b4c4416f2"
+  },
+  "109": {
+   "file": "tuf.md",
+   "rubrica": "Acquisto di concerto",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "c160819a9f58"
+  },
+  "110": {
+   "file": "tuf.md",
+   "rubrica": "Inadempimento degli Obblighi",
+   "vigore_da": "2007-12-28",
+   "datazione": "api",
+   "h": "6fe0c4c74b8b"
+  },
+  "111": {
+   "file": "tuf.md",
+   "rubrica": "Diritto di acquisto",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "2c6fcd7c9096"
+  },
+  "112": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "d6fcbe1b152d"
+  },
+  "112-bis": {
+   "file": "tuf.md",
+   "rubrica": "Acquisto totalitario su autorizzazione dei soci",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "1717ec8ef587"
+  },
+  "113": {
+   "file": "tuf.md",
+   "rubrica": "Ammissione alle negoziazioni di titoli",
+   "vigore_da": "2021-03-11",
+   "datazione": "api",
+   "h": "66bdc3d67747"
+  },
+  "113-bis": {
+   "file": "tuf.md",
+   "rubrica": "Ammissione alle negoziazioni di quote o azioni di OICR aperti",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "1ae8331c73a5"
+  },
+  "113-ter": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni generali in materia di informazioni regolamentate",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "7bb8d649e72c"
+  },
+  "114": {
+   "file": "tuf.md",
+   "rubrica": "Comunicazioni al pubblico",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "f1b301a4d51a"
+  },
+  "114-bis": {
+   "file": "tuf.md",
+   "rubrica": "Informazione al mercato in materia di attribuzione di strumenti finanziari a esponenti aziendali, dipendenti o collaboratori",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "f99cac338c24"
+  },
+  "115": {
+   "file": "tuf.md",
+   "rubrica": "Comunicazioni alla CONSOB",
+   "vigore_da": "2018-09-29",
+   "datazione": "api",
+   "h": "6d904f07140b"
+  },
+  "115-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-29",
+   "datazione": "api",
+   "h": "e61ec40cd604"
+  },
+  "115-ter": {
+   "file": "tuf.md",
+   "rubrica": "Comunicazioni relative alle quote di emissioni",
+   "vigore_da": "2018-09-29",
+   "datazione": "api",
+   "h": "39ac8da42b40"
+  },
+  "116": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "3e0a45d249de"
+  },
+  "117": {
+   "file": "tuf.md",
+   "rubrica": "Informazione contabile",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "d16dfe2a09f5"
+  },
+  "117-bis": {
+   "file": "tuf.md",
+   "rubrica": "Fusioni fra societa' con azioni quotate e societa' con azioni non quotate",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "d9fc4addf9be"
+  },
+  "117-ter": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "d6fcbe1b152d"
+  },
+  "118": {
+   "file": "tuf.md",
+   "rubrica": "Casi di inapplicabilita'",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "1451878233aa"
+  },
+  "118-bis": {
+   "file": "tuf.md",
+   "rubrica": "Controllo sulle informazioni fornite al pubblico",
+   "vigore_da": "2025-08-10",
+   "datazione": "api",
+   "h": "ca66930492d5"
+  },
+  "119": {
+   "file": "tuf.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "eb201b8d287d"
+  },
+  "120": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi di comunicazione delle partecipazioni rilevanti",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "b02d607f69c7"
+  },
+  "121": {
+   "file": "tuf.md",
+   "rubrica": "Disciplina delle partecipazioni reciproche",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "0f04323835e4"
+  },
+  "122": {
+   "file": "tuf.md",
+   "rubrica": "Patti parasociali",
+   "vigore_da": "2020-01-24",
+   "datazione": "api",
+   "h": "8ea39ed81c16"
+  },
+  "123": {
+   "file": "tuf.md",
+   "rubrica": "Durata dei patti e diritto di recesso",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "dab9deca8961"
+  },
+  "123-bis": {
+   "file": "tuf.md",
+   "rubrica": "Relazione sul governo societario e gli assetti proprietari",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "6030042b0c2e"
+  },
+  "123-ter": {
+   "file": "tuf.md",
+   "rubrica": "Relazione sulla politica in materia di remunerazione e sui compensi corrisposti",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "8c98b217302a"
+  },
+  "124": {
+   "file": "tuf.md",
+   "rubrica": "Casi di inapplicabilita'",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "d81330ed6183"
+  },
+  "124-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2008-11-21",
+   "datazione": "api",
+   "h": "f4257e046a3a"
+  },
+  "124-ter": {
+   "file": "tuf.md",
+   "rubrica": "Informazione relativa ai codici di comportamento",
+   "vigore_da": "2008-11-21",
+   "datazione": "api",
+   "h": "5274276eecca"
+  },
+  "124-quater": {
+   "file": "tuf.md",
+   "rubrica": "Definizioni e ambito applicativo",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "0747533d4aa8"
+  },
+  "124-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Politica di impegno",
+   "vigore_da": "2019-06-10",
+   "datazione": "api",
+   "h": "6c126e97ae2b"
+  },
+  "124-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Strategia d'investimento degli investitori istituzionali e accordi con i gestori di attivi",
+   "vigore_da": "2019-06-10",
+   "datazione": "api",
+   "h": "b8fa2c6e1b53"
+  },
+  "124-septies": {
+   "file": "tuf.md",
+   "rubrica": "Trasparenza dei gestori di attivi",
+   "vigore_da": "2019-06-10",
+   "datazione": "api",
+   "h": "c4ef59492029"
+  },
+  "124-octies": {
+   "file": "tuf.md",
+   "rubrica": "Trasparenza dei consulenti in materia di voto",
+   "vigore_da": "2019-06-10",
+   "datazione": "api",
+   "h": "19fc2b64c2a1"
+  },
+  "124-novies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri regolamentari",
+   "vigore_da": "2019-06-10",
+   "datazione": "api",
+   "h": "ec4311fcd948"
+  },
+  "125": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2004-02-29",
+   "datazione": "api",
+   "h": "2e2084cb56eb"
+  },
+  "125-bis": {
+   "file": "tuf.md",
+   "rubrica": "Avviso di convocazione dell'assemblea",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "de5488290c79"
+  },
+  "125-bis.1": {
+   "file": "tuf.md",
+   "rubrica": "Modalita' di svolgimento dell'assemblea",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "62ae823c4478"
+  },
+  "125-ter": {
+   "file": "tuf.md",
+   "rubrica": "Relazioni sulle materie all'ordine del giorno",
+   "vigore_da": "2025-08-10",
+   "datazione": "api",
+   "h": "d0ae16cc0551"
+  },
+  "125-quater": {
+   "file": "tuf.md",
+   "rubrica": "Sito Internet",
+   "vigore_da": "2019-06-10",
+   "datazione": "api",
+   "h": "65cb36fc371d"
+  },
+  "126": {
+   "file": "tuf.md",
+   "rubrica": "Convocazioni successive alla prima",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "40fcf823ab49"
+  },
+  "126-bis": {
+   "file": "tuf.md",
+   "rubrica": "Integrazione dell'ordine del giorno dell'assemblea e presentazione di nuove proposte di delibera",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "3a23dc33afc4"
+  },
+  "127": {
+   "file": "tuf.md",
+   "rubrica": "Voto per corrispondenza o in via elettronica",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "8cd763483c80"
+  },
+  "127-bis": {
+   "file": "tuf.md",
+   "rubrica": "Annullabilita' delle deliberazioni e diritto di recesso",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "f7800d6afba3"
+  },
+  "127-ter": {
+   "file": "tuf.md",
+   "rubrica": "Diritto di porre domande prima dell'assemblea",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "6fd1a9c09521"
+  },
+  "127-quater": {
+   "file": "tuf.md",
+   "rubrica": "Maggiorazione del dividendo",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "acc1a3477d98"
+  },
+  "127-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Maggiorazione del voto",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "eee3baf3f5ee"
+  },
+  "127-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Azioni a voto plurimo",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "bf1afeb7bc5d"
+  },
+  "128": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2004-02-29",
+   "datazione": "api",
+   "h": "2e2084cb56eb"
+  },
+  "129": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2004-02-29",
+   "datazione": "api",
+   "h": "2e2084cb56eb"
+  },
+  "130": {
+   "file": "tuf.md",
+   "rubrica": "Informazione dei soci",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "bdb46a278c5d"
+  },
+  "131": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2004-02-29",
+   "datazione": "api",
+   "h": "2e2084cb56eb"
+  },
+  "132": {
+   "file": "tuf.md",
+   "rubrica": "Acquisto di azioni proprie e della societa' controllante",
+   "vigore_da": "2018-09-29",
+   "datazione": "api",
+   "h": "ec009f85d095"
+  },
+  "133": {
+   "file": "tuf.md",
+   "rubrica": "Esclusione su richiesta dalle negoziazioni",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "8dafa5ad531c"
+  },
+  "134": {
+   "file": "tuf.md",
+   "rubrica": "Aumenti di capitale",
+   "vigore_da": "2014-08-21",
+   "datazione": "api",
+   "h": "ab522ed6c601"
+  },
+  "135": {
+   "file": "tuf.md",
+   "rubrica": "Percentuali di capitale",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "f8442bc0451a"
+  },
+  "135-bis": {
+   "file": "tuf.md",
+   "rubrica": "Disciplina delle societa' cooperative",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "fb5fc963aff2"
+  },
+  "135-ter": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "56b91542360b"
+  },
+  "135-quater": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "56b91542360b"
+  },
+  "135-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "56b91542360b"
+  },
+  "135-sexies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "56b91542360b"
+  },
+  "135-septies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "56b91542360b"
+  },
+  "135-octies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "56b91542360b"
+  },
+  "135-novies": {
+   "file": "tuf.md",
+   "rubrica": "Rappresentanza nell'assemblea",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "890d69dd2d84"
+  },
+  "135-decies": {
+   "file": "tuf.md",
+   "rubrica": "Conflitto di interessi del rappresentante e dei sostituti",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "5a0b36cdada3"
+  },
+  "135-undecies": {
+   "file": "tuf.md",
+   "rubrica": "Rappresentante designato dalla societa'",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "75398e0b9aa8"
+  },
+  "135-undecies.1": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "d6fcbe1b152d"
+  },
+  "135-duodecies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "0a213218987d"
+  },
+  "136": {
+   "file": "tuf.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "d6c3cb4252bb"
+  },
+  "137": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni generali",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "78b6b2e860c5"
+  },
+  "138": {
+   "file": "tuf.md",
+   "rubrica": "Sollecitazione",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "de4246a779e7"
+  },
+  "139": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "0298a504cc98"
+  },
+  "140": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "0298a504cc98"
+  },
+  "141": {
+   "file": "tuf.md",
+   "rubrica": "Associazioni di azionisti",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "4766515cf7d9"
+  },
+  "142": {
+   "file": "tuf.md",
+   "rubrica": "Delega di voto",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "1b14982d3712"
+  },
+  "143": {
+   "file": "tuf.md",
+   "rubrica": "Responsabilita'",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "c1e2702e8d17"
+  },
+  "144": {
+   "file": "tuf.md",
+   "rubrica": "Svolgimento della sollecitazione e della raccolta",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "b1dd983fbaf0"
+  },
+  "145": {
+   "file": "tuf.md",
+   "rubrica": "Emissioni delle azioni",
+   "vigore_da": "2006-01-12",
+   "datazione": "api",
+   "h": "a8500cd8521e"
+  },
+  "146": {
+   "file": "tuf.md",
+   "rubrica": "Assemblea speciale",
+   "vigore_da": "2012-07-17",
+   "datazione": "api",
+   "h": "05ecc42b1ec6"
+  },
+  "147": {
+   "file": "tuf.md",
+   "rubrica": "Rappresentante comune",
+   "vigore_da": "2004-02-29",
+   "datazione": "api",
+   "h": "2445dc87d2da"
+  },
+  "147-bis": {
+   "file": "tuf.md",
+   "rubrica": "Assemblee di categoria",
+   "vigore_da": "2004-02-29",
+   "datazione": "api",
+   "h": "78247a6ba742"
+  },
+  "147-bis.1": {
+   "file": "tuf.md",
+   "rubrica": "Principi sulla composizione degli organi",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "a6b5dfe0f6eb"
+  },
+  "147-ter": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "85e20c51f453"
+  },
+  "147-ter.1": {
+   "file": "tuf.md",
+   "rubrica": "Lista del consiglio di amministrazione",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "944cd366c3a5"
+  },
+  "147-quater": {
+   "file": "tuf.md",
+   "rubrica": "Composizione del consiglio di gestione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "516d8a91de8f"
+  },
+  "147-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Requisiti dei soggetti che svolgono funzioni di amministrazione e direzione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "1725b968fa42"
+  },
+  "147-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Sistema di controllo interno e di gestione dei rischi",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "dd5ba9e2d4d6"
+  },
+  "148": {
+   "file": "tuf.md",
+   "rubrica": "Composizione dell'organo di controllo",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "9484356793e6"
+  },
+  "148-bis": {
+   "file": "tuf.md",
+   "rubrica": "Limiti al cumulo degli incarichi",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "ef21cfaeb2f6"
+  },
+  "148.1": {
+   "file": "tuf.md",
+   "rubrica": "Composizione del collegio sindacale",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "8041d6154cf1"
+  },
+  "148.2": {
+   "file": "tuf.md",
+   "rubrica": "Composizione del consiglio di sorveglianza",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "4560a1a593bf"
+  },
+  "148.3": {
+   "file": "tuf.md",
+   "rubrica": "Nomina e presidenza del comitato per il controllo sulla gestione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "a94e8454d6ff"
+  },
+  "149": {
+   "file": "tuf.md",
+   "rubrica": "Doveri dell'organo di controllo",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "9cfec1bb6aef"
+  },
+  "149-bis": {
+   "file": "tuf.md",
+   "rubrica": "Doveri del consiglio di sorveglianza",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "c280a2e14284"
+  },
+  "149-ter": {
+   "file": "tuf.md",
+   "rubrica": "Sistemi di monitoraggio e strumenti di controllo",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "1015eb3acddc"
+  },
+  "150": {
+   "file": "tuf.md",
+   "rubrica": "Informazione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "62c227a90e5b"
+  },
+  "151": {
+   "file": "tuf.md",
+   "rubrica": "Poteri dell'organo di controllo",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "57cdc751bd45"
+  },
+  "151-bis": {
+   "file": "tuf.md",
+   "rubrica": "Poteri del consiglio di sorveglianza",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "08afa596a54a"
+  },
+  "151-ter": {
+   "file": "tuf.md",
+   "rubrica": "Poteri del comitato per il controllo sulla gestione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "b81d15da9e93"
+  },
+  "151.1": {
+   "file": "tuf.md",
+   "rubrica": "Poteri del collegio sindacale",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "58db152c65cd"
+  },
+  "151.2": {
+   "file": "tuf.md",
+   "rubrica": "Responsabilita' dei componenti del collegio sindacale",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "9332549ea0ee"
+  },
+  "152": {
+   "file": "tuf.md",
+   "rubrica": "Denunzia al tribunale",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "43e0e3d303b1"
+  },
+  "153": {
+   "file": "tuf.md",
+   "rubrica": "Obbligo di riferire all'assemblea",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "60f61aeae73c"
+  },
+  "154": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni non applicabili",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "3e227ab94765"
+  },
+  "154-bis": {
+   "file": "tuf.md",
+   "rubrica": "Dirigente preposto alla redazione dei documenti contabili societari",
+   "vigore_da": "2025-08-10",
+   "datazione": "api",
+   "h": "d9f72e02bc85"
+  },
+  "154-ter": {
+   "file": "tuf.md",
+   "rubrica": "Relazioni finanziarie",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "a2ac3bf45009"
+  },
+  "154-quater": {
+   "file": "tuf.md",
+   "rubrica": "Trasparenza dei pagamenti ai governi",
+   "vigore_da": "2016-03-18",
+   "datazione": "api",
+   "h": "25858cf8223c"
+  },
+  "154.1": {
+   "file": "tuf.md",
+   "rubrica": "Definizione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "91181e955702"
+  },
+  "154.2": {
+   "file": "tuf.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "3afaa99d6cca"
+  },
+  "154.3": {
+   "file": "tuf.md",
+   "rubrica": "Elezione del consiglio di amministrazione, del collegio sindacale e del consiglio di sorveglianza",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "db766e149fe9"
+  },
+  "154.4": {
+   "file": "tuf.md",
+   "rubrica": "Modifiche dello statuto e diritto di recesso",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "4ea843d36551"
+  },
+  "154.5": {
+   "file": "tuf.md",
+   "rubrica": "Operazioni con parti correlate",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "57ec8bc3edfb"
+  },
+  "155": {
+   "file": "tuf.md",
+   "rubrica": "Attivita' di revisione contabile",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "708f6f52d7c1"
+  },
+  "156": {
+   "file": "tuf.md",
+   "rubrica": "Relazioni di revisione",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "5c643af1e83b"
+  },
+  "157": {
+   "file": "tuf.md",
+   "rubrica": "Effetti dei giudizi sui bilanci",
+   "vigore_da": "2004-02-29",
+   "datazione": "api",
+   "h": "cf22ce001174"
+  },
+  "158": {
+   "file": "tuf.md",
+   "rubrica": "Proposte di aumento di capitale",
+   "vigore_da": "2012-11-13",
+   "datazione": "api",
+   "h": "f421fc4d6e4f"
+  },
+  "159": {
+   "file": "tuf.md",
+   "rubrica": "Conferimento e revoca dell'incarico",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "7ea2b46c18ab"
+  },
+  "160": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "0b7b3a00f652"
+  },
+  "161": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "ff6810b95260"
+  },
+  "162": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "ead96eceddb2"
+  },
+  "163": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "47d91a45fba5"
+  },
+  "164": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "0b7b3a00f652"
+  },
+  "165": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "0b7b3a00f652"
+  },
+  "165-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "0b7b3a00f652"
+  },
+  "165-ter": {
+   "file": "tuf.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "3a40128c5e6f"
+  },
+  "165-quater": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi delle societa' italiane Controllanti",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "159bf4e306d4"
+  },
+  "165-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi delle societa' italiane Collegate",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "5246aa052ba3"
+  },
+  "165-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Obblighi delle societa' italiane controllate",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "f86dbb47131c"
+  },
+  "165-septies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri della CONSOB e disposizioni di Attuazione",
+   "vigore_da": "2006-01-12",
+   "datazione": "api",
+   "h": "f50c753d2b16"
+  },
+  "166": {
+   "file": "tuf.md",
+   "rubrica": "Abusivismo",
+   "vigore_da": "2022-05-18",
+   "datazione": "api",
+   "h": "9b641e8b978d"
+  },
+  "167": {
+   "file": "tuf.md",
+   "rubrica": "Gestione infedele",
+   "vigore_da": "2007-11-01",
+   "datazione": "api",
+   "h": "ebb03dab6549"
+  },
+  "168": {
+   "file": "tuf.md",
+   "rubrica": "Confusione di patrimoni",
+   "vigore_da": "2007-11-01",
+   "datazione": "api",
+   "h": "ee6774e79748"
+  },
+  "169": {
+   "file": "tuf.md",
+   "rubrica": "Partecipazioni al capitale",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "8f9742bedcb7"
+  },
+  "170": {
+   "file": "tuf.md",
+   "rubrica": "Gestione accentrata di strumenti finanziari",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "59395959ee1a"
+  },
+  "170-bis": {
+   "file": "tuf.md",
+   "rubrica": "Ostacolo alle funzioni di vigilanza della Banca d'Italia e della Consob",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "dc8c50ac45b5"
+  },
+  "171": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2002-04-16",
+   "datazione": "api",
+   "h": "1793e312dc05"
+  },
+  "172": {
+   "file": "tuf.md",
+   "rubrica": "Irregolare acquisto di azioni",
+   "vigore_da": "2018-09-29",
+   "datazione": "api",
+   "h": "20c23b279765"
+  },
+  "173": {
+   "file": "tuf.md",
+   "rubrica": "Omessa alienazione di partecipazioni",
+   "vigore_da": "2007-12-28",
+   "datazione": "api",
+   "h": "4aee027cbe19"
+  },
+  "173-bis": {
+   "file": "tuf.md",
+   "rubrica": "Falso in prospetto",
+   "vigore_da": "2007-04-24",
+   "datazione": "api",
+   "h": "1a97e709f9e8"
+  },
+  "174": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2002-04-16",
+   "datazione": "api",
+   "h": "1793e312dc05"
+  },
+  "174-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "0b7b3a00f652"
+  },
+  "174-ter": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "0b7b3a00f652"
+  },
+  "175": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2002-04-16",
+   "datazione": "api",
+   "h": "1793e312dc05"
+  },
+  "176": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2002-04-16",
+   "datazione": "api",
+   "h": "1793e312dc05"
+  },
+  "177": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "0b7b3a00f652"
+  },
+  "178": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "0b7b3a00f652"
+  },
+  "179": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2010-04-07",
+   "datazione": "api",
+   "h": "0b7b3a00f652"
+  },
+  "180": {
+   "file": "tuf.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2018-09-29",
+   "datazione": "api",
+   "h": "a124c6f92147"
+  },
+  "181": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-29",
+   "datazione": "api",
+   "h": "e61ec40cd604"
+  },
+  "182": {
+   "file": "tuf.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "2f64deb878f4"
+  },
+  "183": {
+   "file": "tuf.md",
+   "rubrica": "Esenzioni",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "382e4c930ae0"
+  },
+  "184": {
+   "file": "tuf.md",
+   "rubrica": "Abuso o comunicazione illecita di informazioni privilegiate. Raccomandazione o induzione di altri alla commissione di abuso di informazioni privilegiate",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "a7186973934f"
+  },
+  "185": {
+   "file": "tuf.md",
+   "rubrica": "Manipolazione del mercato",
+   "vigore_da": "2025-10-10",
+   "datazione": "api",
+   "h": "98d87541e4ba"
+  },
+  "186": {
+   "file": "tuf.md",
+   "rubrica": "Pene accessorie",
+   "vigore_da": "2005-05-12",
+   "datazione": "api",
+   "h": "cf5335c036ba"
+  },
+  "187": {
+   "file": "tuf.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "4317eafd75b0"
+  },
+  "187-bis": {
+   "file": "tuf.md",
+   "rubrica": "Abuso e comunicazione illecita di informazioni privilegiate",
+   "vigore_da": "2018-09-29",
+   "datazione": "api",
+   "h": "5625e02fb2ef"
+  },
+  "187-ter": {
+   "file": "tuf.md",
+   "rubrica": "Manipolazione del mercato",
+   "vigore_da": "2018-09-29",
+   "datazione": "api",
+   "h": "e30410938924"
+  },
+  "187-ter.1": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni relative alle violazioni delle disposizioni del regolamento (UE) n. 596/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "691f59b8f291"
+  },
+  "187-quater": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative accessorie",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "02c53efb66d6"
+  },
+  "187-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Responsabilita' dell'ente",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "63a55dbc23f4"
+  },
+  "187-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "06bc65767e83"
+  },
+  "187-septies": {
+   "file": "tuf.md",
+   "rubrica": "Procedura sanzionatoria",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "d4b574996181"
+  },
+  "187-octies": {
+   "file": "tuf.md",
+   "rubrica": "Poteri della CONSOB",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "3e2a622b242c"
+  },
+  "187-novies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-29",
+   "datazione": "api",
+   "h": "e61ec40cd604"
+  },
+  "187-decies": {
+   "file": "tuf.md",
+   "rubrica": "Rapporti con la magistratura",
+   "vigore_da": "2005-05-12",
+   "datazione": "api",
+   "h": "3e1a23ef3932"
+  },
+  "187-undecies": {
+   "file": "tuf.md",
+   "rubrica": "Facolta' della CONSOB nel procedimento penale",
+   "vigore_da": "2005-05-12",
+   "datazione": "api",
+   "h": "342f28bf274f"
+  },
+  "187-duodecies": {
+   "file": "tuf.md",
+   "rubrica": "Rapporti tra procedimento penale e procedimento amministrativo e di opposizione",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "c0c771a21c85"
+  },
+  "187-terdecies": {
+   "file": "tuf.md",
+   "rubrica": "Applicazione ed esecuzione delle sanzioni penali ed amministrative",
+   "vigore_da": "2018-09-29",
+   "datazione": "api",
+   "h": "573c1a2ec9ff"
+  },
+  "187-quaterdecies": {
+   "file": "tuf.md",
+   "rubrica": "Procedure consultive",
+   "vigore_da": "2005-05-12",
+   "datazione": "api",
+   "h": "6cad017226dd"
+  },
+  "187-quinquiesdecies": {
+   "file": "tuf.md",
+   "rubrica": "Tutela dell'attivita' di vigilanza della Banca d'Italia e della Consob",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "78f948413bfa"
+  },
+  "188": {
+   "file": "tuf.md",
+   "rubrica": "Abuso di denominazione",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "8b53e5b87201"
+  },
+  "189": {
+   "file": "tuf.md",
+   "rubrica": "Partecipazioni al capitale",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "4aa001ae9b62"
+  },
+  "190": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative pecuniarie in tema di disciplina degli intermediari",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "da460c16674a"
+  },
+  "190-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "ab1dd5d3147a"
+  },
+  "190-bis.1": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative relative alle violazioni delle disposizioni del regolamento (UE) 2016/1011",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "35a36b5b11ee"
+  },
+  "190-bis.2": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative relative alle violazioni delle disposizioni del regolamento UE 2017/2402",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "e1cedd737a98"
+  },
+  "190-bis.3": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative relative alle violazioni delle disposizioni previste dal regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e dalle relative norme tecniche di regolamentazione e attuazione",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "398d63dbdd27"
+  },
+  "190-ter": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "5dbf9e9b6ac1"
+  },
+  "190-quater": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative in tema di servizi di crowdfunding",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "8e6808a9adad"
+  },
+  "190.1": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative pecuniarie in tema di disciplina della gestione accentrata di strumenti finanziari",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "c6c3f66d6a66"
+  },
+  "190.1-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "d4c4e981684c"
+  },
+  "190.2": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative pecuniarie relative alla violazione delle disposizioni previste dal regolamento (UE) n. 909/2014",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "b59ad99fa5bd"
+  },
+  "190.3": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative in tema di disciplina dei mercati",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "ab1496886388"
+  },
+  "190.4": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) n. 600/2014, dagli atti delegati e dalle norme tecniche di regolamentazione e di attuazione della direttiva 2014/65/UE e del regolamento (UE) n. 600/2014",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "b149c6b2e3b4"
+  },
+  "190.5": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative pecuniarie in tema di agenzie di rating del credito relative alle violazioni delle disposizioni previste dal regolamento (CE) n. 1060/2009",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "c90a9d7cf93e"
+  },
+  "191": {
+   "file": "tuf.md",
+   "rubrica": "Offerta al pubblico di sottoscrizione e di vendita di prodotti finanziari e ammissione alla negoziazione di titoli",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "bf3970c45f91"
+  },
+  "191-bis": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni accessorie",
+   "vigore_da": "2021-03-11",
+   "datazione": "api",
+   "h": "c00d2330b4e0"
+  },
+  "191-ter": {
+   "file": "tuf.md",
+   "rubrica": "Offerta al pubblico di sottoscrizione e di vendita e ammissione alle negoziazioni di quote o azioni di OICR aperti",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "ecca5edb4c7d"
+  },
+  "191-quater": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative relative alla violazione delle disposizioni del regolamento (UE) n. 2023/2631",
+   "vigore_da": "2026-03-06",
+   "datazione": "api",
+   "h": "5ee95cacbfb9"
+  },
+  "192": {
+   "file": "tuf.md",
+   "rubrica": "Offerte pubbliche di acquisto o di scambio",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "1f6a25d2c90e"
+  },
+  "192-bis": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative in tema di informazioni sul governo societario e di politica di remunerazione e compensi corrisposti",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "e4ae8025672f"
+  },
+  "192-ter": {
+   "file": "tuf.md",
+   "rubrica": "Ammissione alle negoziazioni",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "d9fc4addf9be"
+  },
+  "192-quater": {
+   "file": "tuf.md",
+   "rubrica": "Obbligo di astensione",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "6d8e857b1e50"
+  },
+  "192-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative in tema di operazioni con parti correlate",
+   "vigore_da": "2020-08-14",
+   "datazione": "api",
+   "h": "e5798d86cabc"
+  },
+  "193": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative in tema di informazione societaria e doveri dei componenti dell'organo di controllo, dei revisori legali e delle societa' di revisione legale",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "bff6c5c61edc"
+  },
+  "193-bis": {
+   "file": "tuf.md",
+   "rubrica": "Rapporti con societa' estere aventi sede legale in Stati che non garantiscono la trasparenza societaria",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "3255a7a68337"
+  },
+  "193-bis.1": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative in tema di trasparenza degli investitori istituzionali, dei gestori di attivi e dei consulenti in materia di voto",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "2df1fb5456fa"
+  },
+  "193-ter": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative pecuniarie relative alle violazioni delle prescrizioni di cui al regolamento (UE) n. 236/2012",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "11e62f6f36cf"
+  },
+  "193-quater": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative relative alla violazione delle disposizioni previste dal regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, dal regolamento (UE) 2015/2365 del Parlamento europeo e del Consiglio, del 25 novembre 2015, e dal regolamento (UE) 2021/23 del Parlamento europeo e del Consiglio, del 16 dicembre 2020",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "3e8f3dbe8d73"
+  },
+  "193-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento UE n. 1286/2014",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "cfee1a2103bd"
+  },
+  "193-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Sistemi interni di segnalazione",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "2803318204cc"
+  },
+  "194": {
+   "file": "tuf.md",
+   "rubrica": "Deleghe di voto",
+   "vigore_da": "2018-01-03",
+   "datazione": "api",
+   "h": "f09ec08a6465"
+  },
+  "194-bis": {
+   "file": "tuf.md",
+   "rubrica": "Criteri per la determinazione delle sanzioni",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "496d8b30828a"
+  },
+  "194-bis.1": {
+   "file": "tuf.md",
+   "rubrica": "Ordine di eliminare le infrazioni contestate. Dichiarazione pubblica",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "a3e43c6b50a2"
+  },
+  "194-ter": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2021-12-02",
+   "datazione": "api",
+   "h": "d431c5aa0ca6"
+  },
+  "194-ter.1": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) 2019/2033, dagli atti delegati e dalle norme tecniche di regolamentazione e di attuazione della direttiva (UE) 2019/2034 e del regolamento (UE) 2019/2033",
+   "vigore_da": "2021-12-02",
+   "datazione": "api",
+   "h": "6a7ad8b71f04"
+  },
+  "194-quater": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "4f979b2452b5"
+  },
+  "194-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "4f979b2452b5"
+  },
+  "194-sexies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "4f979b2452b5"
+  },
+  "194-septies": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "4f979b2452b5"
+  },
+  "194.1": {
+   "file": "tuf.md",
+   "rubrica": "Violazioni di carattere non rilevante",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "8a3c69e6588b"
+  },
+  "195": {
+   "file": "tuf.md",
+   "rubrica": "Procedura sanzionatoria",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "9b22429e9c0c"
+  },
+  "195-bis": {
+   "file": "tuf.md",
+   "rubrica": "Pubblicazione delle sanzioni",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "81834ae338c5"
+  },
+  "195-ter": {
+   "file": "tuf.md",
+   "rubrica": "Comunicazione all'ABE e all'AESFEM sulle sanzioni applicate",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "9516026386d9"
+  },
+  "195-quater": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni in caso di risoluzione",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "12dba79d06e9"
+  },
+  "195-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Inapplicabilita' di specifiche disposizioni della legge 24 novembre 1981, n. 689",
+   "vigore_da": "2017-08-26",
+   "datazione": "api",
+   "h": "0a6f7debb3af"
+  },
+  "195.1": {
+   "file": "tuf.md",
+   "rubrica": "Principi sulle sanzioni amministrative",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "d9dc0592088f"
+  },
+  "195.2": {
+   "file": "tuf.md",
+   "rubrica": "Concorso di sanzioni amministrative di competenza della Banca d'Italia e della Consob",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "2e51a1c0f79a"
+  },
+  "196": {
+   "file": "tuf.md",
+   "rubrica": "Sanzioni applicabili ai consulenti finanziari",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "8e7432ea2f38"
+  },
+  "196-bis": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "4f979b2452b5"
+  },
+  "196-ter": {
+   "file": "tuf.md",
+   "rubrica": "Impegni",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "f851a4eaaf8e"
+  },
+  "196-quater": {
+   "file": "tuf.md",
+   "rubrica": "Applicazione concordata delle sanzioni amministrative",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "e24f732ce16c"
+  },
+  "196-quinquies": {
+   "file": "tuf.md",
+   "rubrica": "Pagamento in misura ridotta",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "a348f3779319"
+  },
+  "196-sexies": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni di attuazione",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "23126ee8ae13"
+  },
+  "197": {
+   "file": "tuf.md",
+   "rubrica": "Personale della CONSOB",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "63b6cc3fead7"
+  },
+  "198": {
+   "file": "tuf.md",
+   "rubrica": "Girata di titoli azionari",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "dce3d97c61e7"
+  },
+  "199": {
+   "file": "tuf.md",
+   "rubrica": "Societa' fiduciarie",
+   "vigore_da": "2012-10-17",
+   "datazione": "api",
+   "h": "a584260b0e8a"
+  },
+  "200": {
+   "file": "tuf.md",
+   "rubrica": "Intermediari gia' autorizzati",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "11e1912f7127"
+  },
+  "201": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2026-08-07",
+   "datazione": "api",
+   "h": "4f979b2452b5"
+  },
+  "202": {
+   "file": "tuf.md",
+   "rubrica": "",
+   "vigore_da": "2011-05-06",
+   "datazione": "api",
+   "h": "3ef8dad2788c"
+  },
+  "203": {
+   "file": "tuf.md",
+   "rubrica": "Contratti a termine",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "3757ea09d8b7"
+  },
+  "204": {
+   "file": "tuf.md",
+   "rubrica": "Gestione accentrata",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "fee828098940"
+  },
+  "205": {
+   "file": "tuf.md",
+   "rubrica": "Quotazioni di prezzi",
+   "vigore_da": "2012-11-13",
+   "datazione": "api",
+   "h": "d6aa0802ee11"
+  },
+  "206": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni applicabili alle societa' alle societa' quotate in mercati diversi dalla borsa",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "2ae6d9a73c4b"
+  },
+  "207": {
+   "file": "tuf.md",
+   "rubrica": "Patti parasociali",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "fef310f0fa03"
+  },
+  "208": {
+   "file": "tuf.md",
+   "rubrica": "Deleghe di voto, azioni di risparmio, collegio sindacale e revisione contabile",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "37be16720877"
+  },
+  "209": {
+   "file": "tuf.md",
+   "rubrica": "Societa' di revisione",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "cc71d5697e28"
+  },
+  "210": {
+   "file": "tuf.md",
+   "rubrica": "Modifiche al codice civile",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "bf55f827ed49"
+  },
+  "211": {
+   "file": "tuf.md",
+   "rubrica": "Modifiche al T.U. bancario",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "5400bdead4c8"
+  },
+  "212": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni in materia di privatizzazioni",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "d1cd1f7910b1"
+  },
+  "213": {
+   "file": "tuf.md",
+   "rubrica": "Conversione del fallimento in liquidazione coatta amministrativa",
+   "vigore_da": "2004-02-29",
+   "datazione": "api",
+   "h": "65c1827ddd83"
+  },
+  "214": {
+   "file": "tuf.md",
+   "rubrica": "Abrogazioni",
+   "vigore_da": "1999-07-13",
+   "datazione": "api",
+   "h": "5c159097e1fb"
+  },
+  "215": {
+   "file": "tuf.md",
+   "rubrica": "Disposizioni di attuazione",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "13433e5c8ba3"
+  },
+  "216": {
+   "file": "tuf.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "e81e07be046c"
+  }
+ }
+}

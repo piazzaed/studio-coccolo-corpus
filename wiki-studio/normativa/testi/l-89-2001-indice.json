@@ -1,0 +1,245 @@
+{
+ "_meta": {
+  "codice": "l-89-2001",
+  "nome": "Equa riparazione per irragionevole durata del processo (L. 89/2001, legge Pinto)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-06-12",
+  "articoli": 15,
+  "file": [
+   "l-89-2001.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:2001-03-24;89",
+  "versioni": [
+   {
+    "data": "2001-04-03",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2001-10-15",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 12 ottobre 2001, n. 370"
+   },
+   {
+    "data": "2002-03-12",
+    "evento": "rp2",
+    "atto_modificante": "D.L. 11 marzo 2002, n. 28"
+   },
+   {
+    "data": "2002-06-15",
+    "evento": "rp3",
+    "atto_modificante": "D.P.R. 30 maggio 2002, n. 115"
+   },
+   {
+    "data": "2006-12-27",
+    "evento": "rp4",
+    "atto_modificante": "L. 27 dicembre 2006, n. 296"
+   },
+   {
+    "data": "2012-06-26",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 22 giugno 2012, n. 83"
+   },
+   {
+    "data": "2013-04-08",
+    "evento": "rp6",
+    "atto_modificante": "D.L. 8 aprile 2013, n. 35"
+   },
+   {
+    "data": "2015-07-29",
+    "evento": "rp7",
+    "atto_modificante": "atto modificante non indicato (rp7)"
+   },
+   {
+    "data": "2015-12-30",
+    "evento": "rp8",
+    "atto_modificante": "L. 28 dicembre 2015, n. 208"
+   },
+   {
+    "data": "2016-02-24",
+    "evento": "rp9",
+    "atto_modificante": "atto modificante non indicato (rp9)"
+   },
+   {
+    "data": "2018-05-02",
+    "evento": "rp10",
+    "atto_modificante": "atto modificante non indicato (rp10)"
+   },
+   {
+    "data": "2019-07-17",
+    "evento": "rp11",
+    "atto_modificante": "atto modificante non indicato (rp11)"
+   },
+   {
+    "data": "2021-08-04",
+    "evento": "rp12",
+    "atto_modificante": "atto modificante non indicato (rp12)"
+   },
+   {
+    "data": "2021-08-24",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 24 agosto 2021, n. 118"
+   },
+   {
+    "data": "2021-10-23",
+    "evento": "rp14",
+    "atto_modificante": "L. 21 ottobre 2021, n. 147"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp15",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp16",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2023-07-19",
+    "evento": "rp17",
+    "atto_modificante": "atto modificante non indicato (rp17)"
+   },
+   {
+    "data": "2024-12-31",
+    "evento": "rp18",
+    "atto_modificante": "L. 30 dicembre 2024, n. 207"
+   },
+   {
+    "data": "2025-08-08",
+    "evento": "rp19",
+    "atto_modificante": "D.L. 8 agosto 2025, n. 117"
+   },
+   {
+    "data": "2025-10-07",
+    "evento": "rp20",
+    "atto_modificante": "L. 3 ottobre 2025, n. 148"
+   },
+   {
+    "data": "2026-06-12",
+    "evento": "rp21",
+    "atto_modificante": "D.L. 12 giugno 2026, n. 100"
+   }
+  ],
+  "ultima_versione": "2026-06-12",
+  "datazione": {
+   "monoblocco": 15,
+   "api": 12,
+   "riportati": 3,
+   "ignota": 0,
+   "stima_anteriore": 8,
+   "chiamate": 12,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-89-2001.md",
+   "rubrica": "Pronuncia in camera di consiglio",
+   "vigore_da": "2001-04-18",
+   "datazione": "api",
+   "h": "84b380bb7730"
+  },
+  "1-bis": {
+   "file": "l-89-2001.md",
+   "rubrica": "Rimedi all'irragionevole durata del processo",
+   "vigore_da": "2016-01-01",
+   "datazione": "api",
+   "h": "56c029c7d167"
+  },
+  "1-ter": {
+   "file": "l-89-2001.md",
+   "rubrica": "Rimedi preventivi",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "5960b42b4271"
+  },
+  "2": {
+   "file": "l-89-2001.md",
+   "rubrica": "Diritto all'equa riparazione",
+   "vigore_da": "2023-07-20",
+   "datazione": "api",
+   "h": "505870704d26"
+  },
+  "2-bis": {
+   "file": "l-89-2001.md",
+   "rubrica": "Misura dell'indennizzo",
+   "vigore_da": "2016-01-01",
+   "datazione": "api",
+   "h": "1ca82cdfb33b"
+  },
+  "3": {
+   "file": "l-89-2001.md",
+   "rubrica": "Procedimento",
+   "vigore_da": "2016-01-01",
+   "datazione": "api",
+   "h": "1729d080006f"
+  },
+  "4": {
+   "file": "l-89-2001.md",
+   "rubrica": "Termine di proponibilita'",
+   "vigore_da": "2025-08-09",
+   "datazione": "api",
+   "h": "674196b7c54d"
+  },
+  "5": {
+   "file": "l-89-2001.md",
+   "rubrica": "Notificazioni e comunicazioni",
+   "vigore_da": "2012-08-12",
+   "datazione": "api",
+   "h": "593b6c13e11c"
+  },
+  "5-bis": {
+   "file": "l-89-2001.md",
+   "rubrica": "",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "2040e5f3e5f7"
+  },
+  "5-ter": {
+   "file": "l-89-2001.md",
+   "rubrica": "Opposizione",
+   "vigore_da": "2012-08-12",
+   "datazione": "api",
+   "h": "4aa50164b180"
+  },
+  "5-quater": {
+   "file": "l-89-2001.md",
+   "rubrica": "Sanzioni processuali",
+   "vigore_da": "2012-08-12",
+   "datazione": "api",
+   "h": "48232e612783"
+  },
+  "5-quinquies": {
+   "file": "l-89-2001.md",
+   "rubrica": "Esecuzione forzata",
+   "vigore_da": "2013-06-08",
+   "datazione": "api",
+   "h": "f4b53e5325f3"
+  },
+  "5-sexies": {
+   "file": "l-89-2001.md",
+   "rubrica": "Modalita' di pagamento",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "bbd501079398"
+  },
+  "6": {
+   "file": "l-89-2001.md",
+   "rubrica": "Norma transitoria",
+   "vigore_da": "2016-01-01",
+   "datazione": "api",
+   "h": "340b601c9783"
+  },
+  "7": {
+   "file": "l-89-2001.md",
+   "rubrica": "Disposizioni finanziarie",
+   "vigore_da": "2001-04-18",
+   "datazione": "api",
+   "h": "bc8077ecc5c6"
+  }
+ }
+}

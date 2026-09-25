@@ -1,0 +1,59 @@
+name: corpus settimanale
+
+on:
+  schedule:
+    - cron: "17 2 * * 1"          # lunedi' 04:17 ora italiana (02:17 UTC)
+  workflow_dispatch:
+    inputs:
+      forza:
+        description: "riscarica tutti gli atti"
+        type: boolean
+        default: false
+      solo:
+        description: "solo questi atti (slug separati da spazio)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: corpus
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      STUDIO_STATO_ROOT: ${{ runner.temp }}/stato
+      STUDIO_CORPUS: ${{ runner.temp }}/corpus-vivo
+      PYTHONDONTWRITEBYTECODE: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.9"
+      - name: normattiva risponde?
+        run: python3 scripts/corpus_pubblica.py --sonda
+      - name: giro settimanale del corpus
+        run: |
+          ARGS="--settimanale --report $RUNNER_TEMP/rapporto.md"
+          if [ "${{ inputs.forza }}" = "true" ]; then ARGS="$ARGS --forza"; fi
+          for s in ${{ inputs.solo }}; do ARGS="$ARGS --solo $s"; done
+          python3 scripts/corpus_pubblica.py $ARGS
+      - name: estremi della Cassazione (anno in corso e precedente)
+        continue-on-error: true
+        run: python3 scripts/cassazione_indice.py --aggiorna --report $RUNNER_TEMP/cassazione.md
+      - name: manifest finale e verifica
+        run: python3 scripts/corpus_pubblica.py --manifest && python3 scripts/corpus_pubblica.py --verifica
+      - name: pubblica
+        run: |
+          git config user.name "corpus-bot"
+          git config user.email "corpus-bot@users.noreply.github.com"
+          git add -A
+          git commit -m "corpus $(date -u +%F)" || echo "nessuna modifica"
+          git push
+      - name: rapporto
+        if: always()
+        run: cat $RUNNER_TEMP/rapporto.md $RUNNER_TEMP/cassazione.md >> $GITHUB_STEP_SUMMARY 2>/dev/null || true

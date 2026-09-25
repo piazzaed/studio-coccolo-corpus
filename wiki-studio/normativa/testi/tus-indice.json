@@ -1,0 +1,641 @@
+{
+ "_meta": {
+  "codice": "tus",
+  "nome": "Testo unico imposta sulle successioni e donazioni (D.Lgs. 346/1990)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-08-12",
+  "articoli": 66,
+  "file": [
+   "tus.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:1990-10-31;346",
+  "versioni": [
+   {
+    "data": "1990-11-27",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1991-02-23",
+    "evento": "rp1",
+    "atto_modificante": "atto modificante non indicato (rp1)"
+   },
+   {
+    "data": "1991-12-31",
+    "evento": "rp2",
+    "atto_modificante": "L. 30 dicembre 1991, n. 413"
+   },
+   {
+    "data": "1993-01-23",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 23 gennaio 1993, n. 16"
+   },
+   {
+    "data": "1993-08-30",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 30 agosto 1993, n. 331"
+   },
+   {
+    "data": "1994-04-30",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 29 aprile 1994, n. 260"
+   },
+   {
+    "data": "1996-06-20",
+    "evento": "rp6",
+    "atto_modificante": "D.L. 20 giugno 1996, n. 323"
+   },
+   {
+    "data": "1996-12-28",
+    "evento": "rp7",
+    "atto_modificante": "L. 23 dicembre 1996, n. 662"
+   },
+   {
+    "data": "1996-12-31",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 31 dicembre 1996, n. 669"
+   },
+   {
+    "data": "1997-03-29",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 28 marzo 1997, n. 79"
+   },
+   {
+    "data": "1997-05-17",
+    "evento": "rp10",
+    "atto_modificante": "L. 15 maggio 1997, n. 127"
+   },
+   {
+    "data": "1997-07-17",
+    "evento": "rp11",
+    "atto_modificante": "D.Lgs. 19 giugno 1997, n. 218"
+   },
+   {
+    "data": "1997-12-23",
+    "evento": "rp12",
+    "atto_modificante": "D.Lgs. 15 dicembre 1997, n. 446"
+   },
+   {
+    "data": "1998-01-02",
+    "evento": "rp13",
+    "atto_modificante": "D.Lgs. 4 dicembre 1997, n. 460"
+   },
+   {
+    "data": "1998-01-08",
+    "evento": "rp14",
+    "atto_modificante": "D.Lgs. 18 dicembre 1997, n. 473"
+   },
+   {
+    "data": "1998-07-01",
+    "evento": "rp15",
+    "atto_modificante": "D.Lgs. 5 giugno 1998, n. 203"
+   },
+   {
+    "data": "1999-02-22",
+    "evento": "rp16",
+    "atto_modificante": "L. 18 febbraio 1999, n. 28"
+   },
+   {
+    "data": "1999-05-31",
+    "evento": "rp17",
+    "atto_modificante": "D.Lgs. 17 maggio 1999, n. 153"
+   },
+   {
+    "data": "1999-06-04",
+    "evento": "rp18",
+    "atto_modificante": "L. 3 giugno 1999, n. 157"
+   },
+   {
+    "data": "1999-12-27",
+    "evento": "rp19",
+    "atto_modificante": "L. 23 dicembre 1999, n. 488"
+   },
+   {
+    "data": "2000-11-25",
+    "evento": "rp20",
+    "atto_modificante": "L. 21 novembre 2000, n. 342"
+   },
+   {
+    "data": "2001-03-05",
+    "evento": "rp21",
+    "atto_modificante": "D.Lgs. 26 gennaio 2001, n. 32"
+   },
+   {
+    "data": "2001-10-24",
+    "evento": "rp22",
+    "atto_modificante": "L. 18 ottobre 2001, n. 383"
+   },
+   {
+    "data": "2003-10-02",
+    "evento": "rp23",
+    "atto_modificante": "D.L. 30 settembre 2003, n. 269"
+   },
+   {
+    "data": "2006-10-03",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 3 ottobre 2006, n. 262"
+   },
+   {
+    "data": "2006-12-27",
+    "evento": "rp25",
+    "atto_modificante": "L. 27 dicembre 2006, n. 296"
+   },
+   {
+    "data": "2007-12-28",
+    "evento": "rp26",
+    "atto_modificante": "L. 24 dicembre 2007, n. 244"
+   },
+   {
+    "data": "2008-01-11",
+    "evento": "rp27",
+    "atto_modificante": "atto modificante non indicato (rp27)"
+   },
+   {
+    "data": "2009-06-15",
+    "evento": "rp28",
+    "atto_modificante": "atto modificante non indicato (rp28)"
+   },
+   {
+    "data": "2009-12-31",
+    "evento": "rp29",
+    "atto_modificante": "atto modificante non indicato (rp29)"
+   },
+   {
+    "data": "2010-12-21",
+    "evento": "rp30",
+    "atto_modificante": "L. 13 dicembre 2010, n. 220"
+   },
+   {
+    "data": "2010-12-31",
+    "evento": "rp31",
+    "atto_modificante": "atto modificante non indicato (rp31)"
+   },
+   {
+    "data": "2011-12-30",
+    "evento": "rp32",
+    "atto_modificante": "atto modificante non indicato (rp32)"
+   },
+   {
+    "data": "2013-12-28",
+    "evento": "rp33",
+    "atto_modificante": "atto modificante non indicato (rp33)"
+   },
+   {
+    "data": "2014-11-10",
+    "evento": "rp34",
+    "atto_modificante": "L. 30 ottobre 2014, n. 161"
+   },
+   {
+    "data": "2014-11-28",
+    "evento": "rp35",
+    "atto_modificante": "D.Lgs. 21 novembre 2014, n. 175"
+   },
+   {
+    "data": "2015-10-07",
+    "evento": "rp36+rp37",
+    "atto_modificante": "D.Lgs. 24 settembre 2015, n. 158; D.Lgs. 24 settembre 2015, n. 159"
+   },
+   {
+    "data": "2015-12-30",
+    "evento": "rp38",
+    "atto_modificante": "L. 28 dicembre 2015, n. 208"
+   },
+   {
+    "data": "2016-12-31",
+    "evento": "rp39",
+    "atto_modificante": "atto modificante non indicato (rp39)"
+   },
+   {
+    "data": "2017-12-28",
+    "evento": "rp40",
+    "atto_modificante": "atto modificante non indicato (rp40)"
+   },
+   {
+    "data": "2018-12-28",
+    "evento": "rp41",
+    "atto_modificante": "atto modificante non indicato (rp41)"
+   },
+   {
+    "data": "2019-12-30",
+    "evento": "rp42",
+    "atto_modificante": "atto modificante non indicato (rp42)"
+   },
+   {
+    "data": "2020-12-30",
+    "evento": "rp43",
+    "atto_modificante": "atto modificante non indicato (rp43)"
+   },
+   {
+    "data": "2021-12-30",
+    "evento": "rp44",
+    "atto_modificante": "atto modificante non indicato (rp44)"
+   },
+   {
+    "data": "2022-06-21",
+    "evento": "rp45",
+    "atto_modificante": "D.L. 21 giugno 2022, n. 73"
+   },
+   {
+    "data": "2022-12-30",
+    "evento": "rp46",
+    "atto_modificante": "atto modificante non indicato (rp46)"
+   },
+   {
+    "data": "2023-12-29",
+    "evento": "rp47",
+    "atto_modificante": "atto modificante non indicato (rp47)"
+   },
+   {
+    "data": "2024-06-28",
+    "evento": "rp48",
+    "atto_modificante": "D.Lgs. 14 giugno 2024, n. 87"
+   },
+   {
+    "data": "2024-07-19",
+    "evento": "rp49",
+    "atto_modificante": "L. 4 luglio 2024, n. 104"
+   },
+   {
+    "data": "2024-10-02",
+    "evento": "rp50",
+    "atto_modificante": "D.Lgs. 18 settembre 2024, n. 139"
+   },
+   {
+    "data": "2024-11-28",
+    "evento": "rp51",
+    "atto_modificante": "D.Lgs. 5 novembre 2024, n. 173"
+   },
+   {
+    "data": "2024-12-31",
+    "evento": "rp52",
+    "atto_modificante": "atto modificante non indicato (rp52)"
+   },
+   {
+    "data": "2025-08-12",
+    "evento": "rp53",
+    "atto_modificante": "D.Lgs. 1 agosto 2025, n. 123"
+   },
+   {
+    "data": "2025-12-19",
+    "evento": "rp54",
+    "atto_modificante": "D.Lgs. 18 dicembre 2025, n. 192"
+   },
+   {
+    "data": "2025-12-31",
+    "evento": "rp55",
+    "atto_modificante": "atto modificante non indicato (rp55)"
+   },
+   {
+    "data": "2026-06-03",
+    "evento": "rp56",
+    "atto_modificante": "atto modificante non indicato (rp56)"
+   },
+   {
+    "data": "2026-08-06",
+    "evento": "rp57",
+    "atto_modificante": "D.Lgs. 5 agosto 2026, n. 141"
+   },
+   {
+    "data": "2026-08-11",
+    "evento": "rp58",
+    "atto_modificante": "D.Lgs. 7 agosto 2026, n. 148"
+   }
+  ],
+  "ultima_versione": "2026-08-11"
+ },
+ "articoli": {
+  "1": {
+   "file": "tus.md",
+   "rubrica": "",
+   "vigore_da": "2024-10-03"
+  },
+  "2": {
+   "file": "tus.md",
+   "rubrica": "Territorialita' dell'imposta",
+   "vigore_da": "2024-10-03"
+  },
+  "3": {
+   "file": "tus.md",
+   "rubrica": "Trasferimenti non soggetti all'imposta",
+   "vigore_da": "2024-10-03"
+  },
+  "4": {
+   "file": "tus.md",
+   "rubrica": "",
+   "vigore_da": "2000-12-10"
+  },
+  "4-bis": {
+   "file": "tus.md",
+   "rubrica": "Trust e altri vincoli di destinazione",
+   "vigore_da": "2026-08-12"
+  },
+  "5": {
+   "file": "tus.md",
+   "rubrica": "Soggetti passivi",
+   "vigore_da": "2024-10-03"
+  },
+  "6": {
+   "file": "tus.md",
+   "rubrica": "Ufficio competente",
+   "vigore_da": "2024-10-03"
+  },
+  "7": {
+   "file": "tus.md",
+   "rubrica": "",
+   "vigore_da": "2024-10-03"
+  },
+  "8": {
+   "file": "tus.md",
+   "rubrica": "Base imponibile",
+   "vigore_da": "2025-01-01"
+  },
+  "9": {
+   "file": "tus.md",
+   "rubrica": "Attivo ereditario",
+   "vigore_da": "2024-10-03"
+  },
+  "10": {
+   "file": "tus.md",
+   "rubrica": "",
+   "vigore_da": "2000-12-10"
+  },
+  "11": {
+   "file": "tus.md",
+   "rubrica": "Presunzione di appartenenza all'attivo ereditario",
+   "vigore_da": "2000-12-10"
+  },
+  "12": {
+   "file": "tus.md",
+   "rubrica": "Beni non compresi nell'attivo ereditario",
+   "vigore_da": "2024-10-03"
+  },
+  "13": {
+   "file": "tus.md",
+   "rubrica": "Beni culturali",
+   "vigore_da": "2024-10-03"
+  },
+  "14": {
+   "file": "tus.md",
+   "rubrica": "Beni immobili e diritti reali immobiliari",
+   "vigore_da": "2024-10-03"
+  },
+  "15": {
+   "file": "tus.md",
+   "rubrica": "Aziende, navi e aeromoboli",
+   "vigore_da": "2024-10-03"
+  },
+  "16": {
+   "file": "tus.md",
+   "rubrica": "Azioni e obbligazioni, altri titoli, quote sociali",
+   "vigore_da": "2024-10-03"
+  },
+  "17": {
+   "file": "tus.md",
+   "rubrica": "Rendite e pensioni",
+   "vigore_da": "2026-06-04"
+  },
+  "18": {
+   "file": "tus.md",
+   "rubrica": "Crediti",
+   "vigore_da": "1991-01-01"
+  },
+  "19": {
+   "file": "tus.md",
+   "rubrica": "Altri beni",
+   "vigore_da": "1991-01-01"
+  },
+  "20": {
+   "file": "tus.md",
+   "rubrica": "Passivita' deducibili",
+   "vigore_da": "1994-05-01"
+  },
+  "21": {
+   "file": "tus.md",
+   "rubrica": "Condizioni di deducibilita' dei debiti",
+   "vigore_da": "1991-01-01"
+  },
+  "22": {
+   "file": "tus.md",
+   "rubrica": "Limiti alla deducibilita' dei debiti",
+   "vigore_da": "2024-10-03"
+  },
+  "23": {
+   "file": "tus.md",
+   "rubrica": "Dimostrazione dei debiti",
+   "vigore_da": "2024-10-03"
+  },
+  "24": {
+   "file": "tus.md",
+   "rubrica": "Spese mediche e spese funerarie",
+   "vigore_da": "1991-01-01"
+  },
+  "25": {
+   "file": "tus.md",
+   "rubrica": "Riduzioni dell'imposta",
+   "vigore_da": "2024-10-03"
+  },
+  "26": {
+   "file": "tus.md",
+   "rubrica": "Detrazione di altre imposte",
+   "vigore_da": "1997-05-30"
+  },
+  "27": {
+   "file": "tus.md",
+   "rubrica": "Procedimento e termini",
+   "vigore_da": "2024-10-03"
+  },
+  "28": {
+   "file": "tus.md",
+   "rubrica": "Dichiarazione della successione",
+   "vigore_da": "2025-01-01"
+  },
+  "29": {
+   "file": "tus.md",
+   "rubrica": "Contenuto della dichiarazione",
+   "vigore_da": "2025-01-01"
+  },
+  "30": {
+   "file": "tus.md",
+   "rubrica": "Allegati alla dichiarazione",
+   "vigore_da": "2025-01-01"
+  },
+  "31": {
+   "file": "tus.md",
+   "rubrica": "Termine per la presentazione della dichiarazione",
+   "vigore_da": "2024-10-03"
+  },
+  "32": {
+   "file": "tus.md",
+   "rubrica": "Irregolarita', incompletezza e infedelta' della dichiarazione",
+   "vigore_da": "2024-10-03"
+  },
+  "33": {
+   "file": "tus.md",
+   "rubrica": "Liquidazione dell'imposta in base alla dichiarazione",
+   "vigore_da": "2025-01-01"
+  },
+  "34": {
+   "file": "tus.md",
+   "rubrica": "Rettifica e liquidazione della maggiore imposta",
+   "vigore_da": "2026-08-12"
+  },
+  "35": {
+   "file": "tus.md",
+   "rubrica": "Accertamento e liquidazione d'ufficio",
+   "vigore_da": "2024-10-03"
+  },
+  "36": {
+   "file": "tus.md",
+   "rubrica": "Soggetti obbligati al pagamento dell'imposta",
+   "vigore_da": "2024-10-03"
+  },
+  "37": {
+   "file": "tus.md",
+   "rubrica": "Pagamento dell'imposta",
+   "vigore_da": "2024-10-03"
+  },
+  "38": {
+   "file": "tus.md",
+   "rubrica": "Dilazione del pagamento",
+   "vigore_da": "2024-10-03"
+  },
+  "39": {
+   "file": "tus.md",
+   "rubrica": "Pagamento dell'imposta",
+   "vigore_da": "2024-10-03"
+  },
+  "40": {
+   "file": "tus.md",
+   "rubrica": "Riscossione in pendenza di giudizio",
+   "vigore_da": "2025-01-01"
+  },
+  "41": {
+   "file": "tus.md",
+   "rubrica": "Riscossione coattiva e prescrizione",
+   "vigore_da": "2024-10-03"
+  },
+  "42": {
+   "file": "tus.md",
+   "rubrica": "Rimborso dell'imposta",
+   "vigore_da": "2025-01-01"
+  },
+  "43": {
+   "file": "tus.md",
+   "rubrica": "Disposizioni testamentarie impugnate o modificate",
+   "vigore_da": "1991-01-01"
+  },
+  "44": {
+   "file": "tus.md",
+   "rubrica": "Disposizioni testamentarie condizionali",
+   "vigore_da": "2024-10-03"
+  },
+  "45": {
+   "file": "tus.md",
+   "rubrica": "Sostituzione fedecommissaria",
+   "vigore_da": "1991-01-01"
+  },
+  "46": {
+   "file": "tus.md",
+   "rubrica": "Presunzione di legato",
+   "vigore_da": "1991-01-01"
+  },
+  "47": {
+   "file": "tus.md",
+   "rubrica": "Poteri dell'Amministrazione finanziaria",
+   "vigore_da": "2024-10-03"
+  },
+  "48": {
+   "file": "tus.md",
+   "rubrica": "Divieti e obblighi a carico di terzi",
+   "vigore_da": "2025-01-01"
+  },
+  "49": {
+   "file": "tus.md",
+   "rubrica": "Disposizione nuova",
+   "vigore_da": "2024-10-03"
+  },
+  "50": {
+   "file": "tus.md",
+   "rubrica": "Omissione della dichiarazione",
+   "vigore_da": "2024-06-29"
+  },
+  "51": {
+   "file": "tus.md",
+   "rubrica": "Infedelta' della dichiarazione",
+   "vigore_da": "2024-10-03"
+  },
+  "52": {
+   "file": "tus.md",
+   "rubrica": "",
+   "vigore_da": "1998-04-01"
+  },
+  "53": {
+   "file": "tus.md",
+   "rubrica": "Altre violazioni",
+   "vigore_da": "2024-06-29"
+  },
+  "54": {
+   "file": "tus.md",
+   "rubrica": "Determinazione della sazione amministrativa",
+   "vigore_da": "2024-10-03"
+  },
+  "55": {
+   "file": "tus.md",
+   "rubrica": "Registrazione degli atti di donazione",
+   "vigore_da": "2024-10-03"
+  },
+  "56": {
+   "file": "tus.md",
+   "rubrica": "Determinazione dell'imposta",
+   "vigore_da": "2024-10-03"
+  },
+  "56-bis": {
+   "file": "tus.md",
+   "rubrica": "Accertamento delle liberalita' indirette",
+   "vigore_da": "2024-10-03"
+  },
+  "57": {
+   "file": "tus.md",
+   "rubrica": "Disposizione nuova",
+   "vigore_da": "2024-10-03"
+  },
+  "58": {
+   "file": "tus.md",
+   "rubrica": "Disposizione nuova",
+   "vigore_da": "1991-01-01"
+  },
+  "59": {
+   "file": "tus.md",
+   "rubrica": "Disposizione nuova",
+   "vigore_da": "2024-10-03"
+  },
+  "59-bis": {
+   "file": "tus.md",
+   "rubrica": "Esenzione per i veicoli iscritti al pubblico registro automobilistico",
+   "vigore_da": "1998-01-01"
+  },
+  "60": {
+   "file": "tus.md",
+   "rubrica": "Rinvio",
+   "vigore_da": "2024-10-03"
+  },
+  "61": {
+   "file": "tus.md",
+   "rubrica": "",
+   "vigore_da": "2025-01-01"
+  },
+  "62": {
+   "file": "tus.md",
+   "rubrica": "",
+   "vigore_da": "1991-01-01"
+  },
+  "63": {
+   "file": "tus.md",
+   "rubrica": "",
+   "vigore_da": "1991-01-01"
+  }
+ }
+}

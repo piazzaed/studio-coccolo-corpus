@@ -1,0 +1,4753 @@
+{
+ "_meta": {
+  "codice": "cap",
+  "nome": "Codice delle assicurazioni private (D.Lgs. 209/2005)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-08-12",
+  "articoli": 613,
+  "file": [
+   "cap.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2005-09-07;209",
+  "versioni": [
+   {
+    "data": "2005-10-13",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2006-06-06",
+    "evento": "rp1",
+    "atto_modificante": "atto modificante non indicato (rp1)"
+   },
+   {
+    "data": "2006-07-04",
+    "evento": "rp2",
+    "atto_modificante": "D.L. 4 luglio 2006, n. 223"
+   },
+   {
+    "data": "2006-12-27",
+    "evento": "rp3",
+    "atto_modificante": "L. 27 dicembre 2006, n. 296"
+   },
+   {
+    "data": "2007-02-01",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 31 gennaio 2007, n. 7"
+   },
+   {
+    "data": "2007-03-28",
+    "evento": "rp5",
+    "atto_modificante": "D.Lgs. 2 febbraio 2007, n. 32"
+   },
+   {
+    "data": "2007-06-20",
+    "evento": "rp6",
+    "atto_modificante": "atto modificante non indicato (rp6)"
+   },
+   {
+    "data": "2007-11-09",
+    "evento": "rp7",
+    "atto_modificante": "D.Lgs. 6 novembre 2007, n. 198"
+   },
+   {
+    "data": "2008-04-08",
+    "evento": "rp8",
+    "atto_modificante": "D.Lgs. 29 febbraio 2008, n. 56"
+   },
+   {
+    "data": "2008-06-03",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 3 giugno 2008, n. 97"
+   },
+   {
+    "data": "2008-06-30",
+    "evento": "rp10",
+    "atto_modificante": "atto modificante non indicato (rp10)"
+   },
+   {
+    "data": "2008-11-06",
+    "evento": "rp11",
+    "atto_modificante": "D.Lgs. 3 novembre 2008, n. 173"
+   },
+   {
+    "data": "2008-12-31",
+    "evento": "rp12",
+    "atto_modificante": "D.L. 30 dicembre 2008, n. 207"
+   },
+   {
+    "data": "2009-07-01",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 1 luglio 2009, n. 78"
+   },
+   {
+    "data": "2009-07-09",
+    "evento": "rp14",
+    "atto_modificante": "atto modificante non indicato (rp14)"
+   },
+   {
+    "data": "2009-12-30",
+    "evento": "rp15+rp16",
+    "atto_modificante": "L. 23 dicembre 2009, n. 191; D.L. 30 dicembre 2009, n. 194"
+   },
+   {
+    "data": "2010-02-23",
+    "evento": "rp17",
+    "atto_modificante": "D.Lgs. 27 gennaio 2010, n. 21"
+   },
+   {
+    "data": "2010-03-23",
+    "evento": "rp18",
+    "atto_modificante": "D.Lgs. 27 gennaio 2010, n. 39"
+   },
+   {
+    "data": "2010-06-15",
+    "evento": "rp19",
+    "atto_modificante": "atto modificante non indicato (rp19)"
+   },
+   {
+    "data": "2010-07-02",
+    "evento": "rp20",
+    "atto_modificante": "atto modificante non indicato (rp20)"
+   },
+   {
+    "data": "2010-07-07",
+    "evento": "rp21",
+    "atto_modificante": "D.Lgs. 2 luglio 2010, n. 104"
+   },
+   {
+    "data": "2010-09-24",
+    "evento": "rp22",
+    "atto_modificante": "atto modificante non indicato (rp22)"
+   },
+   {
+    "data": "2011-06-27",
+    "evento": "rp23",
+    "atto_modificante": "atto modificante non indicato (rp23)"
+   },
+   {
+    "data": "2012-01-24",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 24 gennaio 2012, n. 1"
+   },
+   {
+    "data": "2012-06-28",
+    "evento": "rp25",
+    "atto_modificante": "atto modificante non indicato (rp25)"
+   },
+   {
+    "data": "2012-08-08",
+    "evento": "rp26",
+    "atto_modificante": "D.Lgs. 30 luglio 2012, n. 130"
+   },
+   {
+    "data": "2012-10-19",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 18 ottobre 2012, n. 179"
+   },
+   {
+    "data": "2013-06-14",
+    "evento": "rp28",
+    "atto_modificante": "atto modificante non indicato (rp28)"
+   },
+   {
+    "data": "2013-08-31",
+    "evento": "rp29",
+    "atto_modificante": "D.L. 31 agosto 2013, n. 102"
+   },
+   {
+    "data": "2013-10-03",
+    "evento": "rp30",
+    "atto_modificante": "D.M. Ministero Dello Sviluppo Economico 9 agosto 2013, n. 110"
+   },
+   {
+    "data": "2014-04-01",
+    "evento": "rp31",
+    "atto_modificante": "D.Lgs. 4 marzo 2014, n. 53"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp32",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 91"
+   },
+   {
+    "data": "2014-07-04",
+    "evento": "rp33",
+    "atto_modificante": "atto modificante non indicato (rp33)"
+   },
+   {
+    "data": "2015-06-15",
+    "evento": "rp34",
+    "atto_modificante": "D.Lgs. 12 maggio 2015, n. 74"
+   },
+   {
+    "data": "2015-07-15",
+    "evento": "rp35",
+    "atto_modificante": "atto modificante non indicato (rp35)"
+   },
+   {
+    "data": "2015-07-17",
+    "evento": "rp36",
+    "atto_modificante": "atto modificante non indicato (rp36)"
+   },
+   {
+    "data": "2016-08-13",
+    "evento": "rp37",
+    "atto_modificante": "atto modificante non indicato (rp37)"
+   },
+   {
+    "data": "2017-07-27",
+    "evento": "rp38",
+    "atto_modificante": "atto modificante non indicato (rp38)"
+   },
+   {
+    "data": "2017-08-14",
+    "evento": "rp39",
+    "atto_modificante": "L. 4 agosto 2017, n. 124"
+   },
+   {
+    "data": "2017-08-23",
+    "evento": "rp40",
+    "atto_modificante": "atto modificante non indicato (rp40)"
+   },
+   {
+    "data": "2018-06-16",
+    "evento": "rp41",
+    "atto_modificante": "D.Lgs. 21 maggio 2018, n. 68"
+   },
+   {
+    "data": "2018-12-31",
+    "evento": "rp42",
+    "atto_modificante": "L. 30 dicembre 2018, n. 145"
+   },
+   {
+    "data": "2019-01-17",
+    "evento": "rp43",
+    "atto_modificante": "D.Lgs. 13 dicembre 2018, n. 147"
+   },
+   {
+    "data": "2019-02-04",
+    "evento": "rp44",
+    "atto_modificante": "atto modificante non indicato (rp44)"
+   },
+   {
+    "data": "2019-02-14",
+    "evento": "rp45",
+    "atto_modificante": "D.Lgs. 12 gennaio 2019, n. 14"
+   },
+   {
+    "data": "2019-04-30",
+    "evento": "rp46",
+    "atto_modificante": "D.L. 30 aprile 2019, n. 34"
+   },
+   {
+    "data": "2019-06-10",
+    "evento": "rp47",
+    "atto_modificante": "D.Lgs. 10 maggio 2019, n. 49"
+   },
+   {
+    "data": "2019-06-29",
+    "evento": "rp48",
+    "atto_modificante": "L. 28 giugno 2019, n. 58"
+   },
+   {
+    "data": "2019-08-13",
+    "evento": "rp49",
+    "atto_modificante": "atto modificante non indicato (rp49)"
+   },
+   {
+    "data": "2019-10-26",
+    "evento": "rp50",
+    "atto_modificante": "D.L. 26 ottobre 2019, n. 124"
+   },
+   {
+    "data": "2019-12-24",
+    "evento": "rp51",
+    "atto_modificante": "L. 19 dicembre 2019, n. 157"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp52",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-01-09",
+    "evento": "rp53",
+    "atto_modificante": "D.Lgs. 25 novembre 2019, n. 165"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp54",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2020-03-17",
+    "evento": "rp55",
+    "atto_modificante": "D.L. 17 marzo 2020, n. 18"
+   },
+   {
+    "data": "2020-04-08",
+    "evento": "rp56",
+    "atto_modificante": "D.L. 8 aprile 2020, n. 23"
+   },
+   {
+    "data": "2020-04-29",
+    "evento": "rp57",
+    "atto_modificante": "L. 24 aprile 2020, n. 27"
+   },
+   {
+    "data": "2020-07-30",
+    "evento": "rp58",
+    "atto_modificante": "D.Lgs. 14 luglio 2020, n. 84"
+   },
+   {
+    "data": "2021-01-25",
+    "evento": "rp59",
+    "atto_modificante": "D.Lgs. 30 dicembre 2020, n. 187"
+   },
+   {
+    "data": "2021-08-24",
+    "evento": "rp60",
+    "atto_modificante": "D.L. 24 agosto 2021, n. 118"
+   },
+   {
+    "data": "2021-12-30",
+    "evento": "rp61",
+    "atto_modificante": "D.L. 30 dicembre 2021, n. 228"
+   },
+   {
+    "data": "2022-01-17",
+    "evento": "rp62",
+    "atto_modificante": "L. 23 dicembre 2021, n. 238"
+   },
+   {
+    "data": "2022-02-28",
+    "evento": "rp63",
+    "atto_modificante": "L. 25 febbraio 2022, n. 15"
+   },
+   {
+    "data": "2022-04-30",
+    "evento": "rp64",
+    "atto_modificante": "D.L. 30 aprile 2022, n. 36"
+   },
+   {
+    "data": "2022-06-22",
+    "evento": "rp65",
+    "atto_modificante": "atto modificante non indicato (rp65)"
+   },
+   {
+    "data": "2022-06-27",
+    "evento": "rp66",
+    "atto_modificante": "atto modificante non indicato (rp66)"
+   },
+   {
+    "data": "2022-08-12",
+    "evento": "rp67",
+    "atto_modificante": "L. 5 agosto 2022, n. 118"
+   },
+   {
+    "data": "2023-06-15",
+    "evento": "rp68",
+    "atto_modificante": "D.Lgs. 15 maggio 2023, n. 70"
+   },
+   {
+    "data": "2023-10-21",
+    "evento": "rp69",
+    "atto_modificante": "atto modificante non indicato (rp69)"
+   },
+   {
+    "data": "2023-12-13",
+    "evento": "rp70",
+    "atto_modificante": "D.Lgs. 22 novembre 2023, n. 184"
+   },
+   {
+    "data": "2023-12-27",
+    "evento": "rp71",
+    "atto_modificante": "D.Lgs. 7 dicembre 2023, n. 207"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp72",
+    "atto_modificante": "L. 30 dicembre 2023, n. 213"
+   },
+   {
+    "data": "2024-01-20",
+    "evento": "rp73",
+    "atto_modificante": "atto modificante non indicato (rp73)"
+   },
+   {
+    "data": "2024-07-25",
+    "evento": "rp74",
+    "atto_modificante": "atto modificante non indicato (rp74)"
+   },
+   {
+    "data": "2024-09-10",
+    "evento": "rp75",
+    "atto_modificante": "D.Lgs. 6 settembre 2024, n. 125"
+   },
+   {
+    "data": "2024-11-11",
+    "evento": "rp76",
+    "atto_modificante": "D.Lgs. 31 ottobre 2024, n. 164"
+   },
+   {
+    "data": "2025-03-11",
+    "evento": "rp77",
+    "atto_modificante": "D.Lgs. 10 marzo 2025, n. 23"
+   },
+   {
+    "data": "2025-06-30",
+    "evento": "rp78",
+    "atto_modificante": "D.L. 30 giugno 2025, n. 95"
+   },
+   {
+    "data": "2025-07-31",
+    "evento": "rp79",
+    "atto_modificante": "atto modificante non indicato (rp79)"
+   },
+   {
+    "data": "2025-08-09",
+    "evento": "rp80",
+    "atto_modificante": "L. 8 agosto 2025, n. 118"
+   },
+   {
+    "data": "2025-12-30",
+    "evento": "rp81",
+    "atto_modificante": "L. 30 dicembre 2025, n. 199"
+   },
+   {
+    "data": "2026-01-08",
+    "evento": "rp82",
+    "atto_modificante": "D.Lgs. 31 dicembre 2025, n. 209"
+   },
+   {
+    "data": "2026-01-09",
+    "evento": "rp83",
+    "atto_modificante": "D.Lgs. 31 dicembre 2025, n. 212"
+   },
+   {
+    "data": "2026-03-23",
+    "evento": "rp84",
+    "atto_modificante": "L. 11 marzo 2026, n. 34"
+   },
+   {
+    "data": "2026-04-27",
+    "evento": "rp85",
+    "atto_modificante": "D.Lgs. 27 marzo 2026, n. 57"
+   },
+   {
+    "data": "2026-07-28",
+    "evento": "rp86",
+    "atto_modificante": "atto modificante non indicato (rp86)"
+   }
+  ],
+  "ultima_versione": "2026-07-28",
+  "datazione": {
+   "monoblocco": 613,
+   "api": 531,
+   "riportati": 79,
+   "ignota": 3,
+   "testo_diverso": 3,
+   "stima_anteriore": 101,
+   "stima_posteriore": 65,
+   "chiamate": 534,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "cap.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "503c80963ada"
+  },
+  "2": {
+   "file": "cap.md",
+   "rubrica": "Classificazione per ramo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "8b474f4b8e2d"
+  },
+  "3": {
+   "file": "cap.md",
+   "rubrica": "Finalita' della vigilanza",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "961f6faf9473"
+  },
+  "3-bis": {
+   "file": "cap.md",
+   "rubrica": "Principi generali della vigilanza",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "9a4bdb87324c"
+  },
+  "4": {
+   "file": "cap.md",
+   "rubrica": "Ministro dello sviluppo economico",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "b4c5b4cf7e00"
+  },
+  "5": {
+   "file": "cap.md",
+   "rubrica": "Autorita' di vigilanza",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "77551b1e5b70"
+  },
+  "6": {
+   "file": "cap.md",
+   "rubrica": "Destinatari della vigilanza",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "51e98307249a"
+  },
+  "7": {
+   "file": "cap.md",
+   "rubrica": "Reclami",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ad0a3a49d813"
+  },
+  "8": {
+   "file": "cap.md",
+   "rubrica": "Rapporti con il diritto dell'Unione europea e integrazione nel SEVIF",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "570fbbf51b86"
+  },
+  "9": {
+   "file": "cap.md",
+   "rubrica": "Regolamenti e altri provvedimenti",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "22aedf10a832"
+  },
+  "9-bis": {
+   "file": "cap.md",
+   "rubrica": "Trasparenza e responsabilita' dell'attivita' di vigilanza",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "88c8d4b44ba4"
+  },
+  "10": {
+   "file": "cap.md",
+   "rubrica": "Segreto d'ufficio",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "944cd5b04c26"
+  },
+  "10-bis": {
+   "file": "cap.md",
+   "rubrica": "Utilizzo delle informazioni riservate",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ea6f6b99129f"
+  },
+  "10-ter": {
+   "file": "cap.md",
+   "rubrica": "Scambio di informazioni con altre Autorita' dell'Unione europea",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "6ffa9a92f806"
+  },
+  "10-quater": {
+   "file": "cap.md",
+   "rubrica": "Sistemi interni di segnalazione delle violazioni",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "53be1fc7a5c2"
+  },
+  "10-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Procedura di segnalazione di violazioni",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "3767d7202fca"
+  },
+  "11": {
+   "file": "cap.md",
+   "rubrica": "Attivita' assicurativa",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "a93e2abf7425"
+  },
+  "12": {
+   "file": "cap.md",
+   "rubrica": "Operazioni vietate",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "dc3aa06e8053"
+  },
+  "13": {
+   "file": "cap.md",
+   "rubrica": "Autorizzazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d6d364faa587"
+  },
+  "14": {
+   "file": "cap.md",
+   "rubrica": "Requisiti e procedura",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ff79cd74a660"
+  },
+  "14-bis": {
+   "file": "cap.md",
+   "rubrica": "Programma di attivita'",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "fe79377d90d3"
+  },
+  "15": {
+   "file": "cap.md",
+   "rubrica": "Estensione ad altri rami",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "44a4c710644f"
+  },
+  "16": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di stabilimento in un altro Stato membro",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ecd507d24c29"
+  },
+  "17": {
+   "file": "cap.md",
+   "rubrica": "Procedura per l'accesso in regime di stabilimento",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "9655c317068a"
+  },
+  "18": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di prestazione di servizi in un altro Stato membro",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "33db0e73b7dc"
+  },
+  "19": {
+   "file": "cap.md",
+   "rubrica": "Procedura per l'accesso in regime di prestazione di servizi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "67bb3ca8fafe"
+  },
+  "20": {
+   "file": "cap.md",
+   "rubrica": "Assicurazione malattia in sostituzione di un regime legale di previdenza sociale",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d5d92fc39ab5"
+  },
+  "21": {
+   "file": "cap.md",
+   "rubrica": "Attivita' svolta da sedi secondarie situate in altri Stati membri",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c3a9e42fea08"
+  },
+  "22": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in uno Stato terzo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "465550c18ba9"
+  },
+  "23": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di stabilimento",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "078635e81cf0"
+  },
+  "24": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di prestazione di servizi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "313b45c522d4"
+  },
+  "25": {
+   "file": "cap.md",
+   "rubrica": "Rappresentante per la gestione dei sinistri",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "75b5badb2c61"
+  },
+  "26": {
+   "file": "cap.md",
+   "rubrica": "Elenco delle imprese comunitarie operanti in Italia",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "cdede0898f97"
+  },
+  "27": {
+   "file": "cap.md",
+   "rubrica": "Rispetto delle norme di interesse generale",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "62b5a3aff92a"
+  },
+  "28": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di stabilimento",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "645dd85aa44d"
+  },
+  "29": {
+   "file": "cap.md",
+   "rubrica": "Divieto di operare in regime di prestazione di servizi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "317812ff3b55"
+  },
+  "29-bis": {
+   "file": "cap.md",
+   "rubrica": "Responsabilita' del consiglio di amministrazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "736e872354d5"
+  },
+  "30": {
+   "file": "cap.md",
+   "rubrica": "Sistema di governo societario dell'impresa",
+   "vigore_da": "2025-03-12",
+   "datazione": "api",
+   "h": "0a63f9c63dc2"
+  },
+  "30-bis": {
+   "file": "cap.md",
+   "rubrica": "Sistema di gestione dei rischi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "4910dc1b3aea"
+  },
+  "30-ter": {
+   "file": "cap.md",
+   "rubrica": "Valutazione interna del rischio e della solvibilita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "12469b6417a5"
+  },
+  "30-quater": {
+   "file": "cap.md",
+   "rubrica": "Sistema di controllo interno",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "bcc0394f44ea"
+  },
+  "30-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Funzione di revisione interna",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "474b7ddf7481"
+  },
+  "30-sexies": {
+   "file": "cap.md",
+   "rubrica": "Funzione attuariale",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "b27111469eec"
+  },
+  "30-septies": {
+   "file": "cap.md",
+   "rubrica": "Esternalizzazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "0230b8ff0a1f"
+  },
+  "30-octies": {
+   "file": "cap.md",
+   "rubrica": "Requisiti organizzativi dell'impresa che esercita il ramo assistenza",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "0f5bc4e42acf"
+  },
+  "30-novies": {
+   "file": "cap.md",
+   "rubrica": "Strumenti del sistema di gestione dei rischi sulle tariffe",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "33a97a75074d"
+  },
+  "30-decies": {
+   "file": "cap.md",
+   "rubrica": "Requisiti di Governo e controllo del prodotto applicabili alle imprese di assicurazione e agli intermediari che realizzano prodotti assicurativi da vendere ai clienti",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "870e0f6d5700"
+  },
+  "31": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "32": {
+   "file": "cap.md",
+   "rubrica": "Determinazione delle tariffe nei rami vita",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ceea585910a5"
+  },
+  "33": {
+   "file": "cap.md",
+   "rubrica": "Tasso di interesse garantibile nei contratti relativi ai rami vita",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "370092662cd1"
+  },
+  "34": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "35": {
+   "file": "cap.md",
+   "rubrica": "Determinazione delle tariffe nei rami responsabilita' civile veicoli e natanti",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "990a6ba4563d"
+  },
+  "35-bis": {
+   "file": "cap.md",
+   "rubrica": "Strumenti del sistema di gestione dei rischi sulle riserve tecniche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "1fb14b22a2dd"
+  },
+  "35-ter": {
+   "file": "cap.md",
+   "rubrica": "Strumenti del sistema di gestione dei rischi nei rami della responsabilita' civile veicoli a motore e natanti",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "8599c9982043"
+  },
+  "35-quater": {
+   "file": "cap.md",
+   "rubrica": "Valutazione degli attivi e delle passivita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "3cac0850995f"
+  },
+  "36": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "36-bis": {
+   "file": "cap.md",
+   "rubrica": "Disposizioni generali in materia di riserve tecniche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "4e80b8d650f1"
+  },
+  "36-ter": {
+   "file": "cap.md",
+   "rubrica": "Calcolo delle riserve tecniche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c96bd3c8c32d"
+  },
+  "36-quater": {
+   "file": "cap.md",
+   "rubrica": "Estrapolazione della pertinente struttura per scadenza dei tassi d'interesse privi di rischio",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e3f3c5f366b3"
+  },
+  "36-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Aggiustamento di congruita' della pertinente struttura per scadenza dei tassi di interesse privi di rischio",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "7f96a0a77d13"
+  },
+  "36-sexies": {
+   "file": "cap.md",
+   "rubrica": "Calcolo dell'aggiustamento di congruita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "8b78abfc551b"
+  },
+  "36-septies": {
+   "file": "cap.md",
+   "rubrica": "Aggiustamento per la volatilita' della pertinente struttura per scadenza dei tassi di interesse privi di rischio",
+   "vigore_da": "2020-03-17",
+   "datazione": "api",
+   "h": "1a295c34f5b1"
+  },
+  "36-octies": {
+   "file": "cap.md",
+   "rubrica": "Informazioni tecniche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "b9953881b743"
+  },
+  "36-novies": {
+   "file": "cap.md",
+   "rubrica": "Altri elementi da prendere in considerazione nel calcolo delle riserve tecniche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "5351c8fc9635"
+  },
+  "36-decies": {
+   "file": "cap.md",
+   "rubrica": "Valutazione delle garanzie finanziarie e delle opzioni contrattuali incluse nei contratti di assicurazione e di riassicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d81b99dc46ad"
+  },
+  "36-undecies": {
+   "file": "cap.md",
+   "rubrica": "Importi recuperabili da contratti di riassicurazione e societa' veicolo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "5e066b850ff5"
+  },
+  "36-duodecies": {
+   "file": "cap.md",
+   "rubrica": "Qualita' dei dati",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "6a374b30a5ee"
+  },
+  "36-terdecies": {
+   "file": "cap.md",
+   "rubrica": "Adeguatezza delle riserve tecniche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "cdbe008079c2"
+  },
+  "37": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "37-bis": {
+   "file": "cap.md",
+   "rubrica": "Riserve tecniche del lavoro indiretto",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "2a085a7e5600"
+  },
+  "37-ter": {
+   "file": "cap.md",
+   "rubrica": "Principio della persona prudente",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "b35b3711cbd5"
+  },
+  "38": {
+   "file": "cap.md",
+   "rubrica": "Copertura delle riserve tecniche",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "0640b6159756"
+  },
+  "39": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "40": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "41": {
+   "file": "cap.md",
+   "rubrica": "Contratti direttamente collegati ad indici o a quote di organismi di investimento collettivo del risparmio",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "4721c847c574"
+  },
+  "42": {
+   "file": "cap.md",
+   "rubrica": "Registro degli attivi a copertura delle riserve tecniche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "3140b86156b7"
+  },
+  "42-bis": {
+   "file": "cap.md",
+   "rubrica": "Attivi a copertura delle riserve tecniche del lavoro indiretto",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "cc3aaecf8be4"
+  },
+  "42-ter": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "43": {
+   "file": "cap.md",
+   "rubrica": "Riserve tecniche relative all'attivita' esercitata in regime di stabilimento negli Stati terzi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "2ace2d578361"
+  },
+  "44": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "44-bis": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "44-ter": {
+   "file": "cap.md",
+   "rubrica": "Fondi propri",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "559e758eabbd"
+  },
+  "44-quater": {
+   "file": "cap.md",
+   "rubrica": "Fondi propri di base",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "367525d726b6"
+  },
+  "44-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Fondi propri accessori",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "1d967698edfa"
+  },
+  "44-sexies": {
+   "file": "cap.md",
+   "rubrica": "Fondi propri relativi a contratti particolari con partecipazione agli utili",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "de772f1e9292"
+  },
+  "44-septies": {
+   "file": "cap.md",
+   "rubrica": "Caratteristiche e aspetti utilizzati per classificare i fondi propri in livelli",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "0dc827fb6d89"
+  },
+  "44-octies": {
+   "file": "cap.md",
+   "rubrica": "Classificazione in livelli",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "9275a94c2062"
+  },
+  "44-novies": {
+   "file": "cap.md",
+   "rubrica": "Classificazione di specifici elementi dei fondi propri",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "afae51504963"
+  },
+  "44-decies": {
+   "file": "cap.md",
+   "rubrica": "Ammissibilita' e limiti applicabili ai livelli 1, 2 e 3",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "362230d26d67"
+  },
+  "45": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "45-bis": {
+   "file": "cap.md",
+   "rubrica": "Requisito Patrimoniale di Solvibilita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "410dca973061"
+  },
+  "45-ter": {
+   "file": "cap.md",
+   "rubrica": "Calcolo del Requisito Patrimoniale di Solvibilita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d3046663fb63"
+  },
+  "45-quater": {
+   "file": "cap.md",
+   "rubrica": "Frequenza del calcolo del Requisito Patrimoniale di Solvibilita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "53c0e0f52634"
+  },
+  "45-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Struttura della formula standard",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "08daac58f9ac"
+  },
+  "45-sexies": {
+   "file": "cap.md",
+   "rubrica": "Struttura del Requisito Patrimoniale di Solvibilita' di base",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d24ed34ac62f"
+  },
+  "45-septies": {
+   "file": "cap.md",
+   "rubrica": "Calcolo del Requisito Patrimoniale di Solvibilita' di base",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "a5142d1b566b"
+  },
+  "45-octies": {
+   "file": "cap.md",
+   "rubrica": "Calcolo del sottomodulo del rischio azionario: meccanismo di aggiustamento simmetrico",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "6e831286ae8c"
+  },
+  "45-novies": {
+   "file": "cap.md",
+   "rubrica": "Sottomodulo del rischio azionario basato sulla durata",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "676ef17b7aca"
+  },
+  "45-decies": {
+   "file": "cap.md",
+   "rubrica": "Requisito patrimoniale per il rischio operativo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d0ae003433d9"
+  },
+  "45-undecies": {
+   "file": "cap.md",
+   "rubrica": "Aggiustamento per la capacita' di assorbimento delle perdite delle riserve tecniche e delle imposte differite",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ad782b107ff9"
+  },
+  "45-duodecies": {
+   "file": "cap.md",
+   "rubrica": "Semplificazioni della formula standard",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "0f9d8aa63e20"
+  },
+  "45-terdecies": {
+   "file": "cap.md",
+   "rubrica": "Scostamenti significativi dalle ipotesi sottese al calcolo della formula standard",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "142117bd500e"
+  },
+  "46": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "46-bis": {
+   "file": "cap.md",
+   "rubrica": "Autorizzazione all'utilizzo dei modelli interni completi o parziali: disposizioni generali",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "09ab26a0feeb"
+  },
+  "46-ter": {
+   "file": "cap.md",
+   "rubrica": "Autorizzazione all'utilizzo dei modelli interni parziali: disposizioni specifiche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "04c317a228c4"
+  },
+  "46-quater": {
+   "file": "cap.md",
+   "rubrica": "Politica per la modifica dei modelli interni completi e parziali",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "791e57089a3b"
+  },
+  "46-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Responsabilita' del consiglio di amministrazione relativa ai modelli interni",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "af9fd7aa0db4"
+  },
+  "46-sexies": {
+   "file": "cap.md",
+   "rubrica": "Ritorno alla formula standard",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d01076388ef2"
+  },
+  "46-septies": {
+   "file": "cap.md",
+   "rubrica": "Non conformita' del modello interno",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "04c67f8cae85"
+  },
+  "46-octies": {
+   "file": "cap.md",
+   "rubrica": "Scostamenti significativi dalle ipotesi sottese alla formula standard",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "6b5fd121f082"
+  },
+  "46-novies": {
+   "file": "cap.md",
+   "rubrica": "Prova dell'utilizzo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "088d10f0c56d"
+  },
+  "46-decies": {
+   "file": "cap.md",
+   "rubrica": "Standard di qualita' statistica",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "153ddd69e134"
+  },
+  "46-undecies": {
+   "file": "cap.md",
+   "rubrica": "Standard di calibrazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "7bf18d0f8c23"
+  },
+  "46-duodecies": {
+   "file": "cap.md",
+   "rubrica": "Attribuzione di utili e di perdite",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "907d5d8bf0f5"
+  },
+  "46-terdecies": {
+   "file": "cap.md",
+   "rubrica": "Standard di convalida",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "85d4da6a3769"
+  },
+  "46-quaterdecies": {
+   "file": "cap.md",
+   "rubrica": "Standard di documentazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "6e6c5443f5c8"
+  },
+  "46-quindecies": {
+   "file": "cap.md",
+   "rubrica": "Modelli e dati esterni",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "bc2bd37ad376"
+  },
+  "47": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "47-bis": {
+   "file": "cap.md",
+   "rubrica": "Requisito Patrimoniale Minimo: disposizioni generali",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "79697e0ae719"
+  },
+  "47-ter": {
+   "file": "cap.md",
+   "rubrica": "Calcolo del Requisito Patrimoniale Minimo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e0e7e1444cb5"
+  },
+  "47-quater": {
+   "file": "cap.md",
+   "rubrica": "Requisiti dell'informativa all'IVASS ai fini della verifica delle condizioni di esercizio",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "6825f72c3ddb"
+  },
+  "47-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Processo di controllo prudenziale",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "3684148ed060"
+  },
+  "47-sexies": {
+   "file": "cap.md",
+   "rubrica": "Maggiorazione del capitale",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "3448a4415cc6"
+  },
+  "47-septies": {
+   "file": "cap.md",
+   "rubrica": "Relazione sulla solvibilita' e sulla condizione finanziaria: contenuto",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "09091a1708bd"
+  },
+  "47-octies": {
+   "file": "cap.md",
+   "rubrica": "Relazione sulla solvibilita' e sulla condizione finanziaria: principi applicabili",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "6137f77e67d4"
+  },
+  "47-novies": {
+   "file": "cap.md",
+   "rubrica": "Relazione sulla solvibilita' e sulla condizione finanziaria: aggiornamenti e informazioni facoltative aggiuntive",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "54e4f03a4819"
+  },
+  "47-decies": {
+   "file": "cap.md",
+   "rubrica": "Approvazione della relazione sulla solvibilita' e condizione finanziaria",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "87644ea2004e"
+  },
+  "47-undecies": {
+   "file": "cap.md",
+   "rubrica": "Informativa all'AEAP",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c9f8505f1641"
+  },
+  "47-duodecies": {
+   "file": "cap.md",
+   "rubrica": "Trasparenza degli investitori istituzionali",
+   "vigore_da": "2019-06-10",
+   "datazione": "api",
+   "h": "6518be264e7a"
+  },
+  "48": {
+   "file": "cap.md",
+   "rubrica": "Disposizioni applicabili alle imprese aventi sede legale in uno Stato terzo",
+   "vigore_da": "2015-07-17",
+   "datazione": "api",
+   "h": "05d87e22e9b9"
+  },
+  "48-bis": {
+   "file": "cap.md",
+   "rubrica": "Bilancio, registri e scritture contabili",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c56f241ba02a"
+  },
+  "49": {
+   "file": "cap.md",
+   "rubrica": "Riserve tecniche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "baebe48a3ebf"
+  },
+  "50": {
+   "file": "cap.md",
+   "rubrica": "Calcolo del Requisito Patrimoniale di solvibilita' e del Requisito Patrimoniale Minimo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "664f9ac24ffe"
+  },
+  "51": {
+   "file": "cap.md",
+   "rubrica": "Agevolazioni per l'impresa operante in piu' Stati membri",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e0fc9f97e512"
+  },
+  "51-bis": {
+   "file": "cap.md",
+   "rubrica": "Disposizioni relative a imprese locali e a particolari mutue assicuratrici",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "5de51e9aa742"
+  },
+  "51-ter": {
+   "file": "cap.md",
+   "rubrica": "Nozione di impresa di assicurazione locale",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "dbccc49087e2"
+  },
+  "51-quater": {
+   "file": "cap.md",
+   "rubrica": "Regime applicabile alle imprese di assicurazione locali",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "a20e69280d57"
+  },
+  "52": {
+   "file": "cap.md",
+   "rubrica": "Particolari mutue assicuratrici",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "9176369988ab"
+  },
+  "53": {
+   "file": "cap.md",
+   "rubrica": "Attivita' esercitabili",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d0f7b541bfec"
+  },
+  "54": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "55": {
+   "file": "cap.md",
+   "rubrica": "Autorizzazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c26793ce6689"
+  },
+  "56": {
+   "file": "cap.md",
+   "rubrica": "Regime applicabile alle particolari mutue assicuratrici",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e6402651e761"
+  },
+  "57": {
+   "file": "cap.md",
+   "rubrica": "Attivita' di riassicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d586d88ee86b"
+  },
+  "57-bis": {
+   "file": "cap.md",
+   "rubrica": "Societa' veicolo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "8fe7e55e7c54"
+  },
+  "58": {
+   "file": "cap.md",
+   "rubrica": "Autorizzazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "3a5693bd8899"
+  },
+  "59": {
+   "file": "cap.md",
+   "rubrica": "Requisiti e procedura",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "b3abd9940ae9"
+  },
+  "59-bis": {
+   "file": "cap.md",
+   "rubrica": "Estensione ad altri rami",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "07316b772f95"
+  },
+  "59-ter": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di stabilimento in un altro Stato membro",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c8b533a7967d"
+  },
+  "59-quater": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di prestazione di servizi in un altro Stato membro",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "cf1a9fc725a5"
+  },
+  "59-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in uno Stato terzo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "b740486d22a9"
+  },
+  "60": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di stabilimento delle imprese aventi sede legale in un altro Stato membro",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c78c6d992f3b"
+  },
+  "60-bis": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di stabilimento delle imprese aventi sede legale in uno Stato terzo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d919f07c37ad"
+  },
+  "61": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di prestazione di servizi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "05f1e0bee6d3"
+  },
+  "62": {
+   "file": "cap.md",
+   "rubrica": "Esercizio dell'attivita' di riassicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "0734013a6426"
+  },
+  "63": {
+   "file": "cap.md",
+   "rubrica": "Responsabilita' del consiglio di amministrazione e sistema di governo societario",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "b89d00ac201c"
+  },
+  "63-bis": {
+   "file": "cap.md",
+   "rubrica": "Valutazione delle attivita' e passivita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "54cf0bc42bed"
+  },
+  "64": {
+   "file": "cap.md",
+   "rubrica": "Riserve tecniche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "27652a11c2c6"
+  },
+  "64-bis": {
+   "file": "cap.md",
+   "rubrica": "Principi in materia di investimenti",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "0008ecb41e33"
+  },
+  "65": {
+   "file": "cap.md",
+   "rubrica": "Attivi a copertura delle riserve tecniche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c45112ff84a0"
+  },
+  "65-bis": {
+   "file": "cap.md",
+   "rubrica": "Registro delle attivita' a copertura delle riserve tecniche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "f40f986b23ca"
+  },
+  "66": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "66-bis": {
+   "file": "cap.md",
+   "rubrica": "Fondi propri",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "8ab928602df1"
+  },
+  "66-ter": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "66-quater": {
+   "file": "cap.md",
+   "rubrica": "Requisiti Patrimoniali di Solvibilita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "2da1013ad085"
+  },
+  "66-quinquies": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "66-sexies": {
+   "file": "cap.md",
+   "rubrica": "Calcolo del Requisito Patrimoniale Minimo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "22f08046bfcd"
+  },
+  "66-sexies.1": {
+   "file": "cap.md",
+   "rubrica": "Informativa e processo di controllo prudenziale",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "01b3596df5ba"
+  },
+  "66-septies": {
+   "file": "cap.md",
+   "rubrica": "Riassicurazione finite",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "387c23bca4a3"
+  },
+  "67": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di stabilimento",
+   "vigore_da": "2015-07-17",
+   "datazione": "api",
+   "h": "38d87579b4dc"
+  },
+  "68": {
+   "file": "cap.md",
+   "rubrica": "Autorizzazioni",
+   "vigore_da": "2019-06-10",
+   "datazione": "api",
+   "h": "6179e86fd890"
+  },
+  "69": {
+   "file": "cap.md",
+   "rubrica": "Obblighi di comunicazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "9cdf20f5f55b"
+  },
+  "70": {
+   "file": "cap.md",
+   "rubrica": "Comunicazione degli accordi di voto",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "8a30cb1b8ff9"
+  },
+  "71": {
+   "file": "cap.md",
+   "rubrica": "Richiesta di informazioni",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "8b210d44be6b"
+  },
+  "72": {
+   "file": "cap.md",
+   "rubrica": "Nozione di controllo",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "260aba00d04a"
+  },
+  "73": {
+   "file": "cap.md",
+   "rubrica": "Partecipazioni indirette",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "0b921f1134aa"
+  },
+  "74": {
+   "file": "cap.md",
+   "rubrica": "Sospensione del diritto di voto e degli altri diritti, obbligo di alienazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "b3c534b9a772"
+  },
+  "75": {
+   "file": "cap.md",
+   "rubrica": "Protocolli di autonomia",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "61ceb3495087"
+  },
+  "76": {
+   "file": "cap.md",
+   "rubrica": "Requisiti di professionalita', onorabilita' e indipendenza degli esponenti aziendali e dei soggetti che svolgono funzioni fondamentali",
+   "vigore_da": "2020-08-14",
+   "datazione": "api",
+   "h": "9da672bb156d"
+  },
+  "77": {
+   "file": "cap.md",
+   "rubrica": "Requisiti dei partecipanti",
+   "vigore_da": "2020-08-14",
+   "datazione": "api",
+   "h": "f6139214df6f"
+  },
+  "78": {
+   "file": "cap.md",
+   "rubrica": "Consiglio di gestione, consiglio di sorveglianza e comitato per il controllo sulla gestione",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "da66e754b8df"
+  },
+  "79": {
+   "file": "cap.md",
+   "rubrica": "Partecipazioni assunte dalle imprese di assicurazione e di riassicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "49c95dba352c"
+  },
+  "80": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "81": {
+   "file": "cap.md",
+   "rubrica": "Vigilanza prudenziale",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "7a90de2f3d5d"
+  },
+  "82": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "83": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "84": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "85": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "86": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "87": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "87-bis": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "88": {
+   "file": "cap.md",
+   "rubrica": "Disposizioni applicabili",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d17b360f6cd3"
+  },
+  "89": {
+   "file": "cap.md",
+   "rubrica": "Disposizioni particolari",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "dea6d453106c"
+  },
+  "90": {
+   "file": "cap.md",
+   "rubrica": "Schemi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "16a682e04c1b"
+  },
+  "91": {
+   "file": "cap.md",
+   "rubrica": "Principi di redazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "975e5c3706a0"
+  },
+  "92": {
+   "file": "cap.md",
+   "rubrica": "Esercizio sociale e termine per l'approvazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "72d131694594"
+  },
+  "93": {
+   "file": "cap.md",
+   "rubrica": "Deposito e pubblicazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "344c047131fc"
+  },
+  "94": {
+   "file": "cap.md",
+   "rubrica": "Relazione sulla gestione",
+   "vigore_da": "2025-08-10",
+   "datazione": "api",
+   "h": "3ff2c88040e6"
+  },
+  "95": {
+   "file": "cap.md",
+   "rubrica": "Imprese obbligate",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "539deb2af752"
+  },
+  "96": {
+   "file": "cap.md",
+   "rubrica": "Direzione unitaria",
+   "vigore_da": "2014-04-16",
+   "datazione": "api",
+   "h": "e13119173396"
+  },
+  "97": {
+   "file": "cap.md",
+   "rubrica": "Esonero dall'obbligo di redazione",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "bb30a7ff9db4"
+  },
+  "98": {
+   "file": "cap.md",
+   "rubrica": "Obbligo di redazione a esclusivi fini di vigilanza",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "b2ca1386ff29"
+  },
+  "99": {
+   "file": "cap.md",
+   "rubrica": "Data di riferimento",
+   "vigore_da": "2014-04-16",
+   "datazione": "api",
+   "h": "2243af020036"
+  },
+  "100": {
+   "file": "cap.md",
+   "rubrica": "Relazione sulla gestione",
+   "vigore_da": "2025-08-10",
+   "datazione": "api",
+   "h": "0d0e31aa1b19"
+  },
+  "101": {
+   "file": "cap.md",
+   "rubrica": "Libri e registri obbligatori",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c8dc88bfd646"
+  },
+  "102": {
+   "file": "cap.md",
+   "rubrica": "Revisione legale del bilancio",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "4c5e18eca997"
+  },
+  "103": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "104": {
+   "file": "cap.md",
+   "rubrica": "Accertamenti sulla gestione contabile",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "f71a99616613"
+  },
+  "105": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "106": {
+   "file": "cap.md",
+   "rubrica": "Attivita' di distribuzione assicurativa e riassicurativa",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "b2878d121be0"
+  },
+  "107": {
+   "file": "cap.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "d2029a770007"
+  },
+  "107-bis": {
+   "file": "cap.md",
+   "rubrica": "Soggetti abilitati all'esercizio della distribuzione assicurativa o riassicurativa",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "741c37f1e346"
+  },
+  "108": {
+   "file": "cap.md",
+   "rubrica": "Attivita' di distribuzione",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "55f5063b9b5b"
+  },
+  "108-bis": {
+   "file": "cap.md",
+   "rubrica": "Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "6b050e555157"
+  },
+  "109": {
+   "file": "cap.md",
+   "rubrica": "Registro degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "4068ea0df188"
+  },
+  "109-bis": {
+   "file": "cap.md",
+   "rubrica": "Regime applicabile agli intermediari assicurativi a titolo accessorio",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "56b1be07281e"
+  },
+  "110": {
+   "file": "cap.md",
+   "rubrica": "Requisiti per l'iscrizione delle persone fisiche",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "9adce7cc0bd2"
+  },
+  "111": {
+   "file": "cap.md",
+   "rubrica": "Requisiti particolari per l'iscrizione dei produttori diretti, dei collaboratori degli intermediari e per i dipendenti delle imprese",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "e3d6df734db3"
+  },
+  "112": {
+   "file": "cap.md",
+   "rubrica": "Requisiti per l'iscrizione delle societa'",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "6cc03616abe7"
+  },
+  "113": {
+   "file": "cap.md",
+   "rubrica": "Cancellazione",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "d640b57e2865"
+  },
+  "114": {
+   "file": "cap.md",
+   "rubrica": "Reiscrizione",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "5341519f881f"
+  },
+  "114-bis": {
+   "file": "cap.md",
+   "rubrica": "Requisiti organizzativi dell'impresa di assicurazione o riassicurazione, finalizzati al rispetto dei requisiti professionali e organizzativi di cui agli articoli 109, 109-bis, 110, 111, 112",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "3c70b89da34f"
+  },
+  "115": {
+   "file": "cap.md",
+   "rubrica": "Fondo di garanzia per i mediatori di assicurazione e di riassicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "96d7723ee882"
+  },
+  "116": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di stabilimento e di libera prestazione di servizi",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "3333eaf79fea"
+  },
+  "116-bis": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di libera prestazione di servizi in un altro Stato membro",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "204afbe55984"
+  },
+  "116-ter": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di stabilimento in un altro Stato membro",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "ea5beecbcf8a"
+  },
+  "116-quater": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di libera prestazione dei servizi nel territorio della Repubblica",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "5d26f31533de"
+  },
+  "116-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Attivita' in regime di stabilimento nel territorio della Repubblica",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "732a9a28cc2b"
+  },
+  "116-sexies": {
+   "file": "cap.md",
+   "rubrica": "Accordi per la ripartizione di competenze tra Stato membro d'origine e Stato membro ospitante",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "ae7bfe0f969e"
+  },
+  "116-septies": {
+   "file": "cap.md",
+   "rubrica": "Violazione degli obblighi nell'esercizio della libera prestazione dei servizi",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "520f680d1c67"
+  },
+  "116-octies": {
+   "file": "cap.md",
+   "rubrica": "Violazione degli obblighi nell'esercizio della liberta' di stabilimento",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "51440922cba5"
+  },
+  "116-novies": {
+   "file": "cap.md",
+   "rubrica": "Violazione degli obblighi nell'esercizio di libera prestazione di servizi o stabilimento da parte di intermediari italiani",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "5a945605bdce"
+  },
+  "116-decies": {
+   "file": "cap.md",
+   "rubrica": "Poteri legati alle disposizioni nazionali di interesse generale",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "a3cf23a0613e"
+  },
+  "116-undecies": {
+   "file": "cap.md",
+   "rubrica": "Pubblicazione delle norme di interesse generale",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "272a2af8196d"
+  },
+  "117": {
+   "file": "cap.md",
+   "rubrica": "Separazione patrimoniale",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "c80c35423c42"
+  },
+  "118": {
+   "file": "cap.md",
+   "rubrica": "Adempimento delle obbligazioni pecuniarie attraverso intermediari assicurativi",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "a18b89542668"
+  },
+  "119": {
+   "file": "cap.md",
+   "rubrica": "Doveri e responsabilita' verso gli assicurati",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "376e87dbe03c"
+  },
+  "119-bis": {
+   "file": "cap.md",
+   "rubrica": "Regole di comportamento e conflitti di interesse",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "18a6909dfc10"
+  },
+  "119-ter": {
+   "file": "cap.md",
+   "rubrica": "Consulenza e norme per le vendite senza consulenza",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "026ed2c36f06"
+  },
+  "120": {
+   "file": "cap.md",
+   "rubrica": "Informazione precontrattuale",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "a4094461f722"
+  },
+  "120-bis": {
+   "file": "cap.md",
+   "rubrica": "Trasparenza sulle remunerazioni",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "cd0109e16d88"
+  },
+  "120-ter": {
+   "file": "cap.md",
+   "rubrica": "Trasparenza sui conflitti di interesse",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "82f342c31179"
+  },
+  "120-quater": {
+   "file": "cap.md",
+   "rubrica": "Modalita' dell'informazione",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "16b51a571ca4"
+  },
+  "120-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Vendita abbinata",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "09f7b92698b8"
+  },
+  "121": {
+   "file": "cap.md",
+   "rubrica": "Informazione precontrattuale in caso di vendita a distanza",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "2817467aa485"
+  },
+  "121-bis": {
+   "file": "cap.md",
+   "rubrica": "Acquisizione dal produttore delle necessarie informazioni sui prodotti assicurativi",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "59c16dff2329"
+  },
+  "121-ter": {
+   "file": "cap.md",
+   "rubrica": "Disposizioni particolari in materia di Governo e controllo del prodotto",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "1094ec0f9ce4"
+  },
+  "121-quater": {
+   "file": "cap.md",
+   "rubrica": "Vigilanza sulla distribuzione dei prodotti di investimento assicurativi",
+   "vigore_da": "2019-01-24",
+   "datazione": "api",
+   "h": "047a117bed34"
+  },
+  "121-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Conflitti di interesse",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "d22c94058259"
+  },
+  "121-sexies": {
+   "file": "cap.md",
+   "rubrica": "Informativa al contraente e incentivi",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "2726fdf6f1ac"
+  },
+  "121-septies": {
+   "file": "cap.md",
+   "rubrica": "Valutazione dell'adeguatezza e dell'appropriatezza del prodotto assicurativo e comunicazione ai clienti",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "4c7aaf21f7d6"
+  },
+  "121-octies": {
+   "file": "cap.md",
+   "rubrica": "Protocollo d'intesa",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "ab1db70f47b3"
+  },
+  "122": {
+   "file": "cap.md",
+   "rubrica": "Veicoli a motore",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "c74e009359ce"
+  },
+  "122-bis": {
+   "file": "cap.md",
+   "rubrica": "Deroghe",
+   "vigore_da": "2026-05-12",
+   "datazione": "api",
+   "h": "1d2126fd5359"
+  },
+  "123": {
+   "file": "cap.md",
+   "rubrica": "Natanti",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ede52e2decef"
+  },
+  "124": {
+   "file": "cap.md",
+   "rubrica": "Gare e competizioni sportive",
+   "vigore_da": "2026-05-12",
+   "datazione": "api",
+   "h": "3b36f3abbcb8"
+  },
+  "125": {
+   "file": "cap.md",
+   "rubrica": "Veicoli e natanti immatricolati o registrati in Stati esteri",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "464dcb5e053c"
+  },
+  "126": {
+   "file": "cap.md",
+   "rubrica": "Ufficio centrale italiano",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "42fe5b3d3786"
+  },
+  "127": {
+   "file": "cap.md",
+   "rubrica": "Certificato di assicurazione e contrassegno",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "0bff9299dbb3"
+  },
+  "128": {
+   "file": "cap.md",
+   "rubrica": "Massimali di garanzia",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "5c4b34bbe10a"
+  },
+  "129": {
+   "file": "cap.md",
+   "rubrica": "Soggetti esclusi dall'assicurazione",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "f5d8f7a62c52"
+  },
+  "130": {
+   "file": "cap.md",
+   "rubrica": "Imprese autorizzate",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "a5dd3280b6a6"
+  },
+  "131": {
+   "file": "cap.md",
+   "rubrica": "Trasparenza dei premi e delle condizioni di contratto",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "d920d90c72df"
+  },
+  "132": {
+   "file": "cap.md",
+   "rubrica": "Obbligo a contrarre",
+   "vigore_da": "2017-08-29",
+   "datazione": "api",
+   "h": "60bea6e8cb8c"
+  },
+  "132-bis": {
+   "file": "cap.md",
+   "rubrica": "Obblighi informativi degli intermediari",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "4a818225371c"
+  },
+  "132-ter": {
+   "file": "cap.md",
+   "rubrica": "Sconti obbligatori",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "ce79883a1067"
+  },
+  "132.1": {
+   "file": "cap.md",
+   "rubrica": "Preventivatore per il confronto dei prezzi dell'assicurazione autoveicoli",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "a9f3d620b0b2"
+  },
+  "133": {
+   "file": "cap.md",
+   "rubrica": "Formule tariffarie",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "b0cb1cda5322"
+  },
+  "134": {
+   "file": "cap.md",
+   "rubrica": "Attestazione sullo stato del rischio",
+   "vigore_da": "2026-05-12",
+   "datazione": "api",
+   "h": "9ac05814a11a"
+  },
+  "135": {
+   "file": "cap.md",
+   "rubrica": "Banca dati sinistri e banche dati anagrafe testimoni e anagrafe danneggiati",
+   "vigore_da": "2017-08-29",
+   "datazione": "api",
+   "h": "e92d95f50af0"
+  },
+  "136": {
+   "file": "cap.md",
+   "rubrica": "Funzioni del Ministero dello sviluppo economico",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "6b8518ada7d0"
+  },
+  "137": {
+   "file": "cap.md",
+   "rubrica": "Danno patrimoniale",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "f9fa81bb845b"
+  },
+  "138": {
+   "file": "cap.md",
+   "rubrica": "Danno non patrimoniale per lesioni di non lieve entita'",
+   "vigore_da": "2022-03-01",
+   "datazione": "api",
+   "h": "79d2ce4c82e0"
+  },
+  "139": {
+   "file": "cap.md",
+   "rubrica": "Danno non patrimoniale per lesioni di lieve entita'",
+   "vigore_da": "2026-08-12",
+   "datazione": "api",
+   "h": "7bd4ead8c06b"
+  },
+  "140": {
+   "file": "cap.md",
+   "rubrica": "Pluralita' di danneggiati e supero del massimale",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "f6f937bcec44"
+  },
+  "141": {
+   "file": "cap.md",
+   "rubrica": "Risarcimento del terzo trasportato",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "9bd1c45c9ebb"
+  },
+  "142": {
+   "file": "cap.md",
+   "rubrica": "Diritto di surroga dell'assicuratore sociale",
+   "vigore_da": "2019-06-30",
+   "datazione": "api",
+   "h": "c1b8146e09fc"
+  },
+  "142-bis": {
+   "file": "cap.md",
+   "rubrica": "Informazioni sulla copertura assicurativa",
+   "vigore_da": "2007-11-24",
+   "datazione": "api",
+   "h": "a544ad58133d"
+  },
+  "142-ter": {
+   "file": "cap.md",
+   "rubrica": "Utenti della strada non motorizzati",
+   "vigore_da": "2007-11-24",
+   "datazione": "api",
+   "h": "98dcd77cc25b"
+  },
+  "143": {
+   "file": "cap.md",
+   "rubrica": "Denuncia di sinistro",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "3306dc5208e8"
+  },
+  "144": {
+   "file": "cap.md",
+   "rubrica": "Azione diretta del danneggiato",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "d10981014f1f"
+  },
+  "144-bis": {
+   "file": "cap.md",
+   "rubrica": "Tutela dei danneggiati nei sinistri in cui e' coinvolto un rimorchio trainato da un veicolo",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "f0a051dedfaf"
+  },
+  "145": {
+   "file": "cap.md",
+   "rubrica": "Proponibilita' dell'azione di risarcimento",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "c3986d1123b5"
+  },
+  "145-bis": {
+   "file": "cap.md",
+   "rubrica": "Valore probatorio delle cosiddette «scatole nere» e di altri dispositivi elettronici",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "4b07b154f909"
+  },
+  "146": {
+   "file": "cap.md",
+   "rubrica": "Diritto di accesso agli atti",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "175fdc0d8039"
+  },
+  "147": {
+   "file": "cap.md",
+   "rubrica": "Stato di bisogno del danneggiato",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "c2aff048432a"
+  },
+  "148": {
+   "file": "cap.md",
+   "rubrica": "Procedura di risarcimento",
+   "vigore_da": "2020-03-17",
+   "datazione": "api",
+   "h": "19be8ef7287e"
+  },
+  "149": {
+   "file": "cap.md",
+   "rubrica": "Procedura di risarcimento diretto",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "3b0aff2ff593"
+  },
+  "149-bis": {
+   "file": "cap.md",
+   "rubrica": "Trasparenza delle procedure di risarcimento",
+   "vigore_da": "2017-08-29",
+   "datazione": "api",
+   "h": "4637299761dc"
+  },
+  "150": {
+   "file": "cap.md",
+   "rubrica": "Disciplina del sistema di risarcimento diretto",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "ba74cbd74482"
+  },
+  "150-bis": {
+   "file": "cap.md",
+   "rubrica": "Certificato di chiusa inchiesta",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "019f30ea163b"
+  },
+  "151": {
+   "file": "cap.md",
+   "rubrica": "Procedura",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "a5cf41352eb9"
+  },
+  "152": {
+   "file": "cap.md",
+   "rubrica": "Mandatario per la liquidazione dei sinistri",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "21c3029f0fa8"
+  },
+  "153": {
+   "file": "cap.md",
+   "rubrica": "Danneggiati residenti nel territorio della Repubblica",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "6383e6b1b71a"
+  },
+  "154": {
+   "file": "cap.md",
+   "rubrica": "Centro di informazione italiano",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "f9497d96cee7"
+  },
+  "155": {
+   "file": "cap.md",
+   "rubrica": "Accesso al Centro di informazione italiano",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "4c7561cb1bea"
+  },
+  "156": {
+   "file": "cap.md",
+   "rubrica": "Attivita' peritale",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "a58c324605da"
+  },
+  "157": {
+   "file": "cap.md",
+   "rubrica": "Ruolo dei periti assicurativi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "92619d82bdf2"
+  },
+  "158": {
+   "file": "cap.md",
+   "rubrica": "Requisiti per l'iscrizione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "306bd7122e9f"
+  },
+  "159": {
+   "file": "cap.md",
+   "rubrica": "Cancellazione dal ruolo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "1ff1c624ec9f"
+  },
+  "160": {
+   "file": "cap.md",
+   "rubrica": "Reiscrizione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "4aebbfaecbb3"
+  },
+  "161": {
+   "file": "cap.md",
+   "rubrica": "Coassicurazione comunitaria",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "1984e99ada91"
+  },
+  "162": {
+   "file": "cap.md",
+   "rubrica": "Determinazione dell'oggetto della delega",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "346542993b25"
+  },
+  "162-bis": {
+   "file": "cap.md",
+   "rubrica": "Riserve tecniche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "9ffea5a0b4a9"
+  },
+  "162-ter": {
+   "file": "cap.md",
+   "rubrica": "Dati statistici",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "a3deb2c02ddc"
+  },
+  "163": {
+   "file": "cap.md",
+   "rubrica": "Requisiti particolari",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "be03843a7efb"
+  },
+  "164": {
+   "file": "cap.md",
+   "rubrica": "Modalita' per la gestione dei sinistri",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "94e819956e60"
+  },
+  "165": {
+   "file": "cap.md",
+   "rubrica": "Raccordo con le disposizioni del codice civile",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "86d36debff82"
+  },
+  "166": {
+   "file": "cap.md",
+   "rubrica": "Criteri di redazione",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "718d4b6f4ef7"
+  },
+  "167": {
+   "file": "cap.md",
+   "rubrica": "Nullita' dei contratti conclusi con imprese non autorizzate",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "5d3702ca3c97"
+  },
+  "167-bis": {
+   "file": "cap.md",
+   "rubrica": "Diritto di recesso in caso di vendita a distanza",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "e2fe07a5cf45"
+  },
+  "168": {
+   "file": "cap.md",
+   "rubrica": "Effetti del trasferimento di portafoglio, della fusione e della scissione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d3942fc36952"
+  },
+  "169": {
+   "file": "cap.md",
+   "rubrica": "Effetti della liquidazione coatta di imprese di assicurazione",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "927c33d7edb3"
+  },
+  "170": {
+   "file": "cap.md",
+   "rubrica": "Divieto di abbinamento",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "16d62dd55514"
+  },
+  "170-bis": {
+   "file": "cap.md",
+   "rubrica": "Durata del contratto",
+   "vigore_da": "2020-04-30",
+   "datazione": "api",
+   "h": "06ec644435c0"
+  },
+  "171": {
+   "file": "cap.md",
+   "rubrica": "Trasferimento di proprieta' del veicolo o del natante",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ed6a3403b2b0"
+  },
+  "172": {
+   "file": "cap.md",
+   "rubrica": "Diritto di recesso",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "d19afdc480dd"
+  },
+  "173": {
+   "file": "cap.md",
+   "rubrica": "Assicurazione di tutela legale",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "35e13f62ae55"
+  },
+  "174": {
+   "file": "cap.md",
+   "rubrica": "Diritti dell'assicurato nell'assicurazione di tutela legale",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "131cb13bc1ac"
+  },
+  "175": {
+   "file": "cap.md",
+   "rubrica": "Assicurazione di assistenza",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "e55c24d6a283"
+  },
+  "176": {
+   "file": "cap.md",
+   "rubrica": "Revocabilita' della proposta",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "af3396ba43a7"
+  },
+  "177": {
+   "file": "cap.md",
+   "rubrica": "Diritto di recesso",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "d551b11a3658"
+  },
+  "178": {
+   "file": "cap.md",
+   "rubrica": "Inversione dell'onere della prova nei giudizi risarcitori",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "27984cf17f58"
+  },
+  "179": {
+   "file": "cap.md",
+   "rubrica": "Nozione",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "e0a87efba1a1"
+  },
+  "180": {
+   "file": "cap.md",
+   "rubrica": "Contratti di assicurazione contro i danni",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "3ff4e0ef9824"
+  },
+  "181": {
+   "file": "cap.md",
+   "rubrica": "Contratti di assicurazioni sulla vita",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "d647aaa4f86b"
+  },
+  "182": {
+   "file": "cap.md",
+   "rubrica": "Pubblicita' dei prodotti assicurativi",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "893ba999b329"
+  },
+  "183": {
+   "file": "cap.md",
+   "rubrica": "Regole di comportamento",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "4005071ff794"
+  },
+  "184": {
+   "file": "cap.md",
+   "rubrica": "Misure cautelari ed interdittive",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "2a84cf846ebb"
+  },
+  "185": {
+   "file": "cap.md",
+   "rubrica": "Documentazione informativa",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "6881127bdd02"
+  },
+  "185-bis": {
+   "file": "cap.md",
+   "rubrica": "Documento informativo precontrattuale per i prodotti assicurativi danni",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "a6799a5e3bea"
+  },
+  "185-ter": {
+   "file": "cap.md",
+   "rubrica": "Documento informativo precontrattuale per i prodotti assicurativi vita",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "903c170de293"
+  },
+  "186": {
+   "file": "cap.md",
+   "rubrica": "Interpello sul documento informativo precontrattuale aggiuntivo",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "7f8e39e673a6"
+  },
+  "187": {
+   "file": "cap.md",
+   "rubrica": "Integrazione del documento informativo precontrattuale aggiuntivo",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "d11bd704f04d"
+  },
+  "187-bis": {
+   "file": "cap.md",
+   "rubrica": "Modalita' di esercizio dei poteri di vigilanza",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "6cfab914f63d"
+  },
+  "187-ter": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "5a777f5a31f7"
+  },
+  "187.1": {
+   "file": "cap.md",
+   "rubrica": "Sistemi di risoluzione stragiudiziale delle controversie",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "fe063267ba8e"
+  },
+  "188": {
+   "file": "cap.md",
+   "rubrica": "Poteri di intervento",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "4a2d5130ddf1"
+  },
+  "188-bis": {
+   "file": "cap.md",
+   "rubrica": "Impegni nell'ambito dell'esercizio del potere di vigilanza",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "9c6023ea5351"
+  },
+  "189": {
+   "file": "cap.md",
+   "rubrica": "Poteri di indagine",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "9c05465f5d50"
+  },
+  "190": {
+   "file": "cap.md",
+   "rubrica": "Obblighi di informativa",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c916271b9c6c"
+  },
+  "190-bis": {
+   "file": "cap.md",
+   "rubrica": "Informazioni statistiche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c18bc418237e"
+  },
+  "191": {
+   "file": "cap.md",
+   "rubrica": "Potere regolamentare",
+   "vigore_da": "2019-06-10",
+   "datazione": "api",
+   "h": "743c46aa3a3b"
+  },
+  "192": {
+   "file": "cap.md",
+   "rubrica": "Imprese di assicurazione italiane",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "6cb78cc2ce4a"
+  },
+  "193": {
+   "file": "cap.md",
+   "rubrica": "Imprese di assicurazione di altri Stati membri",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "ae9cee455234"
+  },
+  "194": {
+   "file": "cap.md",
+   "rubrica": "Imprese di assicurazione di Stati terzi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "9479097b9037"
+  },
+  "195": {
+   "file": "cap.md",
+   "rubrica": "Imprese di riassicurazione italiane",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "e776422d6422"
+  },
+  "195-bis": {
+   "file": "cap.md",
+   "rubrica": "Imprese di riassicurazione di altri Stati membri",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "26170bf68841"
+  },
+  "195-ter": {
+   "file": "cap.md",
+   "rubrica": "Imprese di riassicurazione di Stati terzi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "38fa9bb30cf9"
+  },
+  "196": {
+   "file": "cap.md",
+   "rubrica": "Modificazioni statutarie",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "29dd7d10dbd8"
+  },
+  "197": {
+   "file": "cap.md",
+   "rubrica": "Vigilanza sull'attuazione del programma di attivita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "f181da5d6db1"
+  },
+  "198": {
+   "file": "cap.md",
+   "rubrica": "Trasferimento del portafoglio di imprese di assicurazione italiane",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "9084ac1b5cc2"
+  },
+  "199": {
+   "file": "cap.md",
+   "rubrica": "Trasferimento del portafoglio di imprese di assicurazione di altri Stati membri",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "a080446aac91"
+  },
+  "200": {
+   "file": "cap.md",
+   "rubrica": "Trasferimento del portafoglio di imprese di assicurazione di Stati terzi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "20c9ce83070f"
+  },
+  "201": {
+   "file": "cap.md",
+   "rubrica": "Fusione e scissione di imprese di assicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "6dbd68924e6b"
+  },
+  "202": {
+   "file": "cap.md",
+   "rubrica": "Trasferimento del portafoglio fusione e scissione di imprese di riassicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "f8248a3b89e6"
+  },
+  "203": {
+   "file": "cap.md",
+   "rubrica": "Autorizzazione relativa all'esercizio dell'attivita' assicurativa",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "b5c87bd79e20"
+  },
+  "203-bis": {
+   "file": "cap.md",
+   "rubrica": "Cooperazione per l'esercizio della vigilanza sulle societa' veicolo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "479f137bb74d"
+  },
+  "204": {
+   "file": "cap.md",
+   "rubrica": "Autorizzazione relativa all'assunzione di partecipazioni in imprese di assicurazione o di riassicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "0540d32d2994"
+  },
+  "205": {
+   "file": "cap.md",
+   "rubrica": "Poteri di indagine in collaborazione con le autorita' di altri Stati membri",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "6f140ac7bc74"
+  },
+  "205-bis": {
+   "file": "cap.md",
+   "rubrica": "Vigilanza sulle funzioni e le attivita' esternalizzate dalle imprese aventi sede nel territorio della Repubblica",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "8c1762158413"
+  },
+  "205-ter": {
+   "file": "cap.md",
+   "rubrica": "Cooperazione per la vigilanza sulle imprese di assicurazione e riassicurazione e sugli intermediari di assicurazione, anche a titolo accessorio, o di riassicurazione",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "53dbcda013d4"
+  },
+  "206": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "206-bis": {
+   "file": "cap.md",
+   "rubrica": "Collegio delle autorita' di vigilanza",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "4effb7778aeb"
+  },
+  "206-ter": {
+   "file": "cap.md",
+   "rubrica": "Accordi di coordinamento",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "da21ef847c39"
+  },
+  "207": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "207-bis": {
+   "file": "cap.md",
+   "rubrica": "Collaborazione e scambio informativo tra le autorita' di vigilanza",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "119a22964504"
+  },
+  "207-ter": {
+   "file": "cap.md",
+   "rubrica": "Consultazione tra autorita' di vigilanza",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "5213e8c3a78b"
+  },
+  "207-quater": {
+   "file": "cap.md",
+   "rubrica": "Collaborazione con le autorita' responsabili per gli enti creditizi e le imprese di investimento",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d3d0c458cdaa"
+  },
+  "207-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Segreto professionale e riservatezza",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "02466ee175f7"
+  },
+  "207-sexies": {
+   "file": "cap.md",
+   "rubrica": "Autorita' di vigilanza sul gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "a27e3cee3f07"
+  },
+  "207-septies": {
+   "file": "cap.md",
+   "rubrica": "Funzioni dell'IVASS in qualita' di Autorita' di Vigilanza sul gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "f58180ec5e49"
+  },
+  "207-octies": {
+   "file": "cap.md",
+   "rubrica": "Cooperazione per l'autorizzazione del modello interno di gruppo",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "7d4c21f917b7"
+  },
+  "208": {
+   "file": "cap.md",
+   "rubrica": "Comunicazioni alla Commissione europea e all'AEAP e alle autorita' di vigilanza di altri Stati membri relativamente ad imprese di Stati membri e di Stati terzi",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "c907352922a0"
+  },
+  "208-bis": {
+   "file": "cap.md",
+   "rubrica": "Comunicazioni relative alla inosservanza delle disposizioni di legge da parte di un'impresa di assicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "29a82ee28589"
+  },
+  "208-ter": {
+   "file": "cap.md",
+   "rubrica": "Cooperazione per l'applicazione delle disposizioni sulla coassicurazione comunitaria",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "84194c8d3951"
+  },
+  "208-quater": {
+   "file": "cap.md",
+   "rubrica": "Piattaforme di collaborazione costituite dall'AEAP",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "91a3b89718d1"
+  },
+  "209": {
+   "file": "cap.md",
+   "rubrica": "Comunicazioni alla Commissione europea sulle assicurazioni obbligatorie",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "957ca487c027"
+  },
+  "210": {
+   "file": "cap.md",
+   "rubrica": "Vigilanza sul gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "501472847015"
+  },
+  "210-bis": {
+   "file": "cap.md",
+   "rubrica": "Altre disposizioni applicabili",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "85b6dc15d7be"
+  },
+  "210-ter": {
+   "file": "cap.md",
+   "rubrica": "Albo delle societa' capogruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "cc821e17e58e"
+  },
+  "210-quater": {
+   "file": "cap.md",
+   "rubrica": "Esclusione dall'area di vigilanza sul gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "5cf19ac754ee"
+  },
+  "211": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "212": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "212-bis": {
+   "file": "cap.md",
+   "rubrica": "Poteri dell'IVASS",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "1ddb1ebd0b28"
+  },
+  "213": {
+   "file": "cap.md",
+   "rubrica": "Vigilanza informativa",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "f0efe29b2b67"
+  },
+  "214": {
+   "file": "cap.md",
+   "rubrica": "Vigilanza ispettiva",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c76930e48611"
+  },
+  "214-bis": {
+   "file": "cap.md",
+   "rubrica": "Potere di indirizzo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "f4e41e17d187"
+  },
+  "214-ter": {
+   "file": "cap.md",
+   "rubrica": "Valutazione regime di equivalenza di Stati terzi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "54704ece0191"
+  },
+  "215": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "215-bis": {
+   "file": "cap.md",
+   "rubrica": "Sistema di governo societario di gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c7e07aad1848"
+  },
+  "215-ter": {
+   "file": "cap.md",
+   "rubrica": "Valutazione interna del rischio e della solvibilita' del gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "df90b09b4499"
+  },
+  "215-quater": {
+   "file": "cap.md",
+   "rubrica": "Vigilanza sulla concentrazione di rischi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e21e110de1d4"
+  },
+  "215-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Operazioni infragruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e045ebba74f0"
+  },
+  "216": {
+   "file": "cap.md",
+   "rubrica": "Comunicazione delle operazioni infragruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "9758b8e56060"
+  },
+  "216-bis": {
+   "file": "cap.md",
+   "rubrica": "Poteri dell'IVASS sulle operazioni infragruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "0047c646aa8b"
+  },
+  "216-ter": {
+   "file": "cap.md",
+   "rubrica": "Vigilanza sulla solvibilita' di gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "205a000a3ce3"
+  },
+  "216-quater": {
+   "file": "cap.md",
+   "rubrica": "Frequenza del calcolo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ded56c97a038"
+  },
+  "216-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Requisito Patrimoniale di Solvibilita' di gruppo consolidato",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e2cacf118810"
+  },
+  "216-sexies": {
+   "file": "cap.md",
+   "rubrica": "Calcolo della situazione di solvibilita' di gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "70aacd6cf1b8"
+  },
+  "216-septies": {
+   "file": "cap.md",
+   "rubrica": "Maggiorazione del Requisito Patrimoniale di Solvibilita' di gruppo consolidato",
+   "vigore_da": "2015-07-17",
+   "datazione": "api",
+   "h": "06db9a2a4768"
+  },
+  "216-octies": {
+   "file": "cap.md",
+   "rubrica": "Informativa all'IVASS ai fini della verifica degli adempimenti sulla vigilanza sul gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "6de8e8d8b9d8"
+  },
+  "216-novies": {
+   "file": "cap.md",
+   "rubrica": "Informativa sulla solvibilita' di gruppo, la condizione finanziaria e la struttura del gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "1400a4c14f37"
+  },
+  "216-decies": {
+   "file": "cap.md",
+   "rubrica": "Processo di controllo prudenziale degli strumenti di vigilanza sul gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e192649a88a6"
+  },
+  "217": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "217-bis": {
+   "file": "cap.md",
+   "rubrica": "Gestione centralizzata del rischio: condizioni per la vigilanza sulla solvibilita' sul gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "66e61d16036a"
+  },
+  "217-ter": {
+   "file": "cap.md",
+   "rubrica": "Gestione centralizzata del rischio: procedura di autorizzazione",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "d1057768de0c"
+  },
+  "217-quater": {
+   "file": "cap.md",
+   "rubrica": "Gestione centralizzata del rischio: determinazione del Requisito Patrimoniale di Solvibilita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "80dfc85123be"
+  },
+  "217-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Gestione centralizzata del rischio: inosservanza del Requisito Patrimoniale di Solvibilita' e del Requisito Patrimoniale Minimo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ab2af1f40b13"
+  },
+  "217-sexies": {
+   "file": "cap.md",
+   "rubrica": "Gestione centralizzata del rischio: fine delle deroghe per l'impresa controllata",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "3b1ec8a9859e"
+  },
+  "217-septies": {
+   "file": "cap.md",
+   "rubrica": "Gestione centralizzata del rischio: imprese di assicurazione o riassicurazione controllate da una societa' di partecipazione assicurativa o da una societa' di partecipazione finanziaria mista",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "17378671bef7"
+  },
+  "218": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "219": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "220": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "220-bis": {
+   "file": "cap.md",
+   "rubrica": "Vigilanza sul sottogruppo nazionale con societa' controllante di Stato membro",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "a700aecb1917"
+  },
+  "220-ter": {
+   "file": "cap.md",
+   "rubrica": "Disciplina applicabile al sottogruppo nazionale con societa' controllante di Stato membro",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "2bb3ff5bfbe5"
+  },
+  "220-quater": {
+   "file": "cap.md",
+   "rubrica": "Vigilanza sul sottogruppo nazionale con societa' controllante di Stato terzo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "a0f3db19b298"
+  },
+  "220-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Verifica dell'equivalenza del regime di vigilanza sul gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "02195298a423"
+  },
+  "220-sexies": {
+   "file": "cap.md",
+   "rubrica": "Verifica dell'equivalenza: livelli",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "a07c517eba31"
+  },
+  "220-septies": {
+   "file": "cap.md",
+   "rubrica": "Sussistenza di un regime equivalente di vigilanza sul gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "7e595f9ce79d"
+  },
+  "220-octies": {
+   "file": "cap.md",
+   "rubrica": "Insussistenza di un regime equivalente di vigilanza sul gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e203039c8739"
+  },
+  "220-novies": {
+   "file": "cap.md",
+   "rubrica": "Misure correttive sul gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "bd705d9549cf"
+  },
+  "220-decies": {
+   "file": "cap.md",
+   "rubrica": "Rilevazione e comunicazione del deterioramento delle condizioni finanziarie",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "00b098afef63"
+  },
+  "221": {
+   "file": "cap.md",
+   "rubrica": "Violazione delle norme sulle riserve tecniche o sulle attivita' a copertura",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "8f32b02658b4"
+  },
+  "222": {
+   "file": "cap.md",
+   "rubrica": "Violazione delle norme sul Requisito Patrimoniale di Solvibilita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "586845bb7ccd"
+  },
+  "222-bis": {
+   "file": "cap.md",
+   "rubrica": "Violazione delle norme sul Requisito Patrimoniale Minimo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "1537c1f148a5"
+  },
+  "222-ter": {
+   "file": "cap.md",
+   "rubrica": "Limitazioni alla distribuzione di elementi dei fondi propri",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c53c3796565c"
+  },
+  "223": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "223-bis": {
+   "file": "cap.md",
+   "rubrica": "Misure di intervento in caso di deterioramento delle condizioni finanziarie dell'impresa di assicurazione o di riassicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "6939f0a40669"
+  },
+  "223-ter": {
+   "file": "cap.md",
+   "rubrica": "Piano di risanamento e piano di finanziamento",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "49af2fe71de1"
+  },
+  "224": {
+   "file": "cap.md",
+   "rubrica": "Procedura di apposizione del vincolo sulle attivita' patrimoniali",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ca1ac31e20ac"
+  },
+  "225": {
+   "file": "cap.md",
+   "rubrica": "Misure di salvaguardia in caso di revoca parziale dell'autorizzazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "53b1e51b87ab"
+  },
+  "226": {
+   "file": "cap.md",
+   "rubrica": "Imprese con sede legale in altri Stati membri e in Stati terzi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "857b5b2b0544"
+  },
+  "226-bis": {
+   "file": "cap.md",
+   "rubrica": "Rilevazione e comunicazione del deterioramento delle condizioni finanziarie di gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e48c02e98e41"
+  },
+  "227": {
+   "file": "cap.md",
+   "rubrica": "Misure in caso di verifica della situazione di solvibilita' di gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "61b07f5ce25f"
+  },
+  "228": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "229": {
+   "file": "cap.md",
+   "rubrica": "Commissario per il compimento di singoli atti",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "245248539ca5"
+  },
+  "230": {
+   "file": "cap.md",
+   "rubrica": "Commissario per la gestione provvisoria",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "1e814c1c9ebf"
+  },
+  "231": {
+   "file": "cap.md",
+   "rubrica": "Amministrazione straordinaria",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "4985e4f76cfb"
+  },
+  "232": {
+   "file": "cap.md",
+   "rubrica": "Efficacia delle misure di risanamento sul territorio comunitario",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "f18dd8a9a811"
+  },
+  "233": {
+   "file": "cap.md",
+   "rubrica": "Organi della procedura di amministrazione straordinaria",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "939f6ade11f5"
+  },
+  "234": {
+   "file": "cap.md",
+   "rubrica": "Poteri e funzionamento degli organi straordinari",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ab52f80e4779"
+  },
+  "235": {
+   "file": "cap.md",
+   "rubrica": "Adempimenti iniziali",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "b73eef4bcf7d"
+  },
+  "236": {
+   "file": "cap.md",
+   "rubrica": "Adempimenti finali",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e5366f612d2d"
+  },
+  "237": {
+   "file": "cap.md",
+   "rubrica": "Adempimenti in materia di pubblicita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "2b6b5e14748c"
+  },
+  "238": {
+   "file": "cap.md",
+   "rubrica": "Esclusivita' delle procedure di risanamento",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "e328e5ee43cb"
+  },
+  "239": {
+   "file": "cap.md",
+   "rubrica": "Imprese di assicurazione di Stati terzi e di imprese di riassicurazione estere",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "a1ad240e959a"
+  },
+  "240": {
+   "file": "cap.md",
+   "rubrica": "Decadenza dall'autorizzazione rilasciata all'impresa di assicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ca54a1df12cb"
+  },
+  "241": {
+   "file": "cap.md",
+   "rubrica": "Liquidazione ordinaria dell'impresa di assicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "b97408274d48"
+  },
+  "242": {
+   "file": "cap.md",
+   "rubrica": "Revoca dell'autorizzazione rilasciata all'impresa di assicurazione",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "a779bdd2f34b"
+  },
+  "243": {
+   "file": "cap.md",
+   "rubrica": "Revoca dell'autorizzazione rilasciata ad un'impresa di assicurazione di uno Stato terzo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e05c02a5951d"
+  },
+  "244": {
+   "file": "cap.md",
+   "rubrica": "Decadenza e revoca dell'autorizzazione rilasciata all'impresa di riassicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "7c0ed128ffa1"
+  },
+  "245": {
+   "file": "cap.md",
+   "rubrica": "Liquidazione coatta amministrativa",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "c42cd91ddaf7"
+  },
+  "246": {
+   "file": "cap.md",
+   "rubrica": "Organi della procedura",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "2ac54aac1edd"
+  },
+  "247": {
+   "file": "cap.md",
+   "rubrica": "Adempimenti in materia di pubblicita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "4fcd684c5164"
+  },
+  "248": {
+   "file": "cap.md",
+   "rubrica": "Accertamento giudiziario dello stato di insolvenza",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "e9c758410612"
+  },
+  "249": {
+   "file": "cap.md",
+   "rubrica": "Effetti nei confronti dell'impresa, dei creditori e sui rapporti giuridici preesistenti",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "dcb2315b12a2"
+  },
+  "250": {
+   "file": "cap.md",
+   "rubrica": "Poteri e funzionamento degli organi liquidatori",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "2634bb7c396c"
+  },
+  "251": {
+   "file": "cap.md",
+   "rubrica": "Adempimenti iniziali",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "31e3fc57d878"
+  },
+  "252": {
+   "file": "cap.md",
+   "rubrica": "Accertamento del passivo",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "fb86680d92fb"
+  },
+  "253": {
+   "file": "cap.md",
+   "rubrica": "Informazione iniziale ai creditori noti di altri Stati membri",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "129392c7ca19"
+  },
+  "254": {
+   "file": "cap.md",
+   "rubrica": "Opposizione allo stato passivo ed impugnazione dei crediti ammessi",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "bd56c60c14d2"
+  },
+  "255": {
+   "file": "cap.md",
+   "rubrica": "Appello",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "eb9a495e89a1"
+  },
+  "256": {
+   "file": "cap.md",
+   "rubrica": "Insinuazioni tardive",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "bbec239869f5"
+  },
+  "257": {
+   "file": "cap.md",
+   "rubrica": "Liquidazione dell'attivo",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "377003e4350d"
+  },
+  "258": {
+   "file": "cap.md",
+   "rubrica": "Trattamento dei crediti derivanti da contratti di assicurazione o da contratti di riassicurazione",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "fb2bb9d7958d"
+  },
+  "259": {
+   "file": "cap.md",
+   "rubrica": "Ulteriori disposizioni per il trattamento dei crediti derivanti da contratti di riassicurazione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "1c9e9bbf8300"
+  },
+  "260": {
+   "file": "cap.md",
+   "rubrica": "Ripartizione dell'attivo",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "b1932c69b07c"
+  },
+  "261": {
+   "file": "cap.md",
+   "rubrica": "Adempimenti finali",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "f2df9075dbbd"
+  },
+  "262": {
+   "file": "cap.md",
+   "rubrica": "Concordato",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "f13774b70682"
+  },
+  "263": {
+   "file": "cap.md",
+   "rubrica": "Esecuzione del concordato e chiusura della procedura",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "4bea9278c08c"
+  },
+  "264": {
+   "file": "cap.md",
+   "rubrica": "Imprese di assicurazione di Stati terzi e imprese di riassicurazione estere",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "37aab8a97c7b"
+  },
+  "265": {
+   "file": "cap.md",
+   "rubrica": "Liquidazione coatta di imprese non autorizzate",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "860d750b9ee8"
+  },
+  "266": {
+   "file": "cap.md",
+   "rubrica": "Responsabilita' per illecito amministrativo dipendente da reato",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "18f3703a28b6"
+  },
+  "267": {
+   "file": "cap.md",
+   "rubrica": "Rapporti di lavoro, contratti su beni immobili navi e aeromobili, strumenti finanziari",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "c47fe8dc63e6"
+  },
+  "268": {
+   "file": "cap.md",
+   "rubrica": "Diritti reali di terzi su beni situati nel territorio della Repubblica",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "b20c6f2365f4"
+  },
+  "269": {
+   "file": "cap.md",
+   "rubrica": "Diritti del venditore, in caso di riserva di proprieta' sul bene situato nel territorio della Repubblica",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "4a1e72ea2a9c"
+  },
+  "270": {
+   "file": "cap.md",
+   "rubrica": "Diritto alla compensazione nei rapporti con l'impresa di assicurazione",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "06c3d6405053"
+  },
+  "271": {
+   "file": "cap.md",
+   "rubrica": "Operazioni effettuate in mercati regolamentati italiani",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "5cfb9a747f74"
+  },
+  "272": {
+   "file": "cap.md",
+   "rubrica": "Condizione di proponibilita' delle azioni relative agli atti pregiudizievoli",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "102046b975a2"
+  },
+  "273": {
+   "file": "cap.md",
+   "rubrica": "Cause pendenti relative allo spoglio di beni dell'impresa di assicurazione",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "6c0cd6bbe124"
+  },
+  "274": {
+   "file": "cap.md",
+   "rubrica": "Riconoscimento e poteri dei commissari e dei liquidatori",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "04ebd92f80fe"
+  },
+  "274-bis": {
+   "file": "cap.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "53974bfd2e61"
+  },
+  "274-ter": {
+   "file": "cap.md",
+   "rubrica": "Soggetti aderenti e natura del Fondo di garanzia assicurativo dei rami vita",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "a0fcf9880abf"
+  },
+  "274-quater": {
+   "file": "cap.md",
+   "rubrica": "Dotazione finanziaria del Fondo di garanzia assicurativo dei rami vita",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "f9821edb72df"
+  },
+  "274-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Finanziamento del Fondo di garanzia assicurativo dei rami vita e investimento delle risorse",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "1c6f545c5b8c"
+  },
+  "274-sexies": {
+   "file": "cap.md",
+   "rubrica": "Interventi del Fondo di garanzia assicurativo dei rami vita",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "f1ba7bc53954"
+  },
+  "274-septies": {
+   "file": "cap.md",
+   "rubrica": "Prestazioni protette ammissibili",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "ca4c15cdf308"
+  },
+  "274-octies": {
+   "file": "cap.md",
+   "rubrica": "Modalita' di esecuzione delle prestazioni protette nei casi di liquidazione coatta amministrativa",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "0f4f92c7dd09"
+  },
+  "274-novies": {
+   "file": "cap.md",
+   "rubrica": "Obblighi del Fondo di garanzia assicurativo dei rami vita",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "745941f258b0"
+  },
+  "274-decies": {
+   "file": "cap.md",
+   "rubrica": "Informazioni da fornire al Fondo di garanzia assicurativo dei rami vita",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "304332b60cb8"
+  },
+  "274-undecies": {
+   "file": "cap.md",
+   "rubrica": "Poteri dell'IVASS",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "ceee6645f7f4"
+  },
+  "274-duodecies": {
+   "file": "cap.md",
+   "rubrica": "Esclusione dal Fondo di garanzia assicurativo dei rami vita",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "8962a887ac41"
+  },
+  "274-terdecies": {
+   "file": "cap.md",
+   "rubrica": "Interventi finanziati su base volontaria",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "e4634b70a5ac"
+  },
+  "274-quaterdecies": {
+   "file": "cap.md",
+   "rubrica": "Costituzione di ulteriori Fondi di garanzia assicurativa dei rami vita",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "h": "8f8edcee95f3"
+  },
+  "275": {
+   "file": "cap.md",
+   "rubrica": "Amministrazione straordinaria dell'ultima societa' controllante italiana",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ea9d4dc4545b"
+  },
+  "276": {
+   "file": "cap.md",
+   "rubrica": "Liquidazione coatta amministrativa dell'ultima societa' controllante italiana",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "54f8d02f992c"
+  },
+  "277": {
+   "file": "cap.md",
+   "rubrica": "Amministrazione straordinaria delle societa' del gruppo assicurativo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "5b96904e9c29"
+  },
+  "278": {
+   "file": "cap.md",
+   "rubrica": "Liquidazione coatta amministrativa delle societa' del gruppo assicurativo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "5118a7c00933"
+  },
+  "279": {
+   "file": "cap.md",
+   "rubrica": "Procedure proprie delle singole societa' del gruppo assicurativo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "aae98edc16fe"
+  },
+  "280": {
+   "file": "cap.md",
+   "rubrica": "Disposizioni comuni agli organi delle procedure",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "dd835b5042ff"
+  },
+  "281": {
+   "file": "cap.md",
+   "rubrica": "Disposizioni comuni sulla competenza giurisdizionale",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "041bce0ab1a6"
+  },
+  "282": {
+   "file": "cap.md",
+   "rubrica": "Gruppi e societa' non iscritte all'albo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "c09880791cdb"
+  },
+  "283": {
+   "file": "cap.md",
+   "rubrica": "Sinistri verificatisi nel territorio della Repubblica",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "31a815668009"
+  },
+  "283-bis": {
+   "file": "cap.md",
+   "rubrica": "Obblighi di informativa a carico del Fondo di garanzia per le vittime della strada",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "b4c92a347a38"
+  },
+  "284": {
+   "file": "cap.md",
+   "rubrica": "Sinistri causati da natanti in altro Stato membro",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "758885cde537"
+  },
+  "285": {
+   "file": "cap.md",
+   "rubrica": "Fondo di garanzia per le vittime della strada",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "ae921767bdd6"
+  },
+  "286": {
+   "file": "cap.md",
+   "rubrica": "Liquidazione dei danni a cura dell'impresa designata",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "042af6bb1377"
+  },
+  "287": {
+   "file": "cap.md",
+   "rubrica": "Esercizio dell'azione di risarcimento",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "1226f4b9feb4"
+  },
+  "288": {
+   "file": "cap.md",
+   "rubrica": "Diritti dei danneggiati nei confronti del Fondo di garanzia per le vittime della Strada",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "5e266818602e"
+  },
+  "289": {
+   "file": "cap.md",
+   "rubrica": "Effetti della liquidazione coatta sulle sentenze passate in giudicato e sui giudizi pendenti",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "11c70b0e9e60"
+  },
+  "290": {
+   "file": "cap.md",
+   "rubrica": "Prescrizione dell'azione",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "21760e3ea503"
+  },
+  "291": {
+   "file": "cap.md",
+   "rubrica": "Pluralita' di danneggiati e supero del massimale",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "d27c104ae6ac"
+  },
+  "292": {
+   "file": "cap.md",
+   "rubrica": "Diritto di regresso e di surroga dell'impresa designata",
+   "vigore_da": "2024-01-20",
+   "datazione": "api",
+   "h": "3feefb242876"
+  },
+  "293": {
+   "file": "cap.md",
+   "rubrica": "Liquidazione dei danni a cura del commissario dell'impresa in liquidazione coatta",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "a83cc4a4a5b6"
+  },
+  "294": {
+   "file": "cap.md",
+   "rubrica": "Esercizio dell'azione di risarcimento",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "e1175e8c0e0f"
+  },
+  "295": {
+   "file": "cap.md",
+   "rubrica": "Diritti degli assicurati nei confronti del Fondo di garanzia per le vittime della strada",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "8439ad9bb7ca"
+  },
+  "296": {
+   "file": "cap.md",
+   "rubrica": "Organismo di indennizzo italiano",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "7b2df3f80686"
+  },
+  "297": {
+   "file": "cap.md",
+   "rubrica": "Ambito di intervento dell'Organismo di indennizzo italiano",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "517b7453d473"
+  },
+  "298": {
+   "file": "cap.md",
+   "rubrica": "Sinistri causati da veicoli regolarmente assicurati",
+   "vigore_da": "2023-12-28",
+   "datazione": "api",
+   "h": "57df8ce7a0fb"
+  },
+  "299": {
+   "file": "cap.md",
+   "rubrica": "Rimborsi tra organismi di indennizzo",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "234296db59df"
+  },
+  "300": {
+   "file": "cap.md",
+   "rubrica": "Sinistri causati da veicoli non identificati o non assicurati",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "c729694c6a3f"
+  },
+  "301": {
+   "file": "cap.md",
+   "rubrica": "Rimborsi a carico del Fondo di garanzia per le vittime della strada",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "18959c615f0c"
+  },
+  "302": {
+   "file": "cap.md",
+   "rubrica": "Ambito di intervento",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "841b6160d38e"
+  },
+  "303": {
+   "file": "cap.md",
+   "rubrica": "Fondo di garanzia per le vittime della caccia",
+   "vigore_da": "2017-08-29",
+   "datazione": "api",
+   "h": "c13d30e49771"
+  },
+  "304": {
+   "file": "cap.md",
+   "rubrica": "Diritto di regresso e di surroga",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "494fbc4671c7"
+  },
+  "305": {
+   "file": "cap.md",
+   "rubrica": "Attivita' abusivamente esercitata",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "113946a10986"
+  },
+  "306": {
+   "file": "cap.md",
+   "rubrica": "Impedimenti all'esercizio delle funzioni di vigilanza",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "4ea671f59f78"
+  },
+  "307": {
+   "file": "cap.md",
+   "rubrica": "Collaborazione con la Guardia di finanza",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "4cebfdbcea52"
+  },
+  "308": {
+   "file": "cap.md",
+   "rubrica": "Abuso di denominazione assicurativa",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "1e17a3d342dc"
+  },
+  "308-bis": {
+   "file": "cap.md",
+   "rubrica": "Inottemperanza alle richieste dell'IVASS o ritardo dell'esercizio delle funzioni di vigilanza",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "d32be41555ba"
+  },
+  "309": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "94db547a0583"
+  },
+  "310": {
+   "file": "cap.md",
+   "rubrica": "Sanzioni amministrative pecuniarie",
+   "vigore_da": "2025-03-12",
+   "datazione": "api",
+   "h": "b89456c261e7"
+  },
+  "310-bis": {
+   "file": "cap.md",
+   "rubrica": "Rifiuto ed elusione dell'obbligo a contrarre",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "0c8bf3173d3f"
+  },
+  "310-ter": {
+   "file": "cap.md",
+   "rubrica": "Scatole nere e altri dispositivi elettronici",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "f459ef7373a4"
+  },
+  "310-quater": {
+   "file": "cap.md",
+   "rubrica": "Obblighi di comunicazione alle banche dati",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "cf997fa926fb"
+  },
+  "310-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Inosservanza dei provvedimenti cautelari e interdittivi",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "6807d147b3a8"
+  },
+  "311": {
+   "file": "cap.md",
+   "rubrica": "Assetti proprietari",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "449b1ad5bbb6"
+  },
+  "311-bis": {
+   "file": "cap.md",
+   "rubrica": "Principio della rilevanza della violazione",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "e74010ad2ea7"
+  },
+  "311-ter": {
+   "file": "cap.md",
+   "rubrica": "Ordine di porre termine alle violazioni",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "2b7d7eab8714"
+  },
+  "311-quater": {
+   "file": "cap.md",
+   "rubrica": "Accertamento unitario per violazioni della stessa indole",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "14bc5c9b06a0"
+  },
+  "311-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Criteri per la determinazione delle sanzioni",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "32d29bed1eb0"
+  },
+  "311-sexies": {
+   "file": "cap.md",
+   "rubrica": "Sanzioni amministrative agli esponenti aziendali o al personale",
+   "vigore_da": "2025-03-12",
+   "datazione": "api",
+   "h": "dfb498903df2"
+  },
+  "311-septies": {
+   "file": "cap.md",
+   "rubrica": "Procedura di applicazione delle sanzioni amministrative alle imprese e agli esponenti aziendali o al personale",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "e82a46501fd6"
+  },
+  "312": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "708502e27094"
+  },
+  "313": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "708502e27094"
+  },
+  "314": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "708502e27094"
+  },
+  "315": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "708502e27094"
+  },
+  "316": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "708502e27094"
+  },
+  "317": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "708502e27094"
+  },
+  "318": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "708502e27094"
+  },
+  "319": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "708502e27094"
+  },
+  "320": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "708502e27094"
+  },
+  "321": {
+   "file": "cap.md",
+   "rubrica": "Doveri degli organi di controllo",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "48b7cfe36998"
+  },
+  "322": {
+   "file": "cap.md",
+   "rubrica": "Doveri del revisore legale e della societa' di revisione legale",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "b36a5308fed2"
+  },
+  "323": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "324": {
+   "file": "cap.md",
+   "rubrica": "Sanzioni relative alle violazioni delle disposizioni in materia di realizzazione e di distribuzione dei prodotti assicurativi, inclusi i prodotti di investimento assicurativo, nonche' alle violazioni delle disposizioni previste dal regolamento (UE) 2022/2554 e dalle relative norme tecniche di regolamentazione e attuazione, commesse dagli intermediari",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "0101b5d85d14"
+  },
+  "324-bis": {
+   "file": "cap.md",
+   "rubrica": "Sanzioni relative alle violazioni delle disposizioni in materia di realizzazione e di distribuzione dei prodotti assicurativi, inclusi i prodotti di investimento assicurativo, commesse dalle imprese",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "5d0b2d077e9b"
+  },
+  "324-ter": {
+   "file": "cap.md",
+   "rubrica": "Principio della rilevanza della violazione",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "364d031dd2e1"
+  },
+  "324-quater": {
+   "file": "cap.md",
+   "rubrica": "Ordine di porre termine alle violazioni",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "b55e4e52ff87"
+  },
+  "324-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Accertamento unitario delle violazioni della stessa indole",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "28c726535b7d"
+  },
+  "324-sexies": {
+   "file": "cap.md",
+   "rubrica": "Criteri per la determinazione delle sanzioni",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "2568101f11cd"
+  },
+  "324-septies": {
+   "file": "cap.md",
+   "rubrica": "Sanzioni amministrative agli esponenti aziendali o al personale delle imprese e delle societa' di intermediazione assicurativa o riassicurativa",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "b1577323e5a6"
+  },
+  "324-octies": {
+   "file": "cap.md",
+   "rubrica": "Procedura di applicazione delle sanzioni amministrative nei confronti degli intermediari e degli esponenti aziendali o del personale della societa' di intermediazione assicurativa o riassicurativa",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "9a65f877bbdf"
+  },
+  "324-novies": {
+   "file": "cap.md",
+   "rubrica": "Procedura di applicazione delle sanzioni amministrative nei confronti delle imprese e degli esponenti aziendali e del personale",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "c0277c84da79"
+  },
+  "325": {
+   "file": "cap.md",
+   "rubrica": "Destinatari delle sanzioni amministrative pecuniarie",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "1aa951b09543"
+  },
+  "325-bis": {
+   "file": "cap.md",
+   "rubrica": "Nozione di fatturato",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "a5ac27743297"
+  },
+  "325-ter": {
+   "file": "cap.md",
+   "rubrica": "Pubblicazione delle sanzioni",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "fa2964b6a79d"
+  },
+  "325-quater": {
+   "file": "cap.md",
+   "rubrica": "Comunicazione all'AEAP delle sanzioni applicate per le violazioni delle disposizioni in materia di realizzazione e di distribuzione dei prodotti assicurativi, inclusi i prodotti di investimento assicurativo",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "8ccb9212563e"
+  },
+  "326": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "708502e27094"
+  },
+  "327": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2018-10-01",
+   "datazione": "api",
+   "h": "708502e27094"
+  },
+  "328": {
+   "file": "cap.md",
+   "rubrica": "Norme sul pagamento delle sanzioni amministrative pecuniarie",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "3b79f938ebd4"
+  },
+  "328-bis": {
+   "file": "cap.md",
+   "rubrica": "Impegni",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "990674853de2"
+  },
+  "329": {
+   "file": "cap.md",
+   "rubrica": "Sanzioni disciplinari applicabili ai periti assicurativi",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "e74523accb87"
+  },
+  "330": {
+   "file": "cap.md",
+   "rubrica": "Competenza ad adottare i provvedimenti disciplinari nei confronti dei periti assicurativi",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "d1f5546135d2"
+  },
+  "331": {
+   "file": "cap.md",
+   "rubrica": "Procedura di applicazione delle sanzioni disciplinari nei confronti dei periti",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "0008da4075f6"
+  },
+  "331-bis": {
+   "file": "cap.md",
+   "rubrica": "Disposizioni di attuazione",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "c2e799a7786f"
+  },
+  "332": {
+   "file": "cap.md",
+   "rubrica": "Fondo di integrazione a copertura del margine di solvibilita' delle imprese di assicurazione",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "e4e41dcb7dea"
+  },
+  "333": {
+   "file": "cap.md",
+   "rubrica": "Imposte e tasse sulle iscrizioni e sulle annotazioni di vincolo delle attivita' patrimoniali",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "987c16754610"
+  },
+  "334": {
+   "file": "cap.md",
+   "rubrica": "Contributo sui premi delle assicurazioni dei veicoli e dei natanti",
+   "vigore_da": "2026-01-01",
+   "datazione": "api",
+   "h": "e7affca80e06"
+  },
+  "335": {
+   "file": "cap.md",
+   "rubrica": "Imprese di assicurazione e di riassicurazione",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "94efb4265613"
+  },
+  "336": {
+   "file": "cap.md",
+   "rubrica": "Intermediari di assicurazione e di riassicurazione",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "ae98d0097be1"
+  },
+  "337": {
+   "file": "cap.md",
+   "rubrica": "Periti assicurativi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "7b4990162cd5"
+  },
+  "338": {
+   "file": "cap.md",
+   "rubrica": "Imprese di assicurazione e di riassicurazione gia' autorizzate",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "7abfcdd84869"
+  },
+  "339": {
+   "file": "cap.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ec94aa329a48"
+  },
+  "340": {
+   "file": "cap.md",
+   "rubrica": "Margine di solvibilita' disponibile nei rami vita",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e3f6b91a9825"
+  },
+  "341": {
+   "file": "cap.md",
+   "rubrica": "Imprese in liquidazione coatta",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "7bf7b81cd0eb"
+  },
+  "342": {
+   "file": "cap.md",
+   "rubrica": "Partecipazioni gia' autorizzate",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "69a633c99066"
+  },
+  "343": {
+   "file": "cap.md",
+   "rubrica": "Intermediari gia' iscritti od operanti",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "9fdf742baed0"
+  },
+  "344": {
+   "file": "cap.md",
+   "rubrica": "Periti di assicurazione gia' iscritti",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "380b8d49f2ec"
+  },
+  "344-bis": {
+   "file": "cap.md",
+   "rubrica": "Regime di applicazione immediata",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "9d76c4a95b44"
+  },
+  "344-ter": {
+   "file": "cap.md",
+   "rubrica": "Misure transitorie inerenti particolari tipi di imprese di assicurazione o di riassicurazione",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "dbbb8b1c0acf"
+  },
+  "344-quater": {
+   "file": "cap.md",
+   "rubrica": "Misure transitorie inerenti l'informativa e il processo di controllo prudenziale",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ed0a05a1ebcb"
+  },
+  "344-quinquies": {
+   "file": "cap.md",
+   "rubrica": "Misure transitorie in materia di fondi propri e investimenti",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "07d400b9b94e"
+  },
+  "344-sexies": {
+   "file": "cap.md",
+   "rubrica": "Misure transitorie in materia di Requisito Patrimoniale di Solvibilita'",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d28cac186fd3"
+  },
+  "344-septies": {
+   "file": "cap.md",
+   "rubrica": "Misure transitorie in materia di misure di salvaguardia",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "4b9863fdef5a"
+  },
+  "344-octies": {
+   "file": "cap.md",
+   "rubrica": "Disposizioni transitorie in materia di vigilanza sul gruppo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "7717c17c1099"
+  },
+  "344-novies": {
+   "file": "cap.md",
+   "rubrica": "Misura transitoria sui tassi d'interesse privi di rischio",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "e74456caa1f6"
+  },
+  "344-decies": {
+   "file": "cap.md",
+   "rubrica": "Misura transitoria sulle riserve tecniche",
+   "vigore_da": "2021-02-09",
+   "datazione": "api",
+   "h": "c3a499f0b60a"
+  },
+  "344-undecies": {
+   "file": "cap.md",
+   "rubrica": "Piano di transizione sulle misure transitorie relative ai tassi d'interesse privi di rischio e sulle riserve tecniche",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "eb8838ba2ac1"
+  },
+  "344-duodecies": {
+   "file": "cap.md",
+   "rubrica": "Comunicazione di informazioni all'AEAP",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "ff0401f16bf2"
+  },
+  "344-terdecies": {
+   "file": "cap.md",
+   "rubrica": "Disposizioni transitorie riguardanti il rispetto del Requisito Patrimoniale Minimo",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "80bfbbb162fa"
+  },
+  "344-quaterdecies": {
+   "file": "cap.md",
+   "rubrica": "Obblighi di informativa sulle maggiorazioni di capitale",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "a9a870902bd9"
+  },
+  "345": {
+   "file": "cap.md",
+   "rubrica": "Istituzioni e enti esclusi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "f4252416744d"
+  },
+  "346": {
+   "file": "cap.md",
+   "rubrica": "Attivita' di assistenza prestata da enti e societa' non assicurative",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "fa4664e7c5ae"
+  },
+  "347": {
+   "file": "cap.md",
+   "rubrica": "Potesta' legislativa delle Regioni",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "1cae2be34ac1"
+  },
+  "348": {
+   "file": "cap.md",
+   "rubrica": "Esercizio congiunto dei rami vita e danni",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "84a8e3688ac6"
+  },
+  "349": {
+   "file": "cap.md",
+   "rubrica": "Imprese di assicurazione aventi la sede legale nella Confederazione elvetica",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "6afca43d1fdf"
+  },
+  "350": {
+   "file": "cap.md",
+   "rubrica": "Ricorsi giurisdizionali inerenti il registro degli intermediari ed il ruolo dei periti assicurativi",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "8374880887c3"
+  },
+  "351": {
+   "file": "cap.md",
+   "rubrica": "Modifiche ad altre norme in materia assicurativa",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "9d63b21e9126"
+  },
+  "352": {
+   "file": "cap.md",
+   "rubrica": "Coordinamento formale con altre norme di legge",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "8fd9b7acf0b2"
+  },
+  "353": {
+   "file": "cap.md",
+   "rubrica": "Integrazioni alle disposizioni relative all'imposta sui premi delle assicurazioni private",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "d47dc157fc97"
+  },
+  "354": {
+   "file": "cap.md",
+   "rubrica": "Norme espressamente abrogate",
+   "vigore_da": "2015-06-30",
+   "datazione": "api",
+   "h": "b5fc0e8e9ef1"
+  },
+  "355": {
+   "file": "cap.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "de82835edd89"
+  }
+ }
+}

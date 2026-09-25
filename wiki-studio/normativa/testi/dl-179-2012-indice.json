@@ -1,0 +1,1045 @@
+{
+ "_meta": {
+  "codice": "dl-179-2012",
+  "nome": "Ulteriori misure urgenti per la crescita (D.L. 179/2012)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-06-28",
+  "articoli": 85,
+  "file": [
+   "dl-179-2012.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legge:2012-10-18;179",
+  "versioni": [
+   {
+    "data": "2012-10-19",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2012-12-18",
+    "evento": "rp1",
+    "atto_modificante": "L. 17 dicembre 2012, n. 221"
+   },
+   {
+    "data": "2012-12-29",
+    "evento": "rp2",
+    "atto_modificante": "L. 24 dicembre 2012, n. 228"
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2013-06-28",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 28 giugno 2013, n. 76"
+   },
+   {
+    "data": "2013-08-20",
+    "evento": "rp5",
+    "atto_modificante": "L. 6 agosto 2013, n. 97"
+   },
+   {
+    "data": "2013-08-31",
+    "evento": "rp6",
+    "atto_modificante": "D.L. 31 agosto 2013, n. 101"
+   },
+   {
+    "data": "2013-12-23",
+    "evento": "rp7",
+    "atto_modificante": "D.L. 23 dicembre 2013, n. 145"
+   },
+   {
+    "data": "2013-12-27",
+    "evento": "rp8",
+    "atto_modificante": "L. 27 dicembre 2013, n. 147"
+   },
+   {
+    "data": "2013-12-30",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 30 dicembre 2013, n. 150"
+   },
+   {
+    "data": "2014-05-31",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 31 maggio 2014, n. 83"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp11+rp12",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 90; D.L. 24 giugno 2014, n. 91"
+   },
+   {
+    "data": "2014-09-12",
+    "evento": "rp13+rp14",
+    "atto_modificante": "D.L. 12 settembre 2014, n. 132; D.L. 12 settembre 2014, n. 133"
+   },
+   {
+    "data": "2014-12-31",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 31 dicembre 2014, n. 192"
+   },
+   {
+    "data": "2015-01-24",
+    "evento": "rp16",
+    "atto_modificante": "D.L. 24 gennaio 2015, n. 3"
+   },
+   {
+    "data": "2015-06-24",
+    "evento": "rp17",
+    "atto_modificante": "D.Lgs. 15 giugno 2015, n. 81"
+   },
+   {
+    "data": "2015-06-27",
+    "evento": "rp18",
+    "atto_modificante": "D.L. 27 giugno 2015, n. 83"
+   },
+   {
+    "data": "2015-08-03",
+    "evento": "rp19",
+    "atto_modificante": "L. 29 luglio 2015, n. 115"
+   },
+   {
+    "data": "2015-12-30",
+    "evento": "rp20+rp21",
+    "atto_modificante": "L. 28 dicembre 2015, n. 208; D.L. 30 dicembre 2015, n. 210"
+   },
+   {
+    "data": "2016-01-21",
+    "evento": "rp22",
+    "atto_modificante": "atto modificante non indicato (rp22)"
+   },
+   {
+    "data": "2016-01-28",
+    "evento": "rp23",
+    "atto_modificante": "D.Lgs. 22 gennaio 2016, n. 10"
+   },
+   {
+    "data": "2016-04-19",
+    "evento": "rp24",
+    "atto_modificante": "D.Lgs. 18 aprile 2016, n. 50"
+   },
+   {
+    "data": "2016-05-03",
+    "evento": "rp25",
+    "atto_modificante": "D.L. 3 maggio 2016, n. 59"
+   },
+   {
+    "data": "2016-08-31",
+    "evento": "rp26",
+    "atto_modificante": "D.Lgs. 4 agosto 2016, n. 169"
+   },
+   {
+    "data": "2016-09-13",
+    "evento": "rp27",
+    "atto_modificante": "D.Lgs. 26 agosto 2016, n. 179"
+   },
+   {
+    "data": "2016-12-21",
+    "evento": "rp28",
+    "atto_modificante": "L. 11 dicembre 2016, n. 232"
+   },
+   {
+    "data": "2016-12-30",
+    "evento": "rp29",
+    "atto_modificante": "D.L. 30 dicembre 2016, n. 244"
+   },
+   {
+    "data": "2017-04-24",
+    "evento": "rp30",
+    "atto_modificante": "D.L. 24 aprile 2017, n. 50"
+   },
+   {
+    "data": "2017-05-05",
+    "evento": "rp31",
+    "atto_modificante": "D.Lgs. 19 aprile 2017, n. 56"
+   },
+   {
+    "data": "2017-08-02",
+    "evento": "rp32",
+    "atto_modificante": "D.Lgs. 3 luglio 2017, n. 117"
+   },
+   {
+    "data": "2017-08-14",
+    "evento": "rp33",
+    "atto_modificante": "L. 4 agosto 2017, n. 124"
+   },
+   {
+    "data": "2017-09-29",
+    "evento": "rp34",
+    "atto_modificante": "atto modificante non indicato (rp34)"
+   },
+   {
+    "data": "2018-01-12",
+    "evento": "rp35",
+    "atto_modificante": "D.Lgs. 13 dicembre 2017, n. 217"
+   },
+   {
+    "data": "2018-01-13",
+    "evento": "rp36",
+    "atto_modificante": "D.Lgs. 15 dicembre 2017, n. 218"
+   },
+   {
+    "data": "2018-07-13",
+    "evento": "rp37",
+    "atto_modificante": "D.L. 12 luglio 2018, n. 87"
+   },
+   {
+    "data": "2018-09-11",
+    "evento": "rp38",
+    "atto_modificante": "D.Lgs. 10 agosto 2018, n. 106"
+   },
+   {
+    "data": "2018-12-14",
+    "evento": "rp39",
+    "atto_modificante": "D.L. 14 dicembre 2018, n. 135"
+   },
+   {
+    "data": "2018-12-31",
+    "evento": "rp40",
+    "atto_modificante": "L. 30 dicembre 2018, n. 145"
+   },
+   {
+    "data": "2019-02-14",
+    "evento": "rp41",
+    "atto_modificante": "D.Lgs. 12 gennaio 2019, n. 14"
+   },
+   {
+    "data": "2019-04-05",
+    "evento": "rp42",
+    "atto_modificante": "L. 22 marzo 2019, n. 29"
+   },
+   {
+    "data": "2019-04-17",
+    "evento": "rp43",
+    "atto_modificante": "atto modificante non indicato (rp43)"
+   },
+   {
+    "data": "2019-10-26",
+    "evento": "rp44",
+    "atto_modificante": "D.L. 26 ottobre 2019, n. 124"
+   },
+   {
+    "data": "2019-12-24",
+    "evento": "rp45",
+    "atto_modificante": "L. 19 dicembre 2019, n. 157"
+   },
+   {
+    "data": "2020-04-08",
+    "evento": "rp46",
+    "atto_modificante": "D.L. 8 aprile 2020, n. 23"
+   },
+   {
+    "data": "2020-04-30",
+    "evento": "rp47",
+    "atto_modificante": "D.L. 30 aprile 2020, n. 28"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp48",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-06-29",
+    "evento": "rp49",
+    "atto_modificante": "L. 25 giugno 2020, n. 70"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp50",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   },
+   {
+    "data": "2020-07-18",
+    "evento": "rp51",
+    "atto_modificante": "L. 17 luglio 2020, n. 77"
+   },
+   {
+    "data": "2020-09-14",
+    "evento": "rp52",
+    "atto_modificante": "L. 11 settembre 2020, n. 120"
+   },
+   {
+    "data": "2020-12-31",
+    "evento": "rp53",
+    "atto_modificante": "D.L. 31 dicembre 2020, n. 183"
+   },
+   {
+    "data": "2021-05-31",
+    "evento": "rp54",
+    "atto_modificante": "D.L. 31 maggio 2021, n. 77"
+   },
+   {
+    "data": "2021-06-14",
+    "evento": "rp55",
+    "atto_modificante": "D.L. 14 giugno 2021, n. 82"
+   },
+   {
+    "data": "2021-08-04",
+    "evento": "rp56",
+    "atto_modificante": "L. 4 agosto 2021, n. 109"
+   },
+   {
+    "data": "2021-08-24",
+    "evento": "rp57",
+    "atto_modificante": "D.L. 24 agosto 2021, n. 118"
+   },
+   {
+    "data": "2021-10-23",
+    "evento": "rp58",
+    "atto_modificante": "L. 21 ottobre 2021, n. 147"
+   },
+   {
+    "data": "2021-11-06",
+    "evento": "rp59",
+    "atto_modificante": "D.L. 6 novembre 2021, n. 152"
+   },
+   {
+    "data": "2021-11-30",
+    "evento": "rp60",
+    "atto_modificante": "D.Lgs. 8 novembre 2021, n. 198"
+   },
+   {
+    "data": "2021-12-31",
+    "evento": "rp61",
+    "atto_modificante": "L. 29 dicembre 2021, n. 233"
+   },
+   {
+    "data": "2022-01-27",
+    "evento": "rp62",
+    "atto_modificante": "D.L. 27 gennaio 2022, n. 4"
+   },
+   {
+    "data": "2022-03-28",
+    "evento": "rp63",
+    "atto_modificante": "L. 28 marzo 2022, n. 25"
+   },
+   {
+    "data": "2022-04-30",
+    "evento": "rp64",
+    "atto_modificante": "D.L. 30 aprile 2022, n. 36"
+   },
+   {
+    "data": "2022-06-29",
+    "evento": "rp65",
+    "atto_modificante": "L. 29 giugno 2022, n. 79"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp66+rp67+rp68",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149; D.Lgs. 10 ottobre 2022, n. 150; D.Lgs. 10 ottobre 2022, n. 151"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp69",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2022-12-30",
+    "evento": "rp70",
+    "atto_modificante": "D.Lgs. 23 dicembre 2022, n. 201"
+   },
+   {
+    "data": "2024-03-02",
+    "evento": "rp71",
+    "atto_modificante": "D.L. 2 marzo 2024, n. 19"
+   },
+   {
+    "data": "2024-03-12",
+    "evento": "rp72",
+    "atto_modificante": "L. 5 marzo 2024, n. 21"
+   },
+   {
+    "data": "2024-05-14",
+    "evento": "rp73",
+    "atto_modificante": "D.Lgs. 3 maggio 2024, n. 62"
+   },
+   {
+    "data": "2024-09-27",
+    "evento": "rp74",
+    "atto_modificante": "D.Lgs. 13 settembre 2024, n. 136"
+   },
+   {
+    "data": "2024-11-11",
+    "evento": "rp75",
+    "atto_modificante": "D.Lgs. 31 ottobre 2024, n. 164"
+   },
+   {
+    "data": "2024-12-17",
+    "evento": "rp76",
+    "atto_modificante": "L. 16 dicembre 2024, n. 193"
+   },
+   {
+    "data": "2024-12-27",
+    "evento": "rp77",
+    "atto_modificante": "D.L. 27 dicembre 2024, n. 202"
+   },
+   {
+    "data": "2024-12-31",
+    "evento": "rp78",
+    "atto_modificante": "L. 30 dicembre 2024, n. 207"
+   },
+   {
+    "data": "2025-02-24",
+    "evento": "rp79",
+    "atto_modificante": "L. 21 febbraio 2025, n. 15"
+   },
+   {
+    "data": "2025-03-14",
+    "evento": "rp80",
+    "atto_modificante": "D.L. 14 marzo 2025, n. 25"
+   },
+   {
+    "data": "2025-05-13",
+    "evento": "rp81",
+    "atto_modificante": "L. 9 maggio 2025, n. 69"
+   },
+   {
+    "data": "2025-09-25",
+    "evento": "rp82",
+    "atto_modificante": "L. 23 settembre 2025, n. 132"
+   },
+   {
+    "data": "2025-10-31",
+    "evento": "rp83",
+    "atto_modificante": "D.L. 31 ottobre 2025, n. 159"
+   },
+   {
+    "data": "2025-12-30",
+    "evento": "rp84",
+    "atto_modificante": "L. 29 dicembre 2025, n. 198"
+   },
+   {
+    "data": "2026-03-27",
+    "evento": "rp85",
+    "atto_modificante": "D.L. 27 marzo 2026, n. 38"
+   },
+   {
+    "data": "2026-04-30",
+    "evento": "rp86",
+    "atto_modificante": "D.L. 30 aprile 2026, n. 63"
+   },
+   {
+    "data": "2026-05-22",
+    "evento": "rp87",
+    "atto_modificante": "L. 22 maggio 2026, n. 88"
+   },
+   {
+    "data": "2026-06-27",
+    "evento": "rp88",
+    "atto_modificante": "L. 25 giugno 2026, n. 113"
+   }
+  ],
+  "ultima_versione": "2026-06-27",
+  "datazione": {
+   "monoblocco": 85,
+   "api": 68,
+   "riportati": 17,
+   "ignota": 0,
+   "stima_anteriore": 15,
+   "chiamate": 68,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Attuazione dell'Agenda digitale italiana e documento digitale unificato e finanziamento dell'ISTAT",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "f2d8c660d3fb"
+  },
+  "2": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Anagrafe nazionale della popolazione residente",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "7e7904f75037"
+  },
+  "2-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Regole tecniche per le basi di dati",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "9d122a8ba100"
+  },
+  "3": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Censimento permanente della popolazione e delle abitazioni e Archivio nazionale dei numeri civici delle strade urbane",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "h": "79d64be0a2f2"
+  },
+  "4": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Domicilio digitale del cittadino",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "h": "0db04e1aeb80"
+  },
+  "5": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Posta elettronica certificata - indice nazionale degli indirizzi delle imprese e dei professionisti",
+   "vigore_da": "2025-12-31",
+   "datazione": "api",
+   "h": "aa0e5435cf7c"
+  },
+  "6": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Trasmissione di documenti per via telematica, contratti della pubblica amministrazione e conservazione degli atti notarili",
+   "vigore_da": "2025-05-14",
+   "datazione": "api",
+   "h": "ed992522f719"
+  },
+  "7": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Trasmissione telematica delle certificazioni di malattia nel settore pubblico e privato",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "h": "2619586b66f8"
+  },
+  "8": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Misure per l'innovazione dei sistemi di trasporto",
+   "vigore_da": "2016-09-15",
+   "datazione": "api",
+   "h": "7412f8db06b0"
+  },
+  "9": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Documenti informatici, dati di tipo aperto e inclusione digitale",
+   "vigore_da": "2018-09-26",
+   "datazione": "api",
+   "h": "b17666a1b5bd"
+  },
+  "9-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Acquisizione di software da parte della pubblica amministrazione",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "530e687aeed9"
+  },
+  "10": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Anagrafe nazionale degli studenti e altre misure in materia scolastica",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "h": "3214d93e2930"
+  },
+  "11": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Libri e centri scolastici digitali",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "e4a351b8da04"
+  },
+  "11-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Credito d'imposta per promuovere l'offerta on line di opere dell'ingegno",
+   "vigore_da": "2014-01-01",
+   "datazione": "api",
+   "h": "3cfebf930a52"
+  },
+  "12": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Fascicolo sanitario elettronico, sistemi di sorveglianza nel settore sanitario e governo della sanita' digitale",
+   "vigore_da": "2025-02-25",
+   "datazione": "api",
+   "h": "978000178ba8"
+  },
+  "12-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Intelligenza artificiale nel settore sanitario",
+   "vigore_da": "2025-10-10",
+   "datazione": "api",
+   "h": "a76b9b307baf"
+  },
+  "13": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Prescrizione medica e cartella clinica digitale",
+   "vigore_da": "2015-03-01",
+   "datazione": "api",
+   "h": "e9895f41f8cd"
+  },
+  "13-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Ricetta medica",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "d88933d2c5da"
+  },
+  "13-ter": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Carta dei diritti",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "dc62b1acaedd"
+  },
+  "14": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Interventi per la diffusione delle tecnologie digitali",
+   "vigore_da": "2014-11-12",
+   "datazione": "api",
+   "h": "5b0a72c27f1d"
+  },
+  "14-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Pubblicita' dei lavori parlamentari",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "0f4a4d3cadf2"
+  },
+  "15": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Pagamenti elettronici",
+   "vigore_da": "2026-06-28",
+   "datazione": "api",
+   "h": "4b04e55136ac"
+  },
+  "16": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Biglietti di cancelleria, comunicazioni e notificazioni per via telematica",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "f54da6b35d34"
+  },
+  "16-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28",
+   "datazione": "api",
+   "h": "368d4ebad8a7"
+  },
+  "16-ter": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Pubblici elenchi per notificazioni e comunicazioni",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "7ed22890c144"
+  },
+  "16-quater": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Modifiche alla legge 21 gennaio 1994, n. 53",
+   "vigore_da": "2014-08-19",
+   "datazione": "api",
+   "h": "64446702277f"
+  },
+  "16-quinquies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Copertura finanziaria",
+   "vigore_da": "2013-01-01",
+   "datazione": "api",
+   "h": "ac5ba5b0398d"
+  },
+  "16-sexies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Domicilio digitale",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "3067b27e7021"
+  },
+  "16-septies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28",
+   "datazione": "api",
+   "h": "368d4ebad8a7"
+  },
+  "16-octies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "",
+   "vigore_da": "2022-11-01",
+   "datazione": "api",
+   "h": "90ed7d9bf559"
+  },
+  "16-novies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Modalita' informatiche per le domande di iscrizione e per la tenuta dell'albo dei consulenti tecnici, dell'albo dei periti presso il tribunale, dell'elenco dei soggetti specializzati per la custodia e la vendita dei beni pignorati e dell'elenco dei professionisti disponibili a provvedere alle operazioni di vendita",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "8763f8e8c542"
+  },
+  "16-decies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28",
+   "datazione": "api",
+   "h": "368d4ebad8a7"
+  },
+  "16-undecies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28",
+   "datazione": "api",
+   "h": "368d4ebad8a7"
+  },
+  "17": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Modifiche alla legge fallimentare e al decreto legislativo 8 luglio 1999, n. 270",
+   "vigore_da": "2013-01-01",
+   "datazione": "api",
+   "h": "1b97e4178a55"
+  },
+  "18": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Modificazioni alla legge 27 gennaio 2012, n. 3 , e all'articolo 217-bis del regio decreto 16 marzo 1942, n.267",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "b6d2bef99f1d"
+  },
+  "19": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Grandi progetti di ricerca e innovazione e appalti precommerciali",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "0c9be0dfae83"
+  },
+  "20": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Comunita' intelligenti",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "4c17a6ddcce2"
+  },
+  "20-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Informatizzazione delle attivita' di controllo e giurisdizionali della Corte dei conti",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "4b2c6bc796be"
+  },
+  "20-ter": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Interventi urgenti connessi all'attivita' di protezione civile",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "0189108add54"
+  },
+  "21": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Misure per l'individuazione ed il contrasto delle frodi assicurative",
+   "vigore_da": "2017-08-29",
+   "datazione": "api",
+   "h": "48205c472a4b"
+  },
+  "22": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Misure a favore della concorrenza e della tutela del consumatore nel mercato assicurativo",
+   "vigore_da": "2013-01-01",
+   "datazione": "api",
+   "h": "efe68bfff3bf"
+  },
+  "23": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Misure per le societa' cooperative e di mutuo soccorso",
+   "vigore_da": "2017-08-03",
+   "datazione": "api",
+   "h": "36ba865818b7"
+  },
+  "23-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Modifica al testo unico di cui al decreto legislativo n. 385 del 1993",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "df79892febd2"
+  },
+  "23-ter": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Modifiche alla legge 28 giugno 2012, n. 92, in materia di fondi interprofessionali per la formazione continua",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "d916580c207e"
+  },
+  "23-quater": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Ulteriori modifiche al decreto legislativo n. 385 del 1993 e al decreto legislativo n. 58 del 1998",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "9a0c62cf3978"
+  },
+  "24": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Disposizioni attuative del regolamento (UE) n. 236/2012 del Parlamento europeo e del Consiglio, del 14 marzo 2012",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "2d4500973c31"
+  },
+  "24-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Modifiche al decreto del Presidente della Repubblica 14 marzo 2001, n. 144",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "6040064ebebf"
+  },
+  "24-ter": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Modifiche all'articolo 136 del decreto legislativo n. 385 del 1993",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "86ef4929dd9a"
+  },
+  "25": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Start-up innovativa e incubatore certificato: finalita', definizione e pubblicita'",
+   "vigore_da": "2024-12-18",
+   "datazione": "api",
+   "h": "a36e86e05a5f"
+  },
+  "26": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Deroga al diritto societario e riduzione degli oneri per l'avvio",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "a7cc7cfe5792"
+  },
+  "27": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Remunerazione con strumenti finanziari della start-up innovativa e dell'incubatore certificato",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "f4f6e19938e2"
+  },
+  "27-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Misure di semplificazione per l'accesso alle agevolazioni per le assunzioni di personale nelle start-up innovative e negli incubatori certificati",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "6c9ff8be7d75"
+  },
+  "28": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Disposizioni in materia di rapporto di lavoro subordinato in start-up innovative",
+   "vigore_da": "2017-06-24",
+   "datazione": "api",
+   "h": "b10615b78819"
+  },
+  "29": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Incentivi all'investimento in start-up innovative",
+   "vigore_da": "2024-12-18",
+   "datazione": "api",
+   "h": "468c44372a1d"
+  },
+  "29-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Incentivi in regime \"de minimis\" all'investimento in start-up innovative",
+   "vigore_da": "2024-12-18",
+   "datazione": "api",
+   "h": "8f355561a8e0"
+  },
+  "30": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Raccolta di capitali di rischio tramite portali on line e altri interventi di sostegno per le start-up innovative",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "c28fd56c9a12"
+  },
+  "31": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Composizione e gestione della crisi nell'impresa start-up innovativa, decadenza dei requisiti e attivita' di controllo",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
+   "h": "ca84d2ab45c7"
+  },
+  "32": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Pubblicita' e valutazione dell'impatto delle misure",
+   "vigore_da": "2015-03-26",
+   "datazione": "api",
+   "h": "dfb24727b097"
+  },
+  "33": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Disposizioni per incentivare la realizzazione di nuove infrastrutture",
+   "vigore_da": "2016-04-19",
+   "datazione": "api",
+   "h": "2e87d822045b"
+  },
+  "33-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "",
+   "vigore_da": "2016-04-19",
+   "datazione": "api",
+   "h": "6fd9d0edc577"
+  },
+  "33-ter": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Anagrafe unica delle stazioni appaltanti",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "e117323ebe1c"
+  },
+  "33-quater": {
+   "file": "dl-179-2012.md",
+   "rubrica": "",
+   "vigore_da": "2016-04-19",
+   "datazione": "api",
+   "h": "6fd9d0edc577"
+  },
+  "33-quinquies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "",
+   "vigore_da": "2017-05-20",
+   "datazione": "api",
+   "h": "718cfe66a672"
+  },
+  "33-sexies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Autorizzazione di spesa",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "0d0a588f4e87"
+  },
+  "33-septies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Consolidamento e razionalizzazione dei siti e delle infrastrutture digitali del Paese",
+   "vigore_da": "2022-01-01",
+   "datazione": "api",
+   "h": "486ede785646"
+  },
+  "33-octies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Superamento del dissenso espresso nella conferenza di servizi",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "2f1124956a1f"
+  },
+  "34": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Misure urgenti per le attivita' produttive, le infrastrutture e i trasporti locali, la valorizzazione dei beni culturali ed i comuni",
+   "vigore_da": "2022-12-31",
+   "datazione": "api",
+   "h": "0c3d2a8b9a5c"
+  },
+  "34-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Autorita' nazionale anticorruzione",
+   "vigore_da": "2013-10-31",
+   "datazione": "api",
+   "h": "d9b63814eefa"
+  },
+  "34-ter": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Documentazione di spesa",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "37dfd798fba2"
+  },
+  "34-quater": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Imprese turistico-balneari",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "5a5a74ebe471"
+  },
+  "34-quinquies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Piano di sviluppo del turismo",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "6e9c7f328bde"
+  },
+  "34-sexies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Disposizioni in materia di accise",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "013d49aed0fe"
+  },
+  "34-septies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Modifiche al regime del registro delle imprese di pesca",
+   "vigore_da": "2016-01-29",
+   "datazione": "api",
+   "h": "dcc871777754"
+  },
+  "34-octies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Riordino dei servizi automobilistici sostitutivi o integrativi dei servizi ferroviari di interesse regionale e locale",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "41a8cfb761c2"
+  },
+  "34-novies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Definizione dei contributi per programmi di edilizia residenziale",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "0600d7a574a7"
+  },
+  "34-decies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Disposizioni in materia di collegamento stabile viario e ferroviario tra Sicilia e continente",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "73fceaf5d7af"
+  },
+  "34-undecies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Disposizioni in materia di trasporto pubblico locale",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "374ee81f2a42"
+  },
+  "34-duodecies": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Proroga di termine",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "8156dd668b31"
+  },
+  "35": {
+   "file": "dl-179-2012.md",
+   "rubrica": "",
+   "vigore_da": "2014-11-12",
+   "datazione": "api",
+   "h": "4577723213d4"
+  },
+  "36": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Misure in materia di confidi, strumenti di finanziamento e reti d'impresa",
+   "vigore_da": "2021-12-15",
+   "datazione": "api",
+   "h": "a6097702610d"
+  },
+  "36-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Disciplina delle relazioni commerciali in materia di cessione di prodotti agricoli e agroalimentari",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "82394d7e1eba"
+  },
+  "37": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Finanziamento delle agevolazioni in favore delle imprese delle Zone Urbane ricadenti nell'Obiettivo Convergenza",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "d066b0a2b282"
+  },
+  "37-bis": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Zone a burocrazia zero",
+   "vigore_da": "2014-07-31",
+   "datazione": "api",
+   "h": "74181b660ca7"
+  },
+  "38": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Disposizioni finanziarie",
+   "vigore_da": "2020-07-19",
+   "datazione": "api",
+   "h": "f3071362f7ae"
+  },
+  "39": {
+   "file": "dl-179-2012.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2012-10-20",
+   "datazione": "api",
+   "h": "b011a219f1da"
+  }
+ }
+}

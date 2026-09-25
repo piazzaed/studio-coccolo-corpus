@@ -1,0 +1,134 @@
+{
+ "_meta": {
+  "codice": "l-13-1989",
+  "nome": "Superamento delle barriere architettoniche negli edifici privati (L. 13/1989)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2020-07-17",
+  "articoli": 12,
+  "file": [
+   "l-13-1989.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1989-01-09;13",
+  "versioni": [
+   {
+    "data": "1989-01-26",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1989-02-27",
+    "evento": "rp1",
+    "atto_modificante": "L. 27 febbraio 1989, n. 62"
+   },
+   {
+    "data": "2012-12-17",
+    "evento": "rp2",
+    "atto_modificante": "L. 11 dicembre 2012, n. 220"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   }
+  ],
+  "ultima_versione": "2020-07-16",
+  "datazione": {
+   "monoblocco": 12,
+   "api": 11,
+   "riportati": 1,
+   "ignota": 0,
+   "stima_anteriore": 7,
+   "chiamate": 11,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-13-1989.md",
+   "rubrica": "",
+   "vigore_da": "1989-02-10",
+   "datazione": "api",
+   "h": "ccfadf38eb2b"
+  },
+  "2": {
+   "file": "l-13-1989.md",
+   "rubrica": "",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "3539a48fe924"
+  },
+  "3": {
+   "file": "l-13-1989.md",
+   "rubrica": "",
+   "vigore_da": "1989-02-27",
+   "datazione": "api",
+   "h": "e0339d6826ff"
+  },
+  "4": {
+   "file": "l-13-1989.md",
+   "rubrica": "",
+   "vigore_da": "1989-02-10",
+   "datazione": "api",
+   "h": "8baa0d47e4b0"
+  },
+  "5": {
+   "file": "l-13-1989.md",
+   "rubrica": "",
+   "vigore_da": "1989-02-10",
+   "datazione": "api",
+   "h": "8df29106bdc8"
+  },
+  "6": {
+   "file": "l-13-1989.md",
+   "rubrica": "",
+   "vigore_da": "1989-02-10",
+   "datazione": "api",
+   "h": "62fccd313ad8"
+  },
+  "7": {
+   "file": "l-13-1989.md",
+   "rubrica": "",
+   "vigore_da": "1989-02-10",
+   "datazione": "api",
+   "h": "340a26eb970e"
+  },
+  "8": {
+   "file": "l-13-1989.md",
+   "rubrica": "",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "9722c7e4e98f"
+  },
+  "9": {
+   "file": "l-13-1989.md",
+   "rubrica": "",
+   "vigore_da": "1989-02-27",
+   "datazione": "api",
+   "h": "faa3c7ce4031"
+  },
+  "10": {
+   "file": "l-13-1989.md",
+   "rubrica": "",
+   "vigore_da": "1989-02-10",
+   "datazione": "api",
+   "h": "e85f05d04acb"
+  },
+  "11": {
+   "file": "l-13-1989.md",
+   "rubrica": "",
+   "vigore_da": "1989-02-27",
+   "datazione": "api",
+   "h": "0e097704428e"
+  },
+  "12": {
+   "file": "l-13-1989.md",
+   "rubrica": "",
+   "vigore_da": "1989-02-10",
+   "datazione": "api",
+   "h": "64cc7c57f3bd"
+  }
+ }
+}

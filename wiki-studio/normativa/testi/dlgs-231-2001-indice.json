@@ -1,0 +1,1113 @@
+{
+ "_meta": {
+  "codice": "dlgs-231-2001",
+  "nome": "Responsabilità amministrativa degli enti (D.Lgs. 231/2001)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-07-16",
+  "articoli": 109,
+  "file": [
+   "dlgs-231-2001.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2001-06-08;231",
+  "versioni": [
+   {
+    "data": "2001-06-19",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2001-09-26",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 25 settembre 2001, n. 350"
+   },
+   {
+    "data": "2002-04-15",
+    "evento": "rp2",
+    "atto_modificante": "D.Lgs. 11 aprile 2002, n. 61"
+   },
+   {
+    "data": "2002-06-15",
+    "evento": "rp3",
+    "atto_modificante": "D.P.R. 30 maggio 2002, n. 115"
+   },
+   {
+    "data": "2003-01-27",
+    "evento": "rp4",
+    "atto_modificante": "L. 14 gennaio 2003, n. 7"
+   },
+   {
+    "data": "2003-02-13",
+    "evento": "rp5",
+    "atto_modificante": "D.P.R. 14 novembre 2002, n. 313"
+   },
+   {
+    "data": "2003-08-04",
+    "evento": "rp6",
+    "atto_modificante": "D.M. Ministero Della Giustizia 26 giugno 2003, n. 201"
+   },
+   {
+    "data": "2003-08-23",
+    "evento": "rp7",
+    "atto_modificante": "L. 11 agosto 2003, n. 228"
+   },
+   {
+    "data": "2005-04-27",
+    "evento": "rp8",
+    "atto_modificante": "L. 18 aprile 2005, n. 62"
+   },
+   {
+    "data": "2005-12-28",
+    "evento": "rp9",
+    "atto_modificante": "L. 28 dicembre 2005, n. 262"
+   },
+   {
+    "data": "2006-01-18",
+    "evento": "rp10",
+    "atto_modificante": "L. 9 gennaio 2006, n. 7"
+   },
+   {
+    "data": "2006-02-15",
+    "evento": "rp11",
+    "atto_modificante": "L. 6 febbraio 2006, n. 38"
+   },
+   {
+    "data": "2007-08-10",
+    "evento": "rp12",
+    "atto_modificante": "L. 3 agosto 2007, n. 123"
+   },
+   {
+    "data": "2007-12-14",
+    "evento": "rp13",
+    "atto_modificante": "D.Lgs. 21 novembre 2007, n. 231"
+   },
+   {
+    "data": "2008-04-04",
+    "evento": "rp14",
+    "atto_modificante": "L. 18 marzo 2008, n. 48"
+   },
+   {
+    "data": "2008-04-30",
+    "evento": "rp15",
+    "atto_modificante": "D.Lgs. 9 aprile 2008, n. 81"
+   },
+   {
+    "data": "2009-07-24",
+    "evento": "rp16",
+    "atto_modificante": "L. 15 luglio 2009, n. 94"
+   },
+   {
+    "data": "2009-07-31",
+    "evento": "rp17",
+    "atto_modificante": "L. 23 luglio 2009, n. 99"
+   },
+   {
+    "data": "2009-08-14",
+    "evento": "rp18",
+    "atto_modificante": "L. 3 agosto 2009, n. 116"
+   },
+   {
+    "data": "2009-12-30",
+    "evento": "rp19",
+    "atto_modificante": "L. 23 dicembre 2009, n. 191"
+   },
+   {
+    "data": "2011-08-01",
+    "evento": "rp20",
+    "atto_modificante": "D.Lgs. 7 luglio 2011, n. 121"
+   },
+   {
+    "data": "2011-11-14",
+    "evento": "rp21",
+    "atto_modificante": "L. 12 novembre 2011, n. 183"
+   },
+   {
+    "data": "2012-07-25",
+    "evento": "rp22",
+    "atto_modificante": "D.Lgs. 16 luglio 2012, n. 109"
+   },
+   {
+    "data": "2012-11-13",
+    "evento": "rp23",
+    "atto_modificante": "L. 6 novembre 2012, n. 190"
+   },
+   {
+    "data": "2013-08-31",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 31 agosto 2013, n. 101"
+   },
+   {
+    "data": "2014-03-22",
+    "evento": "rp25",
+    "atto_modificante": "D.Lgs. 4 marzo 2014, n. 39"
+   },
+   {
+    "data": "2014-12-17",
+    "evento": "rp26",
+    "atto_modificante": "L. 15 dicembre 2014, n. 186"
+   },
+   {
+    "data": "2015-05-28",
+    "evento": "rp27",
+    "atto_modificante": "L. 22 maggio 2015, n. 68"
+   },
+   {
+    "data": "2015-05-30",
+    "evento": "rp28",
+    "atto_modificante": "L. 27 maggio 2015, n. 69"
+   },
+   {
+    "data": "2016-11-03",
+    "evento": "rp29",
+    "atto_modificante": "L. 29 ottobre 2016, n. 199"
+   },
+   {
+    "data": "2017-03-30",
+    "evento": "rp30",
+    "atto_modificante": "D.Lgs. 15 marzo 2017, n. 38"
+   },
+   {
+    "data": "2017-11-04",
+    "evento": "rp31",
+    "atto_modificante": "L. 17 ottobre 2017, n. 161"
+   },
+   {
+    "data": "2017-11-27",
+    "evento": "rp32",
+    "atto_modificante": "L. 20 novembre 2017, n. 167"
+   },
+   {
+    "data": "2017-12-14",
+    "evento": "rp33",
+    "atto_modificante": "L. 30 novembre 2017, n. 179"
+   },
+   {
+    "data": "2019-01-16",
+    "evento": "rp34",
+    "atto_modificante": "L. 9 gennaio 2019, n. 3"
+   },
+   {
+    "data": "2019-05-16",
+    "evento": "rp35",
+    "atto_modificante": "L. 3 maggio 2019, n. 39"
+   },
+   {
+    "data": "2019-09-21",
+    "evento": "rp36",
+    "atto_modificante": "D.L. 21 settembre 2019, n. 105"
+   },
+   {
+    "data": "2019-10-26",
+    "evento": "rp37",
+    "atto_modificante": "D.L. 26 ottobre 2019, n. 124"
+   },
+   {
+    "data": "2019-11-20",
+    "evento": "rp38",
+    "atto_modificante": "L. 18 novembre 2019, n. 133"
+   },
+   {
+    "data": "2019-12-24",
+    "evento": "rp39",
+    "atto_modificante": "L. 19 dicembre 2019, n. 157"
+   },
+   {
+    "data": "2020-07-15",
+    "evento": "rp40",
+    "atto_modificante": "D.Lgs. 14 luglio 2020, n. 75"
+   },
+   {
+    "data": "2021-11-29",
+    "evento": "rp41",
+    "atto_modificante": "D.Lgs. 8 novembre 2021, n. 184"
+   },
+   {
+    "data": "2022-03-22",
+    "evento": "rp42",
+    "atto_modificante": "L. 9 marzo 2022, n. 22"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp43",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 150"
+   },
+   {
+    "data": "2022-10-22",
+    "evento": "rp44",
+    "atto_modificante": "D.Lgs. 4 ottobre 2022, n. 156"
+   },
+   {
+    "data": "2023-01-05",
+    "evento": "rp45",
+    "atto_modificante": "D.L. 5 gennaio 2023, n. 2"
+   },
+   {
+    "data": "2023-03-06",
+    "evento": "rp46",
+    "atto_modificante": "L. 3 marzo 2023, n. 17"
+   },
+   {
+    "data": "2023-03-07",
+    "evento": "rp47",
+    "atto_modificante": "D.Lgs. 2 marzo 2023, n. 19"
+   },
+   {
+    "data": "2023-03-15",
+    "evento": "rp48",
+    "atto_modificante": "D.Lgs. 10 marzo 2023, n. 24"
+   },
+   {
+    "data": "2023-06-13",
+    "evento": "rp49",
+    "atto_modificante": "D.L. 13 giugno 2023, n. 69"
+   },
+   {
+    "data": "2023-08-10",
+    "evento": "rp50+rp51",
+    "atto_modificante": "L. 10 agosto 2023, n. 103; D.L. 10 agosto 2023, n. 105"
+   },
+   {
+    "data": "2023-10-09",
+    "evento": "rp52",
+    "atto_modificante": "L. 9 ottobre 2023, n. 137"
+   },
+   {
+    "data": "2024-03-20",
+    "evento": "rp53",
+    "atto_modificante": "D.Lgs. 19 marzo 2024, n. 31"
+   },
+   {
+    "data": "2024-07-02",
+    "evento": "rp54",
+    "atto_modificante": "L. 28 giugno 2024, n. 90"
+   },
+   {
+    "data": "2024-07-04",
+    "evento": "rp55",
+    "atto_modificante": "D.L. 4 luglio 2024, n. 92"
+   },
+   {
+    "data": "2024-08-09",
+    "evento": "rp56",
+    "atto_modificante": "L. 8 agosto 2024, n. 112"
+   },
+   {
+    "data": "2024-10-03",
+    "evento": "rp57",
+    "atto_modificante": "D.Lgs. 26 settembre 2024, n. 141"
+   },
+   {
+    "data": "2025-06-16",
+    "evento": "rp58",
+    "atto_modificante": "L. 6 giugno 2025, n. 82"
+   },
+   {
+    "data": "2025-08-08",
+    "evento": "rp59",
+    "atto_modificante": "D.L. 8 agosto 2025, n. 116"
+   },
+   {
+    "data": "2025-10-07",
+    "evento": "rp60",
+    "atto_modificante": "L. 3 ottobre 2025, n. 147"
+   },
+   {
+    "data": "2026-01-09",
+    "evento": "rp61",
+    "atto_modificante": "D.Lgs. 30 dicembre 2025, n. 211"
+   },
+   {
+    "data": "2026-05-14",
+    "evento": "rp62",
+    "atto_modificante": "L. 21 aprile 2026, n. 75"
+   },
+   {
+    "data": "2026-05-18",
+    "evento": "rp63",
+    "atto_modificante": "D.Lgs. 21 aprile 2026, n. 81"
+   },
+   {
+    "data": "2026-07-01",
+    "evento": "rp64",
+    "atto_modificante": "D.Lgs. 12 giugno 2026, n. 115"
+   }
+  ],
+  "ultima_versione": "2026-07-01",
+  "datazione": {
+   "monoblocco": 109,
+   "api": 103,
+   "riportati": 6,
+   "ignota": 0,
+   "stima_anteriore": 68,
+   "chiamate": 103,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Soggetti",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "4e6bf3ab4471"
+  },
+  "2": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Principio di legalita'",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "9c309a1b98ad"
+  },
+  "3": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Successione di leggi",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "855217b44138"
+  },
+  "4": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Reati commessi all'estero",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "d0d931c6b010"
+  },
+  "5": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Responsabilita' dell'ente",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "d26ba39a6794"
+  },
+  "6": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Soggetti in posizione apicale e modelli di organizzazione dell'ente",
+   "vigore_da": "2023-07-15",
+   "datazione": "api",
+   "h": "ab02db5a74e7"
+  },
+  "7": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Soggetti sottoposti all'altrui direzione e modelli di organizzazione dell'ente",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "372965df1b87"
+  },
+  "8": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Autonomia delle responsabilita' dell'ente",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "2a38241fc456"
+  },
+  "9": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Sanzioni amministrative",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "8df355048032"
+  },
+  "10": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Sanzione amministrativa pecuniaria",
+   "vigore_da": "2026-01-24",
+   "datazione": "api",
+   "h": "85d9d93602d0"
+  },
+  "11": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Criteri di commisurazione della sanzione pecuniaria",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "7b600e689313"
+  },
+  "12": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Casi di riduzione della sanzione pecuniaria",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "e6f6ec8d0deb"
+  },
+  "13": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Sanzioni interdittive",
+   "vigore_da": "2026-01-24",
+   "datazione": "api",
+   "h": "26073fbb8bb0"
+  },
+  "14": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Criteri di scelta delle sanzioni interdittive",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "0921a9a0bbd4"
+  },
+  "15": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Commissario giudiziale",
+   "vigore_da": "2023-01-06",
+   "datazione": "api",
+   "h": "e907876b6c9d"
+  },
+  "16": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Sanzioni interdittive applicate in via definitiva",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "3f7a7a1d9c0b"
+  },
+  "17": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Riparazione delle conseguenze del reato",
+   "vigore_da": "2023-01-06",
+   "datazione": "api",
+   "h": "68815d322198"
+  },
+  "18": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Pubblicazione della sentenza di condanna",
+   "vigore_da": "2010-01-01",
+   "datazione": "api",
+   "h": "926dfb7505fa"
+  },
+  "19": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2023-08-11",
+   "datazione": "api",
+   "h": "ea5c26dfe549"
+  },
+  "20": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Reiterazione",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "c482ef515fdf"
+  },
+  "21": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Pluralita' di illeciti",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "3e3b6da11817"
+  },
+  "22": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Prescrizione",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "3f9281ab50e0"
+  },
+  "23": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Inosservanza delle sanzioni interdittive",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "4fcdbecc0f0f"
+  },
+  "24": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Indebita percezione di erogazioni, truffa in danno dello Stato, di un ente pubblico o dell'Unione europea o per il conseguimento di erogazioni pubbliche, frode informatica in danno dello Stato o di un ente pubblico e frode nelle pubbliche forniture",
+   "vigore_da": "2023-10-10",
+   "datazione": "api",
+   "h": "e5b93045f862"
+  },
+  "24-bis": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Delitti informatici e trattamento illecito di dati",
+   "vigore_da": "2024-07-17",
+   "datazione": "api",
+   "h": "5392c583b934"
+  },
+  "24-ter": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Delitti di criminalita' organizzata",
+   "vigore_da": "2009-08-08",
+   "datazione": "api",
+   "h": "6f8060939ae6"
+  },
+  "25": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "",
+   "vigore_da": "2024-08-10",
+   "datazione": "api",
+   "h": "9e4e7822f052"
+  },
+  "25-bis": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Falsita' in monete, in carte di pubblico credito, in valori di bollo e in strumenti o segni di riconoscimento",
+   "vigore_da": "2009-08-15",
+   "datazione": "api",
+   "h": "ee74f94df8b2"
+  },
+  "25-bis.1": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Delitti contro l'industria e il commercio",
+   "vigore_da": "2026-05-29",
+   "datazione": "api",
+   "h": "4ad7013a0bb9"
+  },
+  "25-ter": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Reati societari",
+   "vigore_da": "2023-03-22",
+   "datazione": "api",
+   "h": "537ed5fc45cd"
+  },
+  "25-quater": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Delitti con finalita' di terrorismo o di eversione dell'ordine democratico",
+   "vigore_da": "2003-01-28",
+   "datazione": "api",
+   "h": "cbc58e6302d5"
+  },
+  "25-quater.1": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Pratiche di mutilazione degli organi genitali femminili",
+   "vigore_da": "2006-02-02",
+   "datazione": "api",
+   "h": "e84b2d2e584a"
+  },
+  "25-quinquies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Delitti contro la personalita' individuale",
+   "vigore_da": "2026-07-16",
+   "datazione": "api",
+   "h": "98dcb89d0aec"
+  },
+  "25-sexies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Abusi di mercato",
+   "vigore_da": "2005-05-12",
+   "datazione": "api",
+   "h": "a878b31c4d96"
+  },
+  "25-septies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Omicidio colposo o lesioni gravi o gravissime commesse con violazione delle norme sulla tutela della salute e sicurezza sul lavoro",
+   "vigore_da": "2008-05-15",
+   "datazione": "api",
+   "h": "b8a3480fdce6"
+  },
+  "25-octies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "",
+   "vigore_da": "2015-01-01",
+   "datazione": "api",
+   "h": "54aa062005c2"
+  },
+  "25-octies.1": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "",
+   "vigore_da": "2023-10-10",
+   "datazione": "api",
+   "h": "cb852e3fa8f7"
+  },
+  "25-octies.2": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Reati in materia di violazione di misure restrittive dell'Unione europea",
+   "vigore_da": "2026-01-24",
+   "datazione": "api",
+   "h": "9708a8bc1ccd"
+  },
+  "25-novies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Delitti in materia di violazione del diritto d'autore",
+   "vigore_da": "2011-08-16",
+   "datazione": "api",
+   "h": "a4ad802f1d31"
+  },
+  "25-decies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Induzione a non rendere dichiarazioni o a rendere dichiarazioni mendaci all'autorita' giudiziaria",
+   "vigore_da": "2011-08-16",
+   "datazione": "api",
+   "h": "fc3274202740"
+  },
+  "25-undecies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Reati ambientali",
+   "vigore_da": "2026-06-02",
+   "datazione": "api",
+   "h": "3ab22d9ff06a"
+  },
+  "25-duodecies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Impiego di cittadini di paesi terzi il cui soggiorno e' irregolare",
+   "vigore_da": "2017-11-19",
+   "datazione": "api",
+   "h": "c8fc97ec6385"
+  },
+  "25-terdecies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Razzismo e xenofobia",
+   "vigore_da": "2017-12-12",
+   "datazione": "api",
+   "h": "e0618e486301"
+  },
+  "25-quaterdecies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Frode in competizioni sportive, esercizio abusivo di gioco o di scommessa e giochi d'azzardo esercitati a mezzo di apparecchi vietati",
+   "vigore_da": "2019-05-17",
+   "datazione": "api",
+   "h": "4bef5860ca19"
+  },
+  "25-quinquiesdecies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Reati tributari",
+   "vigore_da": "2022-11-06",
+   "datazione": "api",
+   "h": "5990ddd1a0fb"
+  },
+  "25-sexiesdecies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Contrabbando",
+   "vigore_da": "2024-10-04",
+   "datazione": "api",
+   "h": "176b701293a9"
+  },
+  "25-septiesdecies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Delitti contro il patrimonio culturale",
+   "vigore_da": "2022-03-23",
+   "datazione": "api",
+   "h": "b5902aac5215"
+  },
+  "25-duodevicies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Riciclaggio di beni culturali e devastazione e saccheggio di beni culturali e paesaggistici",
+   "vigore_da": "2022-03-23",
+   "datazione": "api",
+   "h": "2740ed21ba5a"
+  },
+  "25-undevicies": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Delitti contro gli animali",
+   "vigore_da": "2025-07-01",
+   "datazione": "api",
+   "h": "83e0efdf66d8"
+  },
+  "26": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Delitti tentati",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "cb048b893233"
+  },
+  "27": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Responsabilita' patrimoniale dell'ente",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "52a85d6cb23d"
+  },
+  "28": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Trasformazione dell'ente",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "7c484f9b8a15"
+  },
+  "29": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Fusione dell'ente",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "7036d07f3920"
+  },
+  "30": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Scissione dell'ente",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "f6ea881baa32"
+  },
+  "31": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Determinazione delle sanzioni nel caso di fusione o scissione",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "268dfe0e8e1a"
+  },
+  "32": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Rilevanza della fusione o della scissione ai fini della reiterazione",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "7dce3e00cf23"
+  },
+  "33": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Cessione di azienda",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "a80bc0fa0478"
+  },
+  "34": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Disposizioni processuali applicabili",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "79c80bc2aefd"
+  },
+  "35": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Estensione della disciplina relativa all'imputato",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "e0197f31be48"
+  },
+  "36": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Attribuzioni del giudice penale",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "53b67b68e18e"
+  },
+  "37": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Casi di improcedibilita'",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "3fdcf72eefc2"
+  },
+  "38": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Riunione e separazione dei procedimenti",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "4506be54c970"
+  },
+  "39": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Rappresentanza dell'ente",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "9e0031aa1ead"
+  },
+  "40": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Difensore di ufficio",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "03aade29a47f"
+  },
+  "41": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Contumacia dell'ente",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "f9f268d75bb1"
+  },
+  "42": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Vicende modificative dell'ente nel corso del processo",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "7e93770629be"
+  },
+  "43": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Notificazioni all'ente",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "7aa48a142305"
+  },
+  "44": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Incompatibilita' con l'ufficio di testimone",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "1ed6c665b062"
+  },
+  "45": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Applicazione delle misure cautelari",
+   "vigore_da": "2023-03-07",
+   "datazione": "api",
+   "h": "7cf994d755dc"
+  },
+  "46": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Criteri di scelta delle misure",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "641e650238e8"
+  },
+  "47": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Giudice competente e procedimento di applicazione",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "8a8e8372a989"
+  },
+  "48": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Adempimenti esecutivi",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "7ded1131f4c6"
+  },
+  "49": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Sospensione delle misure cautelari",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "6f3830d837b8"
+  },
+  "50": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Revoca e sostituzione delle misure cautelari",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "9a61d1883495"
+  },
+  "51": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Durata massima delle misure cautelari",
+   "vigore_da": "2019-01-31",
+   "datazione": "api",
+   "h": "897c9e5261c4"
+  },
+  "52": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Impugnazione dei provvedimenti che applicano le misure cautelari",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "ff76964d4651"
+  },
+  "53": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Sequestro preventivo",
+   "vigore_da": "2023-08-11",
+   "datazione": "api",
+   "h": "9a13f0122264"
+  },
+  "54": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Sequestro conservativo",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "0adf079b953d"
+  },
+  "55": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Annotazione dell'illecito amministrativo",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "5ead59bc5632"
+  },
+  "56": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Termine per l'accertamento dell'illecito amministrativo nelle indagini preliminari",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "c966600d4e70"
+  },
+  "57": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Informazione di garanzia",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "bab58d1db076"
+  },
+  "58": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Archiviazione",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "7d8bdb88138a"
+  },
+  "59": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Contestazione dell'illecito amministrativo",
+   "vigore_da": "2024-04-04",
+   "datazione": "api",
+   "h": "cf91c0047503"
+  },
+  "60": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Decadenza dalla contestazione",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "3d1dd84622cb"
+  },
+  "61": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Provvedimenti emessi nell'udienza preliminare",
+   "vigore_da": "2024-04-04",
+   "datazione": "api",
+   "h": "6ac519faf5dd"
+  },
+  "62": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Giudizio abbreviato",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "240978f58ee7"
+  },
+  "63": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Applicazione della sanzione su richiesta",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "1ee7a1e90f21"
+  },
+  "64": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Procedimento per decreto",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "206c7beca686"
+  },
+  "65": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Termine per provvedere alla riparazione delle conseguenze del reato",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "3a3ad855e3aa"
+  },
+  "66": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Sentenza di esclusione della responsabilita' dell'ente",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "1a0ec22467a1"
+  },
+  "67": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Sentenza di non doversi procedere",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "c19899e258e5"
+  },
+  "68": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Provvedimenti sulle misure cautelari",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "9039a5013508"
+  },
+  "69": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Sentenza di condanna",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "52705d1474c6"
+  },
+  "70": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Sentenza in caso di vicende modificative dell'ente",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "03b03da0ac59"
+  },
+  "71": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Impugnazioni delle sentenze relative alla responsabilita' amministrativa dell'ente",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "15be86267288"
+  },
+  "72": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Estensione delle impugnazioni",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "a081773c4f53"
+  },
+  "73": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Revisione delle sentenze",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "ae19eb9b1b6b"
+  },
+  "74": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Giudice dell'esecuzione",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "61102469e0bd"
+  },
+  "75": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "9f45ca7955c7"
+  },
+  "76": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Pubblicazione della sentenza applicativa della condanna",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "e6452d36abb2"
+  },
+  "77": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Esecuzione delle sanzioni interdittive",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "f0d4b11f7057"
+  },
+  "78": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Conversione delle sanzioni interdittive",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "08fbbe249e63"
+  },
+  "79": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Nomina del commissario giudiziale e confisca del profitto",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "f42d551c1970"
+  },
+  "80": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "",
+   "vigore_da": "2003-02-28",
+   "datazione": "api",
+   "h": "d90570340884"
+  },
+  "81": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "",
+   "vigore_da": "2003-02-28",
+   "datazione": "api",
+   "h": "d90570340884"
+  },
+  "82": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "",
+   "vigore_da": "2003-02-28",
+   "datazione": "api",
+   "h": "d90570340884"
+  },
+  "83": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Concorso di sanzioni",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "c274275c0521"
+  },
+  "84": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Comunicazioni alle autorita' di controllo o di vigilanza",
+   "vigore_da": "2001-07-04",
+   "datazione": "api",
+   "h": "0d7086b1b44f"
+  },
+  "85": {
+   "file": "dlgs-231-2001.md",
+   "rubrica": "Disposizioni regolamentari",
+   "vigore_da": "2003-02-28",
+   "datazione": "api",
+   "h": "f81551013e83"
+  }
+ }
+}

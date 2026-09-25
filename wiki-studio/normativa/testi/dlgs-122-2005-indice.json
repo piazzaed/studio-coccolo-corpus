@@ -1,0 +1,217 @@
+{
+ "_meta": {
+  "codice": "dlgs-122-2005",
+  "nome": "Tutela degli acquirenti di immobili da costruire (D.Lgs. 122/2005)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2022-03-03",
+  "articoli": 18,
+  "file": [
+   "dlgs-122-2005.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2005-06-20;122",
+  "versioni": [
+   {
+    "data": "2005-07-06",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2006-12-28",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 28 dicembre 2006, n. 300"
+   },
+   {
+    "data": "2007-12-31",
+    "evento": "rp2",
+    "atto_modificante": "D.L. 31 dicembre 2007, n. 248"
+   },
+   {
+    "data": "2014-03-28",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 28 marzo 2014, n. 47"
+   },
+   {
+    "data": "2014-09-12",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 12 settembre 2014, n. 133"
+   },
+   {
+    "data": "2016-12-30",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 30 dicembre 2016, n. 244"
+   },
+   {
+    "data": "2019-02-14",
+    "evento": "rp6",
+    "atto_modificante": "D.Lgs. 12 gennaio 2019, n. 14"
+   },
+   {
+    "data": "2020-04-08",
+    "evento": "rp7",
+    "atto_modificante": "D.L. 8 aprile 2020, n. 23"
+   },
+   {
+    "data": "2020-12-31",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 31 dicembre 2020, n. 183"
+   },
+   {
+    "data": "2021-03-01",
+    "evento": "rp9",
+    "atto_modificante": "L. 26 febbraio 2021, n. 21"
+   },
+   {
+    "data": "2021-08-24",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 24 agosto 2021, n. 118"
+   },
+   {
+    "data": "2022-03-02",
+    "evento": "rp11",
+    "atto_modificante": "atto modificante non indicato (rp11)"
+   }
+  ],
+  "ultima_versione": "2022-03-02",
+  "datazione": {
+   "monoblocco": 18,
+   "api": 17,
+   "ignota": 1,
+   "testo_diverso": 1,
+   "stima_anteriore": 9,
+   "stima_posteriore": 2,
+   "chiamate": 18,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2022-03-03",
+   "datazione": "api",
+   "h": "afd60cb3e90f"
+  },
+  "2": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Garanzia fideiussoria",
+   "vigore_da": "2005-07-21",
+   "datazione": "api",
+   "h": "675ec78a2b38"
+  },
+  "3": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Rilascio, contenuto e modalita' di escussione della fideiussione",
+   "vigore_da": "2021-03-02",
+   "datazione": "api",
+   "h": "f057cd73b1bc"
+  },
+  "4": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Assicurazione dell'immobile",
+   "vigore_da": "2021-03-02",
+   "datazione": "api",
+   "h": "eaaa978902bb"
+  },
+  "5": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Applicabilita' della disciplina",
+   "vigore_da": "2019-03-16",
+   "datazione": "api",
+   "h": "f31c36b85b5c"
+  },
+  "6": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Contenuto del contratto preliminare",
+   "vigore_da": "2019-03-16",
+   "datazione": "api",
+   "h": "bcfe96c9b30d"
+  },
+  "7": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Modificazioni all'articolo 39 del decreto legislativo 1° settembre 1993, n. 385",
+   "vigore_da": "2005-07-21",
+   "datazione": "api",
+   "h": "e7dba32be582"
+  },
+  "8": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Obbligo di cancellazione o frazionamento dell'ipoteca antecedente alla compravendita",
+   "vigore_da": "2005-07-21",
+   "datazione": "api",
+   "h": "7465bbeab487"
+  },
+  "9": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Diritto di prelazione",
+   "vigore_da": "2022-03-03",
+   "datazione": "api",
+   "h": "cedd6fc2c54e"
+  },
+  "10": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Esenzioni e limiti alla esperibilita' dell'azione revocatoria fallimentare",
+   "vigore_da": "2014-05-28",
+   "datazione": "api",
+   "h": "f63199b76b2d"
+  },
+  "11": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Introduzione dell'articolo 72-bis del regio decreto 16 marzo 1942, n. 267",
+   "vigore_da": "2005-07-21",
+   "datazione": "api",
+   "h": "01c65ed44365"
+  },
+  "12": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Istituzione e finalita' del Fondo di solidarieta' per gli acquirenti di beni immobili da costruire",
+   "vigore_da": "2008-03-01",
+   "datazione": "api",
+   "h": "25f841fc9f91"
+  },
+  "13": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Requisiti per l'accesso alle prestazioni del Fondo",
+   "vigore_da": "2008-03-01",
+   "datazione": "api",
+   "h": "c2199ad33204"
+  },
+  "14": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Struttura e funzionamento del Fondo",
+   "vigore_da": "2005-07-21",
+   "datazione": "api",
+   "h": "a5ef9af235d7"
+  },
+  "15": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Gestione del Fondo",
+   "vigore_da": "2005-07-21",
+   "datazione": "api",
+   "h": "3d88c911dfae"
+  },
+  "16": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Ulteriore disciplina per la gestione del Fondo",
+   "vigore_da": "2005-07-21",
+   "datazione": "api",
+   "h": "5efa6ee96224"
+  },
+  "17": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Contributo obbligatorio",
+   "vigore_da": "2017-03-01",
+   "datazione": "api",
+   "h": "a9e44d8e82d9"
+  },
+  "18": {
+   "file": "dlgs-122-2005.md",
+   "rubrica": "Accesso alle prestazioni del Fondo ed istruttoria sulle domande",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "0f4f4013139f"
+  }
+ }
+}

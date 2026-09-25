@@ -1,0 +1,409 @@
+{
+ "_meta": {
+  "codice": "dlgs-150-2011",
+  "nome": "Semplificazione dei riti civili (D.Lgs. 150/2011)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2025-03-29",
+  "articoli": 39,
+  "file": [
+   "dlgs-150-2011.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2011-09-01;150",
+  "versioni": [
+   {
+    "data": "2011-09-21",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2011-10-21",
+    "evento": "rp1",
+    "atto_modificante": "atto modificante non indicato (rp1)"
+   },
+   {
+    "data": "2014-06-18",
+    "evento": "rp2",
+    "atto_modificante": "atto modificante non indicato (rp2)"
+   },
+   {
+    "data": "2015-09-15",
+    "evento": "rp3",
+    "atto_modificante": "D.Lgs. 18 agosto 2015, n. 142"
+   },
+   {
+    "data": "2017-01-27",
+    "evento": "rp4",
+    "atto_modificante": "D.Lgs. 19 gennaio 2017, n. 5"
+   },
+   {
+    "data": "2017-02-17",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 17 febbraio 2017, n. 13"
+   },
+   {
+    "data": "2017-07-31",
+    "evento": "rp6",
+    "atto_modificante": "D.Lgs. 13 luglio 2017, n. 116"
+   },
+   {
+    "data": "2018-09-04",
+    "evento": "rp7",
+    "atto_modificante": "D.Lgs. 10 agosto 2018, n. 101"
+   },
+   {
+    "data": "2018-10-04",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 4 ottobre 2018, n. 113"
+   },
+   {
+    "data": "2019-07-03",
+    "evento": "rp9",
+    "atto_modificante": "atto modificante non indicato (rp9)"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp11",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp12",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp13",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2023-10-05",
+    "evento": "rp14",
+    "atto_modificante": "D.L. 5 ottobre 2023, n. 133"
+   },
+   {
+    "data": "2023-12-04",
+    "evento": "rp15",
+    "atto_modificante": "L. 1 dicembre 2023, n. 176"
+   },
+   {
+    "data": "2024-07-24",
+    "evento": "rp16",
+    "atto_modificante": "atto modificante non indicato (rp16)"
+   },
+   {
+    "data": "2024-10-11",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 11 ottobre 2024, n. 145"
+   },
+   {
+    "data": "2024-11-11",
+    "evento": "rp18",
+    "atto_modificante": "D.Lgs. 31 ottobre 2024, n. 164"
+   },
+   {
+    "data": "2024-12-10",
+    "evento": "rp19",
+    "atto_modificante": "L. 9 dicembre 2024, n. 187"
+   },
+   {
+    "data": "2025-03-28",
+    "evento": "rp20",
+    "atto_modificante": "D.L. 28 marzo 2025, n. 36"
+   }
+  ],
+  "ultima_versione": "2025-03-28",
+  "datazione": {
+   "monoblocco": 39,
+   "api": 36,
+   "riportati": 2,
+   "ignota": 1,
+   "testo_diverso": 1,
+   "stima_anteriore": 33,
+   "chiamate": 37,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "9235922d031b"
+  },
+  "2": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Disposizioni comuni alle controversie disciplinate dal rito del lavoro",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "e14b9d022007"
+  },
+  "3": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Disposizioni comuni alle controversie disciplinate dal rito semplificato di cognizione",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "fad4e9221356"
+  },
+  "4": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Mutamento del rito",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "9911f2029c44"
+  },
+  "5": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Sospensione dell'efficacia esecutiva del provvedimento impugnato",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "8fd2c192ffcc"
+  },
+  "6": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dell'opposizione ad ordinanza-ingiunzione",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "a5dabd64611e"
+  },
+  "7": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dell'opposizione al verbale di accertamento di violazione del codice della strada",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "5292ce0f790a"
+  },
+  "8": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dell'opposizione a sanzione amministrativa in materia di stupefacenti",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "4f34568178ee"
+  },
+  "9": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dell'opposizione ai provvedimenti di recupero di aiuti di Stato",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "f8ece39faeb9"
+  },
+  "10": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Delle controversie in materia di applicazione delle disposizioni in materia di protezione dei dati personali",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "18f228282802"
+  },
+  "11": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Delle controversie agrarie",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "8992b121e5e8"
+  },
+  "12": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dell'impugnazione dei provvedimenti in materia di registro dei protesti",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "eb7bf62a2fe8"
+  },
+  "13": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dell'opposizione ai provvedimenti in materia di riabilitazione del debitore protestato",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "7af24bb50838"
+  },
+  "14": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Delle controversie in materia di liquidazione degli onorari e dei diritti di avvocato",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "f7caa54898f4"
+  },
+  "15": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dell'opposizione a decreto di pagamento di spese di giustizia",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "b15833b05e6c"
+  },
+  "16": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Delle controversie in materia di mancato riconoscimento del diritto di soggiorno sul territorio nazionale in favore dei cittadini degli altri Stati membri dell'Unione europea o dei loro familiari",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "12c2fa4f0cd9"
+  },
+  "17": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "",
+   "vigore_da": "2023-12-05",
+   "datazione": "api",
+   "h": "cf3448b9db6e"
+  },
+  "18": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Delle controversie in materia di espulsione dei cittadini di Stati che non sono membri dell'Unione europea",
+   "vigore_da": "2023-12-05",
+   "datazione": "api",
+   "h": "5a3f1bbc99d9"
+  },
+  "19": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "",
+   "vigore_da": "2017-04-19",
+   "datazione": "api",
+   "h": "33caf1ef0573"
+  },
+  "19-bis": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Controversie in materia di accertamento dello stato di apolidia e di cittadinanza italiana",
+   "vigore_da": "2025-03-29",
+   "datazione": "api",
+   "h": "48e3f6e8f13d"
+  },
+  "19-ter": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Controversie in materia di diniego o di revoca dei permessi di soggiorno temporanei per esigenze di carattere umanitario",
+   "vigore_da": "2024-12-11",
+   "datazione": "api",
+   "h": "bcfdb76d6128"
+  },
+  "20": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dell'opposizione al diniego del nulla osta al ricongiungimento familiare e del permesso di soggiorno per motivi familiari, nonche' agli altri provvedimenti dell'autorita' amministrativa in materia di diritto all'unita' familiare",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "af185a0bc1ea"
+  },
+  "21": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dell'opposizione alla convalida del trattamento sanitario obbligatorio",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "85060760a763"
+  },
+  "22": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Delle azioni popolari e delle controversie in materia di eleggibilita', decadenza ed incompatibilita' nelle elezioni comunali, provinciali e regionali",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "fff2ebf665f7"
+  },
+  "23": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Delle azioni in materia di eleggibilita' e incompatibilita' nelle elezioni per il Parlamento europeo",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "6faac007a930"
+  },
+  "24": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dell'impugnazione delle decisioni della Commissione elettorale circondariale in tema di elettorato attivo",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "c7b3e5db7aea"
+  },
+  "25": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Delle controversie in materia di riparazione a seguito di illecita diffusione del contenuto di intercettazioni telefoniche",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "2af9354d6d78"
+  },
+  "26": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dell'impugnazione dei provvedimenti disciplinari a carico dei notai",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "a84978926f34"
+  },
+  "27": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dell'impugnazione delle deliberazioni del Consiglio nazionale dell'Ordine dei giornalisti",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "9ef551942c15"
+  },
+  "28": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Delle controversie in materia di discriminazione",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "cb9ea18eeb39"
+  },
+  "29": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Delle controversie in materia di opposizione alla stima nelle espropriazioni per pubblica utilita'",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "c4c7dc1ac124"
+  },
+  "30": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Delle controversie in materia di attuazione di sentenze e provvedimenti stranieri di giurisdizione volontaria e contestazione del riconoscimento",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "5b312ace9ced"
+  },
+  "30-bis": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dei procedimenti in materia di efficacia di decisioni straniere previsti dal diritto dell'Unione europea e dalle convenzioni internazionali",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "90697610f11f"
+  },
+  "31": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Delle controversie in materia di rettificazione di attribuzione di sesso",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "e78633fa7dc0"
+  },
+  "32": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Dell'opposizione a procedura coattiva per la riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici",
+   "vigore_da": "2019-07-04",
+   "datazione": "api",
+   "h": "fc0a9c9de10b"
+  },
+  "33": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Delle controversie in materia di liquidazione degli usi civici",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "d06d652df845"
+  },
+  "34": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Modificazioni e abrogazioni",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "9c490dafc054"
+  },
+  "35": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Clausola di invarianza finanziaria",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "e91e8c66dcbc"
+  },
+  "36": {
+   "file": "dlgs-150-2011.md",
+   "rubrica": "Disposizioni transitorie e finali",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "b3a0e4be1aa6"
+  }
+ }
+}

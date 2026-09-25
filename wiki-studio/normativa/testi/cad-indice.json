@@ -1,0 +1,1181 @@
+{
+ "_meta": {
+  "codice": "cad",
+  "nome": "Codice dell'amministrazione digitale (D.Lgs. 82/2005)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-04-21",
+  "articoli": 123,
+  "file": [
+   "cad.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2005-03-07;82",
+  "versioni": [
+   {
+    "data": "2005-05-16",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2006-04-29",
+    "evento": "rp1",
+    "atto_modificante": "D.Lgs. 4 aprile 2006, n. 159"
+   },
+   {
+    "data": "2007-02-23",
+    "evento": "rp2",
+    "atto_modificante": "Circ. Centro Nazionale Per L'Informatica Nella Pubblica Amministrazione 15 febbraio 2007, n. 52"
+   },
+   {
+    "data": "2007-12-28",
+    "evento": "rp3",
+    "atto_modificante": "L. 24 dicembre 2007, n. 244"
+   },
+   {
+    "data": "2007-12-31",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 31 dicembre 2007, n. 248"
+   },
+   {
+    "data": "2008-11-29",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 29 novembre 2008, n. 185"
+   },
+   {
+    "data": "2008-12-31",
+    "evento": "rp6",
+    "atto_modificante": "D.L. 30 dicembre 2008, n. 207"
+   },
+   {
+    "data": "2009-06-19",
+    "evento": "rp7",
+    "atto_modificante": "L. 18 giugno 2009, n. 69"
+   },
+   {
+    "data": "2009-07-01",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 1 luglio 2009, n. 78"
+   },
+   {
+    "data": "2009-12-30",
+    "evento": "rp9+rp10",
+    "atto_modificante": "L. 23 dicembre 2009, n. 191; D.L. 30 dicembre 2009, n. 194"
+   },
+   {
+    "data": "2010-03-09",
+    "evento": "rp11",
+    "atto_modificante": "D.Lgs. 27 gennaio 2010, n. 32"
+   },
+   {
+    "data": "2010-07-07",
+    "evento": "rp12",
+    "atto_modificante": "D.Lgs. 2 luglio 2010, n. 104"
+   },
+   {
+    "data": "2010-07-08",
+    "evento": "rp13",
+    "atto_modificante": "Circ. Ministero Dell'Economia E Delle Finanze 21 giugno 2010, n. 27"
+   },
+   {
+    "data": "2010-12-29",
+    "evento": "rp14",
+    "atto_modificante": "D.L. 29 dicembre 2010, n. 225"
+   },
+   {
+    "data": "2011-01-10",
+    "evento": "rp15",
+    "atto_modificante": "D.Lgs. 30 dicembre 2010, n. 235"
+   },
+   {
+    "data": "2011-08-13",
+    "evento": "rp16",
+    "atto_modificante": "D.L. 13 agosto 2011, n. 138"
+   },
+   {
+    "data": "2011-12-06",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 6 dicembre 2011, n. 201"
+   },
+   {
+    "data": "2012-02-08",
+    "evento": "rp18",
+    "atto_modificante": "Circ. Digitpa 29 dicembre 2011, n. 59"
+   },
+   {
+    "data": "2012-02-09",
+    "evento": "rp19",
+    "atto_modificante": "D.L. 9 febbraio 2012, n. 5"
+   },
+   {
+    "data": "2012-06-26",
+    "evento": "rp20",
+    "atto_modificante": "D.L. 22 giugno 2012, n. 83"
+   },
+   {
+    "data": "2012-07-06",
+    "evento": "rp21",
+    "atto_modificante": "D.L. 6 luglio 2012, n. 95"
+   },
+   {
+    "data": "2012-10-19",
+    "evento": "rp22",
+    "atto_modificante": "D.L. 18 ottobre 2012, n. 179"
+   },
+   {
+    "data": "2013-04-05",
+    "evento": "rp23",
+    "atto_modificante": "D.Lgs. 14 marzo 2013, n. 33"
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2013-12-27",
+    "evento": "rp25",
+    "atto_modificante": "L. 27 dicembre 2013, n. 147"
+   },
+   {
+    "data": "2014-04-16",
+    "evento": "rp26",
+    "atto_modificante": "Circ. Agenzia Per L'Italia Digitale 10 aprile 2014, n. 65"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 90"
+   },
+   {
+    "data": "2014-12-29",
+    "evento": "rp28",
+    "atto_modificante": "L. 23 dicembre 2014, n. 190"
+   },
+   {
+    "data": "2015-06-19",
+    "evento": "rp29",
+    "atto_modificante": "D.L. 19 giugno 2015, n. 78"
+   },
+   {
+    "data": "2015-06-27",
+    "evento": "rp30",
+    "atto_modificante": "D.L. 27 giugno 2015, n. 83"
+   },
+   {
+    "data": "2015-07-10",
+    "evento": "rp31",
+    "atto_modificante": "D.Lgs. 18 maggio 2015, n. 102"
+   },
+   {
+    "data": "2016-09-13",
+    "evento": "rp32",
+    "atto_modificante": "D.Lgs. 26 agosto 2016, n. 179"
+   },
+   {
+    "data": "2017-05-05",
+    "evento": "rp33",
+    "atto_modificante": "Circ. Agenzia Per L'Italia Digitale 18 aprile 2017, n. 2"
+   },
+   {
+    "data": "2018-01-12",
+    "evento": "rp34",
+    "atto_modificante": "D.Lgs. 13 dicembre 2017, n. 217"
+   },
+   {
+    "data": "2018-09-28",
+    "evento": "rp35",
+    "atto_modificante": "D.L. 28 settembre 2018, n. 109"
+   },
+   {
+    "data": "2018-12-14",
+    "evento": "rp36",
+    "atto_modificante": "D.L. 14 dicembre 2018, n. 135"
+   },
+   {
+    "data": "2018-12-31",
+    "evento": "rp37",
+    "atto_modificante": "L. 30 dicembre 2018, n. 145"
+   },
+   {
+    "data": "2019-10-26",
+    "evento": "rp38",
+    "atto_modificante": "D.L. 26 ottobre 2019, n. 124"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp39",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp40",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp41",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   },
+   {
+    "data": "2020-09-14",
+    "evento": "rp42",
+    "atto_modificante": "L. 11 settembre 2020, n. 120"
+   },
+   {
+    "data": "2021-05-31",
+    "evento": "rp43",
+    "atto_modificante": "D.L. 31 maggio 2021, n. 77"
+   },
+   {
+    "data": "2021-07-30",
+    "evento": "rp44",
+    "atto_modificante": "L. 29 luglio 2021, n. 108"
+   },
+   {
+    "data": "2021-09-10",
+    "evento": "rp45",
+    "atto_modificante": "D.L. 10 settembre 2021, n. 121"
+   },
+   {
+    "data": "2021-11-06",
+    "evento": "rp46",
+    "atto_modificante": "D.L. 6 novembre 2021, n. 152"
+   },
+   {
+    "data": "2021-11-09",
+    "evento": "rp47",
+    "atto_modificante": "L. 9 novembre 2021, n. 156"
+   },
+   {
+    "data": "2021-12-31",
+    "evento": "rp48+rp49",
+    "atto_modificante": "L. 30 dicembre 2021, n. 234; L. 29 dicembre 2021, n. 233"
+   },
+   {
+    "data": "2022-04-30",
+    "evento": "rp50",
+    "atto_modificante": "D.L. 30 aprile 2022, n. 36"
+   },
+   {
+    "data": "2022-06-29",
+    "evento": "rp51",
+    "atto_modificante": "L. 29 giugno 2022, n. 79"
+   },
+   {
+    "data": "2023-02-24",
+    "evento": "rp52",
+    "atto_modificante": "D.L. 24 febbraio 2023, n. 13"
+   },
+   {
+    "data": "2023-04-21",
+    "evento": "rp53",
+    "atto_modificante": "L. 21 aprile 2023, n. 41"
+   },
+   {
+    "data": "2024-01-12",
+    "evento": "rp54",
+    "atto_modificante": "D.Lgs. 8 gennaio 2024, n. 1"
+   },
+   {
+    "data": "2024-03-02",
+    "evento": "rp55",
+    "atto_modificante": "D.L. 2 marzo 2024, n. 19"
+   },
+   {
+    "data": "2024-04-30",
+    "evento": "rp56",
+    "atto_modificante": "L. 29 aprile 2024, n. 56"
+   },
+   {
+    "data": "2025-01-29",
+    "evento": "rp57",
+    "atto_modificante": "atto modificante non indicato (rp57)"
+   },
+   {
+    "data": "2026-02-19",
+    "evento": "rp58",
+    "atto_modificante": "D.L. 19 febbraio 2026, n. 19"
+   },
+   {
+    "data": "2026-04-20",
+    "evento": "rp59",
+    "atto_modificante": "L. 20 aprile 2026, n. 50"
+   }
+  ],
+  "ultima_versione": "2026-04-20",
+  "datazione": {
+   "monoblocco": 123,
+   "api": 90,
+   "riportati": 33,
+   "ignota": 0,
+   "stima_anteriore": 9,
+   "chiamate": 90,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "cad.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "b0306c3a1ed9"
+  },
+  "2": {
+   "file": "cad.md",
+   "rubrica": "Finalita' e ambito di applicazione",
+   "vigore_da": "2025-01-30",
+   "datazione": "api",
+   "h": "63062799d7dc"
+  },
+  "3": {
+   "file": "cad.md",
+   "rubrica": "Diritto all'uso delle tecnologie",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "abfce52e45de"
+  },
+  "3-bis": {
+   "file": "cad.md",
+   "rubrica": "Identita' digitale e Domicilio digitale",
+   "vigore_da": "2022-06-30",
+   "datazione": "api",
+   "h": "0a1ab6fab14b"
+  },
+  "3-ter": {
+   "file": "cad.md",
+   "rubrica": "Diritto alla trasparenza e al controllo sugli strumenti digitali",
+   "vigore_da": "2026-04-21",
+   "datazione": "api",
+   "h": "e4b1d9ad59e9"
+  },
+  "4": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "5": {
+   "file": "cad.md",
+   "rubrica": "Effettuazione di pagamenti con modalita' informatiche",
+   "vigore_da": "2024-01-13",
+   "datazione": "api",
+   "h": "6c4faec714a5"
+  },
+  "5-bis": {
+   "file": "cad.md",
+   "rubrica": "Comunicazioni tra imprese e amministrazioni pubbliche",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "498b2d6f2962"
+  },
+  "6": {
+   "file": "cad.md",
+   "rubrica": "Utilizzo del domicilio digitale",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "4ad326e6db7c"
+  },
+  "6-bis": {
+   "file": "cad.md",
+   "rubrica": "Indice nazionale dei domicili digitali delle imprese e dei professionisti",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "d3c77d60e17b"
+  },
+  "6-ter": {
+   "file": "cad.md",
+   "rubrica": "Indice dei domicili digitali delle pubbliche amministrazioni, dei gestori di pubblici servizi e delle societa' a controllo pubblico",
+   "vigore_da": "2026-04-21",
+   "datazione": "api",
+   "h": "c80223f8d6d7"
+  },
+  "6-quater": {
+   "file": "cad.md",
+   "rubrica": "Indice nazionale dei domicili digitali delle persone fisiche, dei professionisti e degli altri enti di diritto privato, non tenuti all'iscrizione in albi, elenchi o registri professionali o nel registro delle imprese",
+   "vigore_da": "2022-01-01",
+   "datazione": "api",
+   "h": "25ae33cc54d2"
+  },
+  "6-quinquies": {
+   "file": "cad.md",
+   "rubrica": "Consultazione e accesso",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "da91495b0180"
+  },
+  "7": {
+   "file": "cad.md",
+   "rubrica": "Diritto a servizi on-line semplici e integrati",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "d859be442928"
+  },
+  "8": {
+   "file": "cad.md",
+   "rubrica": "Alfabetizzazione informatica dei cittadini",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "6ca97b1491df"
+  },
+  "8-bis": {
+   "file": "cad.md",
+   "rubrica": "Connettivita' alla rete Internet negli uffici e luoghi pubblici",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "4de0845a779f"
+  },
+  "9": {
+   "file": "cad.md",
+   "rubrica": "Partecipazione democratica elettronica",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "831cb89abac7"
+  },
+  "10": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "11": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "12": {
+   "file": "cad.md",
+   "rubrica": "Norme generali per l'uso delle tecnologie dell'informazione e delle comunicazioni nell'azione amministrativa",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "h": "8cd46dafbfac"
+  },
+  "13": {
+   "file": "cad.md",
+   "rubrica": "Formazione informatica dei dipendenti pubblici",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "4d174f539ea3"
+  },
+  "13-bis": {
+   "file": "cad.md",
+   "rubrica": "Codice di condotta tecnologica ed esperti",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "h": "db23fa6a3e5b"
+  },
+  "14": {
+   "file": "cad.md",
+   "rubrica": "Rapporti tra Stato, Regioni e autonomie locali",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "0471d8c53f3f"
+  },
+  "14-bis": {
+   "file": "cad.md",
+   "rubrica": "Agenzia per l'Italia digitale",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "8a60fc2ce59f"
+  },
+  "15": {
+   "file": "cad.md",
+   "rubrica": "Digitalizzazione e riorganizzazione",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "1eadca68ab2e"
+  },
+  "16": {
+   "file": "cad.md",
+   "rubrica": "Competenze del Presidente del Consiglio dei Ministri in materia di innovazione e tecnologie",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "64d64632b809"
+  },
+  "17": {
+   "file": "cad.md",
+   "rubrica": "Responsabile per la transizione digitale e difensore civico digitale",
+   "vigore_da": "2024-03-02",
+   "datazione": "api",
+   "h": "2c4b76e4aa25"
+  },
+  "18": {
+   "file": "cad.md",
+   "rubrica": "Piattaforma nazionale per la governance della trasformazione digitale",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "e110ab680beb"
+  },
+  "18-bis": {
+   "file": "cad.md",
+   "rubrica": "Violazione degli obblighi di transizione digitale",
+   "vigore_da": "2022-06-30",
+   "datazione": "api",
+   "h": "dcb8e5fb0cd1"
+  },
+  "19": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "20": {
+   "file": "cad.md",
+   "rubrica": "Validita' ed efficacia probatoria dei documenti informatici",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "97ac25a89ac3"
+  },
+  "21": {
+   "file": "cad.md",
+   "rubrica": "Ulteriori disposizioni relative ai documenti informatici, sottoscritti con firma elettronica avanzata, qualificata o digitale",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "70e5c75d287b"
+  },
+  "22": {
+   "file": "cad.md",
+   "rubrica": "Copie informatiche di documenti analogici",
+   "vigore_da": "2023-04-22",
+   "datazione": "api",
+   "h": "de906b1a190e"
+  },
+  "23": {
+   "file": "cad.md",
+   "rubrica": "Copie analogiche di documenti informatici",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "f5dea4ea033c"
+  },
+  "23-bis": {
+   "file": "cad.md",
+   "rubrica": "Duplicati e copie informatiche di documenti informatici",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "a5ee805d85ea"
+  },
+  "23-ter": {
+   "file": "cad.md",
+   "rubrica": "Documenti amministrativi informatici",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "411d6b1ecb7f"
+  },
+  "23-quater": {
+   "file": "cad.md",
+   "rubrica": "Riproduzioni informatiche",
+   "vigore_da": "2011-01-25",
+   "datazione": "api",
+   "h": "ca1e87d7841b"
+  },
+  "24": {
+   "file": "cad.md",
+   "rubrica": "Firma digitale",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "2003c747643c"
+  },
+  "25": {
+   "file": "cad.md",
+   "rubrica": "Firma autenticata",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "88f7f0e16830"
+  },
+  "26": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "27": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "28": {
+   "file": "cad.md",
+   "rubrica": "Certificati di firma elettronica qualificata",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "f8f8871fecab"
+  },
+  "29": {
+   "file": "cad.md",
+   "rubrica": "Qualificazione dei fornitori di servizi",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "9dafd28b2b4c"
+  },
+  "30": {
+   "file": "cad.md",
+   "rubrica": "Responsabilita' dei prestatori di servizi fiduciari qualificati, dei gestori di posta elettronica certificata, dei gestori dell'identita' digitale e dei conservatori",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "ac4aa4e8d601"
+  },
+  "31": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "32": {
+   "file": "cad.md",
+   "rubrica": "Obblighi del titolare di firma elettronica qualificata e del prestatore di servizi di firma elettronica qualificata",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "a9a681ec8472"
+  },
+  "32-bis": {
+   "file": "cad.md",
+   "rubrica": "Sanzioni per i prestatori di servizi fiduciari qualificati, per i gestori di posta elettronica certificata, per i gestori dell'identita' digitale e per i conservatori",
+   "vigore_da": "2021-11-07",
+   "datazione": "api",
+   "h": "85d2eb7f1398"
+  },
+  "33": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "b4fce47adbfd"
+  },
+  "34": {
+   "file": "cad.md",
+   "rubrica": "Norme particolari per le pubbliche amministrazioni",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "bf6649712a30"
+  },
+  "35": {
+   "file": "cad.md",
+   "rubrica": "Dispositivi sicuri e procedure per la generazione della firma qualificata",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "1502c4284821"
+  },
+  "36": {
+   "file": "cad.md",
+   "rubrica": "Revoca e sospensione dei certificati qualificati",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "69b3e820e5ad"
+  },
+  "37": {
+   "file": "cad.md",
+   "rubrica": "Cessazione dell'attivita'",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "9c5c36acf073"
+  },
+  "38": {
+   "file": "cad.md",
+   "rubrica": "Trasferimenti di fondi",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "d36ea38015e3"
+  },
+  "39": {
+   "file": "cad.md",
+   "rubrica": "Libri e scritture",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "442a7a24fbe5"
+  },
+  "40": {
+   "file": "cad.md",
+   "rubrica": "Formazione di documenti informatici",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "9fb540cda011"
+  },
+  "40-bis": {
+   "file": "cad.md",
+   "rubrica": "Protocollo informatico",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "e40820539142"
+  },
+  "40-ter": {
+   "file": "cad.md",
+   "rubrica": "Sistema pubblico di ricerca documentale",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "008df574839f"
+  },
+  "41": {
+   "file": "cad.md",
+   "rubrica": "Procedimento e fascicolo informatico",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "292b2ee42964"
+  },
+  "42": {
+   "file": "cad.md",
+   "rubrica": "Dematerializzazione dei documenti delle pubbliche amministrazioni",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "fef074b51dfc"
+  },
+  "43": {
+   "file": "cad.md",
+   "rubrica": "Conservazione ed esibizione dei documenti",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "87fc89ffb608"
+  },
+  "44": {
+   "file": "cad.md",
+   "rubrica": "Requisiti per la gestione e conservazione dei documenti informatici",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "69799dedce86"
+  },
+  "44-bis": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "caf86ef7eb62"
+  },
+  "45": {
+   "file": "cad.md",
+   "rubrica": "Valore giuridico della trasmissione",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "7a1ab9eb77e0"
+  },
+  "46": {
+   "file": "cad.md",
+   "rubrica": "Dati particolari contenuti nei documenti trasmessi",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "56a27cda8417"
+  },
+  "47": {
+   "file": "cad.md",
+   "rubrica": "Trasmissione dei documenti tra le pubbliche amministrazioni",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "d2a8ac061acd"
+  },
+  "48": {
+   "file": "cad.md",
+   "rubrica": "Posta elettronica certificata",
+   "vigore_da": "2019-02-13",
+   "datazione": "api",
+   "h": "97c04db05ada"
+  },
+  "49": {
+   "file": "cad.md",
+   "rubrica": "Segretezza della corrispondenza trasmessa per via telematica",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "d9ac699bdadc"
+  },
+  "50": {
+   "file": "cad.md",
+   "rubrica": "Disponibilita' dei dati delle pubbliche amministrazioni",
+   "vigore_da": "2026-04-21",
+   "datazione": "api",
+   "h": "a47da5b1b784"
+  },
+  "50-bis": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "50-ter": {
+   "file": "cad.md",
+   "rubrica": "Piattaforma Digitale Nazionale Dati",
+   "vigore_da": "2024-03-02",
+   "datazione": "api",
+   "h": "60bf0541511d"
+  },
+  "50-quater": {
+   "file": "cad.md",
+   "rubrica": "Disponibilita' dei dati generati nella fornitura di servizi in concessione",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "h": "a97ec0471fe9"
+  },
+  "51": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "8c7614a299b3"
+  },
+  "52": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "9fb799c62fa9"
+  },
+  "53": {
+   "file": "cad.md",
+   "rubrica": "Siti Internet delle pubbliche amministrazioni",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "44f0872ca332"
+  },
+  "54": {
+   "file": "cad.md",
+   "rubrica": "Contenuto dei siti delle pubbliche amministrazioni",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "f682ebf5ce4c"
+  },
+  "55": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "56": {
+   "file": "cad.md",
+   "rubrica": "Dati identificativi delle questioni pendenti dinanzi autorita' giudiziaria di ogni ordine e grado",
+   "vigore_da": "2011-01-25",
+   "datazione": "api",
+   "h": "4595dfbfbbcc"
+  },
+  "57": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2013-04-20",
+   "datazione": "api",
+   "h": "ea984e5ccaf0"
+  },
+  "57-bis": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "58": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "59": {
+   "file": "cad.md",
+   "rubrica": "Dati territoriali",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "c81d379bedfb"
+  },
+  "60": {
+   "file": "cad.md",
+   "rubrica": "Base di dati di interesse nazionale",
+   "vigore_da": "2021-07-31",
+   "datazione": "api",
+   "h": "b7c4f4231531"
+  },
+  "61": {
+   "file": "cad.md",
+   "rubrica": "Delocalizzazione dei registri informatici",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "ce372c38dc49"
+  },
+  "62": {
+   "file": "cad.md",
+   "rubrica": "Anagrafe nazionale della popolazione residente - ANPR",
+   "vigore_da": "2026-04-21",
+   "datazione": "api",
+   "h": "c29c90656464"
+  },
+  "62-bis": {
+   "file": "cad.md",
+   "rubrica": "Banca dati nazionale dei contratti pubblici",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "7f000e2ac37c"
+  },
+  "62-ter": {
+   "file": "cad.md",
+   "rubrica": "Anagrafe nazionale degli assistiti",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "02f3a18edb21"
+  },
+  "62-quater": {
+   "file": "cad.md",
+   "rubrica": "Anagrafe nazionale dell'istruzione",
+   "vigore_da": "2021-07-31",
+   "datazione": "api",
+   "h": "39565510f584"
+  },
+  "62-quinquies": {
+   "file": "cad.md",
+   "rubrica": "Anagrafe nazionale dell'istruzione superiore",
+   "vigore_da": "2021-07-31",
+   "datazione": "api",
+   "h": "1981f768d285"
+  },
+  "62-sexies": {
+   "file": "cad.md",
+   "rubrica": "Anagrafe nazionale digitale della gente di mare - ANGEMAR",
+   "vigore_da": "2026-04-21",
+   "datazione": "api",
+   "h": "dabb50087300"
+  },
+  "63": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "b4fce47adbfd"
+  },
+  "64": {
+   "file": "cad.md",
+   "rubrica": "Sistema pubblico per la gestione delle identita' digitali e modalita' di accesso ai servizi erogati in rete dalle pubbliche amministrazioni",
+   "vigore_da": "2022-06-30",
+   "datazione": "api",
+   "h": "ca12b4c84971"
+  },
+  "64-bis": {
+   "file": "cad.md",
+   "rubrica": "Accesso telematico ai servizi della Pubblica Amministrazione",
+   "vigore_da": "2026-04-21",
+   "datazione": "api",
+   "h": "bcf2fbc3bd3b"
+  },
+  "64-ter": {
+   "file": "cad.md",
+   "rubrica": "Piattaforma di gestione deleghe",
+   "vigore_da": "2024-05-01",
+   "datazione": "api",
+   "h": "94a3d76c573e"
+  },
+  "64-quater": {
+   "file": "cad.md",
+   "rubrica": "Sistema di portafoglio digitale italiano - Sistema IT-Wallet",
+   "vigore_da": "2024-05-01",
+   "datazione": "api",
+   "h": "f7cf2d40a05f"
+  },
+  "65": {
+   "file": "cad.md",
+   "rubrica": "Istanze e dichiarazioni presentate alle pubbliche amministrazioni per via telematica",
+   "vigore_da": "2021-06-01",
+   "datazione": "api",
+   "h": "15aad20ddacd"
+  },
+  "66": {
+   "file": "cad.md",
+   "rubrica": "Carta d'identita' elettronica e carta nazionale dei servizi",
+   "vigore_da": "2019-01-01",
+   "datazione": "api",
+   "h": "65379b61c0e1"
+  },
+  "67": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "68": {
+   "file": "cad.md",
+   "rubrica": "Analisi comparativa delle soluzioni",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "e060d2d10034"
+  },
+  "69": {
+   "file": "cad.md",
+   "rubrica": "Riuso delle soluzioni e standard aperti",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "e54b7763ce8f"
+  },
+  "70": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "b4fce47adbfd"
+  },
+  "71": {
+   "file": "cad.md",
+   "rubrica": "Regole tecniche",
+   "vigore_da": "2018-01-27",
+   "datazione": "api",
+   "h": "7430ec2ebf14"
+  },
+  "72": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "73": {
+   "file": "cad.md",
+   "rubrica": "Sistema pubblico di connettivita' (SPC)",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "a7fcc61b13e5"
+  },
+  "74": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "75": {
+   "file": "cad.md",
+   "rubrica": "Partecipazione al Sistema pubblico di connettivita'",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "2366278e94f2"
+  },
+  "76": {
+   "file": "cad.md",
+   "rubrica": "Scambio di documenti informatici nell'ambito del Sistema pubblico diconnettivita'",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "3cd67494cd44"
+  },
+  "76-bis": {
+   "file": "cad.md",
+   "rubrica": "Costi del SPC",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "a1af74c48be9"
+  },
+  "77": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "78": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "79": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "80": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "81": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "82": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "83": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "84": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "85": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "86": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "87": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "88": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "89": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  },
+  "90": {
+   "file": "cad.md",
+   "rubrica": "Oneri finanziari",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "b0ebfd090768"
+  },
+  "91": {
+   "file": "cad.md",
+   "rubrica": "Abrogazioni",
+   "vigore_da": "2006-05-14",
+   "datazione": "api",
+   "h": "42f8382c1613"
+  },
+  "92": {
+   "file": "cad.md",
+   "rubrica": "",
+   "vigore_da": "2016-09-14",
+   "datazione": "api",
+   "h": "eaad65b225bd"
+  }
+ }
+}

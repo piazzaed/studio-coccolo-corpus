@@ -1,0 +1,1425 @@
+{
+ "_meta": {
+  "codice": "l-689-1981",
+  "nome": "Sanzioni amministrative — depenalizzazione (L. 689/1981)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-05-29",
+  "articoli": 159,
+  "file": [
+   "l-689-1981.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1981-11-24;689",
+  "versioni": [
+   {
+    "data": "1981-11-30",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1983-08-31",
+    "evento": "rp1",
+    "atto_modificante": "Circ. Ministero Delle Finanze 26 luglio 1983, n. 41"
+   },
+   {
+    "data": "1985-12-02",
+    "evento": "rp2",
+    "atto_modificante": "D.L. 2 dicembre 1985, n. 688"
+   },
+   {
+    "data": "1987-07-22",
+    "evento": "rp3",
+    "atto_modificante": "atto modificante non indicato (rp3)"
+   },
+   {
+    "data": "1988-05-10",
+    "evento": "rp4",
+    "atto_modificante": "D.P.R. 31 marzo 1988, n. 148"
+   },
+   {
+    "data": "1989-04-06",
+    "evento": "rp5",
+    "atto_modificante": "L. 24 marzo 1989, n. 122"
+   },
+   {
+    "data": "1989-08-05",
+    "evento": "rp6",
+    "atto_modificante": "D.Lgs. 28 luglio 1989, n. 271"
+   },
+   {
+    "data": "1990-12-12",
+    "evento": "rp7",
+    "atto_modificante": "atto modificante non indicato (rp7)"
+   },
+   {
+    "data": "1992-03-04",
+    "evento": "rp8",
+    "atto_modificante": "atto modificante non indicato (rp8)"
+   },
+   {
+    "data": "1992-05-18",
+    "evento": "rp9",
+    "atto_modificante": "D.Lgs. 30 aprile 1992, n. 285"
+   },
+   {
+    "data": "1993-05-26",
+    "evento": "rp10",
+    "atto_modificante": "atto modificante non indicato (rp10)"
+   },
+   {
+    "data": "1993-06-14",
+    "evento": "rp11",
+    "atto_modificante": "D.L. 14 giugno 1993, n. 187"
+   },
+   {
+    "data": "1993-12-31",
+    "evento": "rp12",
+    "atto_modificante": "L. 28 dicembre 1993, n. 562"
+   },
+   {
+    "data": "1994-06-29",
+    "evento": "rp13",
+    "atto_modificante": "atto modificante non indicato (rp13)"
+   },
+   {
+    "data": "1994-08-04",
+    "evento": "rp14",
+    "atto_modificante": "D.Lgs. 13 luglio 1994, n. 480"
+   },
+   {
+    "data": "1994-11-02",
+    "evento": "rp15",
+    "atto_modificante": "atto modificante non indicato (rp15)"
+   },
+   {
+    "data": "1994-12-28",
+    "evento": "rp16",
+    "atto_modificante": "atto modificante non indicato (rp16)"
+   },
+   {
+    "data": "1995-07-05",
+    "evento": "rp17",
+    "atto_modificante": "atto modificante non indicato (rp17)"
+   },
+   {
+    "data": "1995-12-27",
+    "evento": "rp18",
+    "atto_modificante": "atto modificante non indicato (rp18)"
+   },
+   {
+    "data": "1996-06-26",
+    "evento": "rp19",
+    "atto_modificante": "atto modificante non indicato (rp19)"
+   },
+   {
+    "data": "1997-04-09",
+    "evento": "rp20",
+    "atto_modificante": "atto modificante non indicato (rp20)"
+   },
+   {
+    "data": "1997-04-30",
+    "evento": "rp21",
+    "atto_modificante": "atto modificante non indicato (rp21)"
+   },
+   {
+    "data": "1998-01-08",
+    "evento": "rp22",
+    "atto_modificante": "D.Lgs. 18 dicembre 1997, n. 472"
+   },
+   {
+    "data": "1998-02-25",
+    "evento": "rp23",
+    "atto_modificante": "atto modificante non indicato (rp23)"
+   },
+   {
+    "data": "1998-07-08",
+    "evento": "rp24",
+    "atto_modificante": "D.Lgs. 24 giugno 1998, n. 213"
+   },
+   {
+    "data": "1998-07-22",
+    "evento": "rp25",
+    "atto_modificante": "atto modificante non indicato (rp25)"
+   },
+   {
+    "data": "1998-12-29",
+    "evento": "rp26",
+    "atto_modificante": "L. 23 dicembre 1998, n. 448"
+   },
+   {
+    "data": "1999-03-05",
+    "evento": "rp27",
+    "atto_modificante": "D.Lgs. 26 febbraio 1999, n. 46"
+   },
+   {
+    "data": "1999-08-06",
+    "evento": "rp28",
+    "atto_modificante": "L. 3 agosto 1999, n. 265"
+   },
+   {
+    "data": "1999-12-31",
+    "evento": "rp29",
+    "atto_modificante": "D.Lgs. 30 dicembre 1999, n. 507"
+   },
+   {
+    "data": "2000-12-29",
+    "evento": "rp30",
+    "atto_modificante": "L. 23 dicembre 2000, n. 388"
+   },
+   {
+    "data": "2003-02-13",
+    "evento": "rp31",
+    "atto_modificante": "D.P.R. 14 novembre 2002, n. 313"
+   },
+   {
+    "data": "2003-06-14",
+    "evento": "rp32",
+    "atto_modificante": "L. 12 giugno 2003, n. 134"
+   },
+   {
+    "data": "2003-07-29",
+    "evento": "rp33",
+    "atto_modificante": "D.Lgs. 30 giugno 2003, n. 196"
+   },
+   {
+    "data": "2004-03-24",
+    "evento": "rp34",
+    "atto_modificante": "atto modificante non indicato (rp34)"
+   },
+   {
+    "data": "2005-12-30",
+    "evento": "rp35",
+    "atto_modificante": "D.L. 30 dicembre 2005, n. 272"
+   },
+   {
+    "data": "2006-02-15",
+    "evento": "rp36",
+    "atto_modificante": "D.Lgs. 2 febbraio 2006, n. 40"
+   },
+   {
+    "data": "2007-12-14",
+    "evento": "rp37",
+    "atto_modificante": "D.Lgs. 21 novembre 2007, n. 231"
+   },
+   {
+    "data": "2008-05-26",
+    "evento": "rp38",
+    "atto_modificante": "D.L. 23 maggio 2008, n. 92"
+   },
+   {
+    "data": "2009-06-19",
+    "evento": "rp39",
+    "atto_modificante": "L. 18 giugno 2009, n. 69"
+   },
+   {
+    "data": "2009-07-24",
+    "evento": "rp40",
+    "atto_modificante": "L. 15 luglio 2009, n. 94"
+   },
+   {
+    "data": "2010-11-12",
+    "evento": "rp41",
+    "atto_modificante": "D.L. 12 novembre 2010, n. 187"
+   },
+   {
+    "data": "2010-12-29",
+    "evento": "rp42",
+    "atto_modificante": "atto modificante non indicato (rp42)"
+   },
+   {
+    "data": "2011-09-21",
+    "evento": "rp43",
+    "atto_modificante": "D.Lgs. 1 settembre 2011, n. 150"
+   },
+   {
+    "data": "2012-01-18",
+    "evento": "rp44",
+    "atto_modificante": "atto modificante non indicato (rp44)"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp45",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 91"
+   },
+   {
+    "data": "2018-09-04",
+    "evento": "rp46",
+    "atto_modificante": "D.Lgs. 10 agosto 2018, n. 101"
+   },
+   {
+    "data": "2022-02-02",
+    "evento": "rp47",
+    "atto_modificante": "atto modificante non indicato (rp47)"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp48",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 150"
+   },
+   {
+    "data": "2024-03-20",
+    "evento": "rp49",
+    "atto_modificante": "D.Lgs. 19 marzo 2024, n. 31"
+   },
+   {
+    "data": "2024-11-28",
+    "evento": "rp50",
+    "atto_modificante": "D.Lgs. 5 novembre 2024, n. 173"
+   },
+   {
+    "data": "2024-11-29",
+    "evento": "rp51",
+    "atto_modificante": "L. 25 novembre 2024, n. 177"
+   },
+   {
+    "data": "2025-03-26",
+    "evento": "rp52",
+    "atto_modificante": "D.Lgs. 24 marzo 2025, n. 33"
+   },
+   {
+    "data": "2025-12-31",
+    "evento": "rp53",
+    "atto_modificante": "D.L. 31 dicembre 2025, n. 200"
+   },
+   {
+    "data": "2026-04-22",
+    "evento": "rp54",
+    "atto_modificante": "atto modificante non indicato (rp54)"
+   },
+   {
+    "data": "2026-05-14",
+    "evento": "rp55",
+    "atto_modificante": "L. 21 aprile 2026, n. 75"
+   }
+  ],
+  "ultima_versione": "2026-05-14",
+  "datazione": {
+   "monoblocco": 159,
+   "api": 4,
+   "riportati": 154,
+   "ignota": 1,
+   "testo_diverso": 1,
+   "stima_anteriore": 2,
+   "chiamate": 5,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-689-1981.md",
+   "rubrica": "Principio di legalit",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "23a0a41536fc"
+  },
+  "2": {
+   "file": "l-689-1981.md",
+   "rubrica": "Capacita' di intendere e di volere",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "02682c0dad7d"
+  },
+  "3": {
+   "file": "l-689-1981.md",
+   "rubrica": "Elemento soggettivo",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "54d697647b93"
+  },
+  "4": {
+   "file": "l-689-1981.md",
+   "rubrica": "Cause di esclusione della responsabilit",
+   "vigore_da": "1999-01-01",
+   "datazione": "api",
+   "h": "c034be517352"
+  },
+  "5": {
+   "file": "l-689-1981.md",
+   "rubrica": "Concorso di persone",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "64e241243e3c"
+  },
+  "6": {
+   "file": "l-689-1981.md",
+   "rubrica": "Solidarieta'",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "fe8b8238216c"
+  },
+  "7": {
+   "file": "l-689-1981.md",
+   "rubrica": "Non trasmissibilita' dell'obbligazione",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "0607b54b05d7"
+  },
+  "8": {
+   "file": "l-689-1981.md",
+   "rubrica": "Piu' violazioni di disposizioni che prevedono sanzioni amministrative",
+   "vigore_da": "1986-01-31",
+   "datazione": "api",
+   "h": "33f7ccb40d82"
+  },
+  "8-bis": {
+   "file": "l-689-1981.md",
+   "rubrica": "Reiterazione delle violazioni",
+   "vigore_da": "2000-01-15",
+   "datazione": "api",
+   "h": "7dd886754001"
+  },
+  "9": {
+   "file": "l-689-1981.md",
+   "rubrica": "Principio di specialit",
+   "vigore_da": "2000-01-15",
+   "datazione": "api",
+   "h": "806eec8a952a"
+  },
+  "10": {
+   "file": "l-689-1981.md",
+   "rubrica": "Sanzione amministrativa pecuniaria e rapporto tra limite minimo e limite massimo",
+   "vigore_da": "2009-08-08",
+   "datazione": "api",
+   "h": "ce3d2794dc9c"
+  },
+  "11": {
+   "file": "l-689-1981.md",
+   "rubrica": "Criteri per l'applicazione delle sanzioni ammistrative pecuniarie",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "e798baf1f0da"
+  },
+  "12": {
+   "file": "l-689-1981.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "15c03d23edc2"
+  },
+  "13": {
+   "file": "l-689-1981.md",
+   "rubrica": "Atti di accertamento",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "c847c55f232e"
+  },
+  "14": {
+   "file": "l-689-1981.md",
+   "rubrica": "Contestazione e notificazione",
+   "vigore_da": "2004-01-01",
+   "datazione": "api",
+   "h": "0e0e1e4d58bf"
+  },
+  "15": {
+   "file": "l-689-1981.md",
+   "rubrica": "Accertamenti mediante analisi di campioni",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "92df06e4ff62"
+  },
+  "16": {
+   "file": "l-689-1981.md",
+   "rubrica": "Pagamento in misura ridotta",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "8d1885c84ece"
+  },
+  "17": {
+   "file": "l-689-1981.md",
+   "rubrica": "Obbligo del rapporto",
+   "vigore_da": "2010-12-19",
+   "datazione": "api",
+   "h": "866d07424b8c"
+  },
+  "18": {
+   "file": "l-689-1981.md",
+   "rubrica": "Ordinanza-ingiunzione",
+   "vigore_da": "1999-08-21",
+   "datazione": "api",
+   "h": "67830a1d9c34"
+  },
+  "18-bis": {
+   "file": "l-689-1981.md",
+   "rubrica": "Blocco ufficiale temporaneo",
+   "vigore_da": "2026-05-29",
+   "datazione": "api",
+   "h": "71ddb517f8b8"
+  },
+  "19": {
+   "file": "l-689-1981.md",
+   "rubrica": "Sequestro",
+   "vigore_da": "2014-08-21",
+   "datazione": "api",
+   "h": "68e848e14b00"
+  },
+  "20": {
+   "file": "l-689-1981.md",
+   "rubrica": "Sanzioni amministrative accessorie",
+   "vigore_da": "2010-12-19",
+   "datazione": "api",
+   "h": "071083081ef0"
+  },
+  "21": {
+   "file": "l-689-1981.md",
+   "rubrica": "Casi speciali di sanzioni amministrative accessorie",
+   "vigore_da": "1994-11-03",
+   "datazione": "api",
+   "h": "3e8605fe682f"
+  },
+  "22": {
+   "file": "l-689-1981.md",
+   "rubrica": "Opposizione all'ordinanza-ingiunzione",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "d64c8699ebeb"
+  },
+  "22-bis": {
+   "file": "l-689-1981.md",
+   "rubrica": "",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "58bd86aabc72"
+  },
+  "23": {
+   "file": "l-689-1981.md",
+   "rubrica": "",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "58bd86aabc72"
+  },
+  "24": {
+   "file": "l-689-1981.md",
+   "rubrica": "Connessione obiettiva con un reato",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "6363110a46c8"
+  },
+  "25": {
+   "file": "l-689-1981.md",
+   "rubrica": "Impugnabilita' del provvedimento del giudice penale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "57c5e76c9f59"
+  },
+  "26": {
+   "file": "l-689-1981.md",
+   "rubrica": "Pagamento rateale della sanzione pecuniaria",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "6d04240ee9d5"
+  },
+  "27": {
+   "file": "l-689-1981.md",
+   "rubrica": "Esecuzione forzata",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "126ef56a9552"
+  },
+  "28": {
+   "file": "l-689-1981.md",
+   "rubrica": "Prescrizione",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "931cf41b236c"
+  },
+  "29": {
+   "file": "l-689-1981.md",
+   "rubrica": "Devoluzione dei proventi",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "3b08c9776be1"
+  },
+  "30": {
+   "file": "l-689-1981.md",
+   "rubrica": "Valutazione delle violazioni in materia di circolazione stradale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "a963114c61a6"
+  },
+  "31": {
+   "file": "l-689-1981.md",
+   "rubrica": "Provvedimenti dell'autorita' regionale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "26f3db30a746"
+  },
+  "32": {
+   "file": "l-689-1981.md",
+   "rubrica": "Sostituzione della sanzione amministrativa pecuniaria alla multa o alla ammenda",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "8600d876f0f0"
+  },
+  "33": {
+   "file": "l-689-1981.md",
+   "rubrica": "Altri casi di depenalizzazione",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "7b65696d1caa"
+  },
+  "34": {
+   "file": "l-689-1981.md",
+   "rubrica": "Esclusione della depenalizzazione",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "9ac72daf79b5"
+  },
+  "35": {
+   "file": "l-689-1981.md",
+   "rubrica": "Violazioni in materia di previdenza ed assistenza obbligatorie",
+   "vigore_da": "2025-03-27",
+   "datazione": "api",
+   "h": "bf095a464d0f"
+  },
+  "36": {
+   "file": "l-689-1981.md",
+   "rubrica": "Omissione o ritardo nel versamento di contributi e premi in materia di previdenza ed assistenza obbligatorie",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "70415ad4c72d"
+  },
+  "37": {
+   "file": "l-689-1981.md",
+   "rubrica": "Omissione o falsita' di registrazione o denuncia obbligatorie",
+   "vigore_da": "2001-01-01",
+   "datazione": "api",
+   "h": "d956d3a9529b"
+  },
+  "38": {
+   "file": "l-689-1981.md",
+   "rubrica": "Entita' della somma dovuta",
+   "vigore_da": "1994-08-05",
+   "datazione": "api",
+   "h": "3cb750fc561f"
+  },
+  "39": {
+   "file": "l-689-1981.md",
+   "rubrica": "Violazioni finanziarie",
+   "vigore_da": "2025-12-31",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "3541071db523"
+  },
+  "40": {
+   "file": "l-689-1981.md",
+   "rubrica": "Violazioni commesse anteriormente alla legge di depenalizzazione",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "ceca70673f85"
+  },
+  "41": {
+   "file": "l-689-1981.md",
+   "rubrica": "Norme processuali transitorie",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "246f43f1265b"
+  },
+  "42": {
+   "file": "l-689-1981.md",
+   "rubrica": "Disposizioni abrogate",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "8de1ab0c064b"
+  },
+  "43": {
+   "file": "l-689-1981.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "fc60d9bb7a8c"
+  },
+  "44": {
+   "file": "l-689-1981.md",
+   "rubrica": "Pubblicazione di discussioni o deliberazioni segrete delle Camere",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "4f62e8a393ab"
+  },
+  "45": {
+   "file": "l-689-1981.md",
+   "rubrica": "Pubblicazione arbitraria di atti di un procedimento penale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "dbe0e3712a5c"
+  },
+  "46": {
+   "file": "l-689-1981.md",
+   "rubrica": "Indebita pubblicazione di notizie concernenti un procedimento penale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "b5fdca1dc108"
+  },
+  "47": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica all'articolo 697 del codice penale in materia di denuncia di armi all'autorit",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "9da1d4cfd1f7"
+  },
+  "48": {
+   "file": "l-689-1981.md",
+   "rubrica": "Omessa trasmissione dell'elenco dei protesti cambiari",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "a179f1bc1326"
+  },
+  "49": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 3 delle disposizioni relative al mercato mobiliare ed al trattamento fiscale dei titoli azionari",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "6c198e09d817"
+  },
+  "50": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 5 delle disposizioni relative al mercato mobiliare ed al trattamento fiscale dei titoli azionari",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "f4565788f972"
+  },
+  "51": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 17 delle disposizioni relative al mercato mobiliare ed al trattamento fiscale dei titoli azionari",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "472c664ec1fa"
+  },
+  "52": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 18 delle disposizioni relative al mercato mobiliare ed al trattamento fiscale dei titoli azionari",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "4713fc413459"
+  },
+  "53": {
+   "file": "l-689-1981.md",
+   "rubrica": "Sostituzione delle pene detentive brevi",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "ca840161b929"
+  },
+  "54": {
+   "file": "l-689-1981.md",
+   "rubrica": "",
+   "vigore_da": "1993-08-13",
+   "datazione": "api",
+   "h": "aca074962b8a"
+  },
+  "55": {
+   "file": "l-689-1981.md",
+   "rubrica": "Semiliberta' sostitutiva",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "9e40d77cdc30"
+  },
+  "56": {
+   "file": "l-689-1981.md",
+   "rubrica": "Detenzione domiciliare sostitutiva",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "b3bd3f381949"
+  },
+  "56-bis": {
+   "file": "l-689-1981.md",
+   "rubrica": "Lavoro di pubblica utilita' sostitutivo",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "e728cf213eab"
+  },
+  "56-ter": {
+   "file": "l-689-1981.md",
+   "rubrica": "Prescrizioni comuni",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "5587fd99bbfe"
+  },
+  "56-quater": {
+   "file": "l-689-1981.md",
+   "rubrica": "Pena pecuniaria sostitutiva",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "68b0ef094740"
+  },
+  "57": {
+   "file": "l-689-1981.md",
+   "rubrica": "Durata ed effetti delle pene sostitutive e criteri di ragguaglio",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "742db3b976bf"
+  },
+  "58": {
+   "file": "l-689-1981.md",
+   "rubrica": "Potere discrezionale del giudice nell'applicazione e nella scelta delle pene sostitutive",
+   "vigore_da": "2024-04-04",
+   "datazione": "api",
+   "h": "f63362a2ca77"
+  },
+  "59": {
+   "file": "l-689-1981.md",
+   "rubrica": "Condizioni soggettive per la sostituzione della pena detentiva",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "fb9aed94f758"
+  },
+  "60": {
+   "file": "l-689-1981.md",
+   "rubrica": "",
+   "vigore_da": "2003-06-29",
+   "datazione": "api",
+   "h": "20b39ad259a2"
+  },
+  "61": {
+   "file": "l-689-1981.md",
+   "rubrica": "Condanna a pena sostitutiva",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "e15fc929d030"
+  },
+  "61-bis": {
+   "file": "l-689-1981.md",
+   "rubrica": "Esclusione della sospensione condizionale della pena",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "ef0ecf2853da"
+  },
+  "62": {
+   "file": "l-689-1981.md",
+   "rubrica": "Esecuzione della semiliberta' e della detenzione domiciliare sostitutive",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "aecb5f59d936"
+  },
+  "63": {
+   "file": "l-689-1981.md",
+   "rubrica": "Esecuzione del lavoro di pubblica utilita' sostitutivo",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "0908b0e066ad"
+  },
+  "64": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica delle modalita' di esecuzione delle pene sostitutive",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "38bc4b6e38f5"
+  },
+  "65": {
+   "file": "l-689-1981.md",
+   "rubrica": "Controllo sull'adempimento delle prescrizioni",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "837309bdf382"
+  },
+  "66": {
+   "file": "l-689-1981.md",
+   "rubrica": "Revoca per inosservanza delle prescrizioni",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "a5796bb71784"
+  },
+  "67": {
+   "file": "l-689-1981.md",
+   "rubrica": "Inapplicabilita' delle misure alternative alla detenzione",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "ac314068fa94"
+  },
+  "68": {
+   "file": "l-689-1981.md",
+   "rubrica": "Sospensione dell'esecuzione delle pene sostitutive",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "c3372c621fa7"
+  },
+  "69": {
+   "file": "l-689-1981.md",
+   "rubrica": "Licenze ai condannati alla semiliberta' e alla detenzione domiciliare. Sospensione e rinvio delle pene sostitutive",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "983de16e9ec2"
+  },
+  "70": {
+   "file": "l-689-1981.md",
+   "rubrica": "Esecuzione di pene sostitutive concorrenti",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "135eeb866820"
+  },
+  "71": {
+   "file": "l-689-1981.md",
+   "rubrica": "Esecuzione della pena pecuniaria sostitutiva. Revoca e conversione per mancato pagamento",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "32924b0adca2"
+  },
+  "72": {
+   "file": "l-689-1981.md",
+   "rubrica": "Ipotesi di responsabilita' penale e revoca",
+   "vigore_da": "2024-04-04",
+   "datazione": "api",
+   "h": "93cb25275302"
+  },
+  "73": {
+   "file": "l-689-1981.md",
+   "rubrica": "",
+   "vigore_da": "2003-02-28",
+   "datazione": "api",
+   "h": "66450c612fc1"
+  },
+  "74": {
+   "file": "l-689-1981.md",
+   "rubrica": "Iscrizione nel casellario giudiziale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "4b5928d42809"
+  },
+  "75": {
+   "file": "l-689-1981.md",
+   "rubrica": "Disposizioni relative ai minorenni",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "8e9920b1ec45"
+  },
+  "75-bis": {
+   "file": "l-689-1981.md",
+   "rubrica": "Disposizioni relative ai reati militari",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "2edacbccd331"
+  },
+  "76": {
+   "file": "l-689-1981.md",
+   "rubrica": "Norme applicabili",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "d97e7a19e0bd"
+  },
+  "77": {
+   "file": "l-689-1981.md",
+   "rubrica": "Ambito e modalita' d'applicazione",
+   "vigore_da": "1989-10-24",
+   "datazione": "api",
+   "h": "6d3d7f9c446a"
+  },
+  "78": {
+   "file": "l-689-1981.md",
+   "rubrica": "Competenza",
+   "vigore_da": "1989-10-24",
+   "datazione": "api",
+   "h": "b2c63fcf6abb"
+  },
+  "79": {
+   "file": "l-689-1981.md",
+   "rubrica": "Applicazione nell'ulteriore corso del procedimento",
+   "vigore_da": "1989-10-24",
+   "datazione": "api",
+   "h": "37f24ea9f171"
+  },
+  "80": {
+   "file": "l-689-1981.md",
+   "rubrica": "Esclusioni soggettive",
+   "vigore_da": "1989-10-24",
+   "datazione": "api",
+   "h": "2fedc96628ca"
+  },
+  "81": {
+   "file": "l-689-1981.md",
+   "rubrica": "",
+   "vigore_da": "2003-02-28",
+   "datazione": "api",
+   "h": "66450c612fc1"
+  },
+  "82": {
+   "file": "l-689-1981.md",
+   "rubrica": "Esecuzione delle sanzioni sostitutive",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "7c7aafe6065c"
+  },
+  "83": {
+   "file": "l-689-1981.md",
+   "rubrica": "Violazione degli obblighi",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "ff6c342cd087"
+  },
+  "84": {
+   "file": "l-689-1981.md",
+   "rubrica": "Comunicazione all'imputato",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "6fda80c411c2"
+  },
+  "85": {
+   "file": "l-689-1981.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "f3bd6528ee19"
+  },
+  "86": {
+   "file": "l-689-1981.md",
+   "rubrica": "Nuovo testo degli articoli 334 e 335 del codice penale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "85ae9674637a"
+  },
+  "87": {
+   "file": "l-689-1981.md",
+   "rubrica": "Sottrazione, distruzione o danneggiamento di cose sottoposte a pignoramento, sequestro giudiziario o conservativo",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "0c8948dccfcb"
+  },
+  "88": {
+   "file": "l-689-1981.md",
+   "rubrica": "Violazione colposa dei doveri inerenti alla custodia di cose sottoposte a pignoramento o sequestro giudiziario o conservativo",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "53c123b156d2"
+  },
+  "89": {
+   "file": "l-689-1981.md",
+   "rubrica": "Casi di perseguibilita' a querela",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "cdd07def13c3"
+  },
+  "90": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 570 del codice penale in materia di violazione degli obblighi di assistenza familiare",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "03681ac03386"
+  },
+  "91": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 582 del codice penale in materia di lesione personale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "8e6ef46cc358"
+  },
+  "92": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 590 del codice penale in materia di lesioni personali colpose",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "b3684adee24e"
+  },
+  "93": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 627 del codice penale in materia di sottrazione di cose comuni",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "b170e5798347"
+  },
+  "94": {
+   "file": "l-689-1981.md",
+   "rubrica": "Usurpazione",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "2694f7ae959a"
+  },
+  "95": {
+   "file": "l-689-1981.md",
+   "rubrica": "Deviazione di acque e modificazione dello stato dei luoghi",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "3b7559cc1e15"
+  },
+  "96": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 636 del codice penale in materia di introduzione o abbandono di animali nel fondo altrui e pascolo abusivo",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "dd5afb9e4397"
+  },
+  "97": {
+   "file": "l-689-1981.md",
+   "rubrica": "Casi di esclusione della perseguibilita' a querela",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "e82ea41d75ee"
+  },
+  "98": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 640 del codice penale in materia di truffa",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "022a26e49dd7"
+  },
+  "99": {
+   "file": "l-689-1981.md",
+   "rubrica": "Norma transitoria",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "e512cd4f21b6"
+  },
+  "100": {
+   "file": "l-689-1981.md",
+   "rubrica": "Condizioni economiche del reo; valutazione agli effetti della pena pecuniaria - Pagamento rateale della multa o della ammenda",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "cf816a3b36e1"
+  },
+  "101": {
+   "file": "l-689-1981.md",
+   "rubrica": "Nuovo testo degli articoli 24, 26, 66, 78, 135 e 136 del codice penale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "3f17e04899f0"
+  },
+  "102": {
+   "file": "l-689-1981.md",
+   "rubrica": "Conversione delle pene pecuniarie principali per mancato pagamento",
+   "vigore_da": "2026-04-23",
+   "datazione": "api",
+   "h": "a5da791d02b8"
+  },
+  "103": {
+   "file": "l-689-1981.md",
+   "rubrica": "Mancato pagamento della pena pecuniaria per insolvibilita' del condannato",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "0a14679bc071"
+  },
+  "103-bis": {
+   "file": "l-689-1981.md",
+   "rubrica": "Inapplicabilita' delle misure alternative alla detenzione",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "6cd35c0478ed"
+  },
+  "103-ter": {
+   "file": "l-689-1981.md",
+   "rubrica": "Disposizioni applicabili",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "fccd1267074c"
+  },
+  "103-quater": {
+   "file": "l-689-1981.md",
+   "rubrica": "Disposizioni relative ai minorenni",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "fba105d40efc"
+  },
+  "104": {
+   "file": "l-689-1981.md",
+   "rubrica": "Nuovo testo degli articoli 163, 175 e 237 del codice penale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "7699b1c26906"
+  },
+  "105": {
+   "file": "l-689-1981.md",
+   "rubrica": "",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "1d008a80b2cc"
+  },
+  "106": {
+   "file": "l-689-1981.md",
+   "rubrica": "",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "1d008a80b2cc"
+  },
+  "107": {
+   "file": "l-689-1981.md",
+   "rubrica": "Esecuzione delle pene conseguenti alla conversione della multa o dell'ammenda",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "2ce285050ed4"
+  },
+  "108": {
+   "file": "l-689-1981.md",
+   "rubrica": "Inosservanza delle prescrizioni inerenti alle pene conseguenti alla conversione della multa o della ammenda",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "baf3b66f185e"
+  },
+  "109": {
+   "file": "l-689-1981.md",
+   "rubrica": "Mancata esecuzione dolosa di sanzioni pecuniarie",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "fc3aa0368b54"
+  },
+  "110": {
+   "file": "l-689-1981.md",
+   "rubrica": "Abrogazione di norma",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "d5d4cf2242d2"
+  },
+  "111": {
+   "file": "l-689-1981.md",
+   "rubrica": "Disposizioni transitorie",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "9e4f90d42f85"
+  },
+  "112": {
+   "file": "l-689-1981.md",
+   "rubrica": "Perdono giudiziale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "78e307686a53"
+  },
+  "113": {
+   "file": "l-689-1981.md",
+   "rubrica": "Aumento delle pene pecuniarie",
+   "vigore_da": "1989-06-01",
+   "datazione": "api",
+   "h": "9b7cc25bed07"
+  },
+  "114": {
+   "file": "l-689-1981.md",
+   "rubrica": "Aumento delle sanzioni amministrative pecuniarie",
+   "vigore_da": "2009-08-08",
+   "datazione": "api",
+   "h": "f0c937d3d314"
+  },
+  "115": {
+   "file": "l-689-1981.md",
+   "rubrica": "Pene proporzionali",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "487ec65d89d7"
+  },
+  "116": {
+   "file": "l-689-1981.md",
+   "rubrica": "Nuovo testo degli articoli 196 e 197 del codice penale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "6d886f358b9b"
+  },
+  "117": {
+   "file": "l-689-1981.md",
+   "rubrica": "Persona civilmente obbligata per l'ammenda e per la multa",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "2da7f9dc2cb7"
+  },
+  "118": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifiche dell'articolo 19 del codice penale, in materia di pene accessorie - Specie",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "b9cb876f2b13"
+  },
+  "119": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifiche dell'articolo 32 del codice penale in materia di interdizione legale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "08a4bf1d4331"
+  },
+  "120": {
+   "file": "l-689-1981.md",
+   "rubrica": "Nuove norme in materia di interdizione temporanea dagli uffici direttivi delle persone giuridiche e delle imprese e di incapacita' di contrattare con la pubblica amministrazione",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "404afd963b45"
+  },
+  "121": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 33 del codice penale in materia di condanna per delitto colposo",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "6589ec69606e"
+  },
+  "122": {
+   "file": "l-689-1981.md",
+   "rubrica": "Decadenza dalla potesta' dei genitori e sospensione dal suo esercizio",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "b1cc186ee8b5"
+  },
+  "123": {
+   "file": "l-689-1981.md",
+   "rubrica": "Sospensione dall'esercizio degli uffici direttivi delle persone giuridiche e delle imprese",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "831683cc5114"
+  },
+  "124": {
+   "file": "l-689-1981.md",
+   "rubrica": "Applicazione provvisoria di pene accessorie",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "5bf5a06fa7d2"
+  },
+  "125": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 157 del codice penale in materia di prescrizione e tempo necessario a prescrivere",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "8b1e454f9a29"
+  },
+  "126": {
+   "file": "l-689-1981.md",
+   "rubrica": "Oblazione nelle contravvenzioni punite con pene alternative",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "351ef7e66740"
+  },
+  "127": {
+   "file": "l-689-1981.md",
+   "rubrica": "Applicazione di norme",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "018e1890cfa5"
+  },
+  "128": {
+   "file": "l-689-1981.md",
+   "rubrica": "Obblighi del condannato",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "8505fdd10828"
+  },
+  "129": {
+   "file": "l-689-1981.md",
+   "rubrica": "Inosservanza di pene accessorie",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "b8e0715d5c01"
+  },
+  "130": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifiche dell'articolo 200 del codice di procedura penale in materia di impugnazione di ordinanze emesse in giudizio",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "d8a6f81f61e9"
+  },
+  "131": {
+   "file": "l-689-1981.md",
+   "rubrica": "Applicazione provvisoria di pene accessorie o di misure di sicurezza",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "8fb39bfa31cb"
+  },
+  "132": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modificazioni dell'articolo 400 del codice di procedura penale in materia di provvedimenti per l'applicazione provvisoria di pene accessorie o di misure di sicurezza",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "e150cfaf0c13"
+  },
+  "133": {
+   "file": "l-689-1981.md",
+   "rubrica": "Esecuzione provvisoria di misure di sicurezza",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "2ad13ae01279"
+  },
+  "134": {
+   "file": "l-689-1981.md",
+   "rubrica": "Appello contro sentenze del pretore",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "44851f2296b9"
+  },
+  "135": {
+   "file": "l-689-1981.md",
+   "rubrica": "Appello contro sentenze del tribunale e della corte d'assise",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "a146c42e45b9"
+  },
+  "136": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifiche dell'articolo 522 del codice di procedura penale in materia di questioni di nullit",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "83b0674c8bfe"
+  },
+  "137": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifiche dell'articolo 604 del codice di procedura penale in materia di provvedimenti da iscrivere nel casellario",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "979791b00f4c"
+  },
+  "138": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifiche alle disposizioni di attuazione, di coordinamento e transitorie del codice di procedura penale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "393cf10abf87"
+  },
+  "139": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 116 delle norme sugli assegni bancari, circolari e su titoli speciali dell'istituto di emissione, e dei Banchi di Napoli e di Sicilia",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "2e8feb726ef8"
+  },
+  "140": {
+   "file": "l-689-1981.md",
+   "rubrica": "Disposizioni aggiuntive alle norme in materia di assegni bancari, circolari e su titoli speciali dell'istituto di emissione, e dei Banchi di Napoli e di Sicilia",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "689ab2744ac5"
+  },
+  "141": {
+   "file": "l-689-1981.md",
+   "rubrica": "Ulteriori disposizioni aggiuntive alle norme in materia di assegni bancari, circolari e su titoli speciali dell'istituto di emissione, e dei Banchi di Napoli e di Sicilia",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "5f7b06fb6ccf"
+  },
+  "142": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifiche al testo unico delle norme sulla circolazione stradale",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "8c3616a84f5a"
+  },
+  "143": {
+   "file": "l-689-1981.md",
+   "rubrica": "Disposizioni aggiuntive alla legge sulla disciplina degli stupefacenti e sostanze psicotrope",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "12fa7ac41165"
+  },
+  "144": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica alla legge recante norme per la tutela delle acque dall'inquinamento",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "e034d810633d"
+  },
+  "145": {
+   "file": "l-689-1981.md",
+   "rubrica": "",
+   "vigore_da": "1989-01-01",
+   "datazione": "api",
+   "h": "790614f76643"
+  },
+  "146": {
+   "file": "l-689-1981.md",
+   "rubrica": "Norma di coordinamento",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "df54ad24c6dc"
+  },
+  "147": {
+   "file": "l-689-1981.md",
+   "rubrica": "Modifica dell'articolo 2638 del codice civile in materia di accettazione di retribuzione non dovuta da parte di amministratore giudiziario o commissario governativo",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "01cec8a900ea"
+  },
+  "148": {
+   "file": "l-689-1981.md",
+   "rubrica": "Disposizioni abrogative e di coordinamento",
+   "vigore_da": "1981-12-15",
+   "datazione": "api",
+   "h": "72e0fa45c69c"
+  }
+ }
+}

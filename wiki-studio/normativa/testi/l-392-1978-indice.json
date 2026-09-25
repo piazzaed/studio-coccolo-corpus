@@ -1,0 +1,792 @@
+{
+ "_meta": {
+  "codice": "l-392-1978",
+  "nome": "Equo canone — locazioni di immobili urbani (L. 392/1978)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-01-01",
+  "articoli": 85,
+  "file": [
+   "l-392-1978.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1978-07-27;392",
+  "versioni": [
+   {
+    "data": "1978-07-29",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1979-01-31",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 30 gennaio 1979, n. 21"
+   },
+   {
+    "data": "1980-03-05",
+    "evento": "rp2",
+    "atto_modificante": "atto modificante non indicato (rp2)"
+   },
+   {
+    "data": "1982-01-25",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 23 gennaio 1982, n. 9"
+   },
+   {
+    "data": "1983-08-03",
+    "evento": "rp4",
+    "atto_modificante": "atto modificante non indicato (rp4)"
+   },
+   {
+    "data": "1983-10-12",
+    "evento": "rp5",
+    "atto_modificante": "atto modificante non indicato (rp5)"
+   },
+   {
+    "data": "1984-07-26",
+    "evento": "rp6",
+    "atto_modificante": "L. 25 luglio 1984, n. 377"
+   },
+   {
+    "data": "1984-08-01",
+    "evento": "rp7",
+    "atto_modificante": "L. 30 luglio 1984, n. 399"
+   },
+   {
+    "data": "1985-02-08",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 7 febbraio 1985, n. 12"
+   },
+   {
+    "data": "1986-04-30",
+    "evento": "rp9",
+    "atto_modificante": "atto modificante non indicato (rp9)"
+   },
+   {
+    "data": "1986-12-10",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 9 dicembre 1986, n. 832"
+   },
+   {
+    "data": "1987-06-24",
+    "evento": "rp11",
+    "atto_modificante": "atto modificante non indicato (rp11)"
+   },
+   {
+    "data": "1987-12-23",
+    "evento": "rp12",
+    "atto_modificante": "atto modificante non indicato (rp12)"
+   },
+   {
+    "data": "1988-02-17",
+    "evento": "rp13",
+    "atto_modificante": "atto modificante non indicato (rp13)"
+   },
+   {
+    "data": "1988-02-24",
+    "evento": "rp14",
+    "atto_modificante": "atto modificante non indicato (rp14)"
+   },
+   {
+    "data": "1988-04-13",
+    "evento": "rp15",
+    "atto_modificante": "atto modificante non indicato (rp15)"
+   },
+   {
+    "data": "1988-12-31",
+    "evento": "rp16",
+    "atto_modificante": "D.L. 30 dicembre 1988, n. 551"
+   },
+   {
+    "data": "1989-12-20",
+    "evento": "rp17",
+    "atto_modificante": "atto modificante non indicato (rp17)"
+   },
+   {
+    "data": "1990-12-01",
+    "evento": "rp18",
+    "atto_modificante": "L. 26 novembre 1990, n. 353"
+   },
+   {
+    "data": "1991-09-19",
+    "evento": "rp19",
+    "atto_modificante": "D.L. 13 settembre 1991, n. 299"
+   },
+   {
+    "data": "1992-01-20",
+    "evento": "rp20",
+    "atto_modificante": "D.L. 18 gennaio 1992, n. 9"
+   },
+   {
+    "data": "1992-06-04",
+    "evento": "rp21",
+    "atto_modificante": "atto modificante non indicato (rp21)"
+   },
+   {
+    "data": "1992-12-12",
+    "evento": "rp22",
+    "atto_modificante": "L. 4 dicembre 1992, n. 477"
+   },
+   {
+    "data": "1993-08-30",
+    "evento": "rp23",
+    "atto_modificante": "D.L. 30 agosto 1993, n. 331"
+   },
+   {
+    "data": "1994-10-10",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 7 ottobre 1994, n. 571"
+   },
+   {
+    "data": "1998-10-14",
+    "evento": "rp25",
+    "atto_modificante": "atto modificante non indicato (rp25)"
+   },
+   {
+    "data": "1998-12-15",
+    "evento": "rp26",
+    "atto_modificante": "L. 9 dicembre 1998, n. 431"
+   },
+   {
+    "data": "2004-09-13",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 13 settembre 2004, n. 240"
+   },
+   {
+    "data": "2007-02-14",
+    "evento": "rp28",
+    "atto_modificante": "L. 8 febbraio 2007, n. 9"
+   },
+   {
+    "data": "2008-12-31",
+    "evento": "rp29",
+    "atto_modificante": "D.L. 30 dicembre 2008, n. 207"
+   },
+   {
+    "data": "2011-06-06",
+    "evento": "rp30",
+    "atto_modificante": "D.Lgs. 23 maggio 2011, n. 79"
+   },
+   {
+    "data": "2014-09-12",
+    "evento": "rp31",
+    "atto_modificante": "D.L. 12 settembre 2014, n. 133"
+   },
+   {
+    "data": "2025-08-12",
+    "evento": "rp32",
+    "atto_modificante": "D.Lgs. 1 agosto 2025, n. 123"
+   }
+  ],
+  "ultima_versione": "2025-08-12",
+  "datazione": {
+   "monoblocco": 85,
+   "api": 3,
+   "riportati": 80,
+   "ignota": 2,
+   "testo_diverso": 2,
+   "stima_anteriore": 1,
+   "chiamate": 5,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-392-1978.md",
+   "rubrica": "Durata della locazione",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "14ed397f3a4f"
+  },
+  "2": {
+   "file": "l-392-1978.md",
+   "rubrica": "Disciplina della sublocazione",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "ccd8f09f02cf"
+  },
+  "3": {
+   "file": "l-392-1978.md",
+   "rubrica": "Rinnovazione tacita",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "0cc167f468f8"
+  },
+  "4": {
+   "file": "l-392-1978.md",
+   "rubrica": "Recesso del conduttore",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "295bf2e623eb"
+  },
+  "5": {
+   "file": "l-392-1978.md",
+   "rubrica": "Inadempimento del conduttore",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "dbe87f110de9"
+  },
+  "6": {
+   "file": "l-392-1978.md",
+   "rubrica": "Successione nel contratto",
+   "vigore_da": "1988-04-14",
+   "datazione": "api",
+   "h": "923e1701be26"
+  },
+  "7": {
+   "file": "l-392-1978.md",
+   "rubrica": "Clausola di scioglimento in caso di alienazione",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "51bfefbf630f"
+  },
+  "8": {
+   "file": "l-392-1978.md",
+   "rubrica": "Spese di registrazione",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "9d2a34dbc470"
+  },
+  "9": {
+   "file": "l-392-1978.md",
+   "rubrica": "Oneri accessori",
+   "vigore_da": "1993-08-30",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "a1196de51d09"
+  },
+  "10": {
+   "file": "l-392-1978.md",
+   "rubrica": "Partecipazione del conduttore all'assemblea dei condomini",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "eb17e18a896d"
+  },
+  "11": {
+   "file": "l-392-1978.md",
+   "rubrica": "Deposito cauzionale",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "b3873fdfa918"
+  },
+  "12": {
+   "file": "l-392-1978.md",
+   "rubrica": "Equo canone degli immobili adibiti ad uso di abitazione",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "5a25251d53cf"
+  },
+  "13": {
+   "file": "l-392-1978.md",
+   "rubrica": "Superficie convenzionale",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "53750841f5dc"
+  },
+  "14": {
+   "file": "l-392-1978.md",
+   "rubrica": "Costo base",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "1ebb741ce3b3"
+  },
+  "15": {
+   "file": "l-392-1978.md",
+   "rubrica": "Coefficienti correttivi del costo base",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "7b6bc884f0fb"
+  },
+  "16": {
+   "file": "l-392-1978.md",
+   "rubrica": "Tipologia",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "c5f0ad406812"
+  },
+  "17": {
+   "file": "l-392-1978.md",
+   "rubrica": "Classe demografica dei comuni",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "999b568c2876"
+  },
+  "18": {
+   "file": "l-392-1978.md",
+   "rubrica": "Ubicazione",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "051a693231cb"
+  },
+  "19": {
+   "file": "l-392-1978.md",
+   "rubrica": "Livello di piano",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "de207bd5b035"
+  },
+  "20": {
+   "file": "l-392-1978.md",
+   "rubrica": "Vetusta",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "47801b8a04c1"
+  },
+  "21": {
+   "file": "l-392-1978.md",
+   "rubrica": "Stato di conservazione e manutenzione",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "8e58b258bc1b"
+  },
+  "22": {
+   "file": "l-392-1978.md",
+   "rubrica": "Immobili ultimati dopo il 31 dicembre 1975",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "499d7b5cbc20"
+  },
+  "23": {
+   "file": "l-392-1978.md",
+   "rubrica": "Riparazioni straordinarie",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "b7e1720daa13"
+  },
+  "24": {
+   "file": "l-392-1978.md",
+   "rubrica": "Aggiornamento del canone",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "d47174fcb02e"
+  },
+  "25": {
+   "file": "l-392-1978.md",
+   "rubrica": "Adeguamento del canone",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "2ca41d29b1b9"
+  },
+  "26": {
+   "file": "l-392-1978.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "bf1164efe11e"
+  },
+  "27": {
+   "file": "l-392-1978.md",
+   "rubrica": "Durata della locazione",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "149d1c8d0b83"
+  },
+  "28": {
+   "file": "l-392-1978.md",
+   "rubrica": "Rinnovazione del contratto",
+   "vigore_da": "2007-02-15",
+   "datazione": "api",
+   "h": "6e3492cd35c0"
+  },
+  "29": {
+   "file": "l-392-1978.md",
+   "rubrica": "Diniego di rinnovazione del contratto alla prima scadenza",
+   "vigore_da": "1998-10-15",
+   "datazione": "api",
+   "h": "8d93b77f1d09"
+  },
+  "30": {
+   "file": "l-392-1978.md",
+   "rubrica": "Procedura per il rilascio",
+   "vigore_da": "1994-12-10",
+   "datazione": "api",
+   "h": "ed153bf7a3e5"
+  },
+  "31": {
+   "file": "l-392-1978.md",
+   "rubrica": "Sanzioni",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "d56938ac5711"
+  },
+  "32": {
+   "file": "l-392-1978.md",
+   "rubrica": "Aggiornamento del canone",
+   "vigore_da": "2009-03-01",
+   "datazione": "api",
+   "h": "9d19ff7789fc"
+  },
+  "33": {
+   "file": "l-392-1978.md",
+   "rubrica": "Canone delle locazioni stagionali",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "a0e2faeb11fb"
+  },
+  "34": {
+   "file": "l-392-1978.md",
+   "rubrica": "Indennita' per la perdita dell'avviamento",
+   "vigore_da": "1989-12-21",
+   "datazione": "api",
+   "h": "52bbd117c8ed"
+  },
+  "35": {
+   "file": "l-392-1978.md",
+   "rubrica": "Limiti",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "59a863bfb6a8"
+  },
+  "36": {
+   "file": "l-392-1978.md",
+   "rubrica": "Sublocazione e cessione del contratto di locazione",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "cc31f7837b0d"
+  },
+  "37": {
+   "file": "l-392-1978.md",
+   "rubrica": "Successione nel contratto",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "a78dca61b808"
+  },
+  "38": {
+   "file": "l-392-1978.md",
+   "rubrica": "Diritto di prelazione",
+   "vigore_da": "1992-01-21",
+   "datazione": "api",
+   "h": "ee610d4c7ab3"
+  },
+  "39": {
+   "file": "l-392-1978.md",
+   "rubrica": "Diritto di riscatto",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "3a0f327c3d57"
+  },
+  "40": {
+   "file": "l-392-1978.md",
+   "rubrica": "Diritto di prelazione in caso di nuova locazione",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "31bb1318cecf"
+  },
+  "41": {
+   "file": "l-392-1978.md",
+   "rubrica": "Norme applicabili",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "b9d9924ecfb0"
+  },
+  "42": {
+   "file": "l-392-1978.md",
+   "rubrica": "Destinazione degli immobili a particolari attivita'",
+   "vigore_da": "1982-03-27",
+   "datazione": "api",
+   "h": "bd71d314913d"
+  },
+  "43": {
+   "file": "l-392-1978.md",
+   "rubrica": "",
+   "vigore_da": "1994-12-10",
+   "datazione": "api",
+   "h": "1cad3d2605c7"
+  },
+  "44": {
+   "file": "l-392-1978.md",
+   "rubrica": "",
+   "vigore_da": "1994-12-10",
+   "datazione": "api",
+   "h": "1cad3d2605c7"
+  },
+  "45": {
+   "file": "l-392-1978.md",
+   "rubrica": "Ricorso al giudice",
+   "vigore_da": "1994-12-10",
+   "datazione": "api",
+   "h": "79b317df9bc2"
+  },
+  "46": {
+   "file": "l-392-1978.md",
+   "rubrica": "",
+   "vigore_da": "1994-12-10",
+   "datazione": "api",
+   "h": "1cad3d2605c7"
+  },
+  "47": {
+   "file": "l-392-1978.md",
+   "rubrica": "",
+   "vigore_da": "1994-12-10",
+   "datazione": "api",
+   "h": "35a1b4cdce66"
+  },
+  "48": {
+   "file": "l-392-1978.md",
+   "rubrica": "",
+   "vigore_da": "1994-12-10",
+   "datazione": "api",
+   "h": "1cad3d2605c7"
+  },
+  "49": {
+   "file": "l-392-1978.md",
+   "rubrica": "",
+   "vigore_da": "1994-12-10",
+   "datazione": "api",
+   "h": "1cad3d2605c7"
+  },
+  "50": {
+   "file": "l-392-1978.md",
+   "rubrica": "",
+   "vigore_da": "1994-12-10",
+   "datazione": "api",
+   "h": "1cad3d2605c7"
+  },
+  "51": {
+   "file": "l-392-1978.md",
+   "rubrica": "",
+   "vigore_da": "1994-12-10",
+   "datazione": "api",
+   "h": "459ada860a77"
+  },
+  "52": {
+   "file": "l-392-1978.md",
+   "rubrica": "",
+   "vigore_da": "1994-12-10",
+   "datazione": "api",
+   "h": "1cad3d2605c7"
+  },
+  "53": {
+   "file": "l-392-1978.md",
+   "rubrica": "",
+   "vigore_da": "1994-12-10",
+   "datazione": "api",
+   "h": "1cad3d2605c7"
+  },
+  "54": {
+   "file": "l-392-1978.md",
+   "rubrica": "Clausola compromissoria",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "3ca526b163b4"
+  },
+  "55": {
+   "file": "l-392-1978.md",
+   "rubrica": "Termine per il pagamento dei canoni scaduti",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "2881ed9eaff1"
+  },
+  "56": {
+   "file": "l-392-1978.md",
+   "rubrica": "Modalita' per il rilascio",
+   "vigore_da": "2004-11-13",
+   "datazione": "api",
+   "h": "c079cce78d2b"
+  },
+  "57": {
+   "file": "l-392-1978.md",
+   "rubrica": "",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "6276e8aa7c69"
+  },
+  "58": {
+   "file": "l-392-1978.md",
+   "rubrica": "Durata dei contratti in corso soggetti a proroga",
+   "vigore_da": "1983-08-04",
+   "datazione": "api",
+   "h": "aef1ade12016"
+  },
+  "59": {
+   "file": "l-392-1978.md",
+   "rubrica": "Recesso del locatore",
+   "vigore_da": "1983-08-04",
+   "datazione": "api",
+   "h": "9464194f6636"
+  },
+  "60": {
+   "file": "l-392-1978.md",
+   "rubrica": "Ripristino del rapporto e risarcimento del danno",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "3b993e973455"
+  },
+  "61": {
+   "file": "l-392-1978.md",
+   "rubrica": "Acquirente dell'immobile locato",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "4d69615e03e6"
+  },
+  "62": {
+   "file": "l-392-1978.md",
+   "rubrica": "Canone dei contratti soggetti a proroga",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "f00d7e34dff8"
+  },
+  "63": {
+   "file": "l-392-1978.md",
+   "rubrica": "Aggiornamento del canone dei contratti in corso soggetti a proroga",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "555cb1a000dd"
+  },
+  "64": {
+   "file": "l-392-1978.md",
+   "rubrica": "Particolari contratti soggetti a proroga",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "c12d81e4792b"
+  },
+  "65": {
+   "file": "l-392-1978.md",
+   "rubrica": "Contratti in corso non soggetti a proroga",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "81c19249418b"
+  },
+  "66": {
+   "file": "l-392-1978.md",
+   "rubrica": "Oneri accessori conglobati nel canone",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "6d05ca2be4fd"
+  },
+  "67": {
+   "file": "l-392-1978.md",
+   "rubrica": "Contratti in corso soggetti a proroga",
+   "vigore_da": "1985-04-10",
+   "datazione": "api",
+   "h": "1eeb597de36d"
+  },
+  "68": {
+   "file": "l-392-1978.md",
+   "rubrica": "Aumenti del canone",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "6f2d53deaadd"
+  },
+  "69": {
+   "file": "l-392-1978.md",
+   "rubrica": "Diritto di prelazione in caso di nuova locazione e indennita' per l'avviamento commerciale",
+   "vigore_da": "1992-06-05",
+   "datazione": "api",
+   "h": "7fc26fb169ad"
+  },
+  "70": {
+   "file": "l-392-1978.md",
+   "rubrica": "Immobili destinati a particolari attivita' soggetti a proroga",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "edfedff98e86"
+  },
+  "71": {
+   "file": "l-392-1978.md",
+   "rubrica": "Contratti in corso non soggetti a proroga",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "58e7f962ddb1"
+  },
+  "72": {
+   "file": "l-392-1978.md",
+   "rubrica": "Mutamento della destinazione",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "27ed2e3a2cd8"
+  },
+  "73": {
+   "file": "l-392-1978.md",
+   "rubrica": "Norme applicabili",
+   "vigore_da": "1987-12-24",
+   "datazione": "api",
+   "h": "232ac5a6a664"
+  },
+  "74": {
+   "file": "l-392-1978.md",
+   "rubrica": "Rinvio",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "3a8e13a433ce"
+  },
+  "75": {
+   "file": "l-392-1978.md",
+   "rubrica": "Istituzione del fondo sociale",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "60a70ecadfa1"
+  },
+  "76": {
+   "file": "l-392-1978.md",
+   "rubrica": "Ripartizione del fondo",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "e748ea30b155"
+  },
+  "77": {
+   "file": "l-392-1978.md",
+   "rubrica": "Integrazione del canone",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "53345955a7e2"
+  },
+  "78": {
+   "file": "l-392-1978.md",
+   "rubrica": "Copertura finanziaria",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "a1375a5a3736"
+  },
+  "79": {
+   "file": "l-392-1978.md",
+   "rubrica": "Patti contrari alla legge",
+   "vigore_da": "2014-11-12",
+   "datazione": "api",
+   "h": "ce6b9e833523"
+  },
+  "80": {
+   "file": "l-392-1978.md",
+   "rubrica": "Uso diverso da quello pattuito",
+   "vigore_da": "1988-02-25",
+   "datazione": "api",
+   "h": "4bf28ee2eb78"
+  },
+  "81": {
+   "file": "l-392-1978.md",
+   "rubrica": "Pubblicazione dei dati ISTAT nella Gazzetta Ufficiale",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "4b54bb0909db"
+  },
+  "82": {
+   "file": "l-392-1978.md",
+   "rubrica": "Giudizi in corso",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "051e73a795ed"
+  },
+  "83": {
+   "file": "l-392-1978.md",
+   "rubrica": "",
+   "vigore_da": "1998-12-30",
+   "datazione": "api",
+   "h": "ca989f152d3f"
+  },
+  "84": {
+   "file": "l-392-1978.md",
+   "rubrica": "Abrogazione",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "9e1393d55ca5"
+  },
+  "85": {
+   "file": "l-392-1978.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "1978-07-30",
+   "datazione": "api",
+   "h": "35a55cf8e5ab"
+  }
+ }
+}

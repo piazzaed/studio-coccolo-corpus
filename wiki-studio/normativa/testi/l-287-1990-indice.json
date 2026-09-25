@@ -1,0 +1,527 @@
+{
+ "_meta": {
+  "codice": "l-287-1990",
+  "nome": "Tutela della concorrenza e del mercato (L. 287/1990)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2024-08-10",
+  "articoli": 53,
+  "file": [
+   "l-287-1990.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1990-10-10;287",
+  "versioni": [
+   {
+    "data": "1990-10-13",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1992-12-17",
+    "evento": "rp1",
+    "atto_modificante": "D.Lgs. 14 dicembre 1992, n. 481"
+   },
+   {
+    "data": "1992-12-19",
+    "evento": "rp2",
+    "atto_modificante": "D.L. 19 dicembre 1992, n. 487"
+   },
+   {
+    "data": "1993-09-30",
+    "evento": "rp3",
+    "atto_modificante": "D.Lgs. 1 settembre 1993, n. 385"
+   },
+   {
+    "data": "1997-07-31",
+    "evento": "rp4",
+    "atto_modificante": "L. 31 luglio 1997, n. 249"
+   },
+   {
+    "data": "2001-03-20",
+    "evento": "rp5",
+    "atto_modificante": "L. 5 marzo 2001, n. 57"
+   },
+   {
+    "data": "2004-08-18",
+    "evento": "rp6",
+    "atto_modificante": "L. 20 luglio 2004, n. 215"
+   },
+   {
+    "data": "2005-12-28",
+    "evento": "rp7",
+    "atto_modificante": "L. 28 dicembre 2005, n. 262"
+   },
+   {
+    "data": "2005-12-29",
+    "evento": "rp8",
+    "atto_modificante": "L. 23 dicembre 2005, n. 266"
+   },
+   {
+    "data": "2006-03-06",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 6 marzo 2006, n. 68"
+   },
+   {
+    "data": "2006-07-04",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 4 luglio 2006, n. 223"
+   },
+   {
+    "data": "2007-01-10",
+    "evento": "rp11",
+    "atto_modificante": "D.Lgs. 29 dicembre 2006, n. 303"
+   },
+   {
+    "data": "2007-09-06",
+    "evento": "rp12",
+    "atto_modificante": "D.Lgs. 2 agosto 2007, n. 145"
+   },
+   {
+    "data": "2009-07-31",
+    "evento": "rp13",
+    "atto_modificante": "L. 23 luglio 2009, n. 99"
+   },
+   {
+    "data": "2010-02-23",
+    "evento": "rp14",
+    "atto_modificante": "D.Lgs. 27 gennaio 2010, n. 21"
+   },
+   {
+    "data": "2010-07-07",
+    "evento": "rp15",
+    "atto_modificante": "D.Lgs. 2 luglio 2010, n. 104"
+   },
+   {
+    "data": "2011-12-06",
+    "evento": "rp16",
+    "atto_modificante": "D.L. 6 dicembre 2011, n. 201"
+   },
+   {
+    "data": "2012-01-24",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 24 gennaio 2012, n. 1"
+   },
+   {
+    "data": "2016-12-30",
+    "evento": "rp18",
+    "atto_modificante": "D.L. 30 dicembre 2016, n. 244"
+   },
+   {
+    "data": "2017-01-19",
+    "evento": "rp19",
+    "atto_modificante": "D.Lgs. 19 gennaio 2017, n. 3"
+   },
+   {
+    "data": "2017-08-14",
+    "evento": "rp20",
+    "atto_modificante": "L. 4 agosto 2017, n. 124"
+   },
+   {
+    "data": "2021-11-29",
+    "evento": "rp21",
+    "atto_modificante": "D.Lgs. 8 novembre 2021, n. 185"
+   },
+   {
+    "data": "2022-08-12",
+    "evento": "rp22",
+    "atto_modificante": "L. 5 agosto 2022, n. 118"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp23",
+    "atto_modificante": "L. 30 dicembre 2023, n. 214"
+   },
+   {
+    "data": "2024-08-09",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 9 agosto 2024, n. 113"
+   }
+  ],
+  "ultima_versione": "2024-08-09",
+  "datazione": {
+   "monoblocco": 53,
+   "api": 48,
+   "riportati": 5,
+   "ignota": 0,
+   "stima_anteriore": 19,
+   "stima_posteriore": 1,
+   "chiamate": 48,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-287-1990.md",
+   "rubrica": "Ambito di applicazione e rapporti con l'ordinamento comunitario",
+   "vigore_da": "2017-02-03",
+   "datazione": "api",
+   "h": "18ad94cf5762"
+  },
+  "2": {
+   "file": "l-287-1990.md",
+   "rubrica": "Intese restrittive della liberta' di concorrenza",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "dcf065a80a89"
+  },
+  "3": {
+   "file": "l-287-1990.md",
+   "rubrica": "Abuso di posizione dominante",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "5d89d13d0de6"
+  },
+  "4": {
+   "file": "l-287-1990.md",
+   "rubrica": "Deroghe al divieto di intese restrittive della liberta' di concorrenza",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "38a28703b641"
+  },
+  "5": {
+   "file": "l-287-1990.md",
+   "rubrica": "Operazioni di concentrazione",
+   "vigore_da": "2022-08-27",
+   "datazione": "api",
+   "h": "328bb8cbbc4f"
+  },
+  "6": {
+   "file": "l-287-1990.md",
+   "rubrica": "Divieto delle operazioni di concentrazione restrittive della liberta' di concorrenza",
+   "vigore_da": "2022-08-27",
+   "datazione": "api",
+   "h": "8624e5b9c3d7"
+  },
+  "7": {
+   "file": "l-287-1990.md",
+   "rubrica": "Controllo",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "83dfed2578a4"
+  },
+  "8": {
+   "file": "l-287-1990.md",
+   "rubrica": "Imprese pubbliche e in monopolio legale",
+   "vigore_da": "2024-08-10",
+   "datazione": "api",
+   "h": "d5b56e6e5ff5"
+  },
+  "9": {
+   "file": "l-287-1990.md",
+   "rubrica": "Autoproduzione",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "d106a7ff11d4"
+  },
+  "10": {
+   "file": "l-287-1990.md",
+   "rubrica": "Autorita' garante della concorrenza e del mercato",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "c828270add58"
+  },
+  "11": {
+   "file": "l-287-1990.md",
+   "rubrica": "Personale della Autorita'",
+   "vigore_da": "2017-03-01",
+   "datazione": "api",
+   "h": "7541ca4a19ba"
+  },
+  "12": {
+   "file": "l-287-1990.md",
+   "rubrica": "Poteri di indagine",
+   "vigore_da": "2022-08-27",
+   "datazione": "api",
+   "h": "e4527b4ccf97"
+  },
+  "13": {
+   "file": "l-287-1990.md",
+   "rubrica": "Comunicazione delle intese",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "cd08d3b1c09c"
+  },
+  "14": {
+   "file": "l-287-1990.md",
+   "rubrica": "Istruttoria",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "2c0f3ce4c26f"
+  },
+  "14-bis": {
+   "file": "l-287-1990.md",
+   "rubrica": "Misure cautelari",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "bc261022c699"
+  },
+  "14-ter": {
+   "file": "l-287-1990.md",
+   "rubrica": "Impegni",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "67f7b5860ed1"
+  },
+  "14-quater": {
+   "file": "l-287-1990.md",
+   "rubrica": "Procedura di transazione",
+   "vigore_da": "2022-08-27",
+   "datazione": "api",
+   "h": "840e44d2eb82"
+  },
+  "15": {
+   "file": "l-287-1990.md",
+   "rubrica": "Diffide e sanzioni",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "60268a0c34c9"
+  },
+  "15-bis": {
+   "file": "l-287-1990.md",
+   "rubrica": "Non applicazione delle sanzioni",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "c2be00b65670"
+  },
+  "15-ter": {
+   "file": "l-287-1990.md",
+   "rubrica": "Riduzione delle sanzioni",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "eedb5ac06b38"
+  },
+  "15-quater": {
+   "file": "l-287-1990.md",
+   "rubrica": "Condizioni generali per l'applicazione del trattamento favorevole",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "6517cdd8c9f3"
+  },
+  "15-quinquies": {
+   "file": "l-287-1990.md",
+   "rubrica": "Forma delle dichiarazioni legate a un programma di trattamento favorevole",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "7292598c33b5"
+  },
+  "15-sexies": {
+   "file": "l-287-1990.md",
+   "rubrica": "Numero d'ordine per le domande di non applicazione delle sanzioni",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "14806c378302"
+  },
+  "15-septies": {
+   "file": "l-287-1990.md",
+   "rubrica": "Domande semplificate",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "9599b7498b60"
+  },
+  "15-octies": {
+   "file": "l-287-1990.md",
+   "rubrica": "Cooperazione investigativa",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "2bab9c24797b"
+  },
+  "15-novies": {
+   "file": "l-287-1990.md",
+   "rubrica": "Richieste di notifica",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "36d3e5e1ede5"
+  },
+  "15-decies": {
+   "file": "l-287-1990.md",
+   "rubrica": "Richieste di esecuzione delle decisioni che impongono sanzioni o penalita' di mora",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "b70057f5d031"
+  },
+  "15-undecies": {
+   "file": "l-287-1990.md",
+   "rubrica": "Procedura di cooperazione",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "7a27ea5239f8"
+  },
+  "15-duodecies": {
+   "file": "l-287-1990.md",
+   "rubrica": "Competenza e legislazione applicabile",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "d474e9961237"
+  },
+  "16": {
+   "file": "l-287-1990.md",
+   "rubrica": "Comunicazione delle concentrazioni",
+   "vigore_da": "2023-12-31",
+   "datazione": "api",
+   "h": "67d728cfe349"
+  },
+  "16-bis": {
+   "file": "l-287-1990.md",
+   "rubrica": "Richieste di informazioni in materia di concentrazioni tra imprese",
+   "vigore_da": "2022-08-27",
+   "datazione": "api",
+   "h": "19b287c8125c"
+  },
+  "17": {
+   "file": "l-287-1990.md",
+   "rubrica": "Sospensione temporanea dell'operazione di concentrazione",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "7d07c397ee06"
+  },
+  "18": {
+   "file": "l-287-1990.md",
+   "rubrica": "Conclusione dell'istruttoria sulle concentrazioni",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "dcb4aaa37902"
+  },
+  "19": {
+   "file": "l-287-1990.md",
+   "rubrica": "Sanzioni amministrative pecuniarie per inottemperanza al divieto di concentrazione o all'obbligo di notifica",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "5f505fad744a"
+  },
+  "20": {
+   "file": "l-287-1990.md",
+   "rubrica": "Aziende ed istituti di credito, imprese assicurative e dei settori della radiodiffusione e dell'editoria",
+   "vigore_da": "2010-03-10",
+   "datazione": "api",
+   "h": "4c89a0dabeec"
+  },
+  "21": {
+   "file": "l-287-1990.md",
+   "rubrica": "Potere di segnalazione al Parlamento ed al Governo",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "9e089a57db5f"
+  },
+  "21-bis": {
+   "file": "l-287-1990.md",
+   "rubrica": "Poteri dell'Autorita' Garante della concorrenza e del mercato sugli atti amministrativi che determinano distorsioni della concorrenza",
+   "vigore_da": "2011-12-28",
+   "datazione": "api",
+   "h": "3b200e0ccc7e"
+  },
+  "22": {
+   "file": "l-287-1990.md",
+   "rubrica": "Attivita' consultiva",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "54362de64d38"
+  },
+  "23": {
+   "file": "l-287-1990.md",
+   "rubrica": "Relazione annuale",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "8e93ab5fd800"
+  },
+  "24": {
+   "file": "l-287-1990.md",
+   "rubrica": "Relazione al Governo su alcuni settori",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "5c9f27ae2e82"
+  },
+  "25": {
+   "file": "l-287-1990.md",
+   "rubrica": "Poteri del Governo in materia di operazioni di concentrazione",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "16b52258afa0"
+  },
+  "26": {
+   "file": "l-287-1990.md",
+   "rubrica": "Pubblicita' delle decisioni",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "5e41c1cc60ce"
+  },
+  "27": {
+   "file": "l-287-1990.md",
+   "rubrica": "",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "43b509d102ed"
+  },
+  "28": {
+   "file": "l-287-1990.md",
+   "rubrica": "",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "43b509d102ed"
+  },
+  "29": {
+   "file": "l-287-1990.md",
+   "rubrica": "",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "43b509d102ed"
+  },
+  "30": {
+   "file": "l-287-1990.md",
+   "rubrica": "",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "43b509d102ed"
+  },
+  "31": {
+   "file": "l-287-1990.md",
+   "rubrica": "Sanzioni",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "f4d7c21b6e2d"
+  },
+  "31-bis": {
+   "file": "l-287-1990.md",
+   "rubrica": "Termini di prescrizione",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "8baca010048a"
+  },
+  "31-ter": {
+   "file": "l-287-1990.md",
+   "rubrica": "Accesso al fascicolo",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "e203278b58ce"
+  },
+  "31-quater": {
+   "file": "l-287-1990.md",
+   "rubrica": "Interazione tra le domande di non applicazione delle sanzioni e le sanzioni imposte alle persone fisiche",
+   "vigore_da": "2021-12-14",
+   "datazione": "api",
+   "h": "00c20ec774ef"
+  },
+  "32": {
+   "file": "l-287-1990.md",
+   "rubrica": "Copertura finanziaria",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "43d0b3499450"
+  },
+  "33": {
+   "file": "l-287-1990.md",
+   "rubrica": "Competenza giurisdizionale",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "75729ae65999"
+  },
+  "34": {
+   "file": "l-287-1990.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "1990-10-14",
+   "datazione": "api",
+   "h": "034563fbd78e"
+  }
+ }
+}

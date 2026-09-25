@@ -1,0 +1,410 @@
+{
+ "_meta": {
+  "codice": "dlgs-28-2010",
+  "nome": "Mediazione civile e commerciale (D.Lgs. 28/2010)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-01-01",
+  "articoli": 44,
+  "file": [
+   "dlgs-28-2010.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2010-03-04;28",
+  "versioni": [
+   {
+    "data": "2010-03-05",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2010-12-29",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 29 dicembre 2010, n. 225"
+   },
+   {
+    "data": "2011-08-13",
+    "evento": "rp2",
+    "atto_modificante": "D.L. 13 agosto 2011, n. 138"
+   },
+   {
+    "data": "2012-12-12",
+    "evento": "rp3",
+    "atto_modificante": "atto modificante non indicato (rp3)"
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2014-09-12",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 12 settembre 2014, n. 132"
+   },
+   {
+    "data": "2015-08-19",
+    "evento": "rp6",
+    "atto_modificante": "D.Lgs. 6 agosto 2015, n. 130"
+   },
+   {
+    "data": "2017-04-24",
+    "evento": "rp7",
+    "atto_modificante": "D.L. 24 aprile 2017, n. 50"
+   },
+   {
+    "data": "2018-06-16",
+    "evento": "rp8",
+    "atto_modificante": "D.Lgs. 21 maggio 2018, n. 68"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp9",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp10",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2023-03-23",
+    "evento": "rp11",
+    "atto_modificante": "D.Lgs. 10 marzo 2023, n. 28"
+   },
+   {
+    "data": "2025-01-10",
+    "evento": "rp12",
+    "atto_modificante": "D.Lgs. 27 dicembre 2024, n. 216"
+   },
+   {
+    "data": "2025-08-12",
+    "evento": "rp13",
+    "atto_modificante": "D.Lgs. 1 agosto 2025, n. 123"
+   }
+  ],
+  "ultima_versione": "2025-08-12",
+  "datazione": {
+   "monoblocco": 44,
+   "api": 43,
+   "ignota": 1,
+   "falliti": 1,
+   "stima_anteriore": 27,
+   "chiamate": 44,
+   "errori_rete": 1,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "h": "cbd46ed8175c"
+  },
+  "2": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Controversie oggetto di mediazione",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "d100cfafb1ec"
+  },
+  "3": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Disciplina applicabile e forma degli atti",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "aa84481fd329"
+  },
+  "4": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Accesso alla mediazione",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "d6a53e0b34f0"
+  },
+  "5": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Condizione di procedibilita' e rapporti con il processo",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "7bba76bb7267"
+  },
+  "5-bis": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Procedimento di opposizione a decreto ingiuntivo",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "a50e950d7d47"
+  },
+  "5-ter": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Legittimazione in mediazione dell'amministratore di condominio",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "77ab3b97035c"
+  },
+  "5-quater": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Mediazione demandata dal giudice",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "72cb082b137a"
+  },
+  "5-quinquies": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Formazione del magistrato, valutazione del contenzioso definito con mediazione demandata e collaborazione",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "ee9ba37468b4"
+  },
+  "5-sexies": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Mediazione su clausola contrattuale o statutaria",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "4881b7a3dce1"
+  },
+  "6": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Durata",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "9eb01cc19f94"
+  },
+  "7": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Effetti sulla ragionevole durata del processo",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "3ce9830c32d7"
+  },
+  "8": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Procedimento",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "133743514c85"
+  },
+  "8-bis": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Mediazione in modalita' telematica",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "2199af15d998"
+  },
+  "8-ter": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Incontri di mediazione con modalita' audiovisive da remoto",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "22ffdb5b4a2f"
+  },
+  "9": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Dovere di riservatezza",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "dea23aecfc90"
+  },
+  "10": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Inutilizzabilita' e segreto professionale",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "7b3d07c9980b"
+  },
+  "11": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Conclusione del procedimento",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "3b76f0d5608c"
+  },
+  "11-bis": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Accordo di conciliazione sottoscritto dalle amministrazioni pubbliche",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "796fd72166dc"
+  },
+  "12": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Efficacia esecutiva ed esecuzione",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "3c281b767f17"
+  },
+  "12-bis": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Conseguenze processuali della mancata partecipazione al procedimento di mediazione",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "9948e497f772"
+  },
+  "13": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Spese processuali in caso di rifiuto della proposta di conciliazione",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "1d8b55d90590"
+  },
+  "14": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Obblighi del mediatore",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "545b18be7fd2"
+  },
+  "15": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Mediazione nell'azione di classe",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "295f2c0bc2c7"
+  },
+  "15-bis": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Istituzione del patrocinio e ambito di applicabilita'",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "a407434524bc"
+  },
+  "15-ter": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Condizioni reddituali per l'ammissione",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "490d02048e8f"
+  },
+  "15-quater": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Istanza per l'ammissione anticipata",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "b0d3adfe2845"
+  },
+  "15-quinquies": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Organo competente a ricevere l'istanza per l'ammissione anticipata e nomina dell'avvocato",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "495b4e08b212"
+  },
+  "15-sexies": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Ricorso avverso il rigetto dell'istanza per l'ammissione anticipata",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "e524d64f5626"
+  },
+  "15-septies": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Effetti dell'ammissione anticipata e sua conferma",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "ddfbdf0dc535"
+  },
+  "15-octies": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Determinazione, liquidazione e pagamento dell'onorario e delle spese dell'avvocato",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "66360a8ac330"
+  },
+  "15-novies": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Revoca del provvedimento di ammissione e ricorso avverso il relativo decreto",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "1087f4519d2b"
+  },
+  "15-decies": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Sanzioni e controlli da parte della Guardia di finanza",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "05e933e1800b"
+  },
+  "15-undecies": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Disposizioni finanziarie",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "1d988833f3e3"
+  },
+  "16": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Organismi di mediazione e registro. Elenco dei formatori",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "c271f703bf00"
+  },
+  "16-bis": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Enti di formazione",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "276e4774d19b"
+  },
+  "17": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Risorse, regime tributario e indennita'",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "05fea606e211"
+  },
+  "18": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Organismi presso i tribunali",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "27a60a7dbf69"
+  },
+  "19": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Organismi presso i consigli degli ordini professionali e presso le camere di commercio",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "997c1b603dfb"
+  },
+  "20": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Credito d'imposta in favore delle parti e degli organismi di mediazione",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "542ce0f6fc00"
+  },
+  "21": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Informazioni al pubblico",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "52184e90cf43"
+  },
+  "22": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Obblighi di segnalazione per la prevenzione del sistema finanziario a scopo di riciclaggio e di finanziamento del terrorismo",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "3412e9c46449"
+  },
+  "23": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Abrogazioni",
+   "vigore_da": "2010-03-20",
+   "datazione": "api",
+   "h": "d5fd326049de"
+  },
+  "24": {
+   "file": "dlgs-28-2010.md",
+   "rubrica": "Disposizioni transitorie e finali",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "42bf5490ba43"
+  }
+ }
+}

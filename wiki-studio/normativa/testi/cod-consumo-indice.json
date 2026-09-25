@@ -1,0 +1,2035 @@
+{
+ "_meta": {
+  "codice": "cod-consumo",
+  "nome": "Codice del consumo (D.Lgs. 206/2005)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-06-19",
+  "articoli": 242,
+  "file": [
+   "cod-consumo.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2005-09-06;206",
+  "versioni": [
+   {
+    "data": "2005-10-08",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2005-12-30",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 30 dicembre 2005, n. 273"
+   },
+   {
+    "data": "2006-01-03",
+    "evento": "rp2",
+    "atto_modificante": "atto modificante non indicato (rp2)"
+   },
+   {
+    "data": "2006-01-31",
+    "evento": "rp3",
+    "atto_modificante": "Circ. Ministero Delle Attivita' Produttive 24 gennaio 2006, n. 1"
+   },
+   {
+    "data": "2006-04-14",
+    "evento": "rp4",
+    "atto_modificante": "D.Lgs. 15 marzo 2006, n. 151"
+   },
+   {
+    "data": "2007-02-17",
+    "evento": "rp5",
+    "atto_modificante": "L. 6 febbraio 2007, n. 13"
+   },
+   {
+    "data": "2007-09-06",
+    "evento": "rp6",
+    "atto_modificante": "D.Lgs. 2 agosto 2007, n. 146"
+   },
+   {
+    "data": "2007-11-29",
+    "evento": "rp7",
+    "atto_modificante": "D.Lgs. 23 ottobre 2007, n. 221"
+   },
+   {
+    "data": "2007-12-28",
+    "evento": "rp8",
+    "atto_modificante": "L. 24 dicembre 2007, n. 244"
+   },
+   {
+    "data": "2008-12-31",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 30 dicembre 2008, n. 207"
+   },
+   {
+    "data": "2009-06-19",
+    "evento": "rp10",
+    "atto_modificante": "L. 18 giugno 2009, n. 69"
+   },
+   {
+    "data": "2009-07-14",
+    "evento": "rp11",
+    "atto_modificante": "L. 7 luglio 2009, n. 88"
+   },
+   {
+    "data": "2009-07-31",
+    "evento": "rp12",
+    "atto_modificante": "L. 23 luglio 2009, n. 99"
+   },
+   {
+    "data": "2009-09-25",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 25 settembre 2009, n. 135"
+   },
+   {
+    "data": "2010-07-07",
+    "evento": "rp14",
+    "atto_modificante": "D.Lgs. 2 luglio 2010, n. 104"
+   },
+   {
+    "data": "2010-09-04",
+    "evento": "rp15",
+    "atto_modificante": "D.Lgs. 13 agosto 2010, n. 141"
+   },
+   {
+    "data": "2011-05-13",
+    "evento": "rp16",
+    "atto_modificante": "D.L. 13 maggio 2011, n. 70"
+   },
+   {
+    "data": "2011-06-06",
+    "evento": "rp17",
+    "atto_modificante": "D.Lgs. 23 maggio 2011, n. 79"
+   },
+   {
+    "data": "2011-11-23",
+    "evento": "rp18",
+    "atto_modificante": "D.Lgs. 15 novembre 2011, n. 195"
+   },
+   {
+    "data": "2011-12-06",
+    "evento": "rp19",
+    "atto_modificante": "D.L. 6 dicembre 2011, n. 201"
+   },
+   {
+    "data": "2012-01-02",
+    "evento": "rp20",
+    "atto_modificante": "L. 15 dicembre 2011, n. 217"
+   },
+   {
+    "data": "2012-01-24",
+    "evento": "rp21",
+    "atto_modificante": "D.L. 24 gennaio 2012, n. 1"
+   },
+   {
+    "data": "2012-07-06",
+    "evento": "rp22",
+    "atto_modificante": "D.L. 6 luglio 2012, n. 95"
+   },
+   {
+    "data": "2012-08-30",
+    "evento": "rp23",
+    "atto_modificante": "D.Lgs. 6 agosto 2012, n. 147"
+   },
+   {
+    "data": "2012-10-19",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 18 ottobre 2012, n. 179"
+   },
+   {
+    "data": "2014-03-11",
+    "evento": "rp25",
+    "atto_modificante": "D.Lgs. 21 febbraio 2014, n. 21"
+   },
+   {
+    "data": "2015-08-19",
+    "evento": "rp26",
+    "atto_modificante": "D.Lgs. 6 agosto 2015, n. 130"
+   },
+   {
+    "data": "2016-11-25",
+    "evento": "rp27",
+    "atto_modificante": "D.Lgs. 25 novembre 2016, n. 219"
+   },
+   {
+    "data": "2016-12-21",
+    "evento": "rp28",
+    "atto_modificante": "L. 11 dicembre 2016, n. 232"
+   },
+   {
+    "data": "2017-05-29",
+    "evento": "rp29",
+    "atto_modificante": "D.Lgs. 15 maggio 2017, n. 70"
+   },
+   {
+    "data": "2018-06-06",
+    "evento": "rp30",
+    "atto_modificante": "D.Lgs. 21 maggio 2018, n. 62"
+   },
+   {
+    "data": "2018-06-16",
+    "evento": "rp31",
+    "atto_modificante": "D.Lgs. 21 maggio 2018, n. 68"
+   },
+   {
+    "data": "2019-04-18",
+    "evento": "rp32",
+    "atto_modificante": "L. 12 aprile 2019, n. 31"
+   },
+   {
+    "data": "2019-05-11",
+    "evento": "rp33",
+    "atto_modificante": "L. 3 maggio 2019, n. 37"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp34",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp35",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp36",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp37",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   },
+   {
+    "data": "2020-07-18",
+    "evento": "rp38",
+    "atto_modificante": "L. 17 luglio 2020, n. 77"
+   },
+   {
+    "data": "2020-09-14",
+    "evento": "rp39",
+    "atto_modificante": "L. 11 settembre 2020, n. 120"
+   },
+   {
+    "data": "2020-10-28",
+    "evento": "rp40",
+    "atto_modificante": "D.L. 28 ottobre 2020, n. 137"
+   },
+   {
+    "data": "2020-11-09",
+    "evento": "rp41",
+    "atto_modificante": "D.L. 9 novembre 2020, n. 149"
+   },
+   {
+    "data": "2020-12-24",
+    "evento": "rp42",
+    "atto_modificante": "L. 18 dicembre 2020, n. 176"
+   },
+   {
+    "data": "2021-11-25",
+    "evento": "rp43",
+    "atto_modificante": "D.Lgs. 4 novembre 2021, n. 170"
+   },
+   {
+    "data": "2021-11-26",
+    "evento": "rp44",
+    "atto_modificante": "D.Lgs. 4 novembre 2021, n. 173"
+   },
+   {
+    "data": "2022-01-17",
+    "evento": "rp45",
+    "atto_modificante": "L. 23 dicembre 2021, n. 238"
+   },
+   {
+    "data": "2023-01-14",
+    "evento": "rp46",
+    "atto_modificante": "D.L. 14 gennaio 2023, n. 5"
+   },
+   {
+    "data": "2023-03-18",
+    "evento": "rp47",
+    "atto_modificante": "D.Lgs. 7 marzo 2023, n. 26"
+   },
+   {
+    "data": "2023-03-23",
+    "evento": "rp48",
+    "atto_modificante": "D.Lgs. 10 marzo 2023, n. 28"
+   },
+   {
+    "data": "2023-08-10",
+    "evento": "rp49",
+    "atto_modificante": "D.L. 10 agosto 2023, n. 104"
+   },
+   {
+    "data": "2023-10-09",
+    "evento": "rp50",
+    "atto_modificante": "L. 9 ottobre 2023, n. 136"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp51",
+    "atto_modificante": "L. 30 dicembre 2023, n. 214"
+   },
+   {
+    "data": "2024-12-17",
+    "evento": "rp52",
+    "atto_modificante": "L. 16 dicembre 2024, n. 193"
+   },
+   {
+    "data": "2024-12-27",
+    "evento": "rp53",
+    "atto_modificante": "D.L. 27 dicembre 2024, n. 202"
+   },
+   {
+    "data": "2025-02-24",
+    "evento": "rp54",
+    "atto_modificante": "L. 21 febbraio 2025, n. 15"
+   },
+   {
+    "data": "2025-12-03",
+    "evento": "rp55",
+    "atto_modificante": "L. 2 dicembre 2025, n. 182"
+   },
+   {
+    "data": "2026-01-08",
+    "evento": "rp56",
+    "atto_modificante": "D.Lgs. 31 dicembre 2025, n. 209"
+   },
+   {
+    "data": "2026-01-09",
+    "evento": "rp57",
+    "atto_modificante": "D.Lgs. 31 dicembre 2025, n. 212"
+   },
+   {
+    "data": "2026-02-20",
+    "evento": "rp58",
+    "atto_modificante": "D.L. 20 febbraio 2026, n. 21"
+   },
+   {
+    "data": "2026-03-09",
+    "evento": "rp59",
+    "atto_modificante": "D.Lgs. 20 febbraio 2026, n. 30"
+   },
+   {
+    "data": "2026-04-18",
+    "evento": "rp60",
+    "atto_modificante": "L. 10 aprile 2026, n. 49"
+   },
+   {
+    "data": "2026-05-15",
+    "evento": "rp61",
+    "atto_modificante": "D.Lgs. 8 aprile 2026, n. 78"
+   }
+  ],
+  "ultima_versione": "2026-05-15",
+  "datazione": {
+   "monoblocco": 242,
+   "api": 168,
+   "riportati": 72,
+   "ignota": 2,
+   "testo_diverso": 2,
+   "stima_anteriore": 107,
+   "chiamate": 170,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "cod-consumo.md",
+   "rubrica": "Finalita' ed oggetto",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "fe0448dfad26"
+  },
+  "2": {
+   "file": "cod-consumo.md",
+   "rubrica": "Diritti dei consumatori",
+   "vigore_da": "2007-12-14",
+   "datazione": "api",
+   "h": "f6da94d9b02a"
+  },
+  "3": {
+   "file": "cod-consumo.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "290647002583"
+  },
+  "4": {
+   "file": "cod-consumo.md",
+   "rubrica": "Educazione del consumatore",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "3d83685ecdbd"
+  },
+  "5": {
+   "file": "cod-consumo.md",
+   "rubrica": "Obblighi generali",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "d6289bfec977"
+  },
+  "6": {
+   "file": "cod-consumo.md",
+   "rubrica": "Contenuto minimo delle informazioni",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "49b1da4f1be1"
+  },
+  "7": {
+   "file": "cod-consumo.md",
+   "rubrica": "Modalita' di indicazione",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "h": "b66df348da48"
+  },
+  "8": {
+   "file": "cod-consumo.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "153d7ca5c99a"
+  },
+  "9": {
+   "file": "cod-consumo.md",
+   "rubrica": "Indicazioni in lingua italiana",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "afd76c7b9254"
+  },
+  "10": {
+   "file": "cod-consumo.md",
+   "rubrica": "Attuazione",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "c9ced9f1c133"
+  },
+  "11": {
+   "file": "cod-consumo.md",
+   "rubrica": "Divieti di commercializzazione",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "30f3443b1e10"
+  },
+  "12": {
+   "file": "cod-consumo.md",
+   "rubrica": "Sanzioni",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "e37e34ad85ae"
+  },
+  "13": {
+   "file": "cod-consumo.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "929a4a6f7783"
+  },
+  "14": {
+   "file": "cod-consumo.md",
+   "rubrica": "Campo di applicazione",
+   "vigore_da": "2006-01-03",
+   "datazione": "api",
+   "h": "8c91838042ba"
+  },
+  "15": {
+   "file": "cod-consumo.md",
+   "rubrica": "Modalita' di indicazione del prezzo per unita' di misura",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "fa4d1eea6cae"
+  },
+  "15-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Disposizioni in materia di riporzionamento dei prodotti preconfezionati",
+   "vigore_da": "2025-12-18",
+   "datazione": "api",
+   "h": "09c24695b325"
+  },
+  "16": {
+   "file": "cod-consumo.md",
+   "rubrica": "Esenzioni",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "c83738b60107"
+  },
+  "17": {
+   "file": "cod-consumo.md",
+   "rubrica": "Sanzioni",
+   "vigore_da": "2023-01-15",
+   "datazione": "api",
+   "h": "c691ac04e6af"
+  },
+  "17-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Annunci di riduzione di prezzo",
+   "vigore_da": "2023-04-02",
+   "datazione": "api",
+   "h": "b76066f3cb97"
+  },
+  "18": {
+   "file": "cod-consumo.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2026-03-24",
+   "datazione": "api",
+   "h": "23e3f5b3877b"
+  },
+  "19": {
+   "file": "cod-consumo.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "b815cae88af3"
+  },
+  "20": {
+   "file": "cod-consumo.md",
+   "rubrica": "Divieto delle pratiche commerciali scorrette",
+   "vigore_da": "2007-09-21",
+   "datazione": "api",
+   "h": "cb2c7bcd5094"
+  },
+  "21": {
+   "file": "cod-consumo.md",
+   "rubrica": "Azioni ingannevoli",
+   "vigore_da": "2026-03-24",
+   "datazione": "api",
+   "h": "65cc5d44361f"
+  },
+  "22": {
+   "file": "cod-consumo.md",
+   "rubrica": "Omissioni ingannevoli",
+   "vigore_da": "2026-03-24",
+   "datazione": "api",
+   "h": "4a071b4960cf"
+  },
+  "22-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Pubblicita' ingannevole delle tariffe marittime",
+   "vigore_da": "2009-08-15",
+   "datazione": "api",
+   "h": "4a143459bdcf"
+  },
+  "23": {
+   "file": "cod-consumo.md",
+   "rubrica": "Pratiche commerciali considerate in ogni caso ingannevoli",
+   "vigore_da": "2026-03-24",
+   "datazione": "api",
+   "h": "0c91e89e7b18"
+  },
+  "24": {
+   "file": "cod-consumo.md",
+   "rubrica": "Pratiche commerciali aggressive",
+   "vigore_da": "2007-09-21",
+   "datazione": "api",
+   "h": "fa831b6e318a"
+  },
+  "25": {
+   "file": "cod-consumo.md",
+   "rubrica": "Ricorso a molestie coercizione o indebito condizionamento",
+   "vigore_da": "2007-09-21",
+   "datazione": "api",
+   "h": "ef9fa8f558d2"
+  },
+  "26": {
+   "file": "cod-consumo.md",
+   "rubrica": "Pratiche commerciali considerate in ogni caso aggressive",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "e6baa977517b"
+  },
+  "27": {
+   "file": "cod-consumo.md",
+   "rubrica": "Tutela amministrativa e giurisdizionale",
+   "vigore_da": "2023-04-02",
+   "datazione": "api",
+   "h": "30bb20aa4fa5"
+  },
+  "27-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Codici di condotta",
+   "vigore_da": "2007-09-21",
+   "datazione": "api",
+   "h": "b8a2ac62b837"
+  },
+  "27-ter": {
+   "file": "cod-consumo.md",
+   "rubrica": "Autodisciplina",
+   "vigore_da": "2007-09-21",
+   "datazione": "api",
+   "h": "34307afbfcda"
+  },
+  "27-quater": {
+   "file": "cod-consumo.md",
+   "rubrica": "Oneri di informazione",
+   "vigore_da": "2007-09-21",
+   "datazione": "api",
+   "h": "88d571c087de"
+  },
+  "28": {
+   "file": "cod-consumo.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2007-09-21",
+   "datazione": "api",
+   "h": "0d3788f5979a"
+  },
+  "29": {
+   "file": "cod-consumo.md",
+   "rubrica": "Prescrizioni",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "822af97e32be"
+  },
+  "30": {
+   "file": "cod-consumo.md",
+   "rubrica": "Divieti",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "4349ee20d5ec"
+  },
+  "31": {
+   "file": "cod-consumo.md",
+   "rubrica": "Tutela dei minori",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "a5cd81d6e539"
+  },
+  "32": {
+   "file": "cod-consumo.md",
+   "rubrica": "Sanzioni",
+   "vigore_da": "2006-01-03",
+   "datazione": "api",
+   "h": "b48bbcb2c7c3"
+  },
+  "33": {
+   "file": "cod-consumo.md",
+   "rubrica": "Clausole vessatorie nel contratto tra professionista e consumatore",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "6d15623acd69"
+  },
+  "34": {
+   "file": "cod-consumo.md",
+   "rubrica": "Accertamento della vessatorieta' delle clausole",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "d1f38a39b3ee"
+  },
+  "35": {
+   "file": "cod-consumo.md",
+   "rubrica": "Forma e interpretazione",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "b206945bb3db"
+  },
+  "36": {
+   "file": "cod-consumo.md",
+   "rubrica": "Nullita' di protezione",
+   "vigore_da": "2006-01-03",
+   "datazione": "api",
+   "h": "3579e10950f5"
+  },
+  "37": {
+   "file": "cod-consumo.md",
+   "rubrica": "Azione inibitoria",
+   "vigore_da": "2016-12-10",
+   "datazione": "api",
+   "h": "99f46fb83105"
+  },
+  "37-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Tutela amministrativa contro le clausole vessatorie",
+   "vigore_da": "2023-04-02",
+   "datazione": "api",
+   "h": "c7c2f4768fe9"
+  },
+  "38": {
+   "file": "cod-consumo.md",
+   "rubrica": "Rinvio",
+   "vigore_da": "2007-12-14",
+   "datazione": "api",
+   "h": "5ad116bc2255"
+  },
+  "39": {
+   "file": "cod-consumo.md",
+   "rubrica": "Regole nelle attivita' commerciali",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "552dd986977d"
+  },
+  "40": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2010-09-19",
+   "datazione": "api",
+   "h": "fbcb2c67f262"
+  },
+  "41": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2010-09-19",
+   "datazione": "api",
+   "h": "fbcb2c67f262"
+  },
+  "42": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2010-09-19",
+   "datazione": "api",
+   "h": "fbcb2c67f262"
+  },
+  "43": {
+   "file": "cod-consumo.md",
+   "rubrica": "Rinvio al testo unico bancario",
+   "vigore_da": "2010-09-19",
+   "datazione": "api",
+   "h": "66b3500ca258"
+  },
+  "44": {
+   "file": "cod-consumo.md",
+   "rubrica": "Contratti negoziati nei locali commerciali. Rinvio",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "a008f8788c36"
+  },
+  "45": {
+   "file": "cod-consumo.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2026-03-24",
+   "datazione": "api",
+   "h": "7229f858839f"
+  },
+  "46": {
+   "file": "cod-consumo.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2023-04-02",
+   "datazione": "api",
+   "h": "ac1ea7e6fe92"
+  },
+  "47": {
+   "file": "cod-consumo.md",
+   "rubrica": "Esclusioni",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "16a62780e96c"
+  },
+  "48": {
+   "file": "cod-consumo.md",
+   "rubrica": "Obblighi d'informazione nei contratti diversi dai contratti a distanza o negoziati fuori dei locali commerciali",
+   "vigore_da": "2026-03-24",
+   "datazione": "api",
+   "h": "741facc0b209"
+  },
+  "49": {
+   "file": "cod-consumo.md",
+   "rubrica": "Obblighi di informazione nei contratti a distanza e nei contratti negoziati fuori dei locali commerciali",
+   "vigore_da": "2026-03-24",
+   "datazione": "api",
+   "h": "5567989d6979"
+  },
+  "49-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Obblighi di informazione supplementari specifici per i contratti conclusi su mercati online",
+   "vigore_da": "2023-04-02",
+   "datazione": "api",
+   "h": "3392bf936db7"
+  },
+  "50": {
+   "file": "cod-consumo.md",
+   "rubrica": "Requisiti formali per i contratti negoziati fuori dei locali commerciali",
+   "vigore_da": "2023-04-02",
+   "datazione": "api",
+   "h": "2269e5f2ece7"
+  },
+  "51": {
+   "file": "cod-consumo.md",
+   "rubrica": "Requisiti formali per i contratti a distanza",
+   "vigore_da": "2026-04-19",
+   "datazione": "api",
+   "h": "d15b25429ff5"
+  },
+  "52": {
+   "file": "cod-consumo.md",
+   "rubrica": "Diritto di recesso",
+   "vigore_da": "2023-04-02",
+   "datazione": "api",
+   "h": "c9af2f35ddd9"
+  },
+  "53": {
+   "file": "cod-consumo.md",
+   "rubrica": "Non adempimento dell'obbligo d'informazione sul diritto di recesso",
+   "vigore_da": "2023-04-02",
+   "datazione": "api",
+   "h": "687ce62a745b"
+  },
+  "54": {
+   "file": "cod-consumo.md",
+   "rubrica": "Esercizio del diritto di recesso",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "9679552d6766"
+  },
+  "54-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Esercizio del diritto di recesso dai contratti a distanza conclusi mediante un'interfaccia online",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "36101c12533e"
+  },
+  "55": {
+   "file": "cod-consumo.md",
+   "rubrica": "Effetti del recesso",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "63d9867f63de"
+  },
+  "56": {
+   "file": "cod-consumo.md",
+   "rubrica": "Obblighi del professionista nel caso di recesso",
+   "vigore_da": "2023-04-02",
+   "datazione": "api",
+   "h": "e735e7c46762"
+  },
+  "57": {
+   "file": "cod-consumo.md",
+   "rubrica": "Obblighi del consumatore nel caso di recesso",
+   "vigore_da": "2023-04-02",
+   "datazione": "api",
+   "h": "e3efc708c276"
+  },
+  "58": {
+   "file": "cod-consumo.md",
+   "rubrica": "Effetti dell'esercizio del diritto di recesso sui contratti accessori",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "aee72346828e"
+  },
+  "59": {
+   "file": "cod-consumo.md",
+   "rubrica": "Eccezioni al diritto di recesso",
+   "vigore_da": "2023-04-02",
+   "datazione": "api",
+   "h": "2343d2d3756a"
+  },
+  "59-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Oggetto e ambito di applicazione",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "2d8698ddf824"
+  },
+  "59-ter": {
+   "file": "cod-consumo.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "e2ca270faaf7"
+  },
+  "59-quater": {
+   "file": "cod-consumo.md",
+   "rubrica": "Obblighi di informazione concernenti i contratti a distanza per i servizi finanziari ai consumatori",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "1ea0185b2c2e"
+  },
+  "59-quinquies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Comunicazioni mediante telefonia vocale",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "a6098fc9f237"
+  },
+  "59-sexies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Onere della prova",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "e44df717520b"
+  },
+  "59-septies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Altre disposizioni in materia di informazioni precontrattuali",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "2c776661fec6"
+  },
+  "59-octies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Diritto di recesso da contratti a distanza per servizi finanziari",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "03444383b23c"
+  },
+  "59-novies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Pagamento del servizio prestato prima del recesso",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "632d1952df01"
+  },
+  "59-decies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Chiarimenti adeguati",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "b49cefa0f9bc"
+  },
+  "59-undecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Protezione supplementare relativa alle interfacce online",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "fdb1ee4944cb"
+  },
+  "59-duodecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Esercizio dei poteri di vigilanza",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "2be3e78e4c8c"
+  },
+  "59-terdecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Sanzioni",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "878a261a1bba"
+  },
+  "60": {
+   "file": "cod-consumo.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "42d897e6ea6a"
+  },
+  "61": {
+   "file": "cod-consumo.md",
+   "rubrica": "Consegna",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "59b829928687"
+  },
+  "62": {
+   "file": "cod-consumo.md",
+   "rubrica": "Tariffe per l'utilizzo di mezzi di pagamento",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "08ec1f2a6def"
+  },
+  "63": {
+   "file": "cod-consumo.md",
+   "rubrica": "Passaggio del rischio",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "aa7217cd959d"
+  },
+  "64": {
+   "file": "cod-consumo.md",
+   "rubrica": "Comunicazione telefonica",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "acb97b90bcc1"
+  },
+  "65": {
+   "file": "cod-consumo.md",
+   "rubrica": "Pagamenti supplementari",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "233b107a6c4f"
+  },
+  "65-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Contratti di servizi a tacito rinnovo",
+   "vigore_da": "2023-12-31",
+   "datazione": "api",
+   "h": "aa7cb4215b5c"
+  },
+  "65-ter": {
+   "file": "cod-consumo.md",
+   "rubrica": "Avviso armonizzato ed etichetta armonizzata",
+   "vigore_da": "2026-03-24",
+   "datazione": "api",
+   "h": "225db589ef26"
+  },
+  "66": {
+   "file": "cod-consumo.md",
+   "rubrica": "Tutela amministrativa e giurisdizionale",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "9351d70881c5"
+  },
+  "66-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Foro competente",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "26fc897a9211"
+  },
+  "66-ter": {
+   "file": "cod-consumo.md",
+   "rubrica": "Carattere imperativo",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "ceaee962cb2b"
+  },
+  "66-quater": {
+   "file": "cod-consumo.md",
+   "rubrica": "Informazione e ricorso extragiudiziale",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "f167b819c4db"
+  },
+  "66-quinquies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Fornitura non richiesta",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "18bfd4fb0b38"
+  },
+  "67": {
+   "file": "cod-consumo.md",
+   "rubrica": "Tutela in base ad altre disposizioni",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "24faa6f5bee2"
+  },
+  "67-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-ter": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-quater": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-quinquies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-sexies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-septies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-octies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-novies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-decies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-undecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-duodecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-terdecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-quaterdecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-quinquiesdecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-sexiesdecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-septiesdecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-duodevicies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-undevicies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-vicies": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-viciessemel": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "67-viciesbis": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "166694e6de49"
+  },
+  "68": {
+   "file": "cod-consumo.md",
+   "rubrica": "Rinvio",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "1b3dad0ca2aa"
+  },
+  "69": {
+   "file": "cod-consumo.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "1ae5cc862b48"
+  },
+  "70": {
+   "file": "cod-consumo.md",
+   "rubrica": "Pubblicita'",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "6f0e13111db1"
+  },
+  "71": {
+   "file": "cod-consumo.md",
+   "rubrica": "Informazioni precontrattuali",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3f17406df243"
+  },
+  "72": {
+   "file": "cod-consumo.md",
+   "rubrica": "Requisiti del contratto",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "9bc7e3aa8040"
+  },
+  "72-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Obbligo di fideiussione per i contratti di multiproprieta'",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "99e75c70d126"
+  },
+  "73": {
+   "file": "cod-consumo.md",
+   "rubrica": "Diritto di recesso",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "4a1352b11aa3"
+  },
+  "74": {
+   "file": "cod-consumo.md",
+   "rubrica": "Modalita' di esercizio ed effetti del diritto di recesso",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "46fe96d01e6b"
+  },
+  "75": {
+   "file": "cod-consumo.md",
+   "rubrica": "Acconti",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "d78ba4fdf60d"
+  },
+  "76": {
+   "file": "cod-consumo.md",
+   "rubrica": "Disposizioni specifiche concernenti i contratti relativi a prodotti per le vacanze di lungo termine",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "2330e6eb0cdc"
+  },
+  "77": {
+   "file": "cod-consumo.md",
+   "rubrica": "Risoluzione dei contratti accessori",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "8de43da26d19"
+  },
+  "78": {
+   "file": "cod-consumo.md",
+   "rubrica": "Carattere imperativo delle disposizioni e applicazione in casi internazionali",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "7f99a739a55f"
+  },
+  "79": {
+   "file": "cod-consumo.md",
+   "rubrica": "Tutela amministrativa e giurisdizionale",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "43736c8720a6"
+  },
+  "80": {
+   "file": "cod-consumo.md",
+   "rubrica": "Informazioni per i consumatori e ricorso extragiudiziale",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "c7a7a9e58b5d"
+  },
+  "81": {
+   "file": "cod-consumo.md",
+   "rubrica": "Sanzioni",
+   "vigore_da": "2014-06-13",
+   "datazione": "api",
+   "h": "0500ffafbcb7"
+  },
+  "81-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Tutela in base ad altre disposizioni",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "128106d05010"
+  },
+  "82": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "83": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "84": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "85": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "86": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "87": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "88": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "89": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "90": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "91": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "92": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "93": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "94": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "95": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "96": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "97": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "98": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "99": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "100": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2011-06-21",
+   "datazione": "api",
+   "h": "3e1067402381"
+  },
+  "101": {
+   "file": "cod-consumo.md",
+   "rubrica": "Norma di rinvio",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "f08d7d2d67bd"
+  },
+  "102": {
+   "file": "cod-consumo.md",
+   "rubrica": "Finalita' e campo di applicazione",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "c869ba1cf6f5"
+  },
+  "103": {
+   "file": "cod-consumo.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "350bfc3e2c98"
+  },
+  "104": {
+   "file": "cod-consumo.md",
+   "rubrica": "Obblighi e informazione degli operatori economici",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "4335a2622713"
+  },
+  "105": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "cd27e505f7c7"
+  },
+  "106": {
+   "file": "cod-consumo.md",
+   "rubrica": "Ufficio unico di collegamento, autorita' di vigilanza del mercato e procedure di coordinamento",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "a69d5bd558e5"
+  },
+  "107": {
+   "file": "cod-consumo.md",
+   "rubrica": "Vigilanza del mercato",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "c837f3d6725a"
+  },
+  "108": {
+   "file": "cod-consumo.md",
+   "rubrica": "Disposizioni procedurali",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "645040c0f5be"
+  },
+  "109": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "21d26c31e648"
+  },
+  "110": {
+   "file": "cod-consumo.md",
+   "rubrica": "Sistema di allarme rapido \"Safety Gate\"",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "6733be90a411"
+  },
+  "110-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Portali \"Safety Business Gateway\" e \"Consumer Safety Gateway\"",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "91fa7a38eceb"
+  },
+  "111": {
+   "file": "cod-consumo.md",
+   "rubrica": "Responsabilita' del produttore",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "af97b074bac7"
+  },
+  "112": {
+   "file": "cod-consumo.md",
+   "rubrica": "Sanzioni",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "ea5d1d2f26f0"
+  },
+  "113": {
+   "file": "cod-consumo.md",
+   "rubrica": "Rinvio",
+   "vigore_da": "2026-05-16",
+   "datazione": "api",
+   "h": "4da5e44cd68f"
+  },
+  "114": {
+   "file": "cod-consumo.md",
+   "rubrica": "Responsabilita' del produttore",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "2eaf00b5f99c"
+  },
+  "115": {
+   "file": "cod-consumo.md",
+   "rubrica": "Prodotto e produttore",
+   "vigore_da": "2007-12-14",
+   "datazione": "api",
+   "h": "ddeb3bfbbb9e"
+  },
+  "116": {
+   "file": "cod-consumo.md",
+   "rubrica": "Responsabilita' del fornitore",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "a5c6d15d7add"
+  },
+  "117": {
+   "file": "cod-consumo.md",
+   "rubrica": "Prodotto difettoso",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "c0d4404d4e3b"
+  },
+  "118": {
+   "file": "cod-consumo.md",
+   "rubrica": "Esclusione della responsabilita'",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "7b56fb82283c"
+  },
+  "119": {
+   "file": "cod-consumo.md",
+   "rubrica": "Messa in circolazione del prodotto",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "fa7df029aa9d"
+  },
+  "120": {
+   "file": "cod-consumo.md",
+   "rubrica": "Prova",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "38470e2f7faa"
+  },
+  "121": {
+   "file": "cod-consumo.md",
+   "rubrica": "Pluralita' di responsabili",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "0b098c4af89a"
+  },
+  "122": {
+   "file": "cod-consumo.md",
+   "rubrica": "Colpa del danneggiato",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "a0600e94e9d0"
+  },
+  "123": {
+   "file": "cod-consumo.md",
+   "rubrica": "Danno risarcibile",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "755acc8dc857"
+  },
+  "124": {
+   "file": "cod-consumo.md",
+   "rubrica": "Clausole di esonero da responsabilita'",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "9b85a24b6a9e"
+  },
+  "125": {
+   "file": "cod-consumo.md",
+   "rubrica": "Prescrizione",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "3a75beb69b8a"
+  },
+  "126": {
+   "file": "cod-consumo.md",
+   "rubrica": "Decadenza",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "e05376e1b0ac"
+  },
+  "127": {
+   "file": "cod-consumo.md",
+   "rubrica": "Responsabilita' secondo altre disposizioni di legge",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "043054731a27"
+  },
+  "128": {
+   "file": "cod-consumo.md",
+   "rubrica": "Ambito di applicazione e definizioni",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "c67a8595bdda"
+  },
+  "129": {
+   "file": "cod-consumo.md",
+   "rubrica": "Conformita' dei beni al contratto",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "e6462af88ef5"
+  },
+  "130": {
+   "file": "cod-consumo.md",
+   "rubrica": "Obblighi del venditore e condotta del consumatore",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "d29dfe884540"
+  },
+  "131": {
+   "file": "cod-consumo.md",
+   "rubrica": "Errata installazione dei beni",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "d0dc232ee043"
+  },
+  "132": {
+   "file": "cod-consumo.md",
+   "rubrica": "Diritti dei terzi",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "cab756910965"
+  },
+  "133": {
+   "file": "cod-consumo.md",
+   "rubrica": "Responsabilita' del venditore",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "6829ebf651ff"
+  },
+  "134": {
+   "file": "cod-consumo.md",
+   "rubrica": "Diritto di regresso",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "a916ed04706c"
+  },
+  "135": {
+   "file": "cod-consumo.md",
+   "rubrica": "Onere della prova",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "b863bd1a637a"
+  },
+  "135-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Rimedi",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "85d7f562a07e"
+  },
+  "135-ter": {
+   "file": "cod-consumo.md",
+   "rubrica": "Riparazione o sostituzione",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "df93beadbbb3"
+  },
+  "135-quater": {
+   "file": "cod-consumo.md",
+   "rubrica": "Riduzione del prezzo e risoluzione del contratto",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "cebfb1fac8ba"
+  },
+  "135-quinquies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Garanzie convenzionali",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "d8195080dee6"
+  },
+  "135-sexies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Carattere imperativo delle disposizioni",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "59a84beb48c8"
+  },
+  "135-septies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Tutela in base ad altre disposizioni",
+   "vigore_da": "2021-12-10",
+   "datazione": "api",
+   "h": "27cb88797d53"
+  },
+  "135-octies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Ambito di applicazione e definizioni",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "e12c4af2872f"
+  },
+  "135-novies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Esclusioni",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "4ab4b90b8080"
+  },
+  "135-decies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Fornitura di contenuto digitale o servizio digitale e conformita' al contratto",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "8cbb074c301f"
+  },
+  "135-undecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Obblighi del professionista e condotta del consumatore",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "f5c242a0edc6"
+  },
+  "135-duodecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Errata integrazione del contenuto digitale o del servizio digitale",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "094847214138"
+  },
+  "135-terdecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Diritti dei terzi",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "db59cb4f3145"
+  },
+  "135-quaterdecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Responsabilita' del professionista",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "8d54b54a413a"
+  },
+  "135-quindecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Diritto di regresso",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "0b08089c0f56"
+  },
+  "135-sex-decies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Onere della prova",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "dbbac57d2bd3"
+  },
+  "135-septies-decies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Rimedio per la mancata fornitura",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "069a93fd582a"
+  },
+  "135-duodevicies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Rimedi per difetti di conformita'",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "e6eb40196444"
+  },
+  "135-undevicies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Risoluzione del contratto",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "05154ebebae8"
+  },
+  "135-vicies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Rimborso al consumatore",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "3d8dcd7e1869"
+  },
+  "135-vicies-semel": {
+   "file": "cod-consumo.md",
+   "rubrica": "Modifica del contenuto digitale o del servizio digitale",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "2e6acc1af2f4"
+  },
+  "135-vicies-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Carattere imperativo delle disposizioni",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "523c1167b65b"
+  },
+  "135-vicies-ter": {
+   "file": "cod-consumo.md",
+   "rubrica": "Tutela in base ad altre disposizioni",
+   "vigore_da": "2021-12-11",
+   "datazione": "api",
+   "h": "126db89a33ce"
+  },
+  "136": {
+   "file": "cod-consumo.md",
+   "rubrica": "Consiglio nazionale dei consumatori e degli utenti",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "9ac0ca9117b1"
+  },
+  "137": {
+   "file": "cod-consumo.md",
+   "rubrica": "Elenco delle associazioni dei consumatori e degli utenti rappresentative a livello nazionale",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "374164c22ea2"
+  },
+  "138": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2019-01-01",
+   "datazione": "api",
+   "h": "d6655886d44c"
+  },
+  "139": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2020-11-19",
+   "datazione": "api",
+   "h": "7bd9036fd49f"
+  },
+  "140": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2020-11-19",
+   "datazione": "api",
+   "h": "7bd9036fd49f"
+  },
+  "140-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "",
+   "vigore_da": "2020-11-19",
+   "datazione": "api",
+   "h": "7bd9036fd49f"
+  },
+  "140-ter": {
+   "file": "cod-consumo.md",
+   "rubrica": "Disposizioni generali: definizioni ed ambito di applicazione",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "3eb740a5c0a6"
+  },
+  "140-quater": {
+   "file": "cod-consumo.md",
+   "rubrica": "Legittimazione ad agire",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "5e1c32e9194e"
+  },
+  "140-quinquies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Enti legittimati a proporre azioni rappresentative transfrontaliere",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "dd3d4b619077"
+  },
+  "140-sexies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Comunicazione degli enti legittimati e monitoraggio",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "fe6d9a232054"
+  },
+  "140-septies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Azioni rappresentative",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "50a37df89b10"
+  },
+  "140-octies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Provvedimenti inibitori",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "eb2725874584"
+  },
+  "140-novies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Provvedimenti compensativi",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "354657914635"
+  },
+  "140-decies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Accordi di natura transattiva e conciliativa",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "c67456deda72"
+  },
+  "140-undecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Informazioni sulle azioni rappresentative",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "e5241878aaa5"
+  },
+  "140-duodecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Interruzione della prescrizione e impedimento della decadenza",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "38063eddc8ab"
+  },
+  "140-terdecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Misure di coercizione indiretta",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "ae212fad77c6"
+  },
+  "140-quaterdecies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Spese del procedimento",
+   "vigore_da": "2023-04-07",
+   "datazione": "api",
+   "h": "a9e0cc59848c"
+  },
+  "141": {
+   "file": "cod-consumo.md",
+   "rubrica": "Disposizioni generali: definizioni ed ambito di applicazione",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "3bcc9b1a9c7b"
+  },
+  "141-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Obblighi, facolta' e requisiti degli organismi ADR",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "9567ae5ffdfe"
+  },
+  "141-ter": {
+   "file": "cod-consumo.md",
+   "rubrica": "Negoziazioni paritetiche",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "ae6c2bb13668"
+  },
+  "141-quater": {
+   "file": "cod-consumo.md",
+   "rubrica": "Trasparenza, efficacia, equita' e liberta'",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "b2889065e282"
+  },
+  "141-quinquies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Effetti della procedura ADR sui termini di prescrizione e decadenza",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "94b3d9215138"
+  },
+  "141-sexies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Informazioni e assistenza ai consumatori",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "7b00911a3493"
+  },
+  "141-septies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Cooperazione",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "a4219d418edd"
+  },
+  "141-octies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Autorita' competenti e punto di contatto unico",
+   "vigore_da": "2018-07-01",
+   "datazione": "api",
+   "h": "83c450d8d5c1"
+  },
+  "141-novies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Informazioni da trasmettere alle autorita' competenti da parte degli organismi di risoluzione delle controversie",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "36bab58e2f94"
+  },
+  "141-decies": {
+   "file": "cod-consumo.md",
+   "rubrica": "Ruolo delle autorita' competenti",
+   "vigore_da": "2015-09-03",
+   "datazione": "api",
+   "h": "f0884f8e2226"
+  },
+  "142": {
+   "file": "cod-consumo.md",
+   "rubrica": "Modifiche al codice civile",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "dc7f8d2ee256"
+  },
+  "143": {
+   "file": "cod-consumo.md",
+   "rubrica": "Irrinunciabilita' dei diritti",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "7f367265e529"
+  },
+  "144": {
+   "file": "cod-consumo.md",
+   "rubrica": "Aggiornamenti",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "4ddd3122aa62"
+  },
+  "144-bis": {
+   "file": "cod-consumo.md",
+   "rubrica": "Cooperazione tra le autorita' nazionali per la tutela dei consumatori",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "00433163fa7e"
+  },
+  "145": {
+   "file": "cod-consumo.md",
+   "rubrica": "Competenze delle regioni e delle province autonome",
+   "vigore_da": "2005-10-23",
+   "datazione": "api",
+   "h": "ecd596322ee8"
+  },
+  "146": {
+   "file": "cod-consumo.md",
+   "rubrica": "Abrogazioni",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "91399ce0daff"
+  }
+ }
+}

@@ -1,0 +1,3380 @@
+{
+ "_meta": {
+  "codice": "tub",
+  "nome": "Testo unico bancario (D.Lgs. 385/1993)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-06-19",
+  "articoli": 388,
+  "file": [
+   "tub.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:1993-09-01;385",
+  "versioni": [
+   {
+    "data": "1993-09-30",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1994-01-07",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 4 gennaio 1994, n. 1"
+   },
+   {
+    "data": "1994-01-12",
+    "evento": "rp2",
+    "atto_modificante": "atto modificante non indicato (rp2)"
+   },
+   {
+    "data": "1994-03-07",
+    "evento": "rp3",
+    "atto_modificante": "atto modificante non indicato (rp3)"
+   },
+   {
+    "data": "1995-06-08",
+    "evento": "rp4",
+    "atto_modificante": "atto modificante non indicato (rp4)"
+   },
+   {
+    "data": "1996-03-09",
+    "evento": "rp5",
+    "atto_modificante": "L. 7 marzo 1996, n. 108"
+   },
+   {
+    "data": "1996-08-09",
+    "evento": "rp6",
+    "atto_modificante": "D.Lgs. 23 luglio 1996, n. 415"
+   },
+   {
+    "data": "1996-12-27",
+    "evento": "rp7",
+    "atto_modificante": "D.Lgs. 4 dicembre 1996, n. 659"
+   },
+   {
+    "data": "1997-01-17",
+    "evento": "rp8",
+    "atto_modificante": "atto modificante non indicato (rp8)"
+   },
+   {
+    "data": "1998-03-14",
+    "evento": "rp9",
+    "atto_modificante": "D.Lgs. 10 marzo 1998, n. 43"
+   },
+   {
+    "data": "1998-03-26",
+    "evento": "rp10",
+    "atto_modificante": "D.Lgs. 24 febbraio 1998, n. 58"
+   },
+   {
+    "data": "1998-06-25",
+    "evento": "rp11",
+    "atto_modificante": "atto modificante non indicato (rp11)"
+   },
+   {
+    "data": "1998-07-08",
+    "evento": "rp12",
+    "atto_modificante": "D.Lgs. 24 giugno 1998, n. 213"
+   },
+   {
+    "data": "1998-09-04",
+    "evento": "rp13",
+    "atto_modificante": "D.Lgs. 26 agosto 1998, n. 319"
+   },
+   {
+    "data": "1998-10-01",
+    "evento": "rp14",
+    "atto_modificante": "atto modificante non indicato (rp14)"
+   },
+   {
+    "data": "1999-04-28",
+    "evento": "rp15",
+    "atto_modificante": "Circ. Ministero Del Tesoro, Del Bilancio E Della Programmazione Economica 16 aprile 1999, n. 1"
+   },
+   {
+    "data": "1999-05-24",
+    "evento": "rp16",
+    "atto_modificante": "Circ. Banca D'Italia 21 aprile 1999, n. 229"
+   },
+   {
+    "data": "1999-09-28",
+    "evento": "rp17",
+    "atto_modificante": "D.Lgs. 4 agosto 1999, n. 333"
+   },
+   {
+    "data": "1999-10-04",
+    "evento": "rp18",
+    "atto_modificante": "D.Lgs. 4 agosto 1999, n. 342"
+   },
+   {
+    "data": "2002-03-26",
+    "evento": "rp19",
+    "atto_modificante": "L. 1 marzo 2002, n. 39"
+   },
+   {
+    "data": "2002-04-15",
+    "evento": "rp20",
+    "atto_modificante": "D.Lgs. 11 aprile 2002, n. 61"
+   },
+   {
+    "data": "2003-10-02",
+    "evento": "rp21",
+    "atto_modificante": "D.L. 30 settembre 2003, n. 269"
+   },
+   {
+    "data": "2004-02-14",
+    "evento": "rp22",
+    "atto_modificante": "D.Lgs. 6 febbraio 2004, n. 37"
+   },
+   {
+    "data": "2004-08-05",
+    "evento": "rp23",
+    "atto_modificante": "D.Lgs. 9 luglio 2004, n. 197"
+   },
+   {
+    "data": "2004-12-30",
+    "evento": "rp24",
+    "atto_modificante": "D.Lgs. 28 dicembre 2004, n. 310"
+   },
+   {
+    "data": "2005-03-16",
+    "evento": "rp25",
+    "atto_modificante": "D.L. 14 marzo 2005, n. 35"
+   },
+   {
+    "data": "2005-07-06",
+    "evento": "rp26",
+    "atto_modificante": "D.Lgs. 20 giugno 2005, n. 122"
+   },
+   {
+    "data": "2005-07-25",
+    "evento": "rp27",
+    "atto_modificante": "D.Lgs. 30 maggio 2005, n. 142"
+   },
+   {
+    "data": "2005-10-08",
+    "evento": "rp28",
+    "atto_modificante": "D.Lgs. 6 settembre 2005, n. 206"
+   },
+   {
+    "data": "2005-12-28",
+    "evento": "rp29",
+    "atto_modificante": "L. 28 dicembre 2005, n. 262"
+   },
+   {
+    "data": "2005-12-30",
+    "evento": "rp30",
+    "atto_modificante": "D.L. 30 dicembre 2005, n. 273"
+   },
+   {
+    "data": "2006-01-11",
+    "evento": "rp31",
+    "atto_modificante": "D.L. 10 gennaio 2006, n. 4"
+   },
+   {
+    "data": "2006-07-04",
+    "evento": "rp32",
+    "atto_modificante": "D.L. 4 luglio 2006, n. 223"
+   },
+   {
+    "data": "2006-12-27",
+    "evento": "rp33",
+    "atto_modificante": "D.L. 27 dicembre 2006, n. 297"
+   },
+   {
+    "data": "2007-01-10",
+    "evento": "rp34",
+    "atto_modificante": "D.Lgs. 29 dicembre 2006, n. 303"
+   },
+   {
+    "data": "2007-01-22",
+    "evento": "rp35",
+    "atto_modificante": "Circ. Banca D'Italia 27 dicembre 2006, n. 263"
+   },
+   {
+    "data": "2007-12-28",
+    "evento": "rp36",
+    "atto_modificante": "L. 24 dicembre 2007, n. 244"
+   },
+   {
+    "data": "2007-12-31",
+    "evento": "rp37",
+    "atto_modificante": "D.L. 31 dicembre 2007, n. 248"
+   },
+   {
+    "data": "2008-11-29",
+    "evento": "rp38",
+    "atto_modificante": "D.L. 29 novembre 2008, n. 185"
+   },
+   {
+    "data": "2008-12-31",
+    "evento": "rp39",
+    "atto_modificante": "D.L. 30 dicembre 2008, n. 207"
+   },
+   {
+    "data": "2009-12-30",
+    "evento": "rp40",
+    "atto_modificante": "D.L. 30 dicembre 2009, n. 194"
+   },
+   {
+    "data": "2010-02-13",
+    "evento": "rp41",
+    "atto_modificante": "D.Lgs. 27 gennaio 2010, n. 11"
+   },
+   {
+    "data": "2010-02-23",
+    "evento": "rp42",
+    "atto_modificante": "D.Lgs. 27 gennaio 2010, n. 21"
+   },
+   {
+    "data": "2010-03-23",
+    "evento": "rp43",
+    "atto_modificante": "D.Lgs. 27 gennaio 2010, n. 39"
+   },
+   {
+    "data": "2010-07-07",
+    "evento": "rp44",
+    "atto_modificante": "D.Lgs. 2 luglio 2010, n. 104"
+   },
+   {
+    "data": "2010-09-04",
+    "evento": "rp45",
+    "atto_modificante": "D.Lgs. 13 agosto 2010, n. 141"
+   },
+   {
+    "data": "2010-12-18",
+    "evento": "rp46",
+    "atto_modificante": "D.Lgs. 14 dicembre 2010, n. 218"
+   },
+   {
+    "data": "2010-12-29",
+    "evento": "rp47",
+    "atto_modificante": "D.L. 29 dicembre 2010, n. 225"
+   },
+   {
+    "data": "2011-01-13",
+    "evento": "rp48",
+    "atto_modificante": "D.Lgs. 30 dicembre 2010, n. 239"
+   },
+   {
+    "data": "2011-04-22",
+    "evento": "rp49",
+    "atto_modificante": "D.Lgs. 24 marzo 2011, n. 49"
+   },
+   {
+    "data": "2011-05-13",
+    "evento": "rp50",
+    "atto_modificante": "D.L. 13 maggio 2011, n. 70"
+   },
+   {
+    "data": "2011-11-23",
+    "evento": "rp51",
+    "atto_modificante": "D.Lgs. 15 novembre 2011, n. 195"
+   },
+   {
+    "data": "2011-12-06",
+    "evento": "rp52",
+    "atto_modificante": "D.L. 6 dicembre 2011, n. 201"
+   },
+   {
+    "data": "2012-01-02",
+    "evento": "rp53",
+    "atto_modificante": "L. 15 dicembre 2011, n. 217"
+   },
+   {
+    "data": "2012-01-24",
+    "evento": "rp54",
+    "atto_modificante": "D.L. 24 gennaio 2012, n. 1"
+   },
+   {
+    "data": "2012-02-07",
+    "evento": "rp55",
+    "atto_modificante": "D.Lgs. 29 dicembre 2011, n. 230"
+   },
+   {
+    "data": "2012-03-02",
+    "evento": "rp56",
+    "atto_modificante": "D.L. 2 marzo 2012, n. 16"
+   },
+   {
+    "data": "2012-03-24",
+    "evento": "rp57",
+    "atto_modificante": "D.L. 24 marzo 2012, n. 29"
+   },
+   {
+    "data": "2012-04-28",
+    "evento": "rp58",
+    "atto_modificante": "D.Lgs. 16 aprile 2012, n. 45"
+   },
+   {
+    "data": "2012-08-08",
+    "evento": "rp59",
+    "atto_modificante": "D.Lgs. 30 luglio 2012, n. 130"
+   },
+   {
+    "data": "2012-10-02",
+    "evento": "rp60",
+    "atto_modificante": "D.Lgs. 19 settembre 2012, n. 169"
+   },
+   {
+    "data": "2012-10-19",
+    "evento": "rp61",
+    "atto_modificante": "D.L. 18 ottobre 2012, n. 179"
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp62",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2013-12-23",
+    "evento": "rp63",
+    "atto_modificante": "D.L. 23 dicembre 2013, n. 145"
+   },
+   {
+    "data": "2013-12-27",
+    "evento": "rp64",
+    "atto_modificante": "L. 27 dicembre 2013, n. 147"
+   },
+   {
+    "data": "2013-12-30",
+    "evento": "rp65",
+    "atto_modificante": "D.L. 30 dicembre 2013, n. 150"
+   },
+   {
+    "data": "2014-04-01",
+    "evento": "rp66",
+    "atto_modificante": "D.Lgs. 4 marzo 2014, n. 53"
+   },
+   {
+    "data": "2014-04-23",
+    "evento": "rp67",
+    "atto_modificante": "atto modificante non indicato (rp67)"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp68",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 91"
+   },
+   {
+    "data": "2015-01-24",
+    "evento": "rp69",
+    "atto_modificante": "D.L. 24 gennaio 2015, n. 3"
+   },
+   {
+    "data": "2015-05-21",
+    "evento": "rp70",
+    "atto_modificante": "D.Lgs. 7 maggio 2015, n. 66"
+   },
+   {
+    "data": "2015-06-12",
+    "evento": "rp71",
+    "atto_modificante": "D.Lgs. 12 maggio 2015, n. 72"
+   },
+   {
+    "data": "2015-11-16",
+    "evento": "rp72",
+    "atto_modificante": "D.Lgs. 16 novembre 2015, n. 181"
+   },
+   {
+    "data": "2016-02-15",
+    "evento": "rp73",
+    "atto_modificante": "D.L. 14 febbraio 2016, n. 18"
+   },
+   {
+    "data": "2016-03-08",
+    "evento": "rp74",
+    "atto_modificante": "D.Lgs. 15 febbraio 2016, n. 30"
+   },
+   {
+    "data": "2016-05-03",
+    "evento": "rp75",
+    "atto_modificante": "D.L. 3 maggio 2016, n. 59"
+   },
+   {
+    "data": "2016-05-20",
+    "evento": "rp76",
+    "atto_modificante": "D.Lgs. 21 aprile 2016, n. 72"
+   },
+   {
+    "data": "2016-11-28",
+    "evento": "rp77",
+    "atto_modificante": "D.Lgs. 14 novembre 2016, n. 223"
+   },
+   {
+    "data": "2016-12-21",
+    "evento": "rp78",
+    "atto_modificante": "L. 11 dicembre 2016, n. 232"
+   },
+   {
+    "data": "2016-12-23",
+    "evento": "rp79",
+    "atto_modificante": "D.L. 23 dicembre 2016, n. 237"
+   },
+   {
+    "data": "2017-03-30",
+    "evento": "rp80",
+    "atto_modificante": "D.Lgs. 15 marzo 2017, n. 37"
+   },
+   {
+    "data": "2017-06-19",
+    "evento": "rp81",
+    "atto_modificante": "D.Lgs. 25 maggio 2017, n. 90"
+   },
+   {
+    "data": "2017-08-25",
+    "evento": "rp82",
+    "atto_modificante": "D.Lgs. 3 agosto 2017, n. 129"
+   },
+   {
+    "data": "2017-12-29",
+    "evento": "rp83",
+    "atto_modificante": "L. 27 dicembre 2017, n. 205"
+   },
+   {
+    "data": "2018-01-13",
+    "evento": "rp84",
+    "atto_modificante": "D.Lgs. 15 dicembre 2017, n. 218"
+   },
+   {
+    "data": "2018-07-25",
+    "evento": "rp85",
+    "atto_modificante": "D.L. 25 luglio 2018, n. 91"
+   },
+   {
+    "data": "2018-10-23",
+    "evento": "rp86",
+    "atto_modificante": "D.L. 23 ottobre 2018, n. 119"
+   },
+   {
+    "data": "2018-12-31",
+    "evento": "rp87",
+    "atto_modificante": "L. 30 dicembre 2018, n. 145"
+   },
+   {
+    "data": "2019-02-14",
+    "evento": "rp88",
+    "atto_modificante": "D.Lgs. 12 gennaio 2019, n. 14"
+   },
+   {
+    "data": "2019-03-25",
+    "evento": "rp89",
+    "atto_modificante": "D.L. 25 marzo 2019, n. 22"
+   },
+   {
+    "data": "2019-04-30",
+    "evento": "rp90",
+    "atto_modificante": "D.L. 30 aprile 2019, n. 34"
+   },
+   {
+    "data": "2020-03-17",
+    "evento": "rp91",
+    "atto_modificante": "D.L. 17 marzo 2020, n. 18"
+   },
+   {
+    "data": "2020-04-08",
+    "evento": "rp92",
+    "atto_modificante": "D.L. 8 aprile 2020, n. 23"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp93",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-05-26",
+    "evento": "rp94",
+    "atto_modificante": "D.Lgs. 8 aprile 2020, n. 36"
+   },
+   {
+    "data": "2020-06-06",
+    "evento": "rp95",
+    "atto_modificante": "L. 5 giugno 2020, n. 40"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp96",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   },
+   {
+    "data": "2020-07-18",
+    "evento": "rp97",
+    "atto_modificante": "L. 17 luglio 2020, n. 77"
+   },
+   {
+    "data": "2020-09-14",
+    "evento": "rp98",
+    "atto_modificante": "L. 11 settembre 2020, n. 120"
+   },
+   {
+    "data": "2020-11-05",
+    "evento": "rp99",
+    "atto_modificante": "D.Lgs. 26 ottobre 2020, n. 147"
+   },
+   {
+    "data": "2021-05-25",
+    "evento": "rp100",
+    "atto_modificante": "D.L. 25 maggio 2021, n. 73"
+   },
+   {
+    "data": "2021-07-24",
+    "evento": "rp101",
+    "atto_modificante": "L. 23 luglio 2021, n. 106"
+   },
+   {
+    "data": "2021-08-24",
+    "evento": "rp102",
+    "atto_modificante": "D.L. 24 agosto 2021, n. 118"
+   },
+   {
+    "data": "2021-11-06",
+    "evento": "rp103",
+    "atto_modificante": "D.L. 6 novembre 2021, n. 152"
+   },
+   {
+    "data": "2021-11-29",
+    "evento": "rp104",
+    "atto_modificante": "D.Lgs. 8 novembre 2021, n. 182"
+   },
+   {
+    "data": "2021-11-30",
+    "evento": "rp105",
+    "atto_modificante": "D.Lgs. 8 novembre 2021, n. 193"
+   },
+   {
+    "data": "2021-12-01",
+    "evento": "rp106",
+    "atto_modificante": "D.Lgs. 5 novembre 2021, n. 201"
+   },
+   {
+    "data": "2021-12-31",
+    "evento": "rp107+rp108",
+    "atto_modificante": "L. 30 dicembre 2021, n. 234; L. 29 dicembre 2021, n. 233"
+   },
+   {
+    "data": "2022-01-17",
+    "evento": "rp109",
+    "atto_modificante": "L. 23 dicembre 2021, n. 238"
+   },
+   {
+    "data": "2022-04-30",
+    "evento": "rp110",
+    "atto_modificante": "D.L. 30 aprile 2022, n. 36"
+   },
+   {
+    "data": "2022-09-14",
+    "evento": "rp111",
+    "atto_modificante": "D.Lgs. 3 agosto 2022, n. 139"
+   },
+   {
+    "data": "2022-12-28",
+    "evento": "rp112",
+    "atto_modificante": "atto modificante non indicato (rp112)"
+   },
+   {
+    "data": "2023-06-13",
+    "evento": "rp113",
+    "atto_modificante": "D.L. 13 giugno 2023, n. 69"
+   },
+   {
+    "data": "2023-08-10",
+    "evento": "rp114",
+    "atto_modificante": "L. 10 agosto 2023, n. 103"
+   },
+   {
+    "data": "2023-12-27",
+    "evento": "rp115",
+    "atto_modificante": "D.Lgs. 7 dicembre 2023, n. 207"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp116",
+    "atto_modificante": "D.L. 30 dicembre 2023, n. 215"
+   },
+   {
+    "data": "2024-03-12",
+    "evento": "rp117",
+    "atto_modificante": "L. 5 marzo 2024, n. 21"
+   },
+   {
+    "data": "2024-08-13",
+    "evento": "rp118",
+    "atto_modificante": "D.Lgs. 30 luglio 2024, n. 116"
+   },
+   {
+    "data": "2024-09-13",
+    "evento": "rp119",
+    "atto_modificante": "D.Lgs. 5 settembre 2024, n. 129"
+   },
+   {
+    "data": "2024-12-27",
+    "evento": "rp120",
+    "atto_modificante": "D.L. 27 dicembre 2024, n. 202"
+   },
+   {
+    "data": "2025-02-24",
+    "evento": "rp121",
+    "atto_modificante": "L. 21 febbraio 2025, n. 15"
+   },
+   {
+    "data": "2025-03-11",
+    "evento": "rp122",
+    "atto_modificante": "D.Lgs. 10 marzo 2025, n. 23"
+   },
+   {
+    "data": "2025-03-20",
+    "evento": "rp123",
+    "atto_modificante": "L. 11 marzo 2025, n. 28"
+   },
+   {
+    "data": "2026-01-08",
+    "evento": "rp124+rp125",
+    "atto_modificante": "D.Lgs. 31 dicembre 2025, n. 209; D.Lgs. 31 dicembre 2025, n. 208"
+   },
+   {
+    "data": "2026-01-09",
+    "evento": "rp126",
+    "atto_modificante": "D.Lgs. 31 dicembre 2025, n. 212"
+   },
+   {
+    "data": "2026-04-14",
+    "evento": "rp127",
+    "atto_modificante": "D.Lgs. 27 marzo 2026, n. 47"
+   }
+  ],
+  "ultima_versione": "2026-04-14",
+  "datazione": {
+   "monoblocco": 388,
+   "api": 329,
+   "riportati": 34,
+   "ignota": 25,
+   "testo_diverso": 25,
+   "stima_anteriore": 118,
+   "stima_posteriore": 6,
+   "chiamate": 354,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "tub.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "2db8c9446b2f"
+  },
+  "2": {
+   "file": "tub.md",
+   "rubrica": "Comitato interministeriale per il credito e il risparmio",
+   "vigore_da": "2007-01-25",
+   "datazione": "api",
+   "h": "75cd9fdb33da"
+  },
+  "3": {
+   "file": "tub.md",
+   "rubrica": "Ministro dell'economia e delle finanze",
+   "vigore_da": "2004-02-29",
+   "datazione": "api",
+   "h": "33237a1f85eb"
+  },
+  "4": {
+   "file": "tub.md",
+   "rubrica": "Banca d'Italia",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "b33f28f44a61"
+  },
+  "5": {
+   "file": "tub.md",
+   "rubrica": "Finalita' e destinatari della vigilanza",
+   "vigore_da": "2010-03-01",
+   "datazione": "api",
+   "h": "e2552d1dc417"
+  },
+  "6": {
+   "file": "tub.md",
+   "rubrica": "Rapporti con il diritto dell'Unione europea e integrazione nel SEVIF, nel MVU e nel MRU",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "c5fa46bff88f"
+  },
+  "6-bis": {
+   "file": "tub.md",
+   "rubrica": "Partecipazione al MVU e poteri della Banca d'Italia",
+   "vigore_da": "2016-12-13",
+   "datazione": "api",
+   "h": "99b9a4dc2043"
+  },
+  "7": {
+   "file": "tub.md",
+   "rubrica": "Segreto d'ufficio e collaborazione tra autorita'",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "bb908f740086"
+  },
+  "8": {
+   "file": "tub.md",
+   "rubrica": "Pubblicazione di provvedimenti e di dati statistici",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "8f2cd11aed36"
+  },
+  "9": {
+   "file": "tub.md",
+   "rubrica": "Reclamo al CICR",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "c34accc24cdf"
+  },
+  "10": {
+   "file": "tub.md",
+   "rubrica": "Attivita' bancaria",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "45de5c4b36b7"
+  },
+  "11": {
+   "file": "tub.md",
+   "rubrica": "Raccolta del risparmio",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "08dce203acb5"
+  },
+  "12": {
+   "file": "tub.md",
+   "rubrica": "Obbligazioni e titoli di deposito emessi dalle banche",
+   "vigore_da": "2018-01-01",
+   "datazione": "api",
+   "h": "4d09de5a2db4"
+  },
+  "12-bis": {
+   "file": "tub.md",
+   "rubrica": "Strumenti di debito chirografario di secondo livello",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "3e3d2f4607e8"
+  },
+  "12-ter": {
+   "file": "tub.md",
+   "rubrica": "Valore nominale unitario minimo delle obbligazioni e degli altri strumenti di debito",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "87000f7fa61e"
+  },
+  "13": {
+   "file": "tub.md",
+   "rubrica": "Albo",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "8b0a3635a74b"
+  },
+  "14": {
+   "file": "tub.md",
+   "rubrica": "Autorizzazione all'attivita' bancaria",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "vigore_a": "2027-01-10",
+   "h": "2a4a20cdc2f0"
+  },
+  "14-bis": {
+   "file": "tub.md",
+   "rubrica": "Autorizzazione allo stabilimento di succursali di banche di Stato terzo",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "fb0401678c52"
+  },
+  "15": {
+   "file": "tub.md",
+   "rubrica": "Succursali",
+   "vigore_da": "2016-12-13",
+   "datazione": "api",
+   "vigore_a": "2027-01-10",
+   "h": "8999628b73ed"
+  },
+  "16": {
+   "file": "tub.md",
+   "rubrica": "Libera prestazione di servizi",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "7fdaf705c934"
+  },
+  "17": {
+   "file": "tub.md",
+   "rubrica": "Attivita' non ammesse al mutuo riconoscimento",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "d8603238eb14"
+  },
+  "18": {
+   "file": "tub.md",
+   "rubrica": "Societa' finanziarie ammesse al mutuo riconoscimento",
+   "vigore_da": "2016-12-13",
+   "datazione": "api",
+   "h": "dfaac11a67ed"
+  },
+  "19": {
+   "file": "tub.md",
+   "rubrica": "Autorizzazioni",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "8e8ac936a13f"
+  },
+  "20": {
+   "file": "tub.md",
+   "rubrica": "Obblighi di comunicazione",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "b1430cc2ba57"
+  },
+  "21": {
+   "file": "tub.md",
+   "rubrica": "Richiesta di informazioni",
+   "vigore_da": "2004-02-29",
+   "datazione": "api",
+   "h": "c382ba72a2d0"
+  },
+  "22": {
+   "file": "tub.md",
+   "rubrica": "Partecipazioni indirette",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "48cedde79713"
+  },
+  "22-bis": {
+   "file": "tub.md",
+   "rubrica": "Persone che agiscono di concerto",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "c13368f8e522"
+  },
+  "23": {
+   "file": "tub.md",
+   "rubrica": "Nozione di controllo",
+   "vigore_da": "2005-01-14",
+   "datazione": "api",
+   "h": "0e35e4103347"
+  },
+  "24": {
+   "file": "tub.md",
+   "rubrica": "Sospensione del diritto di voto e degli altri diritti, obbligo di alienazione",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "df9f7c0eb65a"
+  },
+  "25": {
+   "file": "tub.md",
+   "rubrica": "Partecipanti al capitale",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "2531101e3aa2"
+  },
+  "26": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "f6a4ad064f9e"
+  },
+  "27": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "6396db077dfe"
+  },
+  "28": {
+   "file": "tub.md",
+   "rubrica": "Norme applicabili",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "ef6bd07160ed"
+  },
+  "29": {
+   "file": "tub.md",
+   "rubrica": "Norme generali",
+   "vigore_da": "2024-03-27",
+   "datazione": "api",
+   "h": "c0d31c411281"
+  },
+  "30": {
+   "file": "tub.md",
+   "rubrica": "Soci",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "246707dbcb16"
+  },
+  "31": {
+   "file": "tub.md",
+   "rubrica": "Trasformazioni e fusioni",
+   "vigore_da": "2015-03-26",
+   "datazione": "api",
+   "h": "f11b7c9d4673"
+  },
+  "32": {
+   "file": "tub.md",
+   "rubrica": "Utili",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "7cd378cba28b"
+  },
+  "32-bis": {
+   "file": "tub.md",
+   "rubrica": "Morte del socio",
+   "vigore_da": "2021-07-25",
+   "datazione": "api",
+   "h": "06d435537be5"
+  },
+  "32-ter": {
+   "file": "tub.md",
+   "rubrica": "Criteri di valutazione delle azioni in caso di rimborso",
+   "vigore_da": "2021-07-25",
+   "datazione": "api",
+   "h": "6b8037b12400"
+  },
+  "33": {
+   "file": "tub.md",
+   "rubrica": "Norme generali",
+   "vigore_da": "2018-12-19",
+   "datazione": "api",
+   "h": "81b61953de20"
+  },
+  "34": {
+   "file": "tub.md",
+   "rubrica": "Soci",
+   "vigore_da": "2016-04-15",
+   "datazione": "api",
+   "h": "c45f5f2c8e95"
+  },
+  "35": {
+   "file": "tub.md",
+   "rubrica": "Operativita'",
+   "vigore_da": "2016-04-15",
+   "datazione": "api",
+   "h": "e091f1855278"
+  },
+  "36": {
+   "file": "tub.md",
+   "rubrica": "Fusioni e trasformazioni",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "8aaf719e9e7b"
+  },
+  "37": {
+   "file": "tub.md",
+   "rubrica": "Utili",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "0ce673730bec"
+  },
+  "37-bis": {
+   "file": "tub.md",
+   "rubrica": "Gruppo Bancario Cooperativo",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "c82771ed819f"
+  },
+  "37-ter": {
+   "file": "tub.md",
+   "rubrica": "Costituzione del gruppo bancario cooperativo",
+   "vigore_da": "2016-04-15",
+   "datazione": "api",
+   "h": "4137c34ccbd6"
+  },
+  "38": {
+   "file": "tub.md",
+   "rubrica": "Nozione di credito fondiario",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "9395489c8344"
+  },
+  "39": {
+   "file": "tub.md",
+   "rubrica": "Ipoteche",
+   "vigore_da": "2021-09-01",
+   "datazione": "api",
+   "h": "586d4d3939b9"
+  },
+  "40": {
+   "file": "tub.md",
+   "rubrica": "Estinzione anticipata e risoluzione del contratto",
+   "vigore_da": "1999-10-19",
+   "datazione": "api",
+   "h": "d078b87fb08a"
+  },
+  "40-bis": {
+   "file": "tub.md",
+   "rubrica": "Cancellazione delle ipoteche",
+   "vigore_da": "2012-04-29",
+   "datazione": "api",
+   "h": "19fa901661bb"
+  },
+  "41": {
+   "file": "tub.md",
+   "rubrica": "Procedimento esecutivo",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "432069ef32c8"
+  },
+  "42": {
+   "file": "tub.md",
+   "rubrica": "Nozione di credito alle opere pubbliche",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "6f6948c0368a"
+  },
+  "43": {
+   "file": "tub.md",
+   "rubrica": "Nozione",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "403e7f26aecd"
+  },
+  "44": {
+   "file": "tub.md",
+   "rubrica": "Garanzie",
+   "vigore_da": "1999-10-19",
+   "datazione": "api",
+   "h": "f46b83b4149e"
+  },
+  "45": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2007-01-25",
+   "datazione": "api",
+   "h": "95a8ae2faec5"
+  },
+  "46": {
+   "file": "tub.md",
+   "rubrica": "Finanziamenti alle imprese: costituzione di privilegi",
+   "vigore_da": "2014-02-22",
+   "datazione": "api",
+   "h": "f7b6551c29c6"
+  },
+  "47": {
+   "file": "tub.md",
+   "rubrica": "Finanziamenti agevolati e gestione di fondi pubblici",
+   "vigore_da": "1999-10-19",
+   "datazione": "api",
+   "h": "61603eca442d"
+  },
+  "48": {
+   "file": "tub.md",
+   "rubrica": "Credito su pegno",
+   "vigore_da": "1999-10-19",
+   "datazione": "api",
+   "h": "9063273bb2f0"
+  },
+  "48-bis": {
+   "file": "tub.md",
+   "rubrica": "Finanziamento alle imprese garantito da trasferimento di bene immobile sospensivamente condizionato",
+   "vigore_da": "2016-07-03",
+   "datazione": "api",
+   "h": "75312916e115"
+  },
+  "49": {
+   "file": "tub.md",
+   "rubrica": "Assegni circolari",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "f0714f4afbc6"
+  },
+  "50": {
+   "file": "tub.md",
+   "rubrica": "Decreto ingiuntivo",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "0ae705dc6aa0"
+  },
+  "51": {
+   "file": "tub.md",
+   "rubrica": "Vigilanza informativa",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "763a6b3c16d7"
+  },
+  "52": {
+   "file": "tub.md",
+   "rubrica": "Comunicazioni del collegio sindacale e dei soggetti incaricati della revisione legale dei conti",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "d3e6070302d3"
+  },
+  "52-bis": {
+   "file": "tub.md",
+   "rubrica": "Sistemi interni di segnalazione delle violazioni",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "56a7b5b5f9d6"
+  },
+  "52-ter": {
+   "file": "tub.md",
+   "rubrica": "Segnalazione di violazioni alla Banca d'Italia",
+   "vigore_da": "2016-12-13",
+   "datazione": "api",
+   "h": "186bc5de4caa"
+  },
+  "53": {
+   "file": "tub.md",
+   "rubrica": "Vigilanza regolamentare",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "3aee35ef9c2e"
+  },
+  "53-bis": {
+   "file": "tub.md",
+   "rubrica": "Poteri di intervento",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "70275f410787"
+  },
+  "53-ter": {
+   "file": "tub.md",
+   "rubrica": "Misure macroprudenziali",
+   "vigore_da": "2016-12-13",
+   "datazione": "api",
+   "h": "f7d717741c4b"
+  },
+  "54": {
+   "file": "tub.md",
+   "rubrica": "Vigilanza ispettiva",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "71a12fd01270"
+  },
+  "55": {
+   "file": "tub.md",
+   "rubrica": "Controlli sulle succursali in Italia di banche dell'Unione europea",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "83a3783022ec"
+  },
+  "56": {
+   "file": "tub.md",
+   "rubrica": "Modificazioni statutarie",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "0a88599aeacf"
+  },
+  "57": {
+   "file": "tub.md",
+   "rubrica": "Fusioni e scissioni",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "af14eca8b40a"
+  },
+  "57-bis": {
+   "file": "tub.md",
+   "rubrica": "Partecipazioni rilevanti",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "b869bc5f123c"
+  },
+  "58": {
+   "file": "tub.md",
+   "rubrica": "Cessione di rapporti giuridici",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "fd7ec0129b5b"
+  },
+  "58-bis": {
+   "file": "tub.md",
+   "rubrica": "Trasferimenti rilevanti di attivita' o passivita'",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "55114d95c922"
+  },
+  "58-ter": {
+   "file": "tub.md",
+   "rubrica": "Succursali qualificate e classificazione delle succursali di banche di Stato terzo",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "9ea148ef34e9"
+  },
+  "58-quater": {
+   "file": "tub.md",
+   "rubrica": "Regime applicabile",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "53ed64415b2e"
+  },
+  "58-quinquies": {
+   "file": "tub.md",
+   "rubrica": "Vigilanza",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "09aefe1dd121"
+  },
+  "58-sexies": {
+   "file": "tub.md",
+   "rubrica": "Conto di garanzia per il deposito della dotazione di capitale e conto delle attivita' liquide",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "64c72a002b00"
+  },
+  "58-septies": {
+   "file": "tub.md",
+   "rubrica": "Misure e poteri di vigilanza",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "86ad4bb73eb8"
+  },
+  "59": {
+   "file": "tub.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "c1fd0ce50950"
+  },
+  "60": {
+   "file": "tub.md",
+   "rubrica": "Composizione",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "1680b7968a09"
+  },
+  "60-bis": {
+   "file": "tub.md",
+   "rubrica": "Autorizzazione delle societa' di partecipazione finanziaria e delle societa' di partecipazione finanziaria mista capogruppo",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "3e2211a01bd7"
+  },
+  "60-ter": {
+   "file": "tub.md",
+   "rubrica": "Esclusione delle societa' di partecipazione finanziaria e delle societa' di partecipazione finanziaria mista dal perimetro di consolidamento",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "f9226cc2c03a"
+  },
+  "61": {
+   "file": "tub.md",
+   "rubrica": "Ruolo della capogruppo",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "e7db93e2e2b7"
+  },
+  "61-bis": {
+   "file": "tub.md",
+   "rubrica": "Ulteriori disposizioni applicabili alle societa' di partecipazione finanziaria e di partecipazione finanziaria mista capogruppo",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "1383b8a23d0e"
+  },
+  "62": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "f198d28e6ca7"
+  },
+  "63": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "f198d28e6ca7"
+  },
+  "64": {
+   "file": "tub.md",
+   "rubrica": "Albo",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "d733f894d34d"
+  },
+  "65": {
+   "file": "tub.md",
+   "rubrica": "Ambito della vigilanza su base consolidata",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "a23c567cf5f0"
+  },
+  "66": {
+   "file": "tub.md",
+   "rubrica": "Vigilanza informativa",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "e5a07f6efba6"
+  },
+  "67": {
+   "file": "tub.md",
+   "rubrica": "Vigilanza regolamentare",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "edab5740247a"
+  },
+  "67-bis": {
+   "file": "tub.md",
+   "rubrica": "Disposizioni applicabili alla societa' di partecipazione finanziaria mista capogruppo",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "662207e1217d"
+  },
+  "67-ter": {
+   "file": "tub.md",
+   "rubrica": "Poteri di intervento",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "e42949a6daac"
+  },
+  "68": {
+   "file": "tub.md",
+   "rubrica": "Vigilanza ispettiva",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "f5911dc9c8a7"
+  },
+  "69": {
+   "file": "tub.md",
+   "rubrica": "Collaborazione tra autorita' e obblighi informativi",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "e90cd77f1ce7"
+  },
+  "69-bis": {
+   "file": "tub.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "82f2892d2f74"
+  },
+  "69-ter": {
+   "file": "tub.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "5d8e7fb8b5b6"
+  },
+  "69-quater": {
+   "file": "tub.md",
+   "rubrica": "Piani di risanamento",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "21b837fc2b38"
+  },
+  "69-quinquies": {
+   "file": "tub.md",
+   "rubrica": "Piani di risanamento di gruppo",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "f27a1228020f"
+  },
+  "69-sexies": {
+   "file": "tub.md",
+   "rubrica": "Valutazione dei piani di risanamento individuali e di gruppo",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "f42ea33f7633"
+  },
+  "69-septies": {
+   "file": "tub.md",
+   "rubrica": "Rapporti con le altre autorita' e decisioni congiunte sui piani di risanamento",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "87befd602867"
+  },
+  "69-octies": {
+   "file": "tub.md",
+   "rubrica": "Misure attuative dei piani di risanamento",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "a095ca13bae8"
+  },
+  "69-novies": {
+   "file": "tub.md",
+   "rubrica": "Trasmissione dei piani di risanamento",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "214c8f342857"
+  },
+  "69-decies": {
+   "file": "tub.md",
+   "rubrica": "Piani di risanamento in forma semplificata ed esenzioni",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "9f36109d5956"
+  },
+  "69-undecies": {
+   "file": "tub.md",
+   "rubrica": "Disposizioni di attuazione",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "4c1a97f21243"
+  },
+  "69-duodecies": {
+   "file": "tub.md",
+   "rubrica": "Accordo di gruppo",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "367aa783b288"
+  },
+  "69-terdecies": {
+   "file": "tub.md",
+   "rubrica": "Autorizzazione dell'accordo",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "98cfbfcee905"
+  },
+  "69-quaterdecies": {
+   "file": "tub.md",
+   "rubrica": "Approvazione dell'accordo da parte dell'assemblea dei soci e concessione del sostegno",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "2b99605c8267"
+  },
+  "69-quinquiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Condizioni per il sostegno",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "20c5d184d052"
+  },
+  "69-sexiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Opposizione della Banca d'Italia e comunicazioni",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "a4be904f997a"
+  },
+  "69-septiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Norme applicabili e disposizioni di attuazione",
+   "vigore_da": "2021-09-01",
+   "datazione": "api",
+   "h": "52d28c0f045a"
+  },
+  "69-octiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Presupposti",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "f36067fc2e47"
+  },
+  "69-noviesdecies": {
+   "file": "tub.md",
+   "rubrica": "Attuazione del piano di risanamento e altre misure",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "ea1ab01f0638"
+  },
+  "69-vicies": {
+   "file": "tub.md",
+   "rubrica": "Poteri di accertamento e flussi informativi",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "d55db000f0be"
+  },
+  "69-vicies-semel": {
+   "file": "tub.md",
+   "rubrica": "Rimozione dei componenti degli organi di amministrazione e controllo e dell'alta dirigenza",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "c21e3f9f3477"
+  },
+  "69-viciesbis": {
+   "file": "tub.md",
+   "rubrica": "Disposizioni di attuazione",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "fbfcba6350ea"
+  },
+  "69.1": {
+   "file": "tub.md",
+   "rubrica": "Autorizzazione delle societa' di partecipazione finanziaria e delle societa' di partecipazione finanziaria mista diverse dalla capogruppo",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "812926ec9466"
+  },
+  "69.2": {
+   "file": "tub.md",
+   "rubrica": "Autorizzazione delle societa' di partecipazione finanziaria e delle societa' di partecipazione finanziaria mista appartenenti a gruppi soggetti a vigilanza su base consolidata di competenza di autorita' di vigilanza di altri Stati dell'Unione europea",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "bebe1b0084ce"
+  },
+  "69.3": {
+   "file": "tub.md",
+   "rubrica": "Impresa madre UE intermedia",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "f70a7071f2a8"
+  },
+  "70": {
+   "file": "tub.md",
+   "rubrica": "Provvedimento",
+   "vigore_da": "2021-09-01",
+   "datazione": "api",
+   "h": "3c9d272085e6"
+  },
+  "70-bis": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "c48a0ca0993c"
+  },
+  "71": {
+   "file": "tub.md",
+   "rubrica": "Organi della procedura",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "d1b3bd98c1a7"
+  },
+  "72": {
+   "file": "tub.md",
+   "rubrica": "Poteri e funzionamento degli organi straordinari",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "05e2488300a4"
+  },
+  "73": {
+   "file": "tub.md",
+   "rubrica": "Adempimenti iniziali",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "efa728c136cb"
+  },
+  "74": {
+   "file": "tub.md",
+   "rubrica": "Sospensione dei pagamenti",
+   "vigore_da": "2023-06-14",
+   "datazione": "api",
+   "h": "5e793021c689"
+  },
+  "75": {
+   "file": "tub.md",
+   "rubrica": "Adempimenti finali",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "edc229358a35"
+  },
+  "75-bis": {
+   "file": "tub.md",
+   "rubrica": "Commissari in temporaneo affiancamento",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "a65220a9f9d3"
+  },
+  "76": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "c48a0ca0993c"
+  },
+  "77": {
+   "file": "tub.md",
+   "rubrica": "Succursali di banche di Stato terzo",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "d09422351c4b"
+  },
+  "77-bis": {
+   "file": "tub.md",
+   "rubrica": "Aumenti di capitale",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "ec37ffac29a7"
+  },
+  "78": {
+   "file": "tub.md",
+   "rubrica": "Banche autorizzate in Italia",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "fa6c2f1a4152"
+  },
+  "79": {
+   "file": "tub.md",
+   "rubrica": "Banche comunitarie",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "39257307e970"
+  },
+  "80": {
+   "file": "tub.md",
+   "rubrica": "Provvedimento",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "4888dd6844df"
+  },
+  "81": {
+   "file": "tub.md",
+   "rubrica": "Organi della procedura",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "2dce102aa70a"
+  },
+  "82": {
+   "file": "tub.md",
+   "rubrica": "Accertamento giudiziale dello stato di insolvenza",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "6f71cca0de83"
+  },
+  "83": {
+   "file": "tub.md",
+   "rubrica": "Effetti del provvedimento per la banca, per i creditori e sui rapporti giuridici preesistenti",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "55e5bc41cfe8"
+  },
+  "84": {
+   "file": "tub.md",
+   "rubrica": "Poteri e funzionamento degli organi liquidatori",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "d04af79e65d8"
+  },
+  "85": {
+   "file": "tub.md",
+   "rubrica": "Adempimenti iniziali",
+   "vigore_da": "1996-09-01",
+   "datazione": "api",
+   "h": "6ef0c92ae158"
+  },
+  "86": {
+   "file": "tub.md",
+   "rubrica": "Accertamento del passivo",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "bf3999dc7375"
+  },
+  "87": {
+   "file": "tub.md",
+   "rubrica": "Opposizioni allo stato passivo",
+   "vigore_da": "2021-09-01",
+   "datazione": "api",
+   "h": "25c1a2cf9923"
+  },
+  "88": {
+   "file": "tub.md",
+   "rubrica": "Esecutivita' delle sentenze",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "3f0d76d74f88"
+  },
+  "89": {
+   "file": "tub.md",
+   "rubrica": "Insinuazioni tardive",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "d4ce08657f4b"
+  },
+  "90": {
+   "file": "tub.md",
+   "rubrica": "Liquidazione dell'attivo",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "0ab556f4e6d0"
+  },
+  "91": {
+   "file": "tub.md",
+   "rubrica": "Restituzioni e riparti",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "ad389206a663"
+  },
+  "92": {
+   "file": "tub.md",
+   "rubrica": "Adempimenti finali",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "bd6deac9bf98"
+  },
+  "92-bis": {
+   "file": "tub.md",
+   "rubrica": "Procedure prive di risorse liquide o con risorse insufficienti",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "612c1e837aaf"
+  },
+  "93": {
+   "file": "tub.md",
+   "rubrica": "Concordato di liquidazione",
+   "vigore_da": "2021-09-01",
+   "datazione": "api",
+   "h": "b119476898af"
+  },
+  "94": {
+   "file": "tub.md",
+   "rubrica": "Esecuzione del concordato e chiusura della procedura",
+   "vigore_da": "2021-09-01",
+   "datazione": "api",
+   "h": "dabba3cb165c"
+  },
+  "95": {
+   "file": "tub.md",
+   "rubrica": "Succursali di banche di Stato terzo",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "0260247ecb1d"
+  },
+  "95-bis": {
+   "file": "tub.md",
+   "rubrica": "Riconoscimento dei provvedimenti di risanamento e delle procedure di liquidazione",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "bc9565323284"
+  },
+  "95-ter": {
+   "file": "tub.md",
+   "rubrica": "Deroghe",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "68cc82ff3eb5"
+  },
+  "95-quater": {
+   "file": "tub.md",
+   "rubrica": "Collaborazione tra autorita'",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "ced3a4acffd1"
+  },
+  "95-quinquies": {
+   "file": "tub.md",
+   "rubrica": "Pubblicita' e informazione agli aventi diritto",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "c4f9d3a18a8a"
+  },
+  "95-sexies": {
+   "file": "tub.md",
+   "rubrica": "Norme di attuazione",
+   "vigore_da": "2004-08-06",
+   "datazione": "api",
+   "h": "2d248babb4ea"
+  },
+  "95-septies": {
+   "file": "tub.md",
+   "rubrica": "Applicazione",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "27b794785722"
+  },
+  "96": {
+   "file": "tub.md",
+   "rubrica": "Soggetti aderenti e natura dei sistemi di garanzia",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "717c5be64359"
+  },
+  "96-bis": {
+   "file": "tub.md",
+   "rubrica": "Interventi",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "0e9fbd3a9cf1"
+  },
+  "96-bis.1": {
+   "file": "tub.md",
+   "rubrica": "Depositi ammissibili al rimborso e ammontare massimo rimborsabile",
+   "vigore_da": "2023-08-11",
+   "datazione": "api",
+   "h": "2e9a2f21752f"
+  },
+  "96-bis.2": {
+   "file": "tub.md",
+   "rubrica": "Modalita' del rimborso dei depositi",
+   "vigore_da": "2023-06-14",
+   "datazione": "api",
+   "h": "a4d78c53a915"
+  },
+  "96-bis.3": {
+   "file": "tub.md",
+   "rubrica": "Obblighi dei sistemi di garanzia",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "d99feb6455ec"
+  },
+  "96-bis.4": {
+   "file": "tub.md",
+   "rubrica": "Informazioni da fornire ai sistemi di garanzia",
+   "vigore_da": "2016-03-09",
+   "datazione": "api",
+   "h": "11987a8a95a1"
+  },
+  "96-ter": {
+   "file": "tub.md",
+   "rubrica": "Poteri della Banca d'Italia",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "e339f66eb748"
+  },
+  "96-quater": {
+   "file": "tub.md",
+   "rubrica": "Esclusione",
+   "vigore_da": "2016-03-09",
+   "datazione": "api",
+   "h": "f9067d0b17c5"
+  },
+  "96-quater.1": {
+   "file": "tub.md",
+   "rubrica": "Prestiti fra sistemi di garanzia",
+   "vigore_da": "2016-03-09",
+   "datazione": "api",
+   "h": "6247304e23ec"
+  },
+  "96-quater.2": {
+   "file": "tub.md",
+   "rubrica": "Cooperazione fra sistemi di garanzia dei depositanti",
+   "vigore_da": "2016-03-09",
+   "datazione": "api",
+   "h": "f39e68b1ccda"
+  },
+  "96-quater.3": {
+   "file": "tub.md",
+   "rubrica": "Adesione ad altro sistema di garanzia",
+   "vigore_da": "2016-03-09",
+   "datazione": "api",
+   "h": "dee50de58a0e"
+  },
+  "96-quater.4": {
+   "file": "tub.md",
+   "rubrica": "Interventi finanziati su base volontaria",
+   "vigore_da": "2016-03-09",
+   "datazione": "api",
+   "h": "f89f62bb9211"
+  },
+  "96-quinquies": {
+   "file": "tub.md",
+   "rubrica": "Liquidazione ordinaria",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "b940201423f2"
+  },
+  "96.1": {
+   "file": "tub.md",
+   "rubrica": "Dotazione finanziaria dei sistemi di garanzia",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "c8e35e7a8f0a"
+  },
+  "96.2": {
+   "file": "tub.md",
+   "rubrica": "Finanziamento dei sistemi di garanzia e investimento delle risorse",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "9788963bf605"
+  },
+  "97": {
+   "file": "tub.md",
+   "rubrica": "Sostituzione degli organi della liquidazione ordinaria",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "99d0df90f6aa"
+  },
+  "97-bis": {
+   "file": "tub.md",
+   "rubrica": "Responsabilita' per illecito amministrativo dipendente da reato",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "7e3b2d76cbe1"
+  },
+  "98": {
+   "file": "tub.md",
+   "rubrica": "Amministrazione straordinaria",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "7d58c263ba11"
+  },
+  "98-bis": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "c48a0ca0993c"
+  },
+  "99": {
+   "file": "tub.md",
+   "rubrica": "Liquidazione coatta amministrativa",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "08395ee5327b"
+  },
+  "99-bis": {
+   "file": "tub.md",
+   "rubrica": "Liquidazione ordinaria",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "efae4668a5e0"
+  },
+  "100": {
+   "file": "tub.md",
+   "rubrica": "Amministrazione straordinaria",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "711a91b1f93f"
+  },
+  "101": {
+   "file": "tub.md",
+   "rubrica": "Liquidazione coatta amministrativa",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "9331836843ed"
+  },
+  "102": {
+   "file": "tub.md",
+   "rubrica": "Procedure proprie delle singole societa'",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "d229ab2498f8"
+  },
+  "102-bis": {
+   "file": "tub.md",
+   "rubrica": "Ulteriore ipotesi di avvio della liquidazione coatta amministrativa",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "a38d312de7d2"
+  },
+  "103": {
+   "file": "tub.md",
+   "rubrica": "Organi delle procedure",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "f17508618d8b"
+  },
+  "104": {
+   "file": "tub.md",
+   "rubrica": "Competenze giurisdizionali",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "c6bcd205bc65"
+  },
+  "105": {
+   "file": "tub.md",
+   "rubrica": "Gruppi e societa' non iscritti all'albo",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "cebc0e34e6a9"
+  },
+  "105-bis": {
+   "file": "tub.md",
+   "rubrica": "Cooperazione tra autorita'",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "224e77b01e73"
+  },
+  "105-ter": {
+   "file": "tub.md",
+   "rubrica": "Commissari in temporaneo affiancamento",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "a450969de6ae"
+  },
+  "106": {
+   "file": "tub.md",
+   "rubrica": "Albo degli intermediari finanziari",
+   "vigore_da": "2012-10-17",
+   "datazione": "api",
+   "h": "1ab6915b0ba2"
+  },
+  "107": {
+   "file": "tub.md",
+   "rubrica": "Autorizzazione",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "e99b8d52a19d"
+  },
+  "108": {
+   "file": "tub.md",
+   "rubrica": "Vigilanza",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "aaaa35b13a3d"
+  },
+  "109": {
+   "file": "tub.md",
+   "rubrica": "Vigilanza consolidata",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "51b9f54967da"
+  },
+  "110": {
+   "file": "tub.md",
+   "rubrica": "Rinvio",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "e4a205520bb2"
+  },
+  "111": {
+   "file": "tub.md",
+   "rubrica": "Microcredito",
+   "vigore_da": "2022-01-01",
+   "datazione": "api",
+   "h": "350457a19087"
+  },
+  "111-bis": {
+   "file": "tub.md",
+   "rubrica": "Finanza etica e sostenibile",
+   "vigore_da": "2017-01-01",
+   "datazione": "api",
+   "h": "5a4318a22e79"
+  },
+  "112": {
+   "file": "tub.md",
+   "rubrica": "Altri soggetti operanti nell'attivita' di concessione di finanziamenti",
+   "vigore_da": "2025-02-25",
+   "datazione": "api",
+   "h": "fb1c8b59b5cc"
+  },
+  "112-bis": {
+   "file": "tub.md",
+   "rubrica": "Organismo per la tenuta dell'elenco dei confidi",
+   "vigore_da": "2012-10-17",
+   "datazione": "api",
+   "h": "dbe7d59b12c7"
+  },
+  "113": {
+   "file": "tub.md",
+   "rubrica": "Controlli sull'elenco previsto dall'articolo 111",
+   "vigore_da": "2012-10-17",
+   "datazione": "api",
+   "h": "c5c80e7ba51c"
+  },
+  "113-bis": {
+   "file": "tub.md",
+   "rubrica": "Sospensione degli organi",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "297c82e02683"
+  },
+  "113-ter": {
+   "file": "tub.md",
+   "rubrica": "Revoca dell'autorizzazione e liquidazione",
+   "vigore_da": "2026-04-29",
+   "datazione": "api",
+   "h": "bc1ea901cd8f"
+  },
+  "114": {
+   "file": "tub.md",
+   "rubrica": "Norme finali",
+   "vigore_da": "2024-08-14",
+   "datazione": "api",
+   "h": "0fc3aa315776"
+  },
+  "114-bis": {
+   "file": "tub.md",
+   "rubrica": "Emissione di moneta elettronica",
+   "vigore_da": "2012-05-13",
+   "datazione": "api",
+   "h": "ea844a494527"
+  },
+  "114-bis.1": {
+   "file": "tub.md",
+   "rubrica": "Distribuzione della moneta elettronica",
+   "vigore_da": "2018-01-13",
+   "datazione": "api",
+   "h": "ddedb8877a99"
+  },
+  "114-ter": {
+   "file": "tub.md",
+   "rubrica": "Rimborso della moneta elettronica",
+   "vigore_da": "2012-05-13",
+   "datazione": "api",
+   "h": "bd967f896190"
+  },
+  "114-quater": {
+   "file": "tub.md",
+   "rubrica": "Istituti di moneta elettronica",
+   "vigore_da": "2024-09-14",
+   "datazione": "api",
+   "h": "e61efb6bed6c"
+  },
+  "114-quinquies": {
+   "file": "tub.md",
+   "rubrica": "Autorizzazione e operativita' transfrontaliera",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "739aabd6f9f8"
+  },
+  "114-quinquies.1": {
+   "file": "tub.md",
+   "rubrica": "Forme di tutela e patrimonio destinato",
+   "vigore_da": "2024-09-14",
+   "datazione": "api",
+   "h": "585868fe52b1"
+  },
+  "114-quinquies.2": {
+   "file": "tub.md",
+   "rubrica": "Vigilanza",
+   "vigore_da": "2018-01-13",
+   "datazione": "api",
+   "h": "02696c248d66"
+  },
+  "114-quinquies.3": {
+   "file": "tub.md",
+   "rubrica": "Rinvio",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "1d0d74fb5af9"
+  },
+  "114-quinquies.4": {
+   "file": "tub.md",
+   "rubrica": "Deroghe",
+   "vigore_da": "2018-01-13",
+   "datazione": "api",
+   "h": "ce56ed151e79"
+  },
+  "114-sexies": {
+   "file": "tub.md",
+   "rubrica": "Servizi di pagamento",
+   "vigore_da": "2010-03-01",
+   "datazione": "api",
+   "h": "b7a29261866d"
+  },
+  "114-septies": {
+   "file": "tub.md",
+   "rubrica": "Albo degli istituti di pagamento",
+   "vigore_da": "2018-01-13",
+   "datazione": "api",
+   "h": "bb408d61b2be"
+  },
+  "114-octies": {
+   "file": "tub.md",
+   "rubrica": "Attivita' esercitabili",
+   "vigore_da": "2024-09-14",
+   "datazione": "api",
+   "h": "45eb9058c2d6"
+  },
+  "114-novies": {
+   "file": "tub.md",
+   "rubrica": "Autorizzazione",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "15b4c615a934"
+  },
+  "114-decies": {
+   "file": "tub.md",
+   "rubrica": "Operativita' transfrontaliera",
+   "vigore_da": "2018-01-13",
+   "datazione": "api",
+   "h": "00373bfc53d3"
+  },
+  "114-undecies": {
+   "file": "tub.md",
+   "rubrica": "Rinvio",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "4c04de1600f4"
+  },
+  "114-duodecies": {
+   "file": "tub.md",
+   "rubrica": "Conti di pagamento e forme di tutela",
+   "vigore_da": "2018-01-13",
+   "datazione": "api",
+   "h": "4dcd229c3059"
+  },
+  "114-terdecies": {
+   "file": "tub.md",
+   "rubrica": "Patrimonio destinato",
+   "vigore_da": "2012-02-22",
+   "datazione": "api",
+   "h": "79a469b29315"
+  },
+  "114-quaterdecies": {
+   "file": "tub.md",
+   "rubrica": "Vigilanza",
+   "vigore_da": "2018-01-13",
+   "datazione": "api",
+   "h": "cf50227a9d45"
+  },
+  "114-quinquiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Scambio di informazioni",
+   "vigore_da": "2010-03-01",
+   "datazione": "api",
+   "h": "d64813fe9f15"
+  },
+  "114-sexiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Deroghe",
+   "vigore_da": "2018-01-13",
+   "datazione": "api",
+   "h": "9830646ea476"
+  },
+  "114-septiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Prestatori del servizio di informazione sui conti",
+   "vigore_da": "2020-06-10",
+   "datazione": "api",
+   "h": "d29b4b22c0ec"
+  },
+  "114-octiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Apertura e mantenimento di conti di pagamento presso una banca",
+   "vigore_da": "2018-01-13",
+   "datazione": "api",
+   "h": "03aa75421e38"
+  },
+  "114.1": {
+   "file": "tub.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "4b1224236fa6"
+  },
+  "114.2": {
+   "file": "tub.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "ac2f8cd5da34"
+  },
+  "114.3": {
+   "file": "tub.md",
+   "rubrica": "Acquisto e gestione di crediti in sofferenza",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "957d53cd638e"
+  },
+  "114.4": {
+   "file": "tub.md",
+   "rubrica": "Informativa ai potenziali acquirenti di crediti in sofferenza e altri obblighi di comunicazione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "f9f1ea201f65"
+  },
+  "114.5": {
+   "file": "tub.md",
+   "rubrica": "Albo dei gestori dei crediti in sofferenza",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "e1e3747458c5"
+  },
+  "114.6": {
+   "file": "tub.md",
+   "rubrica": "Autorizzazione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "3e428978e0a8"
+  },
+  "114.7": {
+   "file": "tub.md",
+   "rubrica": "Detenzione di fondi",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "32b9ac83a6af"
+  },
+  "114.8": {
+   "file": "tub.md",
+   "rubrica": "Principi generali",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "75eb95070953"
+  },
+  "114.9": {
+   "file": "tub.md",
+   "rubrica": "Operativita' transfrontaliera",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "88c9c07d029d"
+  },
+  "114.10": {
+   "file": "tub.md",
+   "rubrica": "Informativa ai debitori ceduti",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "c9b692805961"
+  },
+  "114.11": {
+   "file": "tub.md",
+   "rubrica": "Vigilanza",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "b7087f27bc92"
+  },
+  "114.12": {
+   "file": "tub.md",
+   "rubrica": "Scambio di informazioni e cooperazione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "bdb452759c5e"
+  },
+  "114.13": {
+   "file": "tub.md",
+   "rubrica": "Rinvio",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "7f4ef04f3bb6"
+  },
+  "114.14": {
+   "file": "tub.md",
+   "rubrica": "Reclami ed esposti",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "5324b76193e1"
+  },
+  "115": {
+   "file": "tub.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "0e9d7752a5bc"
+  },
+  "116": {
+   "file": "tub.md",
+   "rubrica": "Pubblicita'",
+   "vigore_da": "2015-03-26",
+   "datazione": "api",
+   "h": "f539ea14c823"
+  },
+  "116-bis": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2010-12-03",
+   "datazione": "api",
+   "h": "3275c66625af"
+  },
+  "117": {
+   "file": "tub.md",
+   "rubrica": "Contratti",
+   "vigore_da": "2011-01-02",
+   "datazione": "api",
+   "h": "c69084240e55"
+  },
+  "117-bis": {
+   "file": "tub.md",
+   "rubrica": "Remunerazione degli affidamenti e degli sconfinamenti",
+   "vigore_da": "2012-05-22",
+   "datazione": "api",
+   "h": "3cfa37ad6268"
+  },
+  "118": {
+   "file": "tub.md",
+   "rubrica": "Modifica unilaterale delle condizioni contrattuali",
+   "vigore_da": "2011-07-13",
+   "datazione": "api",
+   "h": "9f15d5a11bb4"
+  },
+  "118-bis": {
+   "file": "tub.md",
+   "rubrica": "Variazione sostanziale o cessazione di un indice di riferimento",
+   "vigore_da": "2024-01-11",
+   "datazione": "api",
+   "h": "1c91c615608b"
+  },
+  "119": {
+   "file": "tub.md",
+   "rubrica": "Comunicazioni periodiche alla clientela",
+   "vigore_da": "2011-01-02",
+   "datazione": "api",
+   "h": "d9f6f613e62c"
+  },
+  "120": {
+   "file": "tub.md",
+   "rubrica": "Decorrenza delle valute e calcolo degli interessi",
+   "vigore_da": "2016-04-15",
+   "datazione": "api",
+   "h": "b3473fadd988"
+  },
+  "120-bis": {
+   "file": "tub.md",
+   "rubrica": "Recesso",
+   "vigore_da": "2010-12-03",
+   "datazione": "api",
+   "h": "3bd1c9f7bb3f"
+  },
+  "120-ter": {
+   "file": "tub.md",
+   "rubrica": "Estinzione anticipata dei mutui immobiliari",
+   "vigore_da": "2011-07-13",
+   "datazione": "api",
+   "h": "016e168ea188"
+  },
+  "120-quater": {
+   "file": "tub.md",
+   "rubrica": "Surrogazione nei contratti di finanziamento. Portabilita'",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "0e110267f7d7"
+  },
+  "120-quinquies": {
+   "file": "tub.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "48f0e37105bc"
+  },
+  "120-sexies": {
+   "file": "tub.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "42413e6b0c27"
+  },
+  "120-septies": {
+   "file": "tub.md",
+   "rubrica": "Principi generali",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "d3db18542c5d"
+  },
+  "120-octies": {
+   "file": "tub.md",
+   "rubrica": "Pubblicita'",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "0df4283b97a7"
+  },
+  "120-novies": {
+   "file": "tub.md",
+   "rubrica": "Obblighi precontrattuali",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "76754eac1e7c"
+  },
+  "120-decies": {
+   "file": "tub.md",
+   "rubrica": "Obblighi di informazione relativi agli intermediari del credito",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "12a506c5fc74"
+  },
+  "120-undecies": {
+   "file": "tub.md",
+   "rubrica": "Verifica del merito creditizio",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "dede663b931c"
+  },
+  "120-undecies.1": {
+   "file": "tub.md",
+   "rubrica": "Banche dati",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "48cc09dffe8c"
+  },
+  "120-duodecies": {
+   "file": "tub.md",
+   "rubrica": "Valutazione dei beni immobili",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "038f0e1f2c09"
+  },
+  "120-terdecies": {
+   "file": "tub.md",
+   "rubrica": "Servizi di consulenza",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "add768a88f7a"
+  },
+  "120-quaterdecies": {
+   "file": "tub.md",
+   "rubrica": "Finanziamenti denominati in valuta estera",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "221e2c44ecf6"
+  },
+  "120-quaterdecies.1": {
+   "file": "tub.md",
+   "rubrica": "Rimborso anticipato",
+   "vigore_da": "2021-07-25",
+   "datazione": "api",
+   "h": "3932b9c4c6cd"
+  },
+  "120-quinquiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Inadempimento del consumatore",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "caf3aff60ed4"
+  },
+  "120-sexiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Osservatorio del mercato immobiliare",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "975cdb3573b2"
+  },
+  "120-septiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Remunerazioni e requisiti di professionalita'",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "c90471568cbc"
+  },
+  "120-octiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Pratiche di commercializzazione abbinata",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "68a1ec9a7682"
+  },
+  "120-noviesdecies": {
+   "file": "tub.md",
+   "rubrica": "Disposizioni applicabili",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "e532e35151f7"
+  },
+  "121": {
+   "file": "tub.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "da7a160cadac"
+  },
+  "122": {
+   "file": "tub.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "4ecf60fd716e"
+  },
+  "122-bis": {
+   "file": "tub.md",
+   "rubrica": "Principi generali, gratuita' delle informazioni e divieto di discriminazione",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "41b5897553d2"
+  },
+  "123": {
+   "file": "tub.md",
+   "rubrica": "Pubblicita'",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "d873bb6d2a96"
+  },
+  "123-bis": {
+   "file": "tub.md",
+   "rubrica": "Informazioni generali",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "f82772a248c7"
+  },
+  "124": {
+   "file": "tub.md",
+   "rubrica": "Obblighi precontrattuali",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "d92caa8e511d"
+  },
+  "124-bis": {
+   "file": "tub.md",
+   "rubrica": "Verifica del merito creditizio",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "4ad7eee94ecc"
+  },
+  "124.1": {
+   "file": "tub.md",
+   "rubrica": "Concessione non sollecitata di credito, consenso desunto e pratiche di commercializzazione abbinata",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "ac37f59fc898"
+  },
+  "124.2": {
+   "file": "tub.md",
+   "rubrica": "Servizi di consulenza",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "e1112b36ff6c"
+  },
+  "125": {
+   "file": "tub.md",
+   "rubrica": "Banche dati",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "6fd47101ce43"
+  },
+  "125-bis": {
+   "file": "tub.md",
+   "rubrica": "Contratti e comunicazioni",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "fd76a3584e78"
+  },
+  "125-ter": {
+   "file": "tub.md",
+   "rubrica": "Recesso del consumatore",
+   "vigore_da": "2026-06-19",
+   "datazione": "api",
+   "h": "3c975759655c"
+  },
+  "125-quater": {
+   "file": "tub.md",
+   "rubrica": "Contratti a tempo indeterminato",
+   "vigore_da": "2010-09-19",
+   "datazione": "api",
+   "h": "27a30b45e4d4"
+  },
+  "125-quinquies": {
+   "file": "tub.md",
+   "rubrica": "Inadempimento del fornitore",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "a5578061a7b5"
+  },
+  "125-sexies": {
+   "file": "tub.md",
+   "rubrica": "Rimborso anticipato",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "d612b318577d"
+  },
+  "125-septies": {
+   "file": "tub.md",
+   "rubrica": "Cessione dei crediti",
+   "vigore_da": "2010-09-19",
+   "datazione": "api",
+   "h": "d44287e0e775"
+  },
+  "125-octies": {
+   "file": "tub.md",
+   "rubrica": "Sconfinamento",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "95f666e33096"
+  },
+  "125-octies.1": {
+   "file": "tub.md",
+   "rubrica": "Riduzione o cancellazione di apertura di credito in conto corrente e sconfinamento",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "2f7375bff82e"
+  },
+  "125-novies": {
+   "file": "tub.md",
+   "rubrica": "Intermediari del credito",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "ae094c05c30f"
+  },
+  "125-decies": {
+   "file": "tub.md",
+   "rubrica": "Inadempimento del consumatore",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "a2bc502798db"
+  },
+  "125-undecies": {
+   "file": "tub.md",
+   "rubrica": "Remunerazioni e requisiti di professionalita'",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "c2b7710a3d22"
+  },
+  "125-duodecies": {
+   "file": "tub.md",
+   "rubrica": "Educazione finanziaria",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "87e40e9a15ec"
+  },
+  "125-terdecies": {
+   "file": "tub.md",
+   "rubrica": "Servizi di consulenza al debito",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "b3fa8dc85fbc"
+  },
+  "126": {
+   "file": "tub.md",
+   "rubrica": "Riservatezza delle informazioni",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "175a21a31d67"
+  },
+  "126-bis": {
+   "file": "tub.md",
+   "rubrica": "Disposizioni di carattere generale",
+   "vigore_da": "2025-03-21",
+   "datazione": "api",
+   "h": "b6f084d8abbb"
+  },
+  "126-ter": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2018-01-13",
+   "datazione": "api",
+   "h": "6138604fa55b"
+  },
+  "126-quater": {
+   "file": "tub.md",
+   "rubrica": "Informazioni relative alle operazioni di pagamento e ai contratti",
+   "vigore_da": "2026-01-23",
+   "datazione": "api",
+   "h": "da6bd9473a8c"
+  },
+  "126-quinquies": {
+   "file": "tub.md",
+   "rubrica": "Contratto quadro",
+   "vigore_da": "2024-01-11",
+   "datazione": "api",
+   "h": "3921c6a3b993"
+  },
+  "126-sexies": {
+   "file": "tub.md",
+   "rubrica": "Modifica unilaterale delle condizioni",
+   "vigore_da": "2018-01-13",
+   "datazione": "api",
+   "h": "45ad5de22114"
+  },
+  "126-septies": {
+   "file": "tub.md",
+   "rubrica": "Recesso",
+   "vigore_da": "2010-03-01",
+   "datazione": "api",
+   "h": "32ef81c21703"
+  },
+  "126-octies": {
+   "file": "tub.md",
+   "rubrica": "Denominazione valutaria dei pagamenti",
+   "vigore_da": "2018-01-13",
+   "datazione": "api",
+   "h": "8fbf7c5c6656"
+  },
+  "126-novies": {
+   "file": "tub.md",
+   "rubrica": "Commissioni applicabili al rimborso della moneta elettronica",
+   "vigore_da": "2012-05-13",
+   "datazione": "api",
+   "h": "fb04ef4314db"
+  },
+  "126-decies": {
+   "file": "tub.md",
+   "rubrica": "Oggetto, ambito di applicazione e definizioni",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "386a4a5a2e20"
+  },
+  "126-undecies": {
+   "file": "tub.md",
+   "rubrica": "Terminologia standardizzata europea",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "30f09fc63f42"
+  },
+  "126-duodecies": {
+   "file": "tub.md",
+   "rubrica": "Informazioni precontrattuali e comunicazioni periodiche",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "019db690d09f"
+  },
+  "126-terdecies": {
+   "file": "tub.md",
+   "rubrica": "Siti web di confronto",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "faa7efc1a5f4"
+  },
+  "126-quaterdecies": {
+   "file": "tub.md",
+   "rubrica": "Conti di pagamento offerti in un pacchetto insieme ad altri prodotti",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "957281b11755"
+  },
+  "126-quinquiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Servizio di trasferimento",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "43295ff6240d"
+  },
+  "126-sexiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Spese applicabili per il servizio di trasferimento",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "9e305dceab6f"
+  },
+  "126-septiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Obblighi informativi e responsabilita'",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "8c6635204ec1"
+  },
+  "126-octiesdecies": {
+   "file": "tub.md",
+   "rubrica": "Apertura di un conto di pagamento in altro Stato comunitario",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "1222fcf54ff3"
+  },
+  "126-noviesdecies": {
+   "file": "tub.md",
+   "rubrica": "Diritto al conto di base",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "2af71872dba1"
+  },
+  "126-vicies": {
+   "file": "tub.md",
+   "rubrica": "Apertura del conto di base",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "3fe59e1f4cfb"
+  },
+  "126-viciessemel": {
+   "file": "tub.md",
+   "rubrica": "Caratteristiche del conto di base",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "d3dd08bac6ab"
+  },
+  "126-viciesbis": {
+   "file": "tub.md",
+   "rubrica": "Spese applicabili",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "8fdeeea1f976"
+  },
+  "126-viciester": {
+   "file": "tub.md",
+   "rubrica": "Recesso",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "bc76cf97d9c0"
+  },
+  "126-viciesquater": {
+   "file": "tub.md",
+   "rubrica": "Conti di base per particolari categorie di consumatori",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "8fa07a721325"
+  },
+  "126-viciesquinquies": {
+   "file": "tub.md",
+   "rubrica": "Informazioni sul conto di base",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "9ee5e34d3904"
+  },
+  "126-viciessexies": {
+   "file": "tub.md",
+   "rubrica": "Educazione finanziaria",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "018e04055eed"
+  },
+  "127": {
+   "file": "tub.md",
+   "rubrica": "Regole generali",
+   "vigore_da": "2012-10-17",
+   "datazione": "api",
+   "h": "c0c3634ed2f5"
+  },
+  "127-bis": {
+   "file": "tub.md",
+   "rubrica": "Spese addebitabili",
+   "vigore_da": "2024-01-11",
+   "datazione": "api",
+   "h": "719d4e5178fa"
+  },
+  "127-ter": {
+   "file": "tub.md",
+   "rubrica": "Valutazione del merito creditizio fondata sul trattamento automatizzato di dati personali del cliente",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "ede644a0a3aa"
+  },
+  "128": {
+   "file": "tub.md",
+   "rubrica": "Controlli",
+   "vigore_da": "2024-08-14",
+   "datazione": "api",
+   "h": "3baa4c719599"
+  },
+  "128-bis": {
+   "file": "tub.md",
+   "rubrica": "Risoluzione delle controversie",
+   "vigore_da": "2017-04-14",
+   "datazione": "api",
+   "h": "ad88fccabb6d"
+  },
+  "128-ter": {
+   "file": "tub.md",
+   "rubrica": "Misure inibitorie",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "b5e4651687cf"
+  },
+  "128-quater": {
+   "file": "tub.md",
+   "rubrica": "Agenti in attivita' finanziaria",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "b06edc668105"
+  },
+  "128-quinquies": {
+   "file": "tub.md",
+   "rubrica": "Requisiti per l'iscrizione nell'elenco degli agenti in attivita' finanziaria",
+   "vigore_da": "2012-10-17",
+   "datazione": "api",
+   "h": "2ee55f07a128"
+  },
+  "128-sexies": {
+   "file": "tub.md",
+   "rubrica": "Mediatori creditizi",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "f58379424dbe"
+  },
+  "128-septies": {
+   "file": "tub.md",
+   "rubrica": "Requisiti per l'iscrizione nell'elenco dei mediatori creditizi",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "9cf5124ac7f8"
+  },
+  "128-octies": {
+   "file": "tub.md",
+   "rubrica": "Incompatibilita'",
+   "vigore_da": "2016-06-04",
+   "datazione": "api",
+   "h": "ac04caaaee32"
+  },
+  "128-novies": {
+   "file": "tub.md",
+   "rubrica": "Dipendenti e collaboratori",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "807215b0c4c4"
+  },
+  "128-novies.1": {
+   "file": "tub.md",
+   "rubrica": "Operativita' transfrontaliera",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "5e35c33413db"
+  },
+  "128-decies": {
+   "file": "tub.md",
+   "rubrica": "Disposizioni di trasparenza e connessi poteri di controllo",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "3ecca65fcfc9"
+  },
+  "128-undecies": {
+   "file": "tub.md",
+   "rubrica": "Organismo",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "eb339c02f8c8"
+  },
+  "128-duodecies": {
+   "file": "tub.md",
+   "rubrica": "Disposizioni procedurali",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "8d02389068b1"
+  },
+  "128-terdecies": {
+   "file": "tub.md",
+   "rubrica": "Vigilanza della Banca d'Italia sull'Organismo",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "b185ab19caa9"
+  },
+  "128-quaterdecies": {
+   "file": "tub.md",
+   "rubrica": "Ristrutturazione dei crediti",
+   "vigore_da": "2010-12-18",
+   "datazione": "api",
+   "h": "467a43f3f7fd"
+  },
+  "129": {
+   "file": "tub.md",
+   "rubrica": "Emissione di strumenti finanziari",
+   "vigore_da": "2007-01-25",
+   "datazione": "api",
+   "h": "2226355daa97"
+  },
+  "130": {
+   "file": "tub.md",
+   "rubrica": "Abusiva attivita' di raccolta del risparmio",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "dbae0985605b"
+  },
+  "131": {
+   "file": "tub.md",
+   "rubrica": "Abusiva attivita' bancaria",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "be925403fa49"
+  },
+  "131-bis": {
+   "file": "tub.md",
+   "rubrica": "Abusiva emissione di moneta elettronica",
+   "vigore_da": "2012-05-13",
+   "datazione": "api",
+   "h": "5bae98d2c861"
+  },
+  "131-ter": {
+   "file": "tub.md",
+   "rubrica": "Abusiva attivita' di prestazione di servizi di pagamento",
+   "vigore_da": "2012-05-13",
+   "datazione": "api",
+   "h": "8a00cd4492b5"
+  },
+  "132": {
+   "file": "tub.md",
+   "rubrica": "Abusiva attivita' finanziaria",
+   "vigore_da": "2010-09-19",
+   "datazione": "api",
+   "h": "98df01b0ec64"
+  },
+  "132-bis": {
+   "file": "tub.md",
+   "rubrica": "Denunzia al pubblico ministero ed al tribunale",
+   "vigore_da": "2010-03-01",
+   "datazione": "api",
+   "h": "bdf6f7645b5c"
+  },
+  "133": {
+   "file": "tub.md",
+   "rubrica": "Abuso di denominazione",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "31b6386f6bff"
+  },
+  "134": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2002-04-16",
+   "datazione": "api",
+   "h": "802cf03cf3e1"
+  },
+  "135": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2004-02-29",
+   "datazione": "api",
+   "h": "ad936c57ebe7"
+  },
+  "136": {
+   "file": "tub.md",
+   "rubrica": "Obbligazioni degli esponenti bancari",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "5738d09f5432"
+  },
+  "137": {
+   "file": "tub.md",
+   "rubrica": "Mendacio e falso interno",
+   "vigore_da": "2010-09-19",
+   "datazione": "api",
+   "h": "01cba7629b91"
+  },
+  "138": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2002-04-16",
+   "datazione": "api",
+   "h": "802cf03cf3e1"
+  },
+  "139": {
+   "file": "tub.md",
+   "rubrica": "Partecipazioni in banche, in societa' di partecipazione finanziaria e societa' di partecipazione finanziaria mista capogruppo e in intermediari finanziari",
+   "vigore_da": "2024-08-14",
+   "datazione": "api",
+   "h": "dcb0890dae42"
+  },
+  "140": {
+   "file": "tub.md",
+   "rubrica": "Comunicazioni relative alle partecipazioni in banche, in societa' appartenenti ad un gruppo bancario, in societa' di partecipazione finanziaria e societa' di partecipazione finanziaria mista ed in intermediari finanziari",
+   "vigore_da": "2024-08-14",
+   "datazione": "api",
+   "h": "40fb039dfff1"
+  },
+  "140-bis": {
+   "file": "tub.md",
+   "rubrica": "Esercizio abusivo dell'attivita'",
+   "vigore_da": "2010-09-19",
+   "datazione": "api",
+   "h": "7355112e4c85"
+  },
+  "141": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2010-09-19",
+   "datazione": "api",
+   "h": "d26a4b7888a9"
+  },
+  "142": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "1996-09-01",
+   "datazione": "api",
+   "h": "6a23979c5f26"
+  },
+  "143": {
+   "file": "tub.md",
+   "rubrica": "Emissione di valori mobiliari",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "c679b2b8f45d"
+  },
+  "144": {
+   "file": "tub.md",
+   "rubrica": "Altre sanzioni amministrative alle societa' o enti",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "be6b48dce373"
+  },
+  "144-bis": {
+   "file": "tub.md",
+   "rubrica": "Ordine di porre termine alle violazioni",
+   "vigore_da": "2024-08-14",
+   "datazione": "api",
+   "h": "5c998247abd8"
+  },
+  "144-ter": {
+   "file": "tub.md",
+   "rubrica": "Altre sanzioni amministrative agli esponenti o al personale",
+   "vigore_da": "2025-03-12",
+   "datazione": "api",
+   "h": "e8925a8eb9d8"
+  },
+  "144-ter.1": {
+   "file": "tub.md",
+   "rubrica": "Penalita' di mora",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "c41ab5f22928"
+  },
+  "144-quater": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "7525d00dea60"
+  },
+  "144-quinquies": {
+   "file": "tub.md",
+   "rubrica": "Sanzioni per violazioni di disposizioni dell'Unione europea direttamente applicabili",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "7728416d6b3a"
+  },
+  "144-sexies": {
+   "file": "tub.md",
+   "rubrica": "Obbligo di astensione",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "2e2f8cbc9f83"
+  },
+  "144-septies": {
+   "file": "tub.md",
+   "rubrica": "Applicazione delle sanzioni nell'ambito del MVU",
+   "vigore_da": "2016-12-13",
+   "datazione": "api",
+   "h": "e053edc8d347"
+  },
+  "144-octies": {
+   "file": "tub.md",
+   "rubrica": "Societa' di partecipazione finanziaria e societa' di partecipazione finanziaria mista aventi sede in uno Stato dell'Unione europea diverso dall'Italia",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "c46726df16da"
+  },
+  "144-novies": {
+   "file": "tub.md",
+   "rubrica": "Societa' di partecipazione finanziaria e societa' di partecipazione finanziaria mista aventi sede in Italia e appartenenti a gruppi soggetti a vigilanza su base consolidata di competenza di autorita' di vigilanza di altri Stati dell'Unione europea",
+   "vigore_da": "2021-11-30",
+   "datazione": "api",
+   "h": "0e4402eb6509"
+  },
+  "145": {
+   "file": "tub.md",
+   "rubrica": "Procedura sanzionatoria",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "2944aeb5b6c5"
+  },
+  "145-bis": {
+   "file": "tub.md",
+   "rubrica": "Procedure contenziose",
+   "vigore_da": "2011-12-08",
+   "datazione": "api",
+   "h": "cd2d03a38a2e"
+  },
+  "145-ter": {
+   "file": "tub.md",
+   "rubrica": "Comunicazione all'ABE sulle sanzioni applicate",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "f74a2e99d677"
+  },
+  "145-quater": {
+   "file": "tub.md",
+   "rubrica": "Disposizioni di attuazione",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "96dbc78730a6"
+  },
+  "145.1": {
+   "file": "tub.md",
+   "rubrica": "Procedura per l'applicazione delle penalita' di mora",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "8a21f3c73b05"
+  },
+  "145.2": {
+   "file": "tub.md",
+   "rubrica": "Collaborazione tra Autorita'",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "0eb17ed11483"
+  },
+  "145.3": {
+   "file": "tub.md",
+   "rubrica": "Cumulo di procedimenti amministrativi e penali",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "bec908b6b66f"
+  },
+  "146": {
+   "file": "tub.md",
+   "rubrica": "Sorveglianza sul sistema dei pagamenti",
+   "vigore_da": "2010-03-01",
+   "datazione": "api",
+   "h": "6dbf195c1bb3"
+  },
+  "147": {
+   "file": "tub.md",
+   "rubrica": "Altri poteri delle autorita' creditizie",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "e789ec055b16"
+  },
+  "148": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "1998-03-29",
+   "datazione": "api",
+   "h": "b4d59fa9c66f"
+  },
+  "149": {
+   "file": "tub.md",
+   "rubrica": "Banche popolari",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "7fb486a8ace9"
+  },
+  "150": {
+   "file": "tub.md",
+   "rubrica": "Banche di credito cooperativo",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "67d931fdc7cd"
+  },
+  "150-bis": {
+   "file": "tub.md",
+   "rubrica": "Disposizioni in tema di banche cooperative",
+   "vigore_da": "2026-01-09",
+   "datazione": "api",
+   "h": "ee9dcc61e26f"
+  },
+  "150-ter": {
+   "file": "tub.md",
+   "rubrica": "Disposizioni in tema di partecipazione a banche di credito cooperativo",
+   "vigore_da": "2016-04-15",
+   "datazione": "api",
+   "h": "71a0cfa0e6d9"
+  },
+  "150-quater": {
+   "file": "tub.md",
+   "rubrica": "Disposizioni in materia di partecipazione a banche popolari",
+   "vigore_da": "2021-07-25",
+   "datazione": "api",
+   "h": "ddcb47c17f32"
+  },
+  "151": {
+   "file": "tub.md",
+   "rubrica": "Banche pubbliche residue",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "698a25be93db"
+  },
+  "152": {
+   "file": "tub.md",
+   "rubrica": "Casse comunali di credito agrario e Monti di credito su pegno di seconda categoria",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "ce38d03de357"
+  },
+  "153": {
+   "file": "tub.md",
+   "rubrica": "Disposizioni relative a particolari operazioni di credito",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "0ed8eadd6ca4"
+  },
+  "154": {
+   "file": "tub.md",
+   "rubrica": "Fondo interbancario di garanzia",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "8a79e7e9710b"
+  },
+  "155": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "2010-12-18",
+   "datazione": "api",
+   "h": "9bb170a664bf"
+  },
+  "156": {
+   "file": "tub.md",
+   "rubrica": "Modifica di disposizioni legislative",
+   "vigore_da": "2004-02-29",
+   "datazione": "api",
+   "h": "44f6452f6891"
+  },
+  "157": {
+   "file": "tub.md",
+   "rubrica": "Modifiche al decreto legislativo 27 gennaio 1992, n. 87",
+   "vigore_da": "2004-02-29",
+   "datazione": "api",
+   "h": "34606d9f357f"
+  },
+  "158": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "1996-09-01",
+   "datazione": "api",
+   "h": "57f6f5bb18f3"
+  },
+  "159": {
+   "file": "tub.md",
+   "rubrica": "Regioni a statuto speciale",
+   "vigore_da": "2016-12-13",
+   "datazione": "api",
+   "h": "f26ab5bbff60"
+  },
+  "159-bis": {
+   "file": "tub.md",
+   "rubrica": "Informazioni da inserire nei piani di risanamento",
+   "vigore_da": "2015-11-16",
+   "datazione": "api",
+   "h": "28ba4f4689c6"
+  },
+  "160": {
+   "file": "tub.md",
+   "rubrica": "",
+   "vigore_da": "1998-07-01",
+   "datazione": "api",
+   "h": "7e05c038758a"
+  },
+  "161": {
+   "file": "tub.md",
+   "rubrica": "Norme abrogate",
+   "vigore_da": "2015-06-27",
+   "datazione": "api",
+   "h": "f31e1f233196"
+  },
+  "162": {
+   "file": "tub.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "1994-01-01",
+   "datazione": "api",
+   "h": "b3a6cbadb11c"
+  }
+ }
+}

@@ -1,0 +1,1513 @@
+{
+ "schema": 1,
+ "generato_il": "2026-09-25T16:04Z",
+ "formato_indice": 2,
+ "repo": "piazzaed/studio-coccolo-corpus",
+ "fonti": {
+  "aggiornati_api": "ok",
+  "finestra": [
+   "2026-09-22",
+   "2026-09-25"
+  ],
+  "atti_dichiarati": 0,
+  "gu": "ok",
+  "gu_atti_normativi": 2
+ },
+ "atti": {
+  "cad": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-04-21",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 123,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "cad.md": {
+     "sha256": "5547a446a70d60491e35141fb1023cf77aa06f66abb1576545a71496288fe190",
+     "byte": 244858
+    },
+    "cad-indice.json": {
+     "sha256": "49e71c1c5e2e7f816a46086d3a74c0d83870966f114dc30b15dafec3ffd02664",
+     "byte": 28252
+    }
+   }
+  },
+  "cap": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-08-12",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 613,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "cap.md": {
+     "sha256": "d5a3cf105223ce45fc4c924989f5444586cb5d218252438c9e3a2e69f4fa3ded",
+     "byte": 1201384
+    },
+    "cap-indice.json": {
+     "sha256": "25c8c02ff93a483e67c3593b42b5e9a941a0bfdd3265d00725b3902abe92db4c",
+     "byte": 121581
+    }
+   }
+  },
+  "cc": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-06-12",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 3249,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "cc-1.md": {
+     "sha256": "45bb78298e5ee8b923363a58f9cfcb3971eb56fbbee6220638c38e78e28ba074",
+     "byte": 287606
+    },
+    "cc-2.md": {
+     "sha256": "7a07ca58d51e14e6f5ebe323b30d84307d807da933d447a5406f7b63e02162cb",
+     "byte": 200848
+    },
+    "cc-3.md": {
+     "sha256": "8ca98f013101898096257b39edede0e2953c0634bdda63a0ad9726ec1f1d94de",
+     "byte": 198704
+    },
+    "cc-4.md": {
+     "sha256": "5549b961822c970abed3c8896041fc4ba10ef7bd99d1eab2fffab5caeaf581e2",
+     "byte": 399849
+    },
+    "cc-5.md": {
+     "sha256": "5bb95dc9563b95bf1ba85f3302b478da089556a18b569ab6f406c063b0cd1704",
+     "byte": 626080
+    },
+    "cc-6.md": {
+     "sha256": "8283f98cd07ae37b11494031f959e67033963fd7661198a05bdd559c7cb55ebb",
+     "byte": 206909
+    },
+    "cc-indice.json": {
+     "sha256": "b1aebcc606a37e2e55030992aff54b689d77271770bb09f96ad6d469ed92520d",
+     "byte": 411834
+    }
+   }
+  },
+  "ccii": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-08-12",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 415,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "ccii.md": {
+     "sha256": "9ce1d29ac7ad5bfe3f9199168dd00d4f95064dae577093e87036219f0d34ed4e",
+     "byte": 747058
+    },
+    "ccii-indice.json": {
+     "sha256": "ac83e9beb638993d894ac8ebdeea541286fc654f5b0156a73c633c54683e9a30",
+     "byte": 76677
+    }
+   }
+  },
+  "cds": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-04-25",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 266,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "cds.md": {
+     "sha256": "bd22f34c0fa2a69fea6b5bf9e90c3c305d3496c8cbf45d8d09c2b199fe1bad69",
+     "byte": 1338153
+    },
+    "cds-indice.json": {
+     "sha256": "3b04f89936e6656f9a4c2c1b57800af16848bf8ee0cb3c34be01b38b014a8d4a",
+     "byte": 78100
+    }
+   }
+  },
+  "cod-consumo": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-06-19",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 242,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "cod-consumo.md": {
+     "sha256": "1ef13d5073e60b211b5aa7e6bab96b0b08130daa6e5abd39e650a7677d79d077",
+     "byte": 432810
+    },
+    "cod-consumo-indice.json": {
+     "sha256": "23073d0e3438c6473c08ddde183f886dfe81610cd416c4da7df5eef293a282bb",
+     "byte": 48610
+    }
+   }
+  },
+  "cost": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2023-10-22",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 139,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "cost.md": {
+     "sha256": "c18fc64df1e2fb81075af56643995a50645499746678cef43b1f0843904a859a",
+     "byte": 73829
+    },
+    "cost-indice.json": {
+     "sha256": "111a86d2da1e3a179d14512bc0a636d948a3f1a6d28c705fe8f3e85f9c099f0b",
+     "byte": 22047
+    }
+   }
+  },
+  "cp": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-07-16",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 996,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "cp-1.md": {
+     "sha256": "be2b325e2dd68350da7732fa0a4a31c05c38df27b37f5952c61ead95835ddab8",
+     "byte": 248264
+    },
+    "cp-2.md": {
+     "sha256": "18277ce687c076639f26198bf5ac57e4638e2384a7bdda56608bd2536ae34ddd",
+     "byte": 633046
+    },
+    "cp-3.md": {
+     "sha256": "1ff24e8b413e31d610a6a75dfc331f67bf8c0c08f62d82b7670857d7c17d5bb9",
+     "byte": 68735
+    },
+    "cp-indice.json": {
+     "sha256": "0a242ad1785622f5af18117387ef4d4d6946a6173c18235794928214e677ebb2",
+     "byte": 170270
+    }
+   }
+  },
+  "cpc": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-06-12",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 1056,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "cpc-1.md": {
+     "sha256": "3a26e390e9597b14dab70b33a29d614ef3a7f8dd745349d540da25d9ee53ed75",
+     "byte": 178225
+    },
+    "cpc-2.md": {
+     "sha256": "19dc1efa750d61de17161d1c392071f727ddac0ea1513548717268789e08317f",
+     "byte": 646027
+    },
+    "cpc-3.md": {
+     "sha256": "d3a4f46d0d66cd9998cba5627d3175bb16d280b3322642d3244afaa19c8b2012",
+     "byte": 379949
+    },
+    "cpc-4.md": {
+     "sha256": "8ea3cefc4adab30fc12ef256ebf345075a24a860cb98831f7bd0b7a86b26c43a",
+     "byte": 342221
+    },
+    "cpc-indice.json": {
+     "sha256": "9ccd24ce99a68928ed3b43158b5b19117aee8cdb27f0ba3ed0c670dccde0bdcc",
+     "byte": 144143
+    }
+   }
+  },
+  "disp-att-cc": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-04-29",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 314,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "disp-att-cc.md": {
+     "sha256": "5539d10bdf5d6decbd81d255d7de0fae2b5e30392f7b45c3db42880bc66031ec",
+     "byte": 199586
+    },
+    "disp-att-cc-indice.json": {
+     "sha256": "37a51e4b755ff10ef0aaddfcdd94c73ef8db90291cc70e390659d7ea77fb21e3",
+     "byte": 36181
+    }
+   }
+  },
+  "disp-att-cpc": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2024-11-26",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 307,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "disp-att-cpc.md": {
+     "sha256": "6057621324bf3320381ac34cf471f5cd807cb59f5f6cd3968bd1fee363a6a9a5",
+     "byte": 321249
+    },
+    "disp-att-cpc-indice.json": {
+     "sha256": "80c76512664aeacb171432095ab2754ef2baef344c1e3b1a220bee29c2ca1398",
+     "byte": 47911
+    }
+   }
+  },
+  "dl-1-2012": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-01-10",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 120,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dl-1-2012.md": {
+     "sha256": "9bbf78204be98a24e56916e031837e3faa2c05597a98cbcdacfebd3e366c4be3",
+     "byte": 316889
+    },
+    "dl-1-2012-indice.json": {
+     "sha256": "51b17a29c015e95f20951067dc26823c98d428b1eecbc250cc028dcba48f63c9",
+     "byte": 30245
+    }
+   }
+  },
+  "dl-132-2014": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2025-01-25",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 39,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dl-132-2014.md": {
+     "sha256": "29267b73731f577b080fe6d510d45cd363f7c7248ba42672286adfcd09d99eac",
+     "byte": 101484
+    },
+    "dl-132-2014-indice.json": {
+     "sha256": "e0f2742a8c9b6eb81e0ed72cbd7b4230f0e459c2648efb5b8a674e05c67b7c55",
+     "byte": 9749
+    }
+   }
+  },
+  "dl-179-2012": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-06-28",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 85,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dl-179-2012.md": {
+     "sha256": "5a38f0780089bd811a4c03cb73bd8d6d8a1d30c2579c594935520ddeec99f0a6",
+     "byte": 498569
+    },
+    "dl-179-2012-indice.json": {
+     "sha256": "461db35c2a87a3e960d3b72ef7aed291ada22fc56c5da4a59c3e1fafece5b258",
+     "byte": 27499
+    }
+   }
+  },
+  "dl-262-2006": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-08-12",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 48,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dl-262-2006.md": {
+     "sha256": "6632caa1b34631d7e8dbd660c843d176876e1a964252eea94fc90c6dab726685",
+     "byte": 155431
+    },
+    "dl-262-2006-indice.json": {
+     "sha256": "e6f55ea502a6361b586109bd8a0653fa157b929284fdc8266e446dc2adc64a6a",
+     "byte": 12944
+    }
+   }
+  },
+  "dl-394-2000": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2002-03-07",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 2,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dl-394-2000.md": {
+     "sha256": "dea8892fb2a33f9d7111aef28d7da13084033c44a51d624b01c4fefc80556c0d",
+     "byte": 3919
+    },
+    "dl-394-2000-indice.json": {
+     "sha256": "09518a646fdf43bbba7220725c3a2a28ea306c0726fec057f5348b7f299c9e09",
+     "byte": 1234
+    }
+   }
+  },
+  "dlgs-116-2017": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-06-12",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 46,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-116-2017.md": {
+     "sha256": "60ed6bbea586b623019cea3cb0e3b102306ef603a747141e3dabe37e702e4ac0",
+     "byte": 234594
+    },
+    "dlgs-116-2017-indice.json": {
+     "sha256": "192d7b6bdbad6f93051e560b398721f8dd8fbaadad5da5f6c20be88e42069b5d",
+     "byte": 11953
+    }
+   }
+  },
+  "dlgs-122-2005": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2022-03-03",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 18,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-122-2005.md": {
+     "sha256": "f26db39c58d0dc88f3a25f09769af948d9271870c6b3272c4863a2949b47cdab",
+     "byte": 47694
+    },
+    "dlgs-122-2005-indice.json": {
+     "sha256": "0dd2c833dfc37a669e756958a92b925359433661cdf0fc47fb729a2339343d52",
+     "byte": 5408
+    }
+   }
+  },
+  "dlgs-139-2024": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-06-04",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 11,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-139-2024.md": {
+     "sha256": "6cd3ab8b061e41bd2a634004dc84f60e3ba3a525bb569c4d7324a3b1baeea6b4",
+     "byte": 231203
+    },
+    "dlgs-139-2024-indice.json": {
+     "sha256": "e4ef37c7182b94cde995af38b537ae96bd9b1470fedd997aceb156ca092df61d",
+     "byte": 3529
+    }
+   }
+  },
+  "dlgs-149-2022": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-06-12",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 52,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-149-2022.md": {
+     "sha256": "5036a50cac0a4bbbacec2fb98e42e31dea7551abd9d712bd180cb4fd951c89a6",
+     "byte": 701003
+    },
+    "dlgs-149-2022-indice.json": {
+     "sha256": "6b5a54e64489b9d34eb7a205f73a61a9b1ba60ea61bfbc854678df932a9afb5d",
+     "byte": 12354
+    }
+   }
+  },
+  "dlgs-150-2011": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2025-03-29",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 39,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-150-2011.md": {
+     "sha256": "6de3ba21ae665da583f65aa7445d7b20dea07a064fd9718586750ca5d2988b74",
+     "byte": 205422
+    },
+    "dlgs-150-2011-indice.json": {
+     "sha256": "3005e9ab7a2d21fadff5a32a6da1189be47af83b3d6ead51489c8f233ba207e8",
+     "byte": 11689
+    }
+   }
+  },
+  "dlgs-164-2024": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-09-23",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 8,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-164-2024.md": {
+     "sha256": "780b6398122249c1df024e37f654a02ead0804cfe666340fc10c0162f2b84016",
+     "byte": 323903
+    },
+    "dlgs-164-2024-indice.json": {
+     "sha256": "6716195ed1fbaaa0f9a1975940d3b9dc8d0da7a747636e5cf0131c1f83960c3c",
+     "byte": 2209
+    }
+   }
+  },
+  "dlgs-196-2003": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-02-20",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 221,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-196-2003.md": {
+     "sha256": "5c28a8f3b74973dfc349cad90ea1e74efebf9fd0e81bd8105212d755190b69cf",
+     "byte": 216757
+    },
+    "dlgs-196-2003-indice.json": {
+     "sha256": "3ad5e35d57016520fafc9c83d9b6a23a11433a05a65069212736e080aee7dbc1",
+     "byte": 43019
+    }
+   }
+  },
+  "dlgs-23-2015": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2025-07-24",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 12,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-23-2015.md": {
+     "sha256": "ee5d9c622e9666f1dbb38480745973d7fc9454f2a127ff490a0815ac2fda7df2",
+     "byte": 36430
+    },
+    "dlgs-23-2015-indice.json": {
+     "sha256": "4a5eff5836a7f6708038fb2078ad52bf22fe141db822d94cb9e3e7dc435b786f",
+     "byte": 4033
+    }
+   }
+  },
+  "dlgs-231-2001": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-07-16",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 109,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-231-2001.md": {
+     "sha256": "bea7ae84c58eb18f2699a63674e5389994129fc396c7352e1b45cef23f9a9f41",
+     "byte": 160054
+    },
+    "dlgs-231-2001-indice.json": {
+     "sha256": "703e79437ad426cdea33470e7a1edf328e06751e9570f1ca8f09155fdc17494f",
+     "byte": 27602
+    }
+   }
+  },
+  "dlgs-231-2002": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2020-01-01",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 13,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-231-2002.md": {
+     "sha256": "023a861013cc71fb66eab90b10eb6d8eb8305a902a5311f6cc83a258f6181510",
+     "byte": 27874
+    },
+    "dlgs-231-2002-indice.json": {
+     "sha256": "2bb4f3a7c8450dc93f146e140c7bb598270d921559c47e0ef7b3be21e011be7c",
+     "byte": 3708
+    }
+   }
+  },
+  "dlgs-25-2008": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-07-16",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 55,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-25-2008.md": {
+     "sha256": "6b90b5446b4e4523913f584ee4305b5311afdf39078fc025993d0e8825fe28e2",
+     "byte": 121763
+    },
+    "dlgs-25-2008-indice.json": {
+     "sha256": "e6c0901b173f245f5c5478326e01ba731f69585c446c096597e9a1a7a2d5ab46",
+     "byte": 13610
+    }
+   }
+  },
+  "dlgs-28-2010": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-01-01",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 44,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-28-2010.md": {
+     "sha256": "af63d08d4799dfb0ec6349d20b70727f81c4ff0cf551af553b03509147b68006",
+     "byte": 91624
+    },
+    "dlgs-28-2010-indice.json": {
+     "sha256": "4f40c40630163bc86216667cf6689887c9b5672d41d1173e7cf8f84b4cd3c1c1",
+     "byte": 10561
+    }
+   }
+  },
+  "dlgs-286-1998": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-07-16",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 79,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-286-1998.md": {
+     "sha256": "18bfa8681b84da643667511a711e1b8dc4c2f4dbed56793a70f173588b4a254d",
+     "byte": 464596
+    },
+    "dlgs-286-1998-indice.json": {
+     "sha256": "d938ec58646de5a8d6771e89d22040ea5024d234b9dcd910cc2b1000d52c4bdc",
+     "byte": 30750
+    }
+   }
+  },
+  "dlgs-81-2015": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-06-28",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 66,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dlgs-81-2015.md": {
+     "sha256": "9e68dfa14b328b5ee9e871111cdb7afbb0564e4675723f1380c379f4c91e4634",
+     "byte": 232022
+    },
+    "dlgs-81-2015-indice.json": {
+     "sha256": "b6a4a051864dd878eaff004e4e01c9974ffc94864b249d2e0e971daba713c057",
+     "byte": 18761
+    }
+   }
+  },
+  "dm-110-2023": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-09-23",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 12,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dm-110-2023.md": {
+     "sha256": "1f8fcdfeda05f6fe5c05a515bb88c7d00b823e4a17174ade6f0c222ae5961b88",
+     "byte": 36672
+    },
+    "dm-110-2023-indice.json": {
+     "sha256": "f40c09d25a1f62de8d3c6ab72d72603837b575d0004317bd46b5b2ba4ac02f3c",
+     "byte": 2862
+    }
+   }
+  },
+  "dm-44-2011": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2024-01-15",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 39,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dm-44-2011.md": {
+     "sha256": "1b80e80b8e1c776a1b2b08c985bfb8391d98c8af2f3872b8c8a8f23db87f6d34",
+     "byte": 92799
+    },
+    "dm-44-2011-indice.json": {
+     "sha256": "db5ae0f5e3ce482ec9f66e44dfa0bb6498e99dce698a089b867380c6fed79ddf",
+     "byte": 8269
+    }
+   }
+  },
+  "dm-55-2014": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2022-10-23",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 30,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dm-55-2014.md": {
+     "sha256": "169c654cd133a2ad1cca7617a64f181e894e08b10b5304eace30430b3a592053",
+     "byte": 41055
+    },
+    "dm-55-2014-indice.json": {
+     "sha256": "7567cd86a786c3b1bb2d408935095d1e575a39e1599637e1b8914188e07cb820",
+     "byte": 6322
+    }
+   }
+  },
+  "dpr-115-2002": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-08-26",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 316,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dpr-115-2002.md": {
+     "sha256": "ab26ac8f3ff0b610e5c312bc3ddec17c9b65432adbe5813fd90a7b3c2da74837",
+     "byte": 395234
+    },
+    "dpr-115-2002-indice.json": {
+     "sha256": "a402898f1207e78784cf4286df74858df251acedf7ed7442d6ead672a534ca9f",
+     "byte": 72114
+    }
+   }
+  },
+  "dpr-131-1986": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-06-04",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 84,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dpr-131-1986.md": {
+     "sha256": "9c42e25a6450acd64c018be564a6f14f0cf873dfb4699e7411a8c1652a2d9922",
+     "byte": 143369
+    },
+    "dpr-131-1986-indice.json": {
+     "sha256": "a255399b3916d7fd545e201d400d25e12eae8b2b052cfa563896771ebadc1f77",
+     "byte": 30083
+    }
+   }
+  },
+  "dpr-380-2001": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-03-01",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 151,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dpr-380-2001.md": {
+     "sha256": "87015b1c68a9e16bfb9ecfd6d2f5fb07fd6b43580b34609031282725bf8917d1",
+     "byte": 297974
+    },
+    "dpr-380-2001-indice.json": {
+     "sha256": "fd7e9bd4447ca81d94b29be87310678259f4ec004a9342c6efa63698d83aa651",
+     "byte": 49217
+    }
+   }
+  },
+  "dpr-394-1999": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2025-02-25",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 75,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dpr-394-1999.md": {
+     "sha256": "722532e8d12abeb4688dae27523a15336ab492fc07227ed7b39264df23da147e",
+     "byte": 210108
+    },
+    "dpr-394-1999-indice.json": {
+     "sha256": "f91ac58b14c2148afae1c35104eb0e5c724ec21e62f96fac3223d7162fcc08df",
+     "byte": 18254
+    }
+   }
+  },
+  "dpr-445-2000": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-02-19",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 92,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dpr-445-2000.md": {
+     "sha256": "dcdaf4761ece4bae0d564db47f88089b329f19d8c9f90799e4665c805a5fc427",
+     "byte": 116736
+    },
+    "dpr-445-2000-indice.json": {
+     "sha256": "7a1e479f1a87a2a5ae5aa5c49adae3ed3b1b5b517d182e14e72df7debd61b55d",
+     "byte": 22604
+    }
+   }
+  },
+  "dpr-602-1973": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-05-23",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 135,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "dpr-602-1973.md": {
+     "sha256": "41dd1b17858bf7873c590bbdf72636788949c0ea44e98575e4331158e3b4ac02",
+     "byte": 193560
+    },
+    "dpr-602-1973-indice.json": {
+     "sha256": "f74fac8c0aed7de76f551abd18cbeaaaf0a5907966b5a4dea3ac28fe7e53ec98",
+     "byte": 45312
+    }
+   }
+  },
+  "l-104-1992": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-04-21",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 48,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-104-1992.md": {
+     "sha256": "e46b8ea756167e40f832ad9f3f6c6c7e18e1eaf65a94b50e38906420d3498717",
+     "byte": 176537
+    },
+    "l-104-1992-indice.json": {
+     "sha256": "878674365058b9091cf55d51cb913e4d8bf63bd14fd63b729152faae5247c72b",
+     "byte": 13644
+    }
+   }
+  },
+  "l-108-1996": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2025-08-10",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 19,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-108-1996.md": {
+     "sha256": "d6786e477b7b3a45f77c9715b4eae5a45b37a2caa9bf455f7048f6b0d812c5a0",
+     "byte": 77001
+    },
+    "l-108-1996-indice.json": {
+     "sha256": "6eb9f76821a2e512b1177812544b6e258b05e221ebbb924be9b4ee2536602176",
+     "byte": 6447
+    }
+   }
+  },
+  "l-13-1989": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2020-07-17",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 12,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-13-1989.md": {
+     "sha256": "4676bc84c66707007afc835af9b1ca6d04ed84ca3811703d186d8d8564cbbb82",
+     "byte": 20503
+    },
+    "l-13-1989-indice.json": {
+     "sha256": "462f61d3eafddba98d5db21467a4e3dc667ffae651d4b6c2ddc691b53e85a2c5",
+     "byte": 2714
+    }
+   }
+  },
+  "l-130-1999": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-08-07",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 32,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-130-1999.md": {
+     "sha256": "918fac2395ad34444986d0eb7b89d21ec65049cdf7c9c58c32b2803516916fe3",
+     "byte": 85986
+    },
+    "l-130-1999-indice.json": {
+     "sha256": "45f2c0c4dfff15406826181c88ca8ce679a83b6449f70ba0b529c91caa0cbd5e",
+     "byte": 8571
+    }
+   }
+  },
+  "l-218-1995": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2023-01-01",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 80,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-218-1995.md": {
+     "sha256": "6345f2051b4753aa11bcc952cab48076b04ab55112c02aa5aeaf5e435a7954eb",
+     "byte": 46015
+    },
+    "l-218-1995-indice.json": {
+     "sha256": "391e8f460c54a5d26d86ad526ed6b67828f7fe44aedc68333934edb0547bc4c9",
+     "byte": 15426
+    }
+   }
+  },
+  "l-24-2017": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2023-01-01",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 18,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-24-2017.md": {
+     "sha256": "51138e93b204ac8fdbd3ede8c163dc1220ec8e039addffa9e119cb365e4be047",
+     "byte": 72584
+    },
+    "l-24-2017-indice.json": {
+     "sha256": "6231a2f92ff25e399d105f26ec9c63d748d9cd84ff16056a7e74249126e9a1fd",
+     "byte": 4824
+    }
+   }
+  },
+  "l-241-1990": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-04-21",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 51,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-241-1990.md": {
+     "sha256": "24d83d95682b2c89e37aaa1d47072e04fe11fbc89b75532325a9ed406bcd4c2d",
+     "byte": 104929
+    },
+    "l-241-1990-indice.json": {
+     "sha256": "ad384f455e0f8d91718599c8c94362b65c04f9e230bce1f28f80534952c2755d",
+     "byte": 16782
+    }
+   }
+  },
+  "l-247-2012": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-08-26",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 69,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-247-2012.md": {
+     "sha256": "fa80967b052f1f6c7e8647131dd9509129258a3ec2449c148f8ecf4aea25b3d6",
+     "byte": 187471
+    },
+    "l-247-2012-indice.json": {
+     "sha256": "5f6352f4761626f8ce1ed8ae7a6818bb464c517e837936a7ab068a6abe9ba934",
+     "byte": 16446
+    }
+   }
+  },
+  "l-287-1990": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2024-08-10",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 53,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-287-1990.md": {
+     "sha256": "6702a7d5b868fc122d53f676897e343964704908fb98f18ea87a05ed4348b81e",
+     "byte": 99128
+    },
+    "l-287-1990-indice.json": {
+     "sha256": "fff145a00b96d819bbdf4910e6e50181b03c4744a6e3f59e3b19bb51aa9ff2ac",
+     "byte": 12864
+    }
+   }
+  },
+  "l-300-1970": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2025-11-06",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 41,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-300-1970.md": {
+     "sha256": "c84b227d5b74204fd2d0978b0a1b07ad2f6349ad35628e42bb56588a776696e1",
+     "byte": 53993
+    },
+    "l-300-1970-indice.json": {
+     "sha256": "29d172529649d145cb5f48a56fb4b26f20dab4365d0dc3e79f72287715029e83",
+     "byte": 11629
+    }
+   }
+  },
+  "l-392-1978": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-01-01",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 85,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-392-1978.md": {
+     "sha256": "e057f225f4cd9bc5898b7523954b4ca2d9466a4ec22e0eaf709ca0ecb2861573",
+     "byte": 100079
+    },
+    "l-392-1978-indice.json": {
+     "sha256": "30037b83a25834ddc97363910aacd1d4f251c4b2efc5cdfed037ff6b25611db2",
+     "byte": 18302
+    }
+   }
+  },
+  "l-431-1998": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2020-01-01",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 16,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-431-1998.md": {
+     "sha256": "e1b69bffbffb62d553de7467ed6052b1c34457086c293d9e4f62df76c4efcd43",
+     "byte": 59263
+    },
+    "l-431-1998-indice.json": {
+     "sha256": "55a3c3d39fdb822fca60fe19e0325cfd54ff120aedf0928dc4cbd2f42b7037e2",
+     "byte": 5626
+    }
+   }
+  },
+  "l-47-1985": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2024-10-10",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 53,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-47-1985.md": {
+     "sha256": "e74b33a82267b5bdcd93abaef74b8aa16873d7e2ba2db7448e3e5213f358cee8",
+     "byte": 79465
+    },
+    "l-47-1985-indice.json": {
+     "sha256": "85655eacbd9c3410ddbeac24abe3f5643a62d5d1d6ee490dda493a404a842011",
+     "byte": 12018
+    }
+   }
+  },
+  "l-49-2023": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-09-23",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 13,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-49-2023.md": {
+     "sha256": "e0a477d9f60b9236ff6defb9f2339a9840c01e60b0ed1b38bb477ba9b4948d0b",
+     "byte": 39851
+    },
+    "l-49-2023-indice.json": {
+     "sha256": "9b4c0075053b8f6eb4f87bf6b37a7daa6d1648a44c45774422554a8e15b6ffb7",
+     "byte": 2801
+    }
+   }
+  },
+  "l-53-1994": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2024-11-26",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 14,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-53-1994.md": {
+     "sha256": "9045b008975addc622881bee554770b471ecfdf1fe242499757fd6863fbd59da",
+     "byte": 27979
+    },
+    "l-53-1994-indice.json": {
+     "sha256": "392bd1ffce5a65548fb4131028f7c5c47b7a9cbb10d471a592c79d1e6cac7002",
+     "byte": 4171
+    }
+   }
+  },
+  "l-590-1965": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2022-07-16",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 39,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-590-1965.md": {
+     "sha256": "2811196db1541bfae20add9fb52262e81882e2479ada060c0806a19e97f1e140",
+     "byte": 40829
+    },
+    "l-590-1965-indice.json": {
+     "sha256": "592e4c711b5b5f996e6bb9bd9bf41c258de0e646de9c9a6ff8fbab63f17fb28b",
+     "byte": 7615
+    }
+   }
+  },
+  "l-689-1981": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-05-29",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 159,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-689-1981.md": {
+     "sha256": "097b9bb34b3ed1dd5a03c7977ed0b0b541cb695a5b61a665269c4b0ed9593b98",
+     "byte": 159489
+    },
+    "l-689-1981-indice.json": {
+     "sha256": "1ac905008b867dbae362391ab30083fbfa87465dd573ded6a242a6584561ae36",
+     "byte": 37636
+    }
+   }
+  },
+  "l-742-1969": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2015-08-21",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 6,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-742-1969.md": {
+     "sha256": "fe2a7967d4e56f982ae0c909fbe4e45eaa06ea1bb1333084750894ace98980c7",
+     "byte": 8015
+    },
+    "l-742-1969-indice.json": {
+     "sha256": "2ba9f6c48494adc46a2e293c49189cbac10525e2a2bb5f7071188293611fd91e",
+     "byte": 2837
+    }
+   }
+  },
+  "l-76-2016": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2024-04-25",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 1,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-76-2016.md": {
+     "sha256": "b9fce559b0c063da049ebdc84dce93aef274dafcc1afa367a085dd71cc5266f5",
+     "byte": 28671
+    },
+    "l-76-2016-indice.json": {
+     "sha256": "b9fcd3a90c5f039ec737512c624cb9a6427924ac882cf19800f769929c620675",
+     "byte": 1194
+    }
+   }
+  },
+  "l-817-1971": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2016-08-25",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 18,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-817-1971.md": {
+     "sha256": "3d245cead5e776a32ce4e8766a3f1ac1b510106f8c6f9cfd4221e079f1e8a016",
+     "byte": 19820
+    },
+    "l-817-1971-indice.json": {
+     "sha256": "51f61230267e629c8f4f1c4522bedcda2dc00f34921a38ab115287d140b032b5",
+     "byte": 3655
+    }
+   }
+  },
+  "l-89-2001": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-06-12",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 15,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-89-2001.md": {
+     "sha256": "01a49df9e288bfe332bd1c31e27cb8e4167376953cf4ac4e7f26f0bc219ebaaf",
+     "byte": 39374
+    },
+    "l-89-2001-indice.json": {
+     "sha256": "541f9018d794f19f1294abc70daf6343b98622a1f8de845deed4637bb7a96be3",
+     "byte": 5563
+    }
+   }
+  },
+  "l-898-1970": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2024-11-26",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 16,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "l-898-1970.md": {
+     "sha256": "60a0d4f21d80c545342b0f6ab4204aff02a31090a22614dac80b3e647d0ba5a3",
+     "byte": 19496
+    },
+    "l-898-1970-indice.json": {
+     "sha256": "4ebdd605ff491d28391903cad032e1b83b41c02158f500fc4816c33e3510fb75",
+     "byte": 4425
+    }
+   }
+  },
+  "preleggi": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-06-12",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 31,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "preleggi.md": {
+     "sha256": "ca5be532e90875846cdec3cb0e81a4e62f0c17cc65a8a7c432870f263c79557d",
+     "byte": 6766
+    },
+    "preleggi-indice.json": {
+     "sha256": "d4d9d7bb9c98f312e51638da39d7f399acc44df9cc241952bad9fea13b710f40",
+     "byte": 44473
+    }
+   }
+  },
+  "rd-267-1942": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2023-01-01",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 301,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "rd-267-1942.md": {
+     "sha256": "fa3baecf9b4e95843fba8ca607dff8728c9f08745dc5e3c8c03f5efea9d301fb",
+     "byte": 390477
+    },
+    "rd-267-1942-indice.json": {
+     "sha256": "2fc0927fefd8a0a92a967a16d2a304376b5469b37cc859fdce2cafd04cf13c0c",
+     "byte": 47547
+    }
+   }
+  },
+  "reg-cds": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2025-03-11",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 409,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "reg-cds.md": {
+     "sha256": "5b8934e87ef20b7234f2ed14522c54752982194fa611393f0aef67ed88b496f6",
+     "byte": 801255
+    },
+    "reg-cds-indice.json": {
+     "sha256": "5a866fdcc4a5c3d4d8fc3ed3f3e18e0d064459d72bab35c95739d3dc30588148",
+     "byte": 82051
+    }
+   }
+  },
+  "tu-347-1990": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-08-12",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 21,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "tu-347-1990.md": {
+     "sha256": "3a32a36ec36700d467f290f25cff83abe3b4043d62b89fc175b6633b7364b40f",
+     "byte": 20723
+    },
+    "tu-347-1990-indice.json": {
+     "sha256": "7f79007090bc0ab2257001e765f6bd093a8566aff0bf8fea6473dab3de94cbba",
+     "byte": 5874
+    }
+   }
+  },
+  "tub": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-06-19",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 388,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "tub.md": {
+     "sha256": "47e9384488b45445bf876adf4411c8d005f6b8635e5ccbb09438b25abcaddbbd",
+     "byte": 954464
+    },
+    "tub-indice.json": {
+     "sha256": "fe72ea420b1813015dc4fa643786e4b3b4043a4bd67c56be6723d43c6f13d137",
+     "byte": 80901
+    }
+   }
+  },
+  "tuel": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-08-08",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 294,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "tuel.md": {
+     "sha256": "5bfbe8df9319a4282f69bdd1e2e4391bb6eb0a1eaec12910c7d5921932060a12",
+     "byte": 614285
+    },
+    "tuel-indice.json": {
+     "sha256": "ac6b066c5568aa0f1ba2b77aeba22875f9436b2d1d831c8f3d75786c4067b7ab",
+     "byte": 68912
+    }
+   }
+  },
+  "tuf": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-08-07",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 572,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "tuf.md": {
+     "sha256": "084ef6e67adad847153061041f6e92c23c704cb9cc5134dbdcf50f4592bf8df1",
+     "byte": 1506968
+    },
+    "tuf-indice.json": {
+     "sha256": "a0d178d622180898b72eba8d634468831d34a8b63beee97574613bfed716b09f",
+     "byte": 118151
+    }
+   }
+  },
+  "tuir": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-08-27",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 236,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "tuir.md": {
+     "sha256": "28ca9b3dc2050569fadfea36756d5c629f3e9cdc893efd77301aa273ad495fbd",
+     "byte": 951869
+    },
+    "tuir-indice.json": {
+     "sha256": "35bea9888ee5ae27a4f93f54be9ca72763b559630a55c53f42dfb9421d1f5dea",
+     "byte": 74727
+    }
+   }
+  },
+  "tus": {
+   "snapshot": "2026-09-23",
+   "consolidato": "2026-08-12",
+   "verificato_il": "2026-09-25",
+   "esito": "confermato_api",
+   "articoli": 66,
+   "formato": 2,
+   "in_movimento": false,
+   "articoli_in_movimento": [],
+   "file": {
+    "tus.md": {
+     "sha256": "d2e2143a69b14bf310d1903e9ea64b25c1424ef6bcc35f9f8de3cc8db91a9f88",
+     "byte": 152648
+    },
+    "tus-indice.json": {
+     "sha256": "0233b81d6bd6454c5772d1d9800f84ca255a88fe600e77a894809b6081c72800",
+     "byte": 14433
+    }
+   }
+  }
+ },
+ "codici": {
+  "file": "wiki-studio/normativa/codici.json",
+  "sha256": "3481ff9b12c8930eb849f5d6922305bbb3b435ebbb24d9466b6abbda08c54bd0",
+  "byte": 38704
+ },
+ "cassazione": {
+  "file": {
+   "indice.json": {
+    "sha256": "9993492c58d7c364bddd697107874952d841e7ae5faae1cbae7119134cc5e78d",
+    "byte": 1533
+   },
+   "snciv-2021.tsv.gz": {
+    "sha256": "251ac36e5d6b4e0bd7ff718c098e95662858821e54488a78e5e21e4822ddd24d",
+    "byte": 92847
+   },
+   "snciv-2022.tsv.gz": {
+    "sha256": "1788f39377a56efec104796bbfb7060e3319f42acebc2581e01e16fb4afe5f31",
+    "byte": 226834
+   },
+   "snciv-2023.tsv.gz": {
+    "sha256": "6c07a615570f7db2bd4b9496085a6ffd9266fe17738584880795794cd7305ce4",
+    "byte": 232396
+   },
+   "snciv-2024.tsv.gz": {
+    "sha256": "b386db9ef3836174555b115c8d993c728118cd0c978929c0392fe980544aeb4b",
+    "byte": 226274
+   },
+   "snciv-2025.tsv.gz": {
+    "sha256": "a35ac761b59792edd6627a048123d894bf9aca16b6b2ce4ba2aa9ad0e160cb36",
+    "byte": 215786
+   },
+   "snciv-2026.tsv.gz": {
+    "sha256": "61cd4cdefe7b49b6a81b427ef6d3f782ddd3b24ffedee6739ee1c60fd75db754",
+    "byte": 161030
+   }
+  },
+  "colonne": [
+   "numdec",
+   "sezione",
+   "tipo",
+   "data_decisione",
+   "data_deposito",
+   "materia"
+  ],
+  "copertura_da": 2021,
+  "fonte": "SentenzeWeb — Corte suprema di cassazione (italgiure.giustizia.it), indice Solr",
+  "kind": "snciv",
+  "tipi": {
+   "D": "Decreto",
+   "O": "Ordinanza",
+   "OI": "Ordinanza Interlocutoria",
+   "S": "Sentenza"
+  },
+  "verificato_il": "2026-09-25"
+ }
+}

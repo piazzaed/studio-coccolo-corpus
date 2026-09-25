@@ -1,0 +1,174 @@
+{
+ "_meta": {
+  "codice": "dlgs-23-2015",
+  "nome": "Contratto a tutele crescenti (D.Lgs. 23/2015)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2025-07-24",
+  "articoli": 12,
+  "file": [
+   "dlgs-23-2015.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2015-03-04;23",
+  "versioni": [
+   {
+    "data": "2015-03-06",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2018-07-13",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 12 luglio 2018, n. 87"
+   },
+   {
+    "data": "2018-11-14",
+    "evento": "rp2",
+    "atto_modificante": "atto modificante non indicato (rp2)"
+   },
+   {
+    "data": "2018-12-31",
+    "evento": "rp3",
+    "atto_modificante": "L. 30 dicembre 2018, n. 145"
+   },
+   {
+    "data": "2019-02-14",
+    "evento": "rp4",
+    "atto_modificante": "D.Lgs. 12 gennaio 2019, n. 14"
+   },
+   {
+    "data": "2020-04-08",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 8 aprile 2020, n. 23"
+   },
+   {
+    "data": "2020-07-22",
+    "evento": "rp6",
+    "atto_modificante": "atto modificante non indicato (rp6)"
+   },
+   {
+    "data": "2021-08-24",
+    "evento": "rp7",
+    "atto_modificante": "D.L. 24 agosto 2021, n. 118"
+   },
+   {
+    "data": "2022-04-30",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 30 aprile 2022, n. 36"
+   },
+   {
+    "data": "2024-02-28",
+    "evento": "rp9",
+    "atto_modificante": "atto modificante non indicato (rp9)"
+   },
+   {
+    "data": "2024-07-17",
+    "evento": "rp10",
+    "atto_modificante": "atto modificante non indicato (rp10)"
+   },
+   {
+    "data": "2025-07-23",
+    "evento": "rp11",
+    "atto_modificante": "atto modificante non indicato (rp11)"
+   }
+  ],
+  "ultima_versione": "2025-07-23",
+  "datazione": {
+   "monoblocco": 12,
+   "api": 12,
+   "ignota": 0,
+   "stima_anteriore": 11,
+   "stima_posteriore": 1,
+   "chiamate": 12,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dlgs-23-2015.md",
+   "rubrica": "Campo di applicazione",
+   "vigore_da": "2015-03-07",
+   "datazione": "api",
+   "h": "0c1f1658e30e"
+  },
+  "2": {
+   "file": "dlgs-23-2015.md",
+   "rubrica": "Licenziamento discriminatorio, nullo e intimato in forma orale",
+   "vigore_da": "2024-02-29",
+   "datazione": "api",
+   "h": "a42864596ea0"
+  },
+  "3": {
+   "file": "dlgs-23-2015.md",
+   "rubrica": "Licenziamento per giustificato motivo e giusta causa",
+   "vigore_da": "2024-07-18",
+   "datazione": "api",
+   "h": "fb519e4fd65a"
+  },
+  "4": {
+   "file": "dlgs-23-2015.md",
+   "rubrica": "Vizi formali e procedurali",
+   "vigore_da": "2020-07-23",
+   "datazione": "api",
+   "h": "7f0d1e012264"
+  },
+  "5": {
+   "file": "dlgs-23-2015.md",
+   "rubrica": "Revoca del licenziamento",
+   "vigore_da": "2015-03-07",
+   "datazione": "api",
+   "h": "e0e1941909af"
+  },
+  "6": {
+   "file": "dlgs-23-2015.md",
+   "rubrica": "Offerta di conciliazione",
+   "vigore_da": "2019-01-01",
+   "datazione": "api",
+   "h": "73af3a19e6c8"
+  },
+  "7": {
+   "file": "dlgs-23-2015.md",
+   "rubrica": "Computo dell'anzianita' negli appalti",
+   "vigore_da": "2015-03-07",
+   "datazione": "api",
+   "h": "11c8f0bfaf8b"
+  },
+  "8": {
+   "file": "dlgs-23-2015.md",
+   "rubrica": "",
+   "vigore_da": "2015-03-07",
+   "datazione": "api",
+   "h": "7f60ab83741a"
+  },
+  "9": {
+   "file": "dlgs-23-2015.md",
+   "rubrica": "Piccole imprese e organizzazioni di tendenza",
+   "vigore_da": "2025-07-24",
+   "datazione": "api",
+   "h": "639cd9b062aa"
+  },
+  "10": {
+   "file": "dlgs-23-2015.md",
+   "rubrica": "Licenziamento collettivo",
+   "vigore_da": "2020-08-15",
+   "datazione": "api",
+   "h": "108bda5cef05"
+  },
+  "11": {
+   "file": "dlgs-23-2015.md",
+   "rubrica": "Rito applicabile",
+   "vigore_da": "2015-03-07",
+   "datazione": "api",
+   "h": "1900195e1a25"
+  },
+  "12": {
+   "file": "dlgs-23-2015.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2015-03-07",
+   "datazione": "api",
+   "h": "8b036c8cf316"
+  }
+ }
+}

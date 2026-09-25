@@ -1,0 +1,6958 @@
+{
+ "_meta": {
+  "codice": "cp",
+  "nome": "Codice penale",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-07-16",
+  "articoli": 996,
+  "file": [
+   "cp-1.md",
+   "cp-2.md",
+   "cp-3.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:regio.decreto:1930-10-19;1398:1",
+  "versioni": [
+   {
+    "data": "1930-10-26",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1942-03-05",
+    "evento": "rp1",
+    "atto_modificante": "L. 9 febbraio 1942, n. 97"
+   },
+   {
+    "data": "1942-06-11",
+    "evento": "rp2",
+    "atto_modificante": "Regio Decreto Legge 11 giugno 1942, n. 584"
+   },
+   {
+    "data": "1942-07-20",
+    "evento": "rp3",
+    "atto_modificante": "L. 13 giugno 1942, n. 788"
+   },
+   {
+    "data": "1942-08-01",
+    "evento": "rp4",
+    "atto_modificante": "L. 27 giugno 1942, n. 827"
+   },
+   {
+    "data": "1944-03-18",
+    "evento": "rp5",
+    "atto_modificante": "Regio Decreto Legge 13 marzo 1944, n. 75"
+   },
+   {
+    "data": "1944-10-05",
+    "evento": "rp6",
+    "atto_modificante": "Decreto Legislativo Luogotenenziale 10 agosto 1944, n. 224"
+   },
+   {
+    "data": "1944-11-09",
+    "evento": "rp7",
+    "atto_modificante": "Decreto Legislativo Luogotenenziale 14 settembre 1944, n. 288"
+   },
+   {
+    "data": "1945-05-24",
+    "evento": "rp8",
+    "atto_modificante": "Decreto Legislativo Luogotenenziale 10 maggio 1945, n. 234"
+   },
+   {
+    "data": "1945-11-03",
+    "evento": "rp9",
+    "atto_modificante": "Decreto Legislativo Luogotenenziale 5 ottobre 1945, n. 679"
+   },
+   {
+    "data": "1946-11-29",
+    "evento": "rp10",
+    "atto_modificante": "Decreto Legislativo Del Capo Provvisorio Dello Stato 20 novembre 1946, n. 340"
+   },
+   {
+    "data": "1947-02-10",
+    "evento": "rp11",
+    "atto_modificante": "Decreto Legislativo Del Capo Provvisorio Dello Stato 11 dicembre 1946, n. 653"
+   },
+   {
+    "data": "1947-11-22",
+    "evento": "rp12+rp13",
+    "atto_modificante": "Decreto Legislativo Del Capo Provvisorio Dello Stato 21 ottobre 1947, n. 1250; Decreto Legislativo Del Capo Provvisorio Dello Stato 26 ottobre 1947, n. 1252"
+   },
+   {
+    "data": "1947-12-03",
+    "evento": "rp14",
+    "atto_modificante": "L. 11 novembre 1947, n. 1317"
+   },
+   {
+    "data": "1947-12-15",
+    "evento": "rp15",
+    "atto_modificante": "Decreto Legislativo Del Capo Provvisorio Dello Stato 8 novembre 1947, n. 1382"
+   },
+   {
+    "data": "1948-12-29",
+    "evento": "rp16",
+    "atto_modificante": "D.P.R. 27 dicembre 1948, n. 1464"
+   },
+   {
+    "data": "1953-02-10",
+    "evento": "rp17",
+    "atto_modificante": "D.P.R. 5 febbraio 1953, n. 39"
+   },
+   {
+    "data": "1953-07-10",
+    "evento": "rp18",
+    "atto_modificante": "D.P.R. 25 giugno 1953, n. 492"
+   },
+   {
+    "data": "1953-12-21",
+    "evento": "rp19",
+    "atto_modificante": "D.P.R. 19 dicembre 1953, n. 922"
+   },
+   {
+    "data": "1956-04-03",
+    "evento": "rp20",
+    "atto_modificante": "L. 23 marzo 1956, n. 167"
+   },
+   {
+    "data": "1956-07-04",
+    "evento": "rp21",
+    "atto_modificante": "L. 22 giugno 1956, n. 586"
+   },
+   {
+    "data": "1957-08-07",
+    "evento": "rp22",
+    "atto_modificante": "L. 30 luglio 1957, n. 655"
+   },
+   {
+    "data": "1958-03-04",
+    "evento": "rp23",
+    "atto_modificante": "L. 20 febbraio 1958, n. 75"
+   },
+   {
+    "data": "1958-03-12",
+    "evento": "rp24",
+    "atto_modificante": "L. 4 marzo 1958, n. 127"
+   },
+   {
+    "data": "1959-07-11",
+    "evento": "rp25",
+    "atto_modificante": "D.P.R. 11 luglio 1959, n. 460"
+   },
+   {
+    "data": "1960-05-07",
+    "evento": "rp26",
+    "atto_modificante": "atto modificante non indicato (rp26)"
+   },
+   {
+    "data": "1961-06-28",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 24 giugno 1961, n. 510"
+   },
+   {
+    "data": "1961-07-24",
+    "evento": "rp28",
+    "atto_modificante": "L. 12 luglio 1961, n. 603"
+   },
+   {
+    "data": "1962-05-04",
+    "evento": "rp29",
+    "atto_modificante": "L. 24 aprile 1962, n. 191"
+   },
+   {
+    "data": "1962-12-06",
+    "evento": "rp30",
+    "atto_modificante": "L. 25 novembre 1962, n. 1634"
+   },
+   {
+    "data": "1963-01-25",
+    "evento": "rp31",
+    "atto_modificante": "D.P.R. 24 gennaio 1963, n. 5"
+   },
+   {
+    "data": "1963-02-06",
+    "evento": "rp32",
+    "atto_modificante": "L. 26 gennaio 1963, n. 24"
+   },
+   {
+    "data": "1964-02-29",
+    "evento": "rp33",
+    "atto_modificante": "atto modificante non indicato (rp33)"
+   },
+   {
+    "data": "1965-06-05",
+    "evento": "rp34",
+    "atto_modificante": "L. 31 maggio 1965, n. 575"
+   },
+   {
+    "data": "1966-01-15",
+    "evento": "rp35",
+    "atto_modificante": "atto modificante non indicato (rp35)"
+   },
+   {
+    "data": "1966-05-23",
+    "evento": "rp36",
+    "atto_modificante": "L. 11 maggio 1966, n. 296"
+   },
+   {
+    "data": "1966-06-04",
+    "evento": "rp37",
+    "atto_modificante": "D.P.R. 4 giugno 1966, n. 332"
+   },
+   {
+    "data": "1966-07-09",
+    "evento": "rp38",
+    "atto_modificante": "atto modificante non indicato (rp38)"
+   },
+   {
+    "data": "1967-10-12",
+    "evento": "rp39",
+    "atto_modificante": "L. 2 ottobre 1967, n. 895"
+   },
+   {
+    "data": "1968-07-20",
+    "evento": "rp40+rp41",
+    "atto_modificante": "atto modificante non indicato (rp40); atto modificante non indicato (rp41)"
+   },
+   {
+    "data": "1968-12-28",
+    "evento": "rp42",
+    "atto_modificante": "atto modificante non indicato (rp42)"
+   },
+   {
+    "data": "1969-02-26",
+    "evento": "rp43",
+    "atto_modificante": "atto modificante non indicato (rp43)"
+   },
+   {
+    "data": "1969-03-26",
+    "evento": "rp44",
+    "atto_modificante": "atto modificante non indicato (rp44)"
+   },
+   {
+    "data": "1969-04-23",
+    "evento": "rp45",
+    "atto_modificante": "atto modificante non indicato (rp45)"
+   },
+   {
+    "data": "1969-12-10",
+    "evento": "rp46",
+    "atto_modificante": "atto modificante non indicato (rp46)"
+   },
+   {
+    "data": "1970-04-22",
+    "evento": "rp47",
+    "atto_modificante": "atto modificante non indicato (rp47)"
+   },
+   {
+    "data": "1970-05-22",
+    "evento": "rp48",
+    "atto_modificante": "D.P.R. 22 maggio 1970, n. 283"
+   },
+   {
+    "data": "1970-06-17",
+    "evento": "rp49",
+    "atto_modificante": "atto modificante non indicato (rp49)"
+   },
+   {
+    "data": "1970-07-08",
+    "evento": "rp50",
+    "atto_modificante": "atto modificante non indicato (rp50)"
+   },
+   {
+    "data": "1971-01-27",
+    "evento": "rp51",
+    "atto_modificante": "atto modificante non indicato (rp51)"
+   },
+   {
+    "data": "1971-02-10",
+    "evento": "rp52",
+    "atto_modificante": "atto modificante non indicato (rp52)"
+   },
+   {
+    "data": "1971-03-24",
+    "evento": "rp53",
+    "atto_modificante": "atto modificante non indicato (rp53)"
+   },
+   {
+    "data": "1971-04-07",
+    "evento": "rp54",
+    "atto_modificante": "atto modificante non indicato (rp54)"
+   },
+   {
+    "data": "1971-07-07",
+    "evento": "rp55",
+    "atto_modificante": "atto modificante non indicato (rp55)"
+   },
+   {
+    "data": "1971-07-21",
+    "evento": "rp56",
+    "atto_modificante": "atto modificante non indicato (rp56)"
+   },
+   {
+    "data": "1973-07-11",
+    "evento": "rp57",
+    "atto_modificante": "atto modificante non indicato (rp57)"
+   },
+   {
+    "data": "1974-04-12",
+    "evento": "rp58+rp59",
+    "atto_modificante": "L. 8 aprile 1974, n. 98; D.L. 11 aprile 1974, n. 99"
+   },
+   {
+    "data": "1974-04-24",
+    "evento": "rp60+rp61",
+    "atto_modificante": "atto modificante non indicato (rp60); atto modificante non indicato (rp61)"
+   },
+   {
+    "data": "1974-10-22",
+    "evento": "rp62",
+    "atto_modificante": "L. 14 ottobre 1974, n. 497"
+   },
+   {
+    "data": "1975-01-03",
+    "evento": "rp63",
+    "atto_modificante": "atto modificante non indicato (rp63)"
+   },
+   {
+    "data": "1975-02-26",
+    "evento": "rp64",
+    "atto_modificante": "atto modificante non indicato (rp64)"
+   },
+   {
+    "data": "1975-05-24",
+    "evento": "rp65",
+    "atto_modificante": "L. 22 maggio 1975, n. 152"
+   },
+   {
+    "data": "1975-06-25",
+    "evento": "rp66+rp67",
+    "atto_modificante": "atto modificante non indicato (rp66); atto modificante non indicato (rp67)"
+   },
+   {
+    "data": "1975-07-23",
+    "evento": "rp68+rp69",
+    "atto_modificante": "atto modificante non indicato (rp68); atto modificante non indicato (rp69)"
+   },
+   {
+    "data": "1975-08-09",
+    "evento": "rp70",
+    "atto_modificante": "L. 26 luglio 1975, n. 354"
+   },
+   {
+    "data": "1975-12-30",
+    "evento": "rp71",
+    "atto_modificante": "L. 22 dicembre 1975, n. 685"
+   },
+   {
+    "data": "1976-05-05",
+    "evento": "rp72",
+    "atto_modificante": "atto modificante non indicato (rp72)"
+   },
+   {
+    "data": "1976-07-14",
+    "evento": "rp73",
+    "atto_modificante": "atto modificante non indicato (rp73)"
+   },
+   {
+    "data": "1976-10-16",
+    "evento": "rp74",
+    "atto_modificante": "D.L. 15 ottobre 1976, n. 704"
+   },
+   {
+    "data": "1977-01-18",
+    "evento": "rp75",
+    "atto_modificante": "L. 12 gennaio 1977, n. 1"
+   },
+   {
+    "data": "1977-11-07",
+    "evento": "rp76",
+    "atto_modificante": "L. 24 ottobre 1977, n. 801"
+   },
+   {
+    "data": "1978-03-22",
+    "evento": "rp77",
+    "atto_modificante": "D.L. 21 marzo 1978, n. 59"
+   },
+   {
+    "data": "1978-05-16",
+    "evento": "rp78",
+    "atto_modificante": "L. 13 maggio 1978, n. 180"
+   },
+   {
+    "data": "1978-05-22",
+    "evento": "rp79",
+    "atto_modificante": "L. 22 maggio 1978, n. 194"
+   },
+   {
+    "data": "1978-08-05",
+    "evento": "rp80",
+    "atto_modificante": "D.P.R. 4 agosto 1978, n. 413"
+   },
+   {
+    "data": "1979-11-28",
+    "evento": "rp81",
+    "atto_modificante": "atto modificante non indicato (rp81)"
+   },
+   {
+    "data": "1979-12-17",
+    "evento": "rp82",
+    "atto_modificante": "D.L. 15 dicembre 1979, n. 625"
+   },
+   {
+    "data": "1980-11-27",
+    "evento": "rp83",
+    "atto_modificante": "D.L. 26 novembre 1980, n. 776"
+   },
+   {
+    "data": "1980-12-30",
+    "evento": "rp84",
+    "atto_modificante": "L. 30 dicembre 1980, n. 894"
+   },
+   {
+    "data": "1981-06-10",
+    "evento": "rp85",
+    "atto_modificante": "atto modificante non indicato (rp85)"
+   },
+   {
+    "data": "1981-08-10",
+    "evento": "rp86",
+    "atto_modificante": "L. 5 agosto 1981, n. 442"
+   },
+   {
+    "data": "1981-11-30",
+    "evento": "rp87",
+    "atto_modificante": "L. 24 novembre 1981, n. 689"
+   },
+   {
+    "data": "1981-12-19",
+    "evento": "rp88",
+    "atto_modificante": "D.P.R. 18 dicembre 1981, n. 744"
+   },
+   {
+    "data": "1982-06-02",
+    "evento": "rp89",
+    "atto_modificante": "L. 29 maggio 1982, n. 304"
+   },
+   {
+    "data": "1982-08-04",
+    "evento": "rp90",
+    "atto_modificante": "atto modificante non indicato (rp90)"
+   },
+   {
+    "data": "1982-08-10",
+    "evento": "rp91",
+    "atto_modificante": "D.P.R. 9 agosto 1982, n. 525"
+   },
+   {
+    "data": "1982-08-14",
+    "evento": "rp92",
+    "atto_modificante": "L. 12 agosto 1982, n. 532"
+   },
+   {
+    "data": "1982-09-14",
+    "evento": "rp93",
+    "atto_modificante": "L. 13 settembre 1982, n. 646"
+   },
+   {
+    "data": "1982-10-02",
+    "evento": "rp94",
+    "atto_modificante": "D.L. 1 ottobre 1982, n. 695"
+   },
+   {
+    "data": "1982-12-28",
+    "evento": "rp95",
+    "atto_modificante": "L. 23 dicembre 1982, n. 936"
+   },
+   {
+    "data": "1983-02-22",
+    "evento": "rp96",
+    "atto_modificante": "D.P.R. 22 febbraio 1983, n. 43"
+   },
+   {
+    "data": "1983-06-15",
+    "evento": "rp97",
+    "atto_modificante": "atto modificante non indicato (rp97)"
+   },
+   {
+    "data": "1983-08-03",
+    "evento": "rp98",
+    "atto_modificante": "atto modificante non indicato (rp98)"
+   },
+   {
+    "data": "1984-06-13",
+    "evento": "rp99",
+    "atto_modificante": "atto modificante non indicato (rp99)"
+   },
+   {
+    "data": "1984-08-01",
+    "evento": "rp100",
+    "atto_modificante": "L. 31 luglio 1984, n. 400"
+   },
+   {
+    "data": "1984-12-18",
+    "evento": "rp101",
+    "atto_modificante": "L. 11 dicembre 1984, n. 848"
+   },
+   {
+    "data": "1985-02-27",
+    "evento": "rp102",
+    "atto_modificante": "atto modificante non indicato (rp102)"
+   },
+   {
+    "data": "1985-07-10",
+    "evento": "rp103",
+    "atto_modificante": "atto modificante non indicato (rp103)"
+   },
+   {
+    "data": "1986-03-18",
+    "evento": "rp104",
+    "atto_modificante": "Circ. Presidenza Del Consiglio Dei Ministri 5 febbraio 1986, n. 7611"
+   },
+   {
+    "data": "1986-06-20",
+    "evento": "rp105",
+    "atto_modificante": "D.L. 18 giugno 1986, n. 282"
+   },
+   {
+    "data": "1986-10-16",
+    "evento": "rp106",
+    "atto_modificante": "L. 10 ottobre 1986, n. 663"
+   },
+   {
+    "data": "1986-12-16",
+    "evento": "rp107",
+    "atto_modificante": "D.P.R. 16 dicembre 1986, n. 865"
+   },
+   {
+    "data": "1988-03-23",
+    "evento": "rp108",
+    "atto_modificante": "atto modificante non indicato (rp108)"
+   },
+   {
+    "data": "1988-03-30",
+    "evento": "rp109",
+    "atto_modificante": "atto modificante non indicato (rp109)"
+   },
+   {
+    "data": "1988-04-15",
+    "evento": "rp110",
+    "atto_modificante": "L. 13 aprile 1988, n. 117"
+   },
+   {
+    "data": "1988-12-21",
+    "evento": "rp111+rp112",
+    "atto_modificante": "atto modificante non indicato (rp111); atto modificante non indicato (rp112)"
+   },
+   {
+    "data": "1989-03-29",
+    "evento": "rp113",
+    "atto_modificante": "atto modificante non indicato (rp113)"
+   },
+   {
+    "data": "1989-05-31",
+    "evento": "rp114",
+    "atto_modificante": "atto modificante non indicato (rp114)"
+   },
+   {
+    "data": "1989-06-14",
+    "evento": "rp115",
+    "atto_modificante": "atto modificante non indicato (rp115)"
+   },
+   {
+    "data": "1989-08-05",
+    "evento": "rp116",
+    "atto_modificante": "D.Lgs. 28 luglio 1989, n. 271"
+   },
+   {
+    "data": "1990-02-13",
+    "evento": "rp117",
+    "atto_modificante": "L. 7 febbraio 1990, n. 19"
+   },
+   {
+    "data": "1990-03-23",
+    "evento": "rp118",
+    "atto_modificante": "L. 19 marzo 1990, n. 55"
+   },
+   {
+    "data": "1990-04-12",
+    "evento": "rp119",
+    "atto_modificante": "D.P.R. 12 aprile 1990, n. 75"
+   },
+   {
+    "data": "1990-04-27",
+    "evento": "rp120",
+    "atto_modificante": "L. 26 aprile 1990, n. 86"
+   },
+   {
+    "data": "1990-06-06",
+    "evento": "rp121",
+    "atto_modificante": "atto modificante non indicato (rp121)"
+   },
+   {
+    "data": "1990-06-14",
+    "evento": "rp122",
+    "atto_modificante": "L. 12 giugno 1990, n. 146"
+   },
+   {
+    "data": "1990-06-26",
+    "evento": "rp123",
+    "atto_modificante": "L. 26 giugno 1990, n. 162"
+   },
+   {
+    "data": "1990-10-31",
+    "evento": "rp124",
+    "atto_modificante": "D.P.R. 9 ottobre 1990, n. 309"
+   },
+   {
+    "data": "1991-05-13",
+    "evento": "rp125",
+    "atto_modificante": "D.L. 13 maggio 1991, n. 152"
+   },
+   {
+    "data": "1991-08-30",
+    "evento": "rp126",
+    "atto_modificante": "L. 14 agosto 1991, n. 281"
+   },
+   {
+    "data": "1991-10-15",
+    "evento": "rp127",
+    "atto_modificante": "L. 5 ottobre 1991, n. 320"
+   },
+   {
+    "data": "1992-01-02",
+    "evento": "rp128",
+    "atto_modificante": "D.L. 31 dicembre 1991, n. 419"
+   },
+   {
+    "data": "1992-01-23",
+    "evento": "rp129",
+    "atto_modificante": "D.P.R. 20 gennaio 1992, n. 23"
+   },
+   {
+    "data": "1992-02-17",
+    "evento": "rp130",
+    "atto_modificante": "L. 5 febbraio 1992, n. 104"
+   },
+   {
+    "data": "1992-03-02",
+    "evento": "rp131",
+    "atto_modificante": "L. 7 febbraio 1992, n. 181"
+   },
+   {
+    "data": "1992-06-08",
+    "evento": "rp132",
+    "atto_modificante": "D.L. 8 giugno 1992, n. 306"
+   },
+   {
+    "data": "1993-05-15",
+    "evento": "rp133",
+    "atto_modificante": "D.L. 14 maggio 1993, n. 139"
+   },
+   {
+    "data": "1993-08-28",
+    "evento": "rp134",
+    "atto_modificante": "L. 9 agosto 1993, n. 328"
+   },
+   {
+    "data": "1993-09-20",
+    "evento": "rp135",
+    "atto_modificante": "D.L. 17 settembre 1993, n. 369"
+   },
+   {
+    "data": "1993-10-08",
+    "evento": "rp136",
+    "atto_modificante": "L. 5 ottobre 1993, n. 402"
+   },
+   {
+    "data": "1993-11-26",
+    "evento": "rp137",
+    "atto_modificante": "L. 22 novembre 1993, n. 473"
+   },
+   {
+    "data": "1993-12-30",
+    "evento": "rp138",
+    "atto_modificante": "L. 23 dicembre 1993, n. 547"
+   },
+   {
+    "data": "1994-05-04",
+    "evento": "rp139",
+    "atto_modificante": "atto modificante non indicato (rp139)"
+   },
+   {
+    "data": "1994-08-03",
+    "evento": "rp140",
+    "atto_modificante": "atto modificante non indicato (rp140)"
+   },
+   {
+    "data": "1994-08-04",
+    "evento": "rp141",
+    "atto_modificante": "D.Lgs. 13 luglio 1994, n. 480"
+   },
+   {
+    "data": "1995-01-26",
+    "evento": "rp142",
+    "atto_modificante": "D.Lgs. 19 dicembre 1994, n. 758"
+   },
+   {
+    "data": "1995-06-01",
+    "evento": "rp143",
+    "atto_modificante": "L. 12 maggio 1995, n. 210"
+   },
+   {
+    "data": "1995-08-08",
+    "evento": "rp144",
+    "atto_modificante": "L. 8 agosto 1995, n. 332"
+   },
+   {
+    "data": "1995-10-25",
+    "evento": "rp145+rp146",
+    "atto_modificante": "atto modificante non indicato (rp145); atto modificante non indicato (rp146)"
+   },
+   {
+    "data": "1996-01-03",
+    "evento": "rp147",
+    "atto_modificante": "atto modificante non indicato (rp147)"
+   },
+   {
+    "data": "1996-02-20",
+    "evento": "rp148",
+    "atto_modificante": "L. 15 febbraio 1996, n. 66"
+   },
+   {
+    "data": "1996-03-09",
+    "evento": "rp149",
+    "atto_modificante": "L. 7 marzo 1996, n. 108"
+   },
+   {
+    "data": "1996-03-27",
+    "evento": "rp150",
+    "atto_modificante": "atto modificante non indicato (rp150)"
+   },
+   {
+    "data": "1996-11-06",
+    "evento": "rp151",
+    "atto_modificante": "atto modificante non indicato (rp151)"
+   },
+   {
+    "data": "1997-01-03",
+    "evento": "rp152",
+    "atto_modificante": "atto modificante non indicato (rp152)"
+   },
+   {
+    "data": "1997-06-11",
+    "evento": "rp153",
+    "atto_modificante": "atto modificante non indicato (rp153)"
+   },
+   {
+    "data": "1997-07-25",
+    "evento": "rp154",
+    "atto_modificante": "L. 16 luglio 1997, n. 234"
+   },
+   {
+    "data": "1997-07-30",
+    "evento": "rp155",
+    "atto_modificante": "atto modificante non indicato (rp155)"
+   },
+   {
+    "data": "1997-10-17",
+    "evento": "rp156",
+    "atto_modificante": "L. 8 ottobre 1997, n. 352"
+   },
+   {
+    "data": "1997-11-19",
+    "evento": "rp157",
+    "atto_modificante": "atto modificante non indicato (rp157)"
+   },
+   {
+    "data": "1997-12-31",
+    "evento": "rp158",
+    "atto_modificante": "D.L. 30 dicembre 1997, n. 457"
+   },
+   {
+    "data": "1998-04-15",
+    "evento": "rp159",
+    "atto_modificante": "atto modificante non indicato (rp159)"
+   },
+   {
+    "data": "1998-05-13",
+    "evento": "rp160",
+    "atto_modificante": "atto modificante non indicato (rp160)"
+   },
+   {
+    "data": "1998-07-08",
+    "evento": "rp161",
+    "atto_modificante": "D.Lgs. 24 giugno 1998, n. 213"
+   },
+   {
+    "data": "1998-07-29",
+    "evento": "rp162",
+    "atto_modificante": "atto modificante non indicato (rp162)"
+   },
+   {
+    "data": "1998-08-10",
+    "evento": "rp163",
+    "atto_modificante": "L. 3 agosto 1998, n. 269"
+   },
+   {
+    "data": "1998-12-30",
+    "evento": "rp164",
+    "atto_modificante": "atto modificante non indicato (rp164)"
+   },
+   {
+    "data": "1999-04-07",
+    "evento": "rp165",
+    "atto_modificante": "atto modificante non indicato (rp165)"
+   },
+   {
+    "data": "1999-06-28",
+    "evento": "rp166",
+    "atto_modificante": "L. 25 giugno 1999, n. 205"
+   },
+   {
+    "data": "1999-07-19",
+    "evento": "rp167",
+    "atto_modificante": "L. 12 luglio 1999, n. 231"
+   },
+   {
+    "data": "1999-12-18",
+    "evento": "rp168",
+    "atto_modificante": "L. 16 dicembre 1999, n. 479"
+   },
+   {
+    "data": "1999-12-31",
+    "evento": "rp169",
+    "atto_modificante": "D.Lgs. 30 dicembre 1999, n. 507"
+   },
+   {
+    "data": "2000-04-08",
+    "evento": "rp170",
+    "atto_modificante": "D.L. 7 aprile 2000, n. 82"
+   },
+   {
+    "data": "2000-08-07",
+    "evento": "rp171",
+    "atto_modificante": "D.L. 4 agosto 2000, n. 220"
+   },
+   {
+    "data": "2000-10-06",
+    "evento": "rp172",
+    "atto_modificante": "D.Lgs. 28 agosto 2000, n. 274"
+   },
+   {
+    "data": "2000-10-25",
+    "evento": "rp173",
+    "atto_modificante": "L. 29 settembre 2000, n. 300"
+   },
+   {
+    "data": "2000-11-29",
+    "evento": "rp174",
+    "atto_modificante": "atto modificante non indicato (rp174)"
+   },
+   {
+    "data": "2000-11-30",
+    "evento": "rp175",
+    "atto_modificante": "L. 21 novembre 2000, n. 353"
+   },
+   {
+    "data": "2001-01-03",
+    "evento": "rp176",
+    "atto_modificante": "L. 7 dicembre 2000, n. 397"
+   },
+   {
+    "data": "2001-03-08",
+    "evento": "rp177",
+    "atto_modificante": "L. 8 marzo 2001, n. 40"
+   },
+   {
+    "data": "2001-03-22",
+    "evento": "rp178",
+    "atto_modificante": "L. 1 marzo 2001, n. 63"
+   },
+   {
+    "data": "2001-04-03",
+    "evento": "rp179",
+    "atto_modificante": "D.L. 2 aprile 2001, n. 91"
+   },
+   {
+    "data": "2001-04-04",
+    "evento": "rp180",
+    "atto_modificante": "L. 19 marzo 2001, n. 92"
+   },
+   {
+    "data": "2001-04-05",
+    "evento": "rp181",
+    "atto_modificante": "L. 27 marzo 2001, n. 97"
+   },
+   {
+    "data": "2001-04-19",
+    "evento": "rp182+rp183",
+    "atto_modificante": "L. 26 marzo 2001, n. 128; L. 30 marzo 2001, n. 130"
+   },
+   {
+    "data": "2001-07-18",
+    "evento": "rp184",
+    "atto_modificante": "atto modificante non indicato (rp184)"
+   },
+   {
+    "data": "2001-09-26",
+    "evento": "rp185",
+    "atto_modificante": "D.L. 25 settembre 2001, n. 350"
+   },
+   {
+    "data": "2001-10-08",
+    "evento": "rp186",
+    "atto_modificante": "L. 5 ottobre 2001, n. 367"
+   },
+   {
+    "data": "2001-10-19",
+    "evento": "rp187",
+    "atto_modificante": "D.L. 18 ottobre 2001, n. 374"
+   },
+   {
+    "data": "2002-04-15",
+    "evento": "rp188",
+    "atto_modificante": "D.Lgs. 11 aprile 2002, n. 61"
+   },
+   {
+    "data": "2002-07-17",
+    "evento": "rp189",
+    "atto_modificante": "atto modificante non indicato (rp189)"
+   },
+   {
+    "data": "2002-07-24",
+    "evento": "rp190",
+    "atto_modificante": "atto modificante non indicato (rp190)"
+   },
+   {
+    "data": "2002-12-14",
+    "evento": "rp191",
+    "atto_modificante": "L. 12 dicembre 2002, n. 273"
+   },
+   {
+    "data": "2003-03-11",
+    "evento": "rp192",
+    "atto_modificante": "L. 14 febbraio 2003, n. 34"
+   },
+   {
+    "data": "2003-04-15",
+    "evento": "rp193",
+    "atto_modificante": "L. 9 aprile 2003, n. 72"
+   },
+   {
+    "data": "2003-07-23",
+    "evento": "rp194",
+    "atto_modificante": "atto modificante non indicato (rp194)"
+   },
+   {
+    "data": "2003-08-23",
+    "evento": "rp195",
+    "atto_modificante": "L. 11 agosto 2003, n. 228"
+   },
+   {
+    "data": "2004-06-12",
+    "evento": "rp196",
+    "atto_modificante": "L. 11 giugno 2004, n. 145"
+   },
+   {
+    "data": "2004-07-31",
+    "evento": "rp197",
+    "atto_modificante": "L. 20 luglio 2004, n. 189"
+   },
+   {
+    "data": "2004-12-09",
+    "evento": "rp198",
+    "atto_modificante": "atto modificante non indicato (rp198)"
+   },
+   {
+    "data": "2005-03-16",
+    "evento": "rp199",
+    "atto_modificante": "D.L. 14 marzo 2005, n. 35"
+   },
+   {
+    "data": "2005-05-04",
+    "evento": "rp200",
+    "atto_modificante": "atto modificante non indicato (rp200)"
+   },
+   {
+    "data": "2005-07-27",
+    "evento": "rp201",
+    "atto_modificante": "D.L. 27 luglio 2005, n. 144"
+   },
+   {
+    "data": "2005-12-07",
+    "evento": "rp202",
+    "atto_modificante": "L. 5 dicembre 2005, n. 251"
+   },
+   {
+    "data": "2005-12-28",
+    "evento": "rp203",
+    "atto_modificante": "L. 28 dicembre 2005, n. 262"
+   },
+   {
+    "data": "2005-12-30",
+    "evento": "rp204",
+    "atto_modificante": "D.L. 30 dicembre 2005, n. 272"
+   },
+   {
+    "data": "2006-01-18",
+    "evento": "rp205",
+    "atto_modificante": "L. 9 gennaio 2006, n. 7"
+   },
+   {
+    "data": "2006-02-15",
+    "evento": "rp206",
+    "atto_modificante": "L. 6 febbraio 2006, n. 38"
+   },
+   {
+    "data": "2006-02-28",
+    "evento": "rp207",
+    "atto_modificante": "L. 24 febbraio 2006, n. 52"
+   },
+   {
+    "data": "2006-03-02",
+    "evento": "rp208",
+    "atto_modificante": "L. 13 febbraio 2006, n. 59"
+   },
+   {
+    "data": "2006-03-13",
+    "evento": "rp209",
+    "atto_modificante": "L. 24 febbraio 2006, n. 85"
+   },
+   {
+    "data": "2006-03-17",
+    "evento": "rp210",
+    "atto_modificante": "L. 21 febbraio 2006, n. 102"
+   },
+   {
+    "data": "2006-04-11",
+    "evento": "rp211",
+    "atto_modificante": "L. 16 marzo 2006, n. 146"
+   },
+   {
+    "data": "2006-11-29",
+    "evento": "rp212",
+    "atto_modificante": "atto modificante non indicato (rp212)"
+   },
+   {
+    "data": "2007-02-08",
+    "evento": "rp213",
+    "atto_modificante": "D.L. 8 febbraio 2007, n. 8"
+   },
+   {
+    "data": "2007-12-14",
+    "evento": "rp214",
+    "atto_modificante": "D.Lgs. 21 novembre 2007, n. 231"
+   },
+   {
+    "data": "2008-04-04",
+    "evento": "rp215",
+    "atto_modificante": "L. 18 marzo 2008, n. 48"
+   },
+   {
+    "data": "2008-05-26",
+    "evento": "rp216",
+    "atto_modificante": "D.L. 23 maggio 2008, n. 92"
+   },
+   {
+    "data": "2009-02-24",
+    "evento": "rp217",
+    "atto_modificante": "D.L. 23 febbraio 2009, n. 11"
+   },
+   {
+    "data": "2009-03-25",
+    "evento": "rp218",
+    "atto_modificante": "atto modificante non indicato (rp218)"
+   },
+   {
+    "data": "2009-06-19",
+    "evento": "rp219",
+    "atto_modificante": "L. 18 giugno 2009, n. 69"
+   },
+   {
+    "data": "2009-07-24",
+    "evento": "rp220",
+    "atto_modificante": "L. 15 luglio 2009, n. 94"
+   },
+   {
+    "data": "2009-07-31",
+    "evento": "rp221",
+    "atto_modificante": "L. 23 luglio 2009, n. 99"
+   },
+   {
+    "data": "2009-08-14",
+    "evento": "rp222",
+    "atto_modificante": "L. 3 agosto 2009, n. 116"
+   },
+   {
+    "data": "2009-12-30",
+    "evento": "rp223",
+    "atto_modificante": "L. 23 dicembre 2009, n. 191"
+   },
+   {
+    "data": "2010-02-04",
+    "evento": "rp224",
+    "atto_modificante": "D.L. 4 febbraio 2010, n. 4"
+   },
+   {
+    "data": "2010-05-31",
+    "evento": "rp225",
+    "atto_modificante": "D.L. 31 maggio 2010, n. 78"
+   },
+   {
+    "data": "2010-07-14",
+    "evento": "rp226",
+    "atto_modificante": "atto modificante non indicato (rp226)"
+   },
+   {
+    "data": "2010-07-15",
+    "evento": "rp227",
+    "atto_modificante": "L. 2 luglio 2010, n. 108"
+   },
+   {
+    "data": "2010-08-23",
+    "evento": "rp228",
+    "atto_modificante": "L. 13 agosto 2010, n. 136"
+   },
+   {
+    "data": "2010-12-01",
+    "evento": "rp229",
+    "atto_modificante": "L. 26 novembre 2010, n. 199"
+   },
+   {
+    "data": "2010-12-03",
+    "evento": "rp230",
+    "atto_modificante": "L. 4 novembre 2010, n. 201"
+   },
+   {
+    "data": "2011-05-13",
+    "evento": "rp231",
+    "atto_modificante": "D.L. 13 maggio 2011, n. 70"
+   },
+   {
+    "data": "2011-06-15",
+    "evento": "rp232",
+    "atto_modificante": "atto modificante non indicato (rp232)"
+   },
+   {
+    "data": "2011-07-06",
+    "evento": "rp233",
+    "atto_modificante": "D.L. 6 luglio 2011, n. 98"
+   },
+   {
+    "data": "2011-08-01",
+    "evento": "rp234",
+    "atto_modificante": "D.Lgs. 7 luglio 2011, n. 121"
+   },
+   {
+    "data": "2011-08-13",
+    "evento": "rp235",
+    "atto_modificante": "D.L. 13 agosto 2011, n. 138"
+   },
+   {
+    "data": "2011-09-28",
+    "evento": "rp236",
+    "atto_modificante": "D.Lgs. 6 settembre 2011, n. 159"
+   },
+   {
+    "data": "2012-01-24",
+    "evento": "rp237",
+    "atto_modificante": "D.L. 24 gennaio 2012, n. 1"
+   },
+   {
+    "data": "2012-01-30",
+    "evento": "rp238",
+    "atto_modificante": "L. 27 gennaio 2012, n. 3"
+   },
+   {
+    "data": "2012-02-23",
+    "evento": "rp239",
+    "atto_modificante": "L. 15 febbraio 2012, n. 12"
+   },
+   {
+    "data": "2012-02-29",
+    "evento": "rp240",
+    "atto_modificante": "atto modificante non indicato (rp240)"
+   },
+   {
+    "data": "2012-03-28",
+    "evento": "rp241",
+    "atto_modificante": "atto modificante non indicato (rp241)"
+   },
+   {
+    "data": "2012-09-13",
+    "evento": "rp242",
+    "atto_modificante": "D.L. 13 settembre 2012, n. 158"
+   },
+   {
+    "data": "2012-10-08",
+    "evento": "rp243",
+    "atto_modificante": "L. 1 ottobre 2012, n. 172"
+   },
+   {
+    "data": "2012-11-13",
+    "evento": "rp244",
+    "atto_modificante": "L. 6 novembre 2012, n. 190"
+   },
+   {
+    "data": "2012-11-21",
+    "evento": "rp245",
+    "atto_modificante": "atto modificante non indicato (rp245)"
+   },
+   {
+    "data": "2013-01-08",
+    "evento": "rp246",
+    "atto_modificante": "L. 20 dicembre 2012, n. 237"
+   },
+   {
+    "data": "2013-01-30",
+    "evento": "rp247",
+    "atto_modificante": "atto modificante non indicato (rp247)"
+   },
+   {
+    "data": "2013-07-02",
+    "evento": "rp248",
+    "atto_modificante": "D.L. 1 luglio 2013, n. 78"
+   },
+   {
+    "data": "2013-08-16",
+    "evento": "rp249",
+    "atto_modificante": "D.L. 14 agosto 2013, n. 93"
+   },
+   {
+    "data": "2014-01-08",
+    "evento": "rp250",
+    "atto_modificante": "D.Lgs. 28 dicembre 2013, n. 154"
+   },
+   {
+    "data": "2014-03-13",
+    "evento": "rp251",
+    "atto_modificante": "D.Lgs. 4 marzo 2014, n. 24"
+   },
+   {
+    "data": "2014-03-22",
+    "evento": "rp252",
+    "atto_modificante": "D.Lgs. 4 marzo 2014, n. 39"
+   },
+   {
+    "data": "2014-04-17",
+    "evento": "rp253",
+    "atto_modificante": "L. 17 aprile 2014, n. 62"
+   },
+   {
+    "data": "2014-04-23",
+    "evento": "rp254+rp255",
+    "atto_modificante": "atto modificante non indicato (rp254); atto modificante non indicato (rp255)"
+   },
+   {
+    "data": "2014-05-02",
+    "evento": "rp256",
+    "atto_modificante": "L. 28 aprile 2014, n. 67"
+   },
+   {
+    "data": "2014-06-04",
+    "evento": "rp257",
+    "atto_modificante": "atto modificante non indicato (rp257)"
+   },
+   {
+    "data": "2014-08-21",
+    "evento": "rp258",
+    "atto_modificante": "L. 11 agosto 2014, n. 118"
+   },
+   {
+    "data": "2014-12-17",
+    "evento": "rp259",
+    "atto_modificante": "L. 15 dicembre 2014, n. 186"
+   },
+   {
+    "data": "2015-02-19",
+    "evento": "rp260",
+    "atto_modificante": "D.L. 18 febbraio 2015, n. 7"
+   },
+   {
+    "data": "2015-03-18",
+    "evento": "rp261",
+    "atto_modificante": "D.Lgs. 16 marzo 2015, n. 28"
+   },
+   {
+    "data": "2015-04-01",
+    "evento": "rp262",
+    "atto_modificante": "atto modificante non indicato (rp262)"
+   },
+   {
+    "data": "2015-05-13",
+    "evento": "rp263",
+    "atto_modificante": "L. 28 aprile 2015, n. 58"
+   },
+   {
+    "data": "2015-05-28",
+    "evento": "rp264",
+    "atto_modificante": "L. 22 maggio 2015, n. 68"
+   },
+   {
+    "data": "2015-05-30",
+    "evento": "rp265",
+    "atto_modificante": "L. 27 maggio 2015, n. 69"
+   },
+   {
+    "data": "2015-07-29",
+    "evento": "rp266",
+    "atto_modificante": "atto modificante non indicato (rp266)"
+   },
+   {
+    "data": "2016-01-22",
+    "evento": "rp267+rp268",
+    "atto_modificante": "D.Lgs. 15 gennaio 2016, n. 7; D.Lgs. 15 gennaio 2016, n. 8"
+   },
+   {
+    "data": "2016-03-24",
+    "evento": "rp269",
+    "atto_modificante": "L. 23 marzo 2016, n. 41"
+   },
+   {
+    "data": "2016-04-13",
+    "evento": "rp270",
+    "atto_modificante": "atto modificante non indicato (rp270)"
+   },
+   {
+    "data": "2016-07-12",
+    "evento": "rp271",
+    "atto_modificante": "D.Lgs. 21 giugno 2016, n. 125"
+   },
+   {
+    "data": "2016-07-18",
+    "evento": "rp272",
+    "atto_modificante": "L. 11 luglio 2016, n. 133"
+   },
+   {
+    "data": "2016-08-09",
+    "evento": "rp273",
+    "atto_modificante": "L. 28 luglio 2016, n. 153"
+   },
+   {
+    "data": "2016-11-03",
+    "evento": "rp274",
+    "atto_modificante": "L. 29 ottobre 2016, n. 199"
+   },
+   {
+    "data": "2016-11-09",
+    "evento": "rp275",
+    "atto_modificante": "D.Lgs. 29 ottobre 2016, n. 202"
+   },
+   {
+    "data": "2016-11-16",
+    "evento": "rp276",
+    "atto_modificante": "atto modificante non indicato (rp276)"
+   },
+   {
+    "data": "2016-12-23",
+    "evento": "rp277",
+    "atto_modificante": "L. 11 dicembre 2016, n. 236"
+   },
+   {
+    "data": "2017-01-27",
+    "evento": "rp278",
+    "atto_modificante": "D.Lgs. 19 gennaio 2017, n. 6"
+   },
+   {
+    "data": "2017-02-20",
+    "evento": "rp279",
+    "atto_modificante": "D.L. 20 febbraio 2017, n. 14"
+   },
+   {
+    "data": "2017-03-17",
+    "evento": "rp280",
+    "atto_modificante": "L. 8 marzo 2017, n. 24"
+   },
+   {
+    "data": "2017-07-04",
+    "evento": "rp281",
+    "atto_modificante": "L. 23 giugno 2017, n. 103"
+   },
+   {
+    "data": "2017-07-07",
+    "evento": "rp282",
+    "atto_modificante": "L. 3 luglio 2017, n. 105"
+   },
+   {
+    "data": "2017-07-18",
+    "evento": "rp283",
+    "atto_modificante": "L. 14 luglio 2017, n. 110"
+   },
+   {
+    "data": "2017-07-19",
+    "evento": "rp284",
+    "atto_modificante": "atto modificante non indicato (rp284)"
+   },
+   {
+    "data": "2017-11-04",
+    "evento": "rp285",
+    "atto_modificante": "L. 17 ottobre 2017, n. 161"
+   },
+   {
+    "data": "2017-12-05",
+    "evento": "rp286",
+    "atto_modificante": "L. 4 dicembre 2017, n. 172"
+   },
+   {
+    "data": "2017-12-28",
+    "evento": "rp287",
+    "atto_modificante": "D.Lgs. 7 dicembre 2017, n. 203"
+   },
+   {
+    "data": "2018-01-11",
+    "evento": "rp288",
+    "atto_modificante": "D.Lgs. 29 dicembre 2017, n. 216"
+   },
+   {
+    "data": "2018-01-31",
+    "evento": "rp289",
+    "atto_modificante": "L. 11 gennaio 2018, n. 3"
+   },
+   {
+    "data": "2018-02-01",
+    "evento": "rp290",
+    "atto_modificante": "L. 11 gennaio 2018, n. 4"
+   },
+   {
+    "data": "2018-02-06",
+    "evento": "rp291",
+    "atto_modificante": "L. 11 gennaio 2018, n. 6"
+   },
+   {
+    "data": "2018-03-22",
+    "evento": "rp292",
+    "atto_modificante": "D.Lgs. 1 marzo 2018, n. 21"
+   },
+   {
+    "data": "2018-04-24",
+    "evento": "rp293",
+    "atto_modificante": "D.Lgs. 10 aprile 2018, n. 36"
+   },
+   {
+    "data": "2018-06-07",
+    "evento": "rp294",
+    "atto_modificante": "D.Lgs. 11 maggio 2018, n. 63"
+   },
+   {
+    "data": "2018-10-04",
+    "evento": "rp295",
+    "atto_modificante": "D.L. 4 ottobre 2018, n. 113"
+   },
+   {
+    "data": "2018-12-17",
+    "evento": "rp296",
+    "atto_modificante": "atto modificante non indicato (rp296)"
+   },
+   {
+    "data": "2018-12-18",
+    "evento": "rp297",
+    "atto_modificante": "atto modificante non indicato (rp297)"
+   },
+   {
+    "data": "2019-01-16",
+    "evento": "rp298",
+    "atto_modificante": "L. 9 gennaio 2019, n. 3"
+   },
+   {
+    "data": "2019-05-03",
+    "evento": "rp299",
+    "atto_modificante": "L. 26 aprile 2019, n. 36"
+   },
+   {
+    "data": "2019-05-27",
+    "evento": "rp300",
+    "atto_modificante": "L. 21 maggio 2019, n. 43"
+   },
+   {
+    "data": "2019-06-14",
+    "evento": "rp301",
+    "atto_modificante": "D.L. 14 giugno 2019, n. 53"
+   },
+   {
+    "data": "2019-07-25",
+    "evento": "rp302",
+    "atto_modificante": "L. 19 luglio 2019, n. 69"
+   },
+   {
+    "data": "2019-08-09",
+    "evento": "rp303",
+    "atto_modificante": "L. 8 agosto 2019, n. 77"
+   },
+   {
+    "data": "2019-11-27",
+    "evento": "rp304",
+    "atto_modificante": "atto modificante non indicato (rp304)"
+   },
+   {
+    "data": "2020-04-29",
+    "evento": "rp305",
+    "atto_modificante": "atto modificante non indicato (rp305)"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp306",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-06-03",
+    "evento": "rp307",
+    "atto_modificante": "atto modificante non indicato (rp307)"
+   },
+   {
+    "data": "2020-07-15",
+    "evento": "rp308",
+    "atto_modificante": "D.Lgs. 14 luglio 2020, n. 75"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp309",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   },
+   {
+    "data": "2020-07-22",
+    "evento": "rp310",
+    "atto_modificante": "atto modificante non indicato (rp310)"
+   },
+   {
+    "data": "2020-09-09",
+    "evento": "rp311",
+    "atto_modificante": "L. 14 agosto 2020, n. 113"
+   },
+   {
+    "data": "2020-10-21",
+    "evento": "rp312",
+    "atto_modificante": "D.L. 21 ottobre 2020, n. 130"
+   },
+   {
+    "data": "2020-12-19",
+    "evento": "rp313",
+    "atto_modificante": "L. 18 dicembre 2020, n. 173"
+   },
+   {
+    "data": "2021-04-07",
+    "evento": "rp314",
+    "atto_modificante": "atto modificante non indicato (rp314)"
+   },
+   {
+    "data": "2021-07-14",
+    "evento": "rp315",
+    "atto_modificante": "atto modificante non indicato (rp315)"
+   },
+   {
+    "data": "2021-09-09",
+    "evento": "rp316",
+    "atto_modificante": "D.L. 8 settembre 2021, n. 120"
+   },
+   {
+    "data": "2021-10-04",
+    "evento": "rp317",
+    "atto_modificante": "L. 27 settembre 2021, n. 134"
+   },
+   {
+    "data": "2021-11-08",
+    "evento": "rp318",
+    "atto_modificante": "L. 8 novembre 2021, n. 155"
+   },
+   {
+    "data": "2021-11-29",
+    "evento": "rp319",
+    "atto_modificante": "D.Lgs. 8 novembre 2021, n. 184"
+   },
+   {
+    "data": "2021-11-30",
+    "evento": "rp320",
+    "atto_modificante": "D.Lgs. 8 novembre 2021, n. 195"
+   },
+   {
+    "data": "2022-01-17",
+    "evento": "rp321",
+    "atto_modificante": "L. 23 dicembre 2021, n. 238"
+   },
+   {
+    "data": "2022-01-27",
+    "evento": "rp322",
+    "atto_modificante": "D.L. 27 gennaio 2022, n. 4"
+   },
+   {
+    "data": "2022-02-25",
+    "evento": "rp323",
+    "atto_modificante": "D.L. 25 febbraio 2022, n. 13"
+   },
+   {
+    "data": "2022-03-22",
+    "evento": "rp324",
+    "atto_modificante": "L. 9 marzo 2022, n. 22"
+   },
+   {
+    "data": "2022-03-28",
+    "evento": "rp325",
+    "atto_modificante": "L. 28 marzo 2022, n. 25"
+   },
+   {
+    "data": "2022-04-20",
+    "evento": "rp326",
+    "atto_modificante": "atto modificante non indicato (rp326)"
+   },
+   {
+    "data": "2022-04-27",
+    "evento": "rp327",
+    "atto_modificante": "atto modificante non indicato (rp327)"
+   },
+   {
+    "data": "2022-07-13",
+    "evento": "rp328",
+    "atto_modificante": "atto modificante non indicato (rp328)"
+   },
+   {
+    "data": "2022-09-12",
+    "evento": "rp329",
+    "atto_modificante": "D.Lgs. 5 agosto 2022, n. 135"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp330+rp331",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149; D.Lgs. 10 ottobre 2022, n. 150"
+   },
+   {
+    "data": "2022-10-22",
+    "evento": "rp332",
+    "atto_modificante": "D.Lgs. 4 ottobre 2022, n. 156"
+   },
+   {
+    "data": "2022-10-31",
+    "evento": "rp333",
+    "atto_modificante": "D.L. 31 ottobre 2022, n. 162"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp334",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2022-12-30",
+    "evento": "rp335",
+    "atto_modificante": "L. 30 dicembre 2022, n. 199"
+   },
+   {
+    "data": "2023-03-30",
+    "evento": "rp336",
+    "atto_modificante": "D.L. 30 marzo 2023, n. 34"
+   },
+   {
+    "data": "2023-05-17",
+    "evento": "rp337",
+    "atto_modificante": "atto modificante non indicato (rp337)"
+   },
+   {
+    "data": "2023-05-29",
+    "evento": "rp338",
+    "atto_modificante": "L. 26 maggio 2023, n. 56"
+   },
+   {
+    "data": "2023-06-01",
+    "evento": "rp339",
+    "atto_modificante": "L. 24 maggio 2023, n. 60"
+   },
+   {
+    "data": "2023-06-07",
+    "evento": "rp340",
+    "atto_modificante": "atto modificante non indicato (rp340)"
+   },
+   {
+    "data": "2023-06-21",
+    "evento": "rp341",
+    "atto_modificante": "atto modificante non indicato (rp341)"
+   },
+   {
+    "data": "2023-07-12",
+    "evento": "rp342",
+    "atto_modificante": "atto modificante non indicato (rp342)"
+   },
+   {
+    "data": "2023-07-24",
+    "evento": "rp343",
+    "atto_modificante": "L. 14 luglio 2023, n. 93"
+   },
+   {
+    "data": "2023-08-10",
+    "evento": "rp344",
+    "atto_modificante": "D.L. 10 agosto 2023, n. 105"
+   },
+   {
+    "data": "2023-09-15",
+    "evento": "rp345",
+    "atto_modificante": "D.L. 15 settembre 2023, n. 123"
+   },
+   {
+    "data": "2023-10-09",
+    "evento": "rp346",
+    "atto_modificante": "L. 9 ottobre 2023, n. 137"
+   },
+   {
+    "data": "2023-10-10",
+    "evento": "rp347",
+    "atto_modificante": "L. 26 settembre 2023, n. 138"
+   },
+   {
+    "data": "2023-10-18",
+    "evento": "rp348",
+    "atto_modificante": "atto modificante non indicato (rp348)"
+   },
+   {
+    "data": "2023-11-02",
+    "evento": "rp349",
+    "atto_modificante": "atto modificante non indicato (rp349)"
+   },
+   {
+    "data": "2023-11-14",
+    "evento": "rp350",
+    "atto_modificante": "L. 13 novembre 2023, n. 159"
+   },
+   {
+    "data": "2023-11-15",
+    "evento": "rp351",
+    "atto_modificante": "atto modificante non indicato (rp351)"
+   },
+   {
+    "data": "2023-11-24",
+    "evento": "rp352",
+    "atto_modificante": "L. 24 novembre 2023, n. 168"
+   },
+   {
+    "data": "2023-12-13",
+    "evento": "rp353",
+    "atto_modificante": "atto modificante non indicato (rp353)"
+   },
+   {
+    "data": "2023-12-27",
+    "evento": "rp354",
+    "atto_modificante": "L. 27 dicembre 2023, n. 206"
+   },
+   {
+    "data": "2024-01-24",
+    "evento": "rp355",
+    "atto_modificante": "L. 22 gennaio 2024, n. 6"
+   },
+   {
+    "data": "2024-02-22",
+    "evento": "rp356",
+    "atto_modificante": "L. 21 febbraio 2024, n. 14"
+   },
+   {
+    "data": "2024-03-02",
+    "evento": "rp357",
+    "atto_modificante": "D.L. 2 marzo 2024, n. 19"
+   },
+   {
+    "data": "2024-03-15",
+    "evento": "rp358",
+    "atto_modificante": "L. 4 marzo 2024, n. 25"
+   },
+   {
+    "data": "2024-03-20",
+    "evento": "rp359",
+    "atto_modificante": "D.Lgs. 19 marzo 2024, n. 31"
+   },
+   {
+    "data": "2024-03-27",
+    "evento": "rp360",
+    "atto_modificante": "atto modificante non indicato (rp360)"
+   },
+   {
+    "data": "2024-05-15",
+    "evento": "rp361",
+    "atto_modificante": "atto modificante non indicato (rp361)"
+   },
+   {
+    "data": "2024-05-22",
+    "evento": "rp362",
+    "atto_modificante": "atto modificante non indicato (rp362)"
+   },
+   {
+    "data": "2024-07-02",
+    "evento": "rp363",
+    "atto_modificante": "L. 28 giugno 2024, n. 90"
+   },
+   {
+    "data": "2024-07-04",
+    "evento": "rp364",
+    "atto_modificante": "D.L. 4 luglio 2024, n. 92"
+   },
+   {
+    "data": "2024-08-09",
+    "evento": "rp365",
+    "atto_modificante": "L. 8 agosto 2024, n. 112"
+   },
+   {
+    "data": "2024-08-10",
+    "evento": "rp366",
+    "atto_modificante": "L. 9 agosto 2024, n. 114"
+   },
+   {
+    "data": "2024-10-01",
+    "evento": "rp367",
+    "atto_modificante": "D.L. 1 ottobre 2024, n. 137"
+   },
+   {
+    "data": "2024-11-11",
+    "evento": "rp368",
+    "atto_modificante": "D.Lgs. 31 ottobre 2024, n. 164"
+   },
+   {
+    "data": "2024-11-25",
+    "evento": "rp369",
+    "atto_modificante": "L. 18 novembre 2024, n. 171"
+   },
+   {
+    "data": "2024-11-29",
+    "evento": "rp370",
+    "atto_modificante": "L. 25 novembre 2024, n. 177"
+   },
+   {
+    "data": "2025-04-11",
+    "evento": "rp371",
+    "atto_modificante": "D.L. 11 aprile 2025, n. 48"
+   },
+   {
+    "data": "2025-04-23",
+    "evento": "rp372+rp373",
+    "atto_modificante": "atto modificante non indicato (rp372); atto modificante non indicato (rp373)"
+   },
+   {
+    "data": "2025-05-28",
+    "evento": "rp374",
+    "atto_modificante": "atto modificante non indicato (rp374)"
+   },
+   {
+    "data": "2025-06-16",
+    "evento": "rp375",
+    "atto_modificante": "L. 6 giugno 2025, n. 82"
+   },
+   {
+    "data": "2025-06-25",
+    "evento": "rp376",
+    "atto_modificante": "atto modificante non indicato (rp376)"
+   },
+   {
+    "data": "2025-06-30",
+    "evento": "rp377",
+    "atto_modificante": "D.L. 30 giugno 2025, n. 96"
+   },
+   {
+    "data": "2025-07-02",
+    "evento": "rp378",
+    "atto_modificante": "atto modificante non indicato (rp378)"
+   },
+   {
+    "data": "2025-07-23",
+    "evento": "rp379",
+    "atto_modificante": "atto modificante non indicato (rp379)"
+   },
+   {
+    "data": "2025-07-30",
+    "evento": "rp380",
+    "atto_modificante": "atto modificante non indicato (rp380)"
+   },
+   {
+    "data": "2025-08-08",
+    "evento": "rp381",
+    "atto_modificante": "D.L. 8 agosto 2025, n. 116"
+   },
+   {
+    "data": "2025-08-09",
+    "evento": "rp382",
+    "atto_modificante": "L. 8 agosto 2025, n. 119"
+   },
+   {
+    "data": "2025-09-25",
+    "evento": "rp383",
+    "atto_modificante": "L. 23 settembre 2025, n. 132"
+   },
+   {
+    "data": "2025-10-07",
+    "evento": "rp384",
+    "atto_modificante": "L. 3 ottobre 2025, n. 147"
+   },
+   {
+    "data": "2025-10-17",
+    "evento": "rp385",
+    "atto_modificante": "atto modificante non indicato (rp385)"
+   },
+   {
+    "data": "2025-10-22",
+    "evento": "rp386",
+    "atto_modificante": "atto modificante non indicato (rp386)"
+   },
+   {
+    "data": "2025-12-02",
+    "evento": "rp387",
+    "atto_modificante": "L. 2 dicembre 2025, n. 181"
+   },
+   {
+    "data": "2025-12-03",
+    "evento": "rp388+rp389",
+    "atto_modificante": "atto modificante non indicato (rp388); atto modificante non indicato (rp389)"
+   },
+   {
+    "data": "2025-12-31",
+    "evento": "rp390",
+    "atto_modificante": "atto modificante non indicato (rp390)"
+   },
+   {
+    "data": "2026-01-09",
+    "evento": "rp391",
+    "atto_modificante": "D.Lgs. 30 dicembre 2025, n. 211"
+   },
+   {
+    "data": "2026-01-28",
+    "evento": "rp392",
+    "atto_modificante": "atto modificante non indicato (rp392)"
+   },
+   {
+    "data": "2026-02-24",
+    "evento": "rp393",
+    "atto_modificante": "D.L. 24 febbraio 2026, n. 23"
+   },
+   {
+    "data": "2026-03-04",
+    "evento": "rp394",
+    "atto_modificante": "atto modificante non indicato (rp394)"
+   },
+   {
+    "data": "2026-03-24",
+    "evento": "rp395",
+    "atto_modificante": "L. 9 marzo 2026, n. 35"
+   },
+   {
+    "data": "2026-03-25",
+    "evento": "rp396",
+    "atto_modificante": "atto modificante non indicato (rp396)"
+   },
+   {
+    "data": "2026-04-01",
+    "evento": "rp397",
+    "atto_modificante": "atto modificante non indicato (rp397)"
+   },
+   {
+    "data": "2026-04-22",
+    "evento": "rp398",
+    "atto_modificante": "D.Lgs. 2 aprile 2026, n. 51"
+   },
+   {
+    "data": "2026-04-24",
+    "evento": "rp399",
+    "atto_modificante": "L. 24 aprile 2026, n. 54"
+   },
+   {
+    "data": "2026-05-13",
+    "evento": "rp400",
+    "atto_modificante": "atto modificante non indicato (rp400)"
+   },
+   {
+    "data": "2026-05-14",
+    "evento": "rp401",
+    "atto_modificante": "L. 21 aprile 2026, n. 75"
+   },
+   {
+    "data": "2026-05-18",
+    "evento": "rp402",
+    "atto_modificante": "D.Lgs. 21 aprile 2026, n. 81"
+   },
+   {
+    "data": "2026-06-24",
+    "evento": "rp403",
+    "atto_modificante": "atto modificante non indicato (rp403)"
+   },
+   {
+    "data": "2026-07-01",
+    "evento": "rp404",
+    "atto_modificante": "D.Lgs. 12 giugno 2026, n. 115"
+   }
+  ],
+  "ultima_versione": "2026-07-01"
+ },
+ "articoli": {
+  "1": {
+   "file": "cp-1.md",
+   "rubrica": "Reati e pene: disposizione espressa di legge",
+   "vigore_da": "1931-07-01"
+  },
+  "2": {
+   "file": "cp-1.md",
+   "rubrica": "Successione di leggi penali",
+   "vigore_da": "2006-03-28"
+  },
+  "3": {
+   "file": "cp-1.md",
+   "rubrica": "Obbligatorieta' della legge penale",
+   "vigore_da": "1931-07-01"
+  },
+  "3-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Principio della riserva di codice",
+   "vigore_da": "2018-04-06"
+  },
+  "4": {
+   "file": "cp-1.md",
+   "rubrica": "Cittadino italiano. Territorio dello Stato",
+   "vigore_da": "1931-07-01"
+  },
+  "5": {
+   "file": "cp-1.md",
+   "rubrica": "Ignoranza della legge penale",
+   "vigore_da": "1988-03-31"
+  },
+  "6": {
+   "file": "cp-1.md",
+   "rubrica": "Reati commessi nel territorio dello Stato",
+   "vigore_da": "1931-07-01"
+  },
+  "7": {
+   "file": "cp-1.md",
+   "rubrica": "Reati commessi all'estero",
+   "vigore_da": "2001-12-19"
+  },
+  "8": {
+   "file": "cp-1.md",
+   "rubrica": "Delitto politico commesso all'estero",
+   "vigore_da": "1998-05-13"
+  },
+  "9": {
+   "file": "cp-1.md",
+   "rubrica": "Delitto comune del cittadino all'estero",
+   "vigore_da": "2021-12-15"
+  },
+  "10": {
+   "file": "cp-1.md",
+   "rubrica": "Delitto comune dello straniero all'estero",
+   "vigore_da": "2024-02-23"
+  },
+  "11": {
+   "file": "cp-1.md",
+   "rubrica": "Rinnovamento del giudizio",
+   "vigore_da": "1931-07-01"
+  },
+  "12": {
+   "file": "cp-1.md",
+   "rubrica": "Riconoscimento delle sentenze penali straniere",
+   "vigore_da": "1931-07-01"
+  },
+  "13": {
+   "file": "cp-1.md",
+   "rubrica": "Estradizione",
+   "vigore_da": "1931-07-01"
+  },
+  "14": {
+   "file": "cp-1.md",
+   "rubrica": "Computo e decorrenza dei termini",
+   "vigore_da": "1931-07-01"
+  },
+  "15": {
+   "file": "cp-1.md",
+   "rubrica": "Materia regolata da piu' leggi penali o da piu' disposizioni della medesima legge penale",
+   "vigore_da": "1931-07-01"
+  },
+  "16": {
+   "file": "cp-1.md",
+   "rubrica": "Leggi penali speciali",
+   "vigore_da": "1931-07-01"
+  },
+  "17": {
+   "file": "cp-1.md",
+   "rubrica": "Pene principali: specie",
+   "vigore_da": "1994-05-05"
+  },
+  "18": {
+   "file": "cp-1.md",
+   "rubrica": "Denominazione e classificazione delle pene principali",
+   "vigore_da": "1931-07-01"
+  },
+  "19": {
+   "file": "cp-1.md",
+   "rubrica": "Pene accessorie: specie",
+   "vigore_da": "2014-02-07"
+  },
+  "20": {
+   "file": "cp-1.md",
+   "rubrica": "Pene principali e accessorie",
+   "vigore_da": "1931-07-01"
+  },
+  "20-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Pene sostitutive delle pene detentive brevi",
+   "vigore_da": "2022-12-30"
+  },
+  "21": {
+   "file": "cp-1.md",
+   "rubrica": "",
+   "vigore_da": "1944-10-05"
+  },
+  "22": {
+   "file": "cp-1.md",
+   "rubrica": "Ergastolo",
+   "vigore_da": "1994-05-05"
+  },
+  "23": {
+   "file": "cp-1.md",
+   "rubrica": "Reclusione",
+   "vigore_da": "1931-07-01"
+  },
+  "24": {
+   "file": "cp-1.md",
+   "rubrica": "Multa",
+   "vigore_da": "2009-08-08"
+  },
+  "25": {
+   "file": "cp-1.md",
+   "rubrica": "Arresto",
+   "vigore_da": "1931-07-01"
+  },
+  "26": {
+   "file": "cp-1.md",
+   "rubrica": "Ammenda",
+   "vigore_da": "2009-08-08"
+  },
+  "27": {
+   "file": "cp-1.md",
+   "rubrica": "Pene pecuniarie fisse e proporzionali",
+   "vigore_da": "1931-07-01"
+  },
+  "28": {
+   "file": "cp-1.md",
+   "rubrica": "Interdizione dai pubblici uffici",
+   "vigore_da": "1968-07-21"
+  },
+  "29": {
+   "file": "cp-1.md",
+   "rubrica": "Casi nei quali alla condanna consegue l'interdizione dai pubblici uffici",
+   "vigore_da": "1931-07-01"
+  },
+  "30": {
+   "file": "cp-1.md",
+   "rubrica": "Interdizione da una professione o da un'arte",
+   "vigore_da": "1931-07-01"
+  },
+  "31": {
+   "file": "cp-1.md",
+   "rubrica": "Condanna per delitti commessi con abuso di un pubblico ufficio o di una professione o di un'arte. Interdizione",
+   "vigore_da": "1931-07-01"
+  },
+  "32": {
+   "file": "cp-1.md",
+   "rubrica": "Interdizione legale",
+   "vigore_da": "2014-02-07"
+  },
+  "32-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Interdizione temporanea dagli uffici direttivi delle persone giuridiche e delle imprese",
+   "vigore_da": "2006-01-12"
+  },
+  "32-ter": {
+   "file": "cp-1.md",
+   "rubrica": "Incapacita' di contrattare con la pubblica amministrazione",
+   "vigore_da": "2015-06-14"
+  },
+  "32-quater": {
+   "file": "cp-1.md",
+   "rubrica": "Casi nei quali alla condanna consegue l'incapacita' di contrattare con la pubblica amministrazione",
+   "vigore_da": "2026-06-02"
+  },
+  "32-quinquies": {
+   "file": "cp-1.md",
+   "rubrica": "Casi nei quali alla condanna consegue l'estinzione del rapporto di lavoro o di impiego",
+   "vigore_da": "2015-06-14"
+  },
+  "33": {
+   "file": "cp-1.md",
+   "rubrica": "Condanna per delitto colposo",
+   "vigore_da": "1981-12-15"
+  },
+  "34": {
+   "file": "cp-1.md",
+   "rubrica": "Decadenza dalla responsabilita' genitoriale e sospensione dall'esercizio di essa",
+   "vigore_da": "2025-04-24"
+  },
+  "35": {
+   "file": "cp-1.md",
+   "rubrica": "Sospensione dall'esercizio di una professione o di un'arte",
+   "vigore_da": "2015-06-14"
+  },
+  "35-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Sospensione dall'esercizio degli uffici direttivi delle persone giuridiche e delle imprese",
+   "vigore_da": "2006-01-12"
+  },
+  "36": {
+   "file": "cp-1.md",
+   "rubrica": "Pubblicazione della sentenza penale di condanna",
+   "vigore_da": "2011-07-17"
+  },
+  "37": {
+   "file": "cp-1.md",
+   "rubrica": "Pene accessorie temporanee: durata",
+   "vigore_da": "1931-07-01"
+  },
+  "38": {
+   "file": "cp-1.md",
+   "rubrica": "Condizione giuridica del condannato alla pena di morte",
+   "vigore_da": "1944-10-05"
+  },
+  "39": {
+   "file": "cp-1.md",
+   "rubrica": "Reato: distinzione fra delitti e contravvenzioni",
+   "vigore_da": "1931-07-01"
+  },
+  "40": {
+   "file": "cp-1.md",
+   "rubrica": "Rapporto di causalita'",
+   "vigore_da": "1931-07-01"
+  },
+  "41": {
+   "file": "cp-1.md",
+   "rubrica": "Concorso di cause",
+   "vigore_da": "1931-07-01"
+  },
+  "42": {
+   "file": "cp-1.md",
+   "rubrica": "Responsabilita' per dolo o per colpa o per delitto preterintenzionale. Responsabilita' obiettiva",
+   "vigore_da": "1931-07-01"
+  },
+  "43": {
+   "file": "cp-1.md",
+   "rubrica": "Elemento psicologico del reato",
+   "vigore_da": "1931-07-01"
+  },
+  "44": {
+   "file": "cp-1.md",
+   "rubrica": "Condizione obiettiva di punibilita'",
+   "vigore_da": "1931-07-01"
+  },
+  "45": {
+   "file": "cp-1.md",
+   "rubrica": "Caso fortuito o forza maggiore",
+   "vigore_da": "1931-07-01"
+  },
+  "46": {
+   "file": "cp-1.md",
+   "rubrica": "Costringimento fisico",
+   "vigore_da": "1931-07-01"
+  },
+  "47": {
+   "file": "cp-1.md",
+   "rubrica": "Errore di fatto",
+   "vigore_da": "1931-07-01"
+  },
+  "48": {
+   "file": "cp-1.md",
+   "rubrica": "Errore determinato dall'altrui inganno",
+   "vigore_da": "1931-07-01"
+  },
+  "49": {
+   "file": "cp-1.md",
+   "rubrica": "Reato supposto erroneamente e reato impossibile",
+   "vigore_da": "1931-07-01"
+  },
+  "50": {
+   "file": "cp-1.md",
+   "rubrica": "Consenso dell'avente diritto",
+   "vigore_da": "1931-07-01"
+  },
+  "51": {
+   "file": "cp-1.md",
+   "rubrica": "Esercizio di un diritto o adempimento di un dovere",
+   "vigore_da": "1931-07-01"
+  },
+  "52": {
+   "file": "cp-1.md",
+   "rubrica": "Difesa legittima",
+   "vigore_da": "2019-05-18"
+  },
+  "53": {
+   "file": "cp-1.md",
+   "rubrica": "Uso legittimo delle armi",
+   "vigore_da": "1975-05-25"
+  },
+  "54": {
+   "file": "cp-1.md",
+   "rubrica": "Stato di necessita'",
+   "vigore_da": "1931-07-01"
+  },
+  "55": {
+   "file": "cp-1.md",
+   "rubrica": "Eccesso colposo",
+   "vigore_da": "2019-05-18"
+  },
+  "56": {
+   "file": "cp-1.md",
+   "rubrica": "Delitto tentato",
+   "vigore_da": "1944-10-05"
+  },
+  "57": {
+   "file": "cp-1.md",
+   "rubrica": "Reati commessi col mezzo della stampa periodica",
+   "vigore_da": "1990-04-12"
+  },
+  "57-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Reati commessi col mezzo della stampa non periodica",
+   "vigore_da": "1958-03-27"
+  },
+  "58": {
+   "file": "cp-1.md",
+   "rubrica": "Stampa clandestina",
+   "vigore_da": "1958-03-27"
+  },
+  "58-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Procedibilita' per i reati commessi col mezzo della stampa",
+   "vigore_da": "1958-03-27"
+  },
+  "59": {
+   "file": "cp-1.md",
+   "rubrica": "Circostanze non conosciute o erroneamente supposte",
+   "vigore_da": "1990-02-28"
+  },
+  "60": {
+   "file": "cp-1.md",
+   "rubrica": "Errore sulla persona dell'offeso",
+   "vigore_da": "1931-07-01"
+  },
+  "61": {
+   "file": "cp-1.md",
+   "rubrica": "Circostanze aggravanti comuni",
+   "vigore_da": "2025-10-17"
+  },
+  "61-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Circostanza aggravante del reato transnazionale",
+   "vigore_da": "2018-04-06"
+  },
+  "62": {
+   "file": "cp-1.md",
+   "rubrica": "Circostanze attenuanti comuni",
+   "vigore_da": "2022-12-30"
+  },
+  "62-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Circostanze attenuanti generiche",
+   "vigore_da": "2011-06-16"
+  },
+  "63": {
+   "file": "cp-1.md",
+   "rubrica": "Applicazione degli aumenti o delle diminuzioni di pena",
+   "vigore_da": "2025-05-29"
+  },
+  "64": {
+   "file": "cp-1.md",
+   "rubrica": "Aumento di pena nel caso di una sola circostanza aggravante",
+   "vigore_da": "1931-07-01"
+  },
+  "65": {
+   "file": "cp-1.md",
+   "rubrica": "Diminuzione di pena nel caso di una sola circostanza attenuante",
+   "vigore_da": "1944-10-05"
+  },
+  "66": {
+   "file": "cp-1.md",
+   "rubrica": "Limiti degli aumenti di pena nel caso di concorso di piu' circostanze aggravanti",
+   "vigore_da": "1981-12-15"
+  },
+  "67": {
+   "file": "cp-1.md",
+   "rubrica": "Limiti delle diminuzioni di pena nel caso di concorso di piu' circostanze attenuanti",
+   "vigore_da": "1944-10-05"
+  },
+  "68": {
+   "file": "cp-1.md",
+   "rubrica": "Limiti al concorso di circostanze",
+   "vigore_da": "1931-07-01"
+  },
+  "69": {
+   "file": "cp-1.md",
+   "rubrica": "Concorso di circostanze aggravanti e attenuanti",
+   "vigore_da": "2026-05-14"
+  },
+  "69-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Casi di esclusione del giudizio di comparazione tra circostanze",
+   "vigore_da": "2018-04-06"
+  },
+  "70": {
+   "file": "cp-1.md",
+   "rubrica": "Circostanze oggettive e soggettive",
+   "vigore_da": "1931-07-01"
+  },
+  "71": {
+   "file": "cp-1.md",
+   "rubrica": "Condanna per piu' reati con unica sentenza o decreto",
+   "vigore_da": "1931-07-01"
+  },
+  "72": {
+   "file": "cp-1.md",
+   "rubrica": "Concorso di reati che importano l'ergastolo e di reati che importano pene detentive temporanee",
+   "vigore_da": "1962-12-21"
+  },
+  "73": {
+   "file": "cp-1.md",
+   "rubrica": "Concorso di reati che importano pene detentive temporanee o pene pecuniarie della stessa specie",
+   "vigore_da": "1994-05-05"
+  },
+  "74": {
+   "file": "cp-1.md",
+   "rubrica": "Concorso di reati che importano pene detentive di specie diversa",
+   "vigore_da": "1931-07-01"
+  },
+  "75": {
+   "file": "cp-1.md",
+   "rubrica": "Concorso di reati che importano pene pecuniarie di specie diversa",
+   "vigore_da": "1931-07-01"
+  },
+  "76": {
+   "file": "cp-1.md",
+   "rubrica": "Pene concorrenti considerate come pena unica ovvero come pene distinte",
+   "vigore_da": "1931-07-01"
+  },
+  "77": {
+   "file": "cp-1.md",
+   "rubrica": "Determinazione delle pene accessorie",
+   "vigore_da": "1931-07-01"
+  },
+  "78": {
+   "file": "cp-1.md",
+   "rubrica": "Limiti degli aumenti delle pene principali",
+   "vigore_da": "2001-04-04"
+  },
+  "79": {
+   "file": "cp-1.md",
+   "rubrica": "Limiti degli aumenti delle pene accessorie",
+   "vigore_da": "1931-07-01"
+  },
+  "80": {
+   "file": "cp-1.md",
+   "rubrica": "Concorso di pene inflitte con sentenze o decreti diversi",
+   "vigore_da": "1931-07-01"
+  },
+  "81": {
+   "file": "cp-1.md",
+   "rubrica": "Concorso formale. Reato continuato",
+   "vigore_da": "2005-12-08"
+  },
+  "82": {
+   "file": "cp-1.md",
+   "rubrica": "Offesa di persona diversa da quella alla quale l'offesa era diretta",
+   "vigore_da": "1931-07-01"
+  },
+  "83": {
+   "file": "cp-1.md",
+   "rubrica": "Evento diverso da quello voluto dall'agente",
+   "vigore_da": "1931-07-01"
+  },
+  "84": {
+   "file": "cp-1.md",
+   "rubrica": "Reato complesso",
+   "vigore_da": "1931-07-01"
+  },
+  "85": {
+   "file": "cp-1.md",
+   "rubrica": "Capacita' d'intendere e di volere",
+   "vigore_da": "1931-07-01"
+  },
+  "86": {
+   "file": "cp-1.md",
+   "rubrica": "Determinazione in altri dello stato d'incapacita', allo scopo di far commettere un reato",
+   "vigore_da": "1931-07-01"
+  },
+  "87": {
+   "file": "cp-1.md",
+   "rubrica": "Stato preordinato d'incapacita' d'intendere o di volere",
+   "vigore_da": "1931-07-01"
+  },
+  "88": {
+   "file": "cp-1.md",
+   "rubrica": "Vizio totale di mente",
+   "vigore_da": "1931-07-01"
+  },
+  "89": {
+   "file": "cp-1.md",
+   "rubrica": "Vizio parziale di mente",
+   "vigore_da": "1931-07-01"
+  },
+  "90": {
+   "file": "cp-1.md",
+   "rubrica": "Stati emotivi o passionali",
+   "vigore_da": "1931-07-01"
+  },
+  "91": {
+   "file": "cp-1.md",
+   "rubrica": "Ubriachezza derivata da caso fortuito o da forza maggiore",
+   "vigore_da": "1931-07-01"
+  },
+  "92": {
+   "file": "cp-1.md",
+   "rubrica": "Ubriachezza volontaria o colposa ovvero preordinata",
+   "vigore_da": "1931-07-01"
+  },
+  "93": {
+   "file": "cp-1.md",
+   "rubrica": "Fatto commesso sotto l'azione di sostanze stupefacenti",
+   "vigore_da": "1931-07-01"
+  },
+  "94": {
+   "file": "cp-1.md",
+   "rubrica": "Ubriachezza abituale",
+   "vigore_da": "1931-07-01"
+  },
+  "95": {
+   "file": "cp-1.md",
+   "rubrica": "Cronica intossicazione da alcool o da sostanze stupefacenti",
+   "vigore_da": "1931-07-01"
+  },
+  "96": {
+   "file": "cp-1.md",
+   "rubrica": "Sordomutismo",
+   "vigore_da": "1931-07-01"
+  },
+  "97": {
+   "file": "cp-1.md",
+   "rubrica": "Minore degli anni quattordici",
+   "vigore_da": "1931-07-01"
+  },
+  "98": {
+   "file": "cp-1.md",
+   "rubrica": "Minore degli anni diciotto",
+   "vigore_da": "2014-02-07"
+  },
+  "99": {
+   "file": "cp-1.md",
+   "rubrica": "Recidiva",
+   "vigore_da": "2015-07-30"
+  },
+  "100": {
+   "file": "cp-1.md",
+   "rubrica": "",
+   "vigore_da": "1974-04-12"
+  },
+  "101": {
+   "file": "cp-1.md",
+   "rubrica": "Reati della stessa indole",
+   "vigore_da": "1931-07-01"
+  },
+  "102": {
+   "file": "cp-1.md",
+   "rubrica": "Abitualita' presunta dalla legge",
+   "vigore_da": "1931-07-01"
+  },
+  "103": {
+   "file": "cp-1.md",
+   "rubrica": "Abitualita' ritenuta dal giudice",
+   "vigore_da": "1931-07-01"
+  },
+  "104": {
+   "file": "cp-1.md",
+   "rubrica": "Abitualita' nelle contravvenzioni",
+   "vigore_da": "1931-07-01"
+  },
+  "105": {
+   "file": "cp-1.md",
+   "rubrica": "Professionalita' nel reato",
+   "vigore_da": "1931-07-01"
+  },
+  "106": {
+   "file": "cp-1.md",
+   "rubrica": "Effetti dell'estinzione del reato o della pena",
+   "vigore_da": "1931-07-01"
+  },
+  "107": {
+   "file": "cp-1.md",
+   "rubrica": "Condanna per vari reati con una sola sentenza",
+   "vigore_da": "1931-07-01"
+  },
+  "108": {
+   "file": "cp-1.md",
+   "rubrica": "Tendenza a delinquere",
+   "vigore_da": "1931-07-01"
+  },
+  "109": {
+   "file": "cp-1.md",
+   "rubrica": "Effetti della dichiarazione di abitualita', professionalita' o tendenza a delinquere",
+   "vigore_da": "1931-07-01"
+  },
+  "110": {
+   "file": "cp-1.md",
+   "rubrica": "Pena per coloro che concorrono nel reato",
+   "vigore_da": "1931-07-01"
+  },
+  "111": {
+   "file": "cp-1.md",
+   "rubrica": "Determinazione al reato di persona non imputabile o non punibile",
+   "vigore_da": "2014-02-07"
+  },
+  "112": {
+   "file": "cp-1.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2014-02-07"
+  },
+  "113": {
+   "file": "cp-1.md",
+   "rubrica": "Cooperazione nel delitto colposo",
+   "vigore_da": "1931-07-01"
+  },
+  "114": {
+   "file": "cp-1.md",
+   "rubrica": "Circostanze attenuanti",
+   "vigore_da": "1992-01-02"
+  },
+  "115": {
+   "file": "cp-1.md",
+   "rubrica": "Accordo per commettere un reato. Istigazione",
+   "vigore_da": "1931-07-01"
+  },
+  "116": {
+   "file": "cp-1.md",
+   "rubrica": "Reato diverso da quello voluto da taluno dei concorrenti",
+   "vigore_da": "1931-07-01"
+  },
+  "117": {
+   "file": "cp-1.md",
+   "rubrica": "Mutamento del titolo del reato per taluno dei concorrenti",
+   "vigore_da": "1989-06-14"
+  },
+  "118": {
+   "file": "cp-1.md",
+   "rubrica": "Valutazione delle circostanze aggravanti o attenuanti",
+   "vigore_da": "1990-02-28"
+  },
+  "119": {
+   "file": "cp-1.md",
+   "rubrica": "Valutazione delle circostanze di esclusione della pena",
+   "vigore_da": "1931-07-01"
+  },
+  "120": {
+   "file": "cp-1.md",
+   "rubrica": "Diritto di querela",
+   "vigore_da": "1931-07-01"
+  },
+  "121": {
+   "file": "cp-1.md",
+   "rubrica": "Diritto di querela esercitato da un curatore speciale",
+   "vigore_da": "1931-07-01"
+  },
+  "122": {
+   "file": "cp-1.md",
+   "rubrica": "Querela di uno fra piu' offesi",
+   "vigore_da": "1931-07-01"
+  },
+  "123": {
+   "file": "cp-1.md",
+   "rubrica": "Estensione della querela",
+   "vigore_da": "1931-07-01"
+  },
+  "124": {
+   "file": "cp-1.md",
+   "rubrica": "Termine per proporre la querela. Rinuncia",
+   "vigore_da": "2020-05-19"
+  },
+  "125": {
+   "file": "cp-1.md",
+   "rubrica": "Querela del minore o inabilitato nel caso di rinuncia del rappresentante",
+   "vigore_da": "1931-07-01"
+  },
+  "126": {
+   "file": "cp-1.md",
+   "rubrica": "Estinzione del diritto di querela",
+   "vigore_da": "1931-07-01"
+  },
+  "127": {
+   "file": "cp-1.md",
+   "rubrica": "Richiesta di procedimento per delitti contro il Presidente della Repubblica",
+   "vigore_da": "1947-12-04"
+  },
+  "128": {
+   "file": "cp-1.md",
+   "rubrica": "Termine per la richiesta di procedimento",
+   "vigore_da": "1931-07-01"
+  },
+  "129": {
+   "file": "cp-1.md",
+   "rubrica": "Irrevocabilita' ed estensione della richiesta",
+   "vigore_da": "1931-07-01"
+  },
+  "130": {
+   "file": "cp-1.md",
+   "rubrica": "Istanza della persona offesa",
+   "vigore_da": "1931-07-01"
+  },
+  "131": {
+   "file": "cp-1.md",
+   "rubrica": "Reato complesso. Procedibilita' di ufficio",
+   "vigore_da": "1931-07-01"
+  },
+  "131-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Esclusione della punibilita' per particolare tenuita' del fatto",
+   "vigore_da": "2026-04-02"
+  },
+  "132": {
+   "file": "cp-1.md",
+   "rubrica": "Potere discrezionale del giudice nell'applicazione della pena: limiti",
+   "vigore_da": "1931-07-01"
+  },
+  "133": {
+   "file": "cp-1.md",
+   "rubrica": "Gravita' del reato: valutazione agli effetti della pena",
+   "vigore_da": "1931-07-01"
+  },
+  "133-bis": {
+   "file": "cp-1.md",
+   "rubrica": "",
+   "vigore_da": "2022-12-30"
+  },
+  "133-ter": {
+   "file": "cp-1.md",
+   "rubrica": "Pagamento rateale della multa o dell'ammenda",
+   "vigore_da": "2022-12-30"
+  },
+  "134": {
+   "file": "cp-1.md",
+   "rubrica": "Computo delle pene",
+   "vigore_da": "1931-07-01"
+  },
+  "135": {
+   "file": "cp-1.md",
+   "rubrica": "Ragguaglio fra pene pecuniarie e pene detentive",
+   "vigore_da": "2022-12-30"
+  },
+  "136": {
+   "file": "cp-1.md",
+   "rubrica": "Conversione delle pene pecuniarie non eseguite",
+   "vigore_da": "2022-12-30"
+  },
+  "137": {
+   "file": "cp-1.md",
+   "rubrica": "Carcerazione preventiva",
+   "vigore_da": "1931-07-01"
+  },
+  "138": {
+   "file": "cp-1.md",
+   "rubrica": "Pena e carcerazione preventiva per reati commessi all'estero",
+   "vigore_da": "1931-07-01"
+  },
+  "139": {
+   "file": "cp-1.md",
+   "rubrica": "Computo delle pene accessorie",
+   "vigore_da": "1931-07-01"
+  },
+  "140": {
+   "file": "cp-1.md",
+   "rubrica": "",
+   "vigore_da": "1989-10-24"
+  },
+  "141": {
+   "file": "cp-1.md",
+   "rubrica": "",
+   "vigore_da": "1975-08-24"
+  },
+  "142": {
+   "file": "cp-1.md",
+   "rubrica": "",
+   "vigore_da": "1975-08-24"
+  },
+  "143": {
+   "file": "cp-1.md",
+   "rubrica": "",
+   "vigore_da": "1975-08-24"
+  },
+  "144": {
+   "file": "cp-1.md",
+   "rubrica": "",
+   "vigore_da": "1975-08-24"
+  },
+  "145": {
+   "file": "cp-1.md",
+   "rubrica": "Remunerazione ai condannati per il lavoro prestato",
+   "vigore_da": "1931-07-01"
+  },
+  "146": {
+   "file": "cp-1.md",
+   "rubrica": "Rinvio obbligatorio dell'esecuzione della pena",
+   "vigore_da": "2025-04-12"
+  },
+  "147": {
+   "file": "cp-1.md",
+   "rubrica": "Rinvio facoltativo dell'esecuzione della pena",
+   "vigore_da": "2025-04-12"
+  },
+  "148": {
+   "file": "cp-1.md",
+   "rubrica": "Infermita' psichica sopravvenuta al condannato",
+   "vigore_da": "1975-06-26"
+  },
+  "149": {
+   "file": "cp-1.md",
+   "rubrica": "",
+   "vigore_da": "1975-08-24"
+  },
+  "150": {
+   "file": "cp-1.md",
+   "rubrica": "Morte del reo prima della condanna",
+   "vigore_da": "1931-07-01"
+  },
+  "151": {
+   "file": "cp-1.md",
+   "rubrica": "Amnistia",
+   "vigore_da": "1971-07-22"
+  },
+  "152": {
+   "file": "cp-1.md",
+   "rubrica": "Remissione della querela",
+   "vigore_da": "2022-12-30"
+  },
+  "153": {
+   "file": "cp-1.md",
+   "rubrica": "Esercizio del diritto di remissione. Incapaci",
+   "vigore_da": "1931-07-01"
+  },
+  "154": {
+   "file": "cp-1.md",
+   "rubrica": "Piu' querelanti: remissione di uno solo",
+   "vigore_da": "1931-07-01"
+  },
+  "155": {
+   "file": "cp-1.md",
+   "rubrica": "Accettazione della remissione",
+   "vigore_da": "1931-07-01"
+  },
+  "156": {
+   "file": "cp-1.md",
+   "rubrica": "Estinzione del diritto di remissione",
+   "vigore_da": "1975-06-26"
+  },
+  "157": {
+   "file": "cp-1.md",
+   "rubrica": "Prescrizione. Tempo necessario a prescrivere",
+   "vigore_da": "2016-08-02"
+  },
+  "158": {
+   "file": "cp-1.md",
+   "rubrica": "Decorrenza del termine della prescrizione",
+   "vigore_da": "2020-01-01"
+  },
+  "159": {
+   "file": "cp-1.md",
+   "rubrica": "Sospensione del corso della prescrizione",
+   "vigore_da": "2022-12-30"
+  },
+  "160": {
+   "file": "cp-1.md",
+   "rubrica": "Interruzione del corso della prescrizione",
+   "vigore_da": "2021-10-19"
+  },
+  "161": {
+   "file": "cp-1.md",
+   "rubrica": "Effetti della sospensione e della interruzione",
+   "vigore_da": "2017-08-03"
+  },
+  "161-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Cessazione del corso della prescrizione",
+   "vigore_da": "2021-10-19"
+  },
+  "162": {
+   "file": "cp-1.md",
+   "rubrica": "Oblazione nelle contravvenzioni",
+   "vigore_da": "1961-06-28"
+  },
+  "162-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Oblazione nelle contravvenzioni punite con pene alternative",
+   "vigore_da": "2000-06-08"
+  },
+  "162-ter": {
+   "file": "cp-1.md",
+   "rubrica": "Estinzione del reato per condotte riparatorie",
+   "vigore_da": "2017-12-06"
+  },
+  "163": {
+   "file": "cp-1.md",
+   "rubrica": "Sospensione condizionale della pena",
+   "vigore_da": "2022-12-30"
+  },
+  "164": {
+   "file": "cp-1.md",
+   "rubrica": "Limiti entro i quali e' ammessa la sospensione condizionale della pena",
+   "vigore_da": "2026-03-26"
+  },
+  "165": {
+   "file": "cp-1.md",
+   "rubrica": "Obblighi del condannato",
+   "vigore_da": "2026-06-25"
+  },
+  "166": {
+   "file": "cp-1.md",
+   "rubrica": "Effetti della sospensione",
+   "vigore_da": "2019-01-31"
+  },
+  "167": {
+   "file": "cp-1.md",
+   "rubrica": "Estinzione del reato",
+   "vigore_da": "1990-02-28"
+  },
+  "168": {
+   "file": "cp-1.md",
+   "rubrica": "Revoca della sospensione",
+   "vigore_da": "2001-05-04"
+  },
+  "168-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Sospensione del procedimento con messa alla prova dell'imputato",
+   "vigore_da": "2025-07-03"
+  },
+  "168-ter": {
+   "file": "cp-1.md",
+   "rubrica": "Effetti della sospensione del procedimento con messa alla prova",
+   "vigore_da": "2014-05-17"
+  },
+  "168-quater": {
+   "file": "cp-1.md",
+   "rubrica": "Revoca della sospensione del procedimento con messa alla prova",
+   "vigore_da": "2014-05-17"
+  },
+  "169": {
+   "file": "cp-1.md",
+   "rubrica": "Perdono giudiziale per i minori degli anni diciotto",
+   "vigore_da": "1976-07-15"
+  },
+  "170": {
+   "file": "cp-1.md",
+   "rubrica": "Estinzione di un reato che sia presupposto, elemento costitutivo o circostanza aggravante di un altro reato",
+   "vigore_da": "1931-07-01"
+  },
+  "171": {
+   "file": "cp-1.md",
+   "rubrica": "Morte del reo dopo la condanna",
+   "vigore_da": "1931-07-01"
+  },
+  "172": {
+   "file": "cp-1.md",
+   "rubrica": "Estinzione delle pene della reclusione e della multa per decorso del tempo",
+   "vigore_da": "1981-12-15"
+  },
+  "173": {
+   "file": "cp-1.md",
+   "rubrica": "Estinzione delle pene dell'arresto e dell'ammenda per decorso del tempo",
+   "vigore_da": "1931-07-01"
+  },
+  "174": {
+   "file": "cp-1.md",
+   "rubrica": "Indulto e grazia",
+   "vigore_da": "1931-07-01"
+  },
+  "175": {
+   "file": "cp-1.md",
+   "rubrica": "Non menzione della condanna nel certificato del casellario giudiziale",
+   "vigore_da": "2022-12-30"
+  },
+  "176": {
+   "file": "cp-1.md",
+   "rubrica": "Liberazione condizionale",
+   "vigore_da": "1986-10-31"
+  },
+  "177": {
+   "file": "cp-1.md",
+   "rubrica": "Revoca della liberazione condizionale o estinzione della pena",
+   "vigore_da": "1998-12-31"
+  },
+  "178": {
+   "file": "cp-1.md",
+   "rubrica": "Riabilitazione",
+   "vigore_da": "1931-07-01"
+  },
+  "179": {
+   "file": "cp-1.md",
+   "rubrica": "Condizioni per la riabilitazione",
+   "vigore_da": "2019-01-31"
+  },
+  "180": {
+   "file": "cp-1.md",
+   "rubrica": "Revoca della sentenza di riabilitazione",
+   "vigore_da": "2004-06-13"
+  },
+  "181": {
+   "file": "cp-1.md",
+   "rubrica": "Riabilitazione nel caso di condanna all'estero",
+   "vigore_da": "1931-07-01"
+  },
+  "182": {
+   "file": "cp-1.md",
+   "rubrica": "Effetti delle cause di estinzione del reato o della pena",
+   "vigore_da": "1931-07-01"
+  },
+  "183": {
+   "file": "cp-1.md",
+   "rubrica": "Concorso di cause estintive",
+   "vigore_da": "1931-07-01"
+  },
+  "184": {
+   "file": "cp-1.md",
+   "rubrica": "Estinzione della pena di morte, dell'ergastolo o di pene temporanee nel caso di concorso di reati",
+   "vigore_da": "1944-10-05"
+  },
+  "185": {
+   "file": "cp-1.md",
+   "rubrica": "Restituzioni e risarcimento del danno",
+   "vigore_da": "1931-07-01"
+  },
+  "186": {
+   "file": "cp-1.md",
+   "rubrica": "Riparazione del danno mediante pubblicazione della sentenza di condanna",
+   "vigore_da": "1931-07-01"
+  },
+  "187": {
+   "file": "cp-1.md",
+   "rubrica": "Indivisibilita' e solidarieta' nelle obbligazioni ex delicto",
+   "vigore_da": "1931-07-01"
+  },
+  "188": {
+   "file": "cp-1.md",
+   "rubrica": "Spese per il mantenimento del condannato. Obbligo di rimborso",
+   "vigore_da": "1998-05-13"
+  },
+  "189": {
+   "file": "cp-1.md",
+   "rubrica": "Ipoteca legale; sequestro",
+   "vigore_da": "1989-10-24"
+  },
+  "190": {
+   "file": "cp-1.md",
+   "rubrica": "Garanzie sui beni della persona civilmente responsabile",
+   "vigore_da": "1989-10-24"
+  },
+  "191": {
+   "file": "cp-1.md",
+   "rubrica": "Ordine dei crediti garantiti con ipoteca o sequestro",
+   "vigore_da": "1931-07-01"
+  },
+  "192": {
+   "file": "cp-1.md",
+   "rubrica": "Atti a titolo gratuito compiuti dal colpevole dopo il reato",
+   "vigore_da": "1931-07-01"
+  },
+  "193": {
+   "file": "cp-1.md",
+   "rubrica": "Atti a titolo oneroso compiuti dal colpevole dopo il reato",
+   "vigore_da": "1931-07-01"
+  },
+  "194": {
+   "file": "cp-1.md",
+   "rubrica": "Atti a titolo oneroso o gratuito compiuti dal colpevole prima del reato",
+   "vigore_da": "1931-07-01"
+  },
+  "195": {
+   "file": "cp-1.md",
+   "rubrica": "Diritti dei terzi",
+   "vigore_da": "1931-07-01"
+  },
+  "196": {
+   "file": "cp-1.md",
+   "rubrica": "Obbligazione civile per le multe e le ammende inflitte a persona dipendente",
+   "vigore_da": "1981-12-15"
+  },
+  "197": {
+   "file": "cp-1.md",
+   "rubrica": "Obbligazione civile delle persone giuridiche per il pagamento delle multe e delle ammende",
+   "vigore_da": "1981-12-15"
+  },
+  "198": {
+   "file": "cp-1.md",
+   "rubrica": "Effetti dell'estinzione del reato o della pena sulle obbligazioni civili",
+   "vigore_da": "1931-07-01"
+  },
+  "199": {
+   "file": "cp-1.md",
+   "rubrica": "Sottoposizione a misure di sicurezza: disposizione espressa di legge",
+   "vigore_da": "1931-07-01"
+  },
+  "200": {
+   "file": "cp-1.md",
+   "rubrica": "Applicabilita' delle misure di sicurezza rispetto al tempo, al territorio e alle persone",
+   "vigore_da": "1931-07-01"
+  },
+  "201": {
+   "file": "cp-1.md",
+   "rubrica": "Misure di sicurezza per fatti commessi all'estero",
+   "vigore_da": "1931-07-01"
+  },
+  "202": {
+   "file": "cp-1.md",
+   "rubrica": "Applicabilita' delle misure di sicurezza",
+   "vigore_da": "1931-07-01"
+  },
+  "203": {
+   "file": "cp-1.md",
+   "rubrica": "Pericolosita' sociale",
+   "vigore_da": "1931-07-01"
+  },
+  "204": {
+   "file": "cp-1.md",
+   "rubrica": "",
+   "vigore_da": "1986-10-31"
+  },
+  "205": {
+   "file": "cp-1.md",
+   "rubrica": "Provvedimento del giudice",
+   "vigore_da": "1982-08-05"
+  },
+  "206": {
+   "file": "cp-1.md",
+   "rubrica": "Applicazione provvisoria delle misure di sicurezza",
+   "vigore_da": "2004-12-10"
+  },
+  "207": {
+   "file": "cp-1.md",
+   "rubrica": "Revoca delle misure di sicurezza personali",
+   "vigore_da": "1975-08-24"
+  },
+  "208": {
+   "file": "cp-1.md",
+   "rubrica": "Riesame della pericolosita'",
+   "vigore_da": "1931-07-01"
+  },
+  "209": {
+   "file": "cp-1.md",
+   "rubrica": "Persona giudicata per piu' fatti",
+   "vigore_da": "1931-07-01"
+  },
+  "210": {
+   "file": "cp-1.md",
+   "rubrica": "Effetti della estinzione del reato o della pena",
+   "vigore_da": "1944-10-05"
+  },
+  "211": {
+   "file": "cp-1.md",
+   "rubrica": "Esecuzione delle misure di sicurezza",
+   "vigore_da": "1931-07-01"
+  },
+  "211-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Rinvio dell'esecuzione delle misure di sicurezza",
+   "vigore_da": "2001-03-23"
+  },
+  "212": {
+   "file": "cp-1.md",
+   "rubrica": "Casi di sospensione o di trasformazione di misure di sicurezza",
+   "vigore_da": "1931-07-01"
+  },
+  "213": {
+   "file": "cp-1.md",
+   "rubrica": "Stabilimenti destinati alla esecuzione delle misure di sicurezza detentive. Regime educativo, curativo e di lavoro",
+   "vigore_da": "1931-07-01"
+  },
+  "214": {
+   "file": "cp-1.md",
+   "rubrica": "Inosservanza delle misure di sicurezza detentive",
+   "vigore_da": "1931-07-01"
+  },
+  "215": {
+   "file": "cp-1.md",
+   "rubrica": "Specie",
+   "vigore_da": "1931-07-01"
+  },
+  "216": {
+   "file": "cp-1.md",
+   "rubrica": "Assegnazione a una colonia agricola o ad una casa di lavoro",
+   "vigore_da": "1931-07-01"
+  },
+  "217": {
+   "file": "cp-1.md",
+   "rubrica": "Durata minima",
+   "vigore_da": "1931-07-01"
+  },
+  "218": {
+   "file": "cp-1.md",
+   "rubrica": "Esecuzione",
+   "vigore_da": "1931-07-01"
+  },
+  "219": {
+   "file": "cp-1.md",
+   "rubrica": "Assegnazione a una casa di cura e di custodia",
+   "vigore_da": "1988-12-22"
+  },
+  "220": {
+   "file": "cp-1.md",
+   "rubrica": "Esecuzione dell'ordine di ricovero",
+   "vigore_da": "1931-07-01"
+  },
+  "221": {
+   "file": "cp-1.md",
+   "rubrica": "Ubriachi abituali",
+   "vigore_da": "1931-07-01"
+  },
+  "222": {
+   "file": "cp-1.md",
+   "rubrica": "Ricovero in un manicomio giudiziario",
+   "vigore_da": "2003-07-24"
+  },
+  "223": {
+   "file": "cp-1.md",
+   "rubrica": "Ricovero dei minori in un riformatorio giudiziario",
+   "vigore_da": "1931-07-01"
+  },
+  "224": {
+   "file": "cp-1.md",
+   "rubrica": "Minore non imputabile",
+   "vigore_da": "1971-01-28"
+  },
+  "225": {
+   "file": "cp-1.md",
+   "rubrica": "Minore imputabile",
+   "vigore_da": "1931-07-01"
+  },
+  "226": {
+   "file": "cp-1.md",
+   "rubrica": "Minore delinquente abituale, professionale o per tendenza",
+   "vigore_da": "1931-07-01"
+  },
+  "227": {
+   "file": "cp-1.md",
+   "rubrica": "Riformatori speciali",
+   "vigore_da": "1931-07-01"
+  },
+  "228": {
+   "file": "cp-1.md",
+   "rubrica": "Liberta' vigilata",
+   "vigore_da": "1931-07-01"
+  },
+  "229": {
+   "file": "cp-1.md",
+   "rubrica": "Casi nei quali puo' essere ordinata la liberta' vigilata",
+   "vigore_da": "1931-07-01"
+  },
+  "230": {
+   "file": "cp-1.md",
+   "rubrica": "Casi nei quali deve essere ordinata la liberta' vigilata",
+   "vigore_da": "1931-07-01"
+  },
+  "231": {
+   "file": "cp-1.md",
+   "rubrica": "Trasgressione degli obblighi imposti",
+   "vigore_da": "1931-07-01"
+  },
+  "232": {
+   "file": "cp-1.md",
+   "rubrica": "Minori o infermi di mente in stato di liberta' vigilata",
+   "vigore_da": "1931-07-01"
+  },
+  "233": {
+   "file": "cp-1.md",
+   "rubrica": "Divieto di soggiorno in uno o piu' Comuni o in una o piu' Provincie",
+   "vigore_da": "1931-07-01"
+  },
+  "234": {
+   "file": "cp-1.md",
+   "rubrica": "Divieto di frequentare osterie e pubblici spacci di bevande alcooliche",
+   "vigore_da": "1931-07-01"
+  },
+  "235": {
+   "file": "cp-1.md",
+   "rubrica": "Espulsione od allontanamento dello straniero dallo Stato",
+   "vigore_da": "2009-08-08"
+  },
+  "236": {
+   "file": "cp-1.md",
+   "rubrica": "Specie: regole generali",
+   "vigore_da": "1931-07-01"
+  },
+  "237": {
+   "file": "cp-1.md",
+   "rubrica": "Cauzione di buona condotta",
+   "vigore_da": "1981-12-15"
+  },
+  "238": {
+   "file": "cp-1.md",
+   "rubrica": "Inadempimento dell'obbligo di prestare cauzione",
+   "vigore_da": "1931-07-01"
+  },
+  "239": {
+   "file": "cp-1.md",
+   "rubrica": "Adempimento o trasgressione dell'obbligo di buona condotta",
+   "vigore_da": "1931-07-01"
+  },
+  "240": {
+   "file": "cp-1.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2024-07-17"
+  },
+  "240-bis": {
+   "file": "cp-1.md",
+   "rubrica": "Confisca in casi particolari",
+   "vigore_da": "2026-06-02"
+  },
+  "241": {
+   "file": "cp-2.md",
+   "rubrica": "Attentati contro l'integrita', l'indipendenza e l'unita' dello Stato",
+   "vigore_da": "2006-03-28"
+  },
+  "242": {
+   "file": "cp-2.md",
+   "rubrica": "Cittadino che porta le armi contro lo Stato italiano",
+   "vigore_da": "1944-10-05"
+  },
+  "243": {
+   "file": "cp-2.md",
+   "rubrica": "Intelligenze con lo straniero a scopo di guerra contro lo Stato italiano",
+   "vigore_da": "1944-10-05"
+  },
+  "244": {
+   "file": "cp-2.md",
+   "rubrica": "Atti ostili verso uno Stato estero, che espongono lo Stato italiano al pericolo di guerra",
+   "vigore_da": "1995-06-02"
+  },
+  "245": {
+   "file": "cp-2.md",
+   "rubrica": "Intelligenze con lo straniero per impegnare lo Stato italiano alla neutralita' o alla guerra",
+   "vigore_da": "1931-07-01"
+  },
+  "246": {
+   "file": "cp-2.md",
+   "rubrica": "Corruzione del cittadino da parte dello straniero",
+   "vigore_da": "1931-07-01"
+  },
+  "247": {
+   "file": "cp-2.md",
+   "rubrica": "Favoreggiamento bellico",
+   "vigore_da": "1944-10-05"
+  },
+  "248": {
+   "file": "cp-2.md",
+   "rubrica": "Somministrazione al nemico di provvigioni",
+   "vigore_da": "1931-07-01"
+  },
+  "249": {
+   "file": "cp-2.md",
+   "rubrica": "Partecipazione a prestiti a favore del nemico",
+   "vigore_da": "1931-07-01"
+  },
+  "250": {
+   "file": "cp-2.md",
+   "rubrica": "Commercio col nemico",
+   "vigore_da": "1931-07-01"
+  },
+  "251": {
+   "file": "cp-2.md",
+   "rubrica": "Inadempimento di contratti di forniture in tempo di guerra",
+   "vigore_da": "1931-07-01"
+  },
+  "252": {
+   "file": "cp-2.md",
+   "rubrica": "Frode in forniture in tempo di guerra",
+   "vigore_da": "1931-07-01"
+  },
+  "253": {
+   "file": "cp-2.md",
+   "rubrica": "Distruzione o sabotaggio di opere militari",
+   "vigore_da": "1944-10-05"
+  },
+  "254": {
+   "file": "cp-2.md",
+   "rubrica": "Agevolazione colposa",
+   "vigore_da": "1931-07-01"
+  },
+  "255": {
+   "file": "cp-2.md",
+   "rubrica": "Soppressione, falsificazione o sottrazione di atti o documenti concernenti la sicurezza dello Stato",
+   "vigore_da": "1944-10-05"
+  },
+  "256": {
+   "file": "cp-2.md",
+   "rubrica": "Procacciamento di notizie concernenti la sicurezza dello Stato",
+   "vigore_da": "1944-10-05"
+  },
+  "257": {
+   "file": "cp-2.md",
+   "rubrica": "Spionaggio politico o militare",
+   "vigore_da": "1944-10-05"
+  },
+  "258": {
+   "file": "cp-2.md",
+   "rubrica": "Spionaggio di notizie di cui e' stata vietata la divulgazione",
+   "vigore_da": "1944-10-05"
+  },
+  "259": {
+   "file": "cp-2.md",
+   "rubrica": "Agevolazione colposa",
+   "vigore_da": "1931-07-01"
+  },
+  "260": {
+   "file": "cp-2.md",
+   "rubrica": "Introduzione clandestina in luoghi militari e possesso ingiustificato di mezzi di spionaggio",
+   "vigore_da": "2013-10-16"
+  },
+  "261": {
+   "file": "cp-2.md",
+   "rubrica": "Rivelazione di segreti di Stato",
+   "vigore_da": "1944-10-05"
+  },
+  "262": {
+   "file": "cp-2.md",
+   "rubrica": "Rivelazione di notizie di cui sia stata vietata la divulgazione",
+   "vigore_da": "1944-10-05"
+  },
+  "263": {
+   "file": "cp-2.md",
+   "rubrica": "Utilizzazione dei segreti di Stato",
+   "vigore_da": "1944-10-05"
+  },
+  "264": {
+   "file": "cp-2.md",
+   "rubrica": "Infedelta' in affari di Stato",
+   "vigore_da": "1931-07-01"
+  },
+  "265": {
+   "file": "cp-2.md",
+   "rubrica": "Disfattismo politico",
+   "vigore_da": "1931-07-01"
+  },
+  "266": {
+   "file": "cp-2.md",
+   "rubrica": "Istigazione di militari a disobbedire alle leggi",
+   "vigore_da": "1989-03-30"
+  },
+  "267": {
+   "file": "cp-2.md",
+   "rubrica": "Disfattismo economico",
+   "vigore_da": "1931-07-01"
+  },
+  "268": {
+   "file": "cp-2.md",
+   "rubrica": "Parificazione degli Stati alleati",
+   "vigore_da": "1931-07-01"
+  },
+  "269": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2006-03-28"
+  },
+  "270": {
+   "file": "cp-2.md",
+   "rubrica": "Associazioni sovversive",
+   "vigore_da": "2006-03-28"
+  },
+  "270-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Associazioni con finalita' di terrorismo anche internazionale o di eversione dell'ordine democratico",
+   "vigore_da": "2015-04-21"
+  },
+  "270-bis.1": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti e attenuanti",
+   "vigore_da": "2023-06-16"
+  },
+  "270-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Assistenza agli associati",
+   "vigore_da": "2015-04-21"
+  },
+  "270-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Arruolamento con finalita' di terrorismo anche internazionale",
+   "vigore_da": "2015-04-21"
+  },
+  "270-quater.1": {
+   "file": "cp-2.md",
+   "rubrica": "Organizzazione di trasferimenti per finalita' di terrorismo",
+   "vigore_da": "2015-04-21"
+  },
+  "270-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "Addestramento ad attivita' con finalita' di terrorismo anche internazionale",
+   "vigore_da": "2015-04-21"
+  },
+  "270-quinquies.1": {
+   "file": "cp-2.md",
+   "rubrica": "Finanziamento di condotte con finalita' di terrorismo",
+   "vigore_da": "2016-08-24"
+  },
+  "270-quinquies.2": {
+   "file": "cp-2.md",
+   "rubrica": "Sottrazione di beni o denaro sottoposti a sequestro",
+   "vigore_da": "2016-08-24"
+  },
+  "270-quinquies.3": {
+   "file": "cp-2.md",
+   "rubrica": "Detenzione di materiale con finalita' di terrorismo",
+   "vigore_da": "2025-04-12"
+  },
+  "270-sexies": {
+   "file": "cp-2.md",
+   "rubrica": "Condotte con finalita' di terrorismo",
+   "vigore_da": "2015-04-21"
+  },
+  "270-septies": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2016-08-24"
+  },
+  "271": {
+   "file": "cp-2.md",
+   "rubrica": "Associazioni antinazionali",
+   "vigore_da": "2001-07-19"
+  },
+  "272": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2006-03-28"
+  },
+  "273": {
+   "file": "cp-2.md",
+   "rubrica": "Illecita costituzione di associazioni aventi carattere internazionale",
+   "vigore_da": "1985-07-11"
+  },
+  "274": {
+   "file": "cp-2.md",
+   "rubrica": "Illecita partecipazione ad associazioni aventi carattere internazionale",
+   "vigore_da": "1985-07-11"
+  },
+  "275": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "275-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione delle misure restrittive dell'Unione europea",
+   "vigore_da": "2026-01-24"
+  },
+  "275-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione di obblighi informativi imposti da una misura restrittiva dell'Unione europea",
+   "vigore_da": "2026-01-24"
+  },
+  "275-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione delle condizioni dell'autorizzazione allo svolgimento di attivita'",
+   "vigore_da": "2026-03-04"
+  },
+  "275-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione colposa di misure restrittive dell'Unione europea",
+   "vigore_da": "2026-01-24"
+  },
+  "275-sexies": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2026-01-24"
+  },
+  "275-septies": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze attenuanti",
+   "vigore_da": "2026-01-24"
+  },
+  "275-octies": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca obbligatoria",
+   "vigore_da": "2026-01-24"
+  },
+  "275-novies": {
+   "file": "cp-2.md",
+   "rubrica": "Pubblicazione della sentenza di condanna",
+   "vigore_da": "2026-01-24"
+  },
+  "275-decies": {
+   "file": "cp-2.md",
+   "rubrica": "Giurisdizione",
+   "vigore_da": "2026-01-24"
+  },
+  "276": {
+   "file": "cp-2.md",
+   "rubrica": "Attentato contro il Presidente della Repubblica",
+   "vigore_da": "1982-10-03"
+  },
+  "277": {
+   "file": "cp-2.md",
+   "rubrica": "Offesa alla liberta' del Presidente della Repubblica",
+   "vigore_da": "1947-12-04"
+  },
+  "278": {
+   "file": "cp-2.md",
+   "rubrica": "Offese all'onore o al prestigio del Presidente della Repubblica",
+   "vigore_da": "1947-12-04"
+  },
+  "279": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2006-03-28"
+  },
+  "280": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2003-03-12"
+  },
+  "280-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Atto di terrorismo con ordigni micidiali o esplosivi",
+   "vigore_da": "2003-03-12"
+  },
+  "280-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Atti di terrorismo nucleare",
+   "vigore_da": "2016-08-24"
+  },
+  "281": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1944-11-10"
+  },
+  "282": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1944-11-10"
+  },
+  "283": {
+   "file": "cp-2.md",
+   "rubrica": "Attentato contro la Costituzione dello Stato",
+   "vigore_da": "2006-03-28"
+  },
+  "284": {
+   "file": "cp-2.md",
+   "rubrica": "Insurrezione armata contro i poteri dello Stato",
+   "vigore_da": "1982-10-03"
+  },
+  "285": {
+   "file": "cp-2.md",
+   "rubrica": "Devastazione, saccheggio e strage",
+   "vigore_da": "1982-10-03"
+  },
+  "286": {
+   "file": "cp-2.md",
+   "rubrica": "Guerra civile",
+   "vigore_da": "1982-10-03"
+  },
+  "287": {
+   "file": "cp-2.md",
+   "rubrica": "Usurpazione di potere politico o di comando militare",
+   "vigore_da": "1944-10-05"
+  },
+  "288": {
+   "file": "cp-2.md",
+   "rubrica": "Arruolamenti o armamenti non autorizzati a servizio di uno Stato estero",
+   "vigore_da": "1995-06-02"
+  },
+  "289": {
+   "file": "cp-2.md",
+   "rubrica": "Attentato contro organi costituzionali e contro le assemblee regionali",
+   "vigore_da": "2006-03-28"
+  },
+  "289-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Sequestro di persona a scopo di terrorismo o di eversione",
+   "vigore_da": "1978-05-20"
+  },
+  "289-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Sequestro di persona a scopo di coazione",
+   "vigore_da": "2018-04-06"
+  },
+  "290": {
+   "file": "cp-2.md",
+   "rubrica": "Vilipendio della Repubblica, delle Istituzioni costituzionali e delle Forze armate",
+   "vigore_da": "2006-03-28"
+  },
+  "290-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Parificazione al Presidente della Repubblica di chi ne fa le veci",
+   "vigore_da": "1947-12-04"
+  },
+  "291": {
+   "file": "cp-2.md",
+   "rubrica": "Vilipendio alla nazione italiana",
+   "vigore_da": "2006-03-28"
+  },
+  "292": {
+   "file": "cp-2.md",
+   "rubrica": "Vilipendio o danneggiamento alla bandiera o ad altro emblema dello Stato",
+   "vigore_da": "2006-03-28"
+  },
+  "292-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2006-03-28"
+  },
+  "293": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2006-03-28"
+  },
+  "294": {
+   "file": "cp-2.md",
+   "rubrica": "Attentati contro i diritti politici del cittadino",
+   "vigore_da": "2025-10-10"
+  },
+  "295": {
+   "file": "cp-2.md",
+   "rubrica": "Attentato contro i Capi di Stati esteri",
+   "vigore_da": "1982-10-03"
+  },
+  "296": {
+   "file": "cp-2.md",
+   "rubrica": "Offesa alla liberta' dei Capi di Stati esteri",
+   "vigore_da": "1931-07-01"
+  },
+  "297": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "298": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "299": {
+   "file": "cp-2.md",
+   "rubrica": "Offesa alla bandiera o ad altro emblema di uno Stato estero",
+   "vigore_da": "2006-03-28"
+  },
+  "300": {
+   "file": "cp-2.md",
+   "rubrica": "Condizione di reciprocita'",
+   "vigore_da": "1931-07-01"
+  },
+  "301": {
+   "file": "cp-2.md",
+   "rubrica": "Concorso di reati",
+   "vigore_da": "1931-07-01"
+  },
+  "302": {
+   "file": "cp-2.md",
+   "rubrica": "Istigazione a commettere alcuno dei delitti preveduti dai capi primo e secondo",
+   "vigore_da": "2015-04-21"
+  },
+  "303": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "304": {
+   "file": "cp-2.md",
+   "rubrica": "Cospirazione politica mediante accordo",
+   "vigore_da": "1931-07-01"
+  },
+  "305": {
+   "file": "cp-2.md",
+   "rubrica": "Cospirazione politica mediante associazione",
+   "vigore_da": "1970-05-22"
+  },
+  "306": {
+   "file": "cp-2.md",
+   "rubrica": "Banda armata: formazione e partecipazione",
+   "vigore_da": "1931-07-01"
+  },
+  "307": {
+   "file": "cp-2.md",
+   "rubrica": "Assistenza ai partecipi di cospirazione o di banda armata",
+   "vigore_da": "2017-02-11"
+  },
+  "308": {
+   "file": "cp-2.md",
+   "rubrica": "Cospirazione: casi di non punibilita'",
+   "vigore_da": "1931-07-01"
+  },
+  "309": {
+   "file": "cp-2.md",
+   "rubrica": "Banda armata: casi di non punibilita'",
+   "vigore_da": "1931-07-01"
+  },
+  "310": {
+   "file": "cp-2.md",
+   "rubrica": "Tempo di guerra",
+   "vigore_da": "1931-07-01"
+  },
+  "311": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanza diminuente: lieve entita' del fatto",
+   "vigore_da": "1931-07-01"
+  },
+  "312": {
+   "file": "cp-2.md",
+   "rubrica": "Espulsione od allontanamento dello straniero dallo Stato",
+   "vigore_da": "2009-08-08"
+  },
+  "313": {
+   "file": "cp-2.md",
+   "rubrica": "Autorizzazione a procedere o richiesta di procedimento",
+   "vigore_da": "1969-02-27"
+  },
+  "314": {
+   "file": "cp-2.md",
+   "rubrica": "Peculato",
+   "vigore_da": "2017-11-19"
+  },
+  "314-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Indebita destinazione di denaro o cose mobili",
+   "vigore_da": "2024-08-10"
+  },
+  "315": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1990-05-12"
+  },
+  "316": {
+   "file": "cp-2.md",
+   "rubrica": "Peculato mediante profitto dell'errore altrui",
+   "vigore_da": "2020-07-30"
+  },
+  "316-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2022-03-29"
+  },
+  "316-ter": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2022-03-29"
+  },
+  "317": {
+   "file": "cp-2.md",
+   "rubrica": "Concussione",
+   "vigore_da": "2017-11-19"
+  },
+  "317-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Pene accessorie",
+   "vigore_da": "2019-01-31"
+  },
+  "318": {
+   "file": "cp-2.md",
+   "rubrica": "Corruzione per l'esercizio della funzione",
+   "vigore_da": "2019-01-31"
+  },
+  "319": {
+   "file": "cp-2.md",
+   "rubrica": "Corruzione per un atto contrario ai doveri d'ufficio",
+   "vigore_da": "2017-11-19"
+  },
+  "319-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2010-07-31"
+  },
+  "319-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Corruzione in atti giudiziari",
+   "vigore_da": "2017-11-19"
+  },
+  "319-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Induzione indebita a dare o promettere utilita'",
+   "vigore_da": "2020-07-30"
+  },
+  "320": {
+   "file": "cp-2.md",
+   "rubrica": "Corruzione di persona incaricata di un pubblico servizio",
+   "vigore_da": "2017-11-19"
+  },
+  "321": {
+   "file": "cp-2.md",
+   "rubrica": "Pene per il corruttore",
+   "vigore_da": "2017-11-19"
+  },
+  "322": {
+   "file": "cp-2.md",
+   "rubrica": "Istigazione alla corruzione",
+   "vigore_da": "2017-11-19"
+  },
+  "322-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2024-08-25"
+  },
+  "322-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2012-11-28"
+  },
+  "322-ter.1": {
+   "file": "cp-2.md",
+   "rubrica": "Custodia giudiziale dei beni sequestrati",
+   "vigore_da": "2019-01-31"
+  },
+  "322-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Riparazione pecuniaria",
+   "vigore_da": "2026-06-25"
+  },
+  "323": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2024-08-25"
+  },
+  "323-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze attenuanti",
+   "vigore_da": "2024-08-25"
+  },
+  "323-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Causa di non punibilita'",
+   "vigore_da": "2024-08-25"
+  },
+  "324": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1990-05-12"
+  },
+  "325": {
+   "file": "cp-2.md",
+   "rubrica": "Utilizzazione d'invenzioni o scoperte conosciute per ragione di ufficio",
+   "vigore_da": "1931-07-01"
+  },
+  "326": {
+   "file": "cp-2.md",
+   "rubrica": "Rivelazione ed utilizzazione di segreti di ufficio",
+   "vigore_da": "1990-05-12"
+  },
+  "327": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "328": {
+   "file": "cp-2.md",
+   "rubrica": "Rifiuto di atti d'ufficio. Omissione",
+   "vigore_da": "1990-05-12"
+  },
+  "329": {
+   "file": "cp-2.md",
+   "rubrica": "Rifiuto o ritardo di obbedienza commesso da un militare o da un agente della forza pubblica",
+   "vigore_da": "1931-07-01"
+  },
+  "330": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1990-06-29"
+  },
+  "331": {
+   "file": "cp-2.md",
+   "rubrica": "Interruzione d'un servizio pubblico o di pubblica necessita'",
+   "vigore_da": "1931-07-01"
+  },
+  "332": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "333": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1990-06-29"
+  },
+  "334": {
+   "file": "cp-2.md",
+   "rubrica": "Sottrazione o danneggiamento di cose sottoposte a sequestro disposto nel corso di un procedimento penale o dalla autorita' amministrativa",
+   "vigore_da": "1981-12-19"
+  },
+  "335": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione colposa di doveri inerenti alla custodia di cose sottoposte a sequestro disposto nel corso di un procedimento penale o dall'autorita' amministrativa",
+   "vigore_da": "1981-12-15"
+  },
+  "335-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Disposizioni patrimoniali",
+   "vigore_da": "2001-04-06"
+  },
+  "336": {
+   "file": "cp-2.md",
+   "rubrica": "Violenza o minaccia a un pubblico ufficiale",
+   "vigore_da": "2025-04-12"
+  },
+  "337": {
+   "file": "cp-2.md",
+   "rubrica": "Resistenza a un pubblico ufficiale",
+   "vigore_da": "2025-04-12"
+  },
+  "337-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Occultamento, custodia o alterazione di mezzi di trasporto",
+   "vigore_da": "2001-04-19"
+  },
+  "338": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2017-07-22"
+  },
+  "339": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2025-04-12"
+  },
+  "339-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanza aggravante. Atti intimidatori di natura ritorsiva ai danni di un componente di un Corpo politico, amministrativo o giudiziario",
+   "vigore_da": "2017-07-22"
+  },
+  "340": {
+   "file": "cp-2.md",
+   "rubrica": "Interruzione di un ufficio o servizio pubblico o di un servizio di pubblica necessita'",
+   "vigore_da": "2019-06-15"
+  },
+  "341": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "341-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Oltraggio a pubblico ufficiale",
+   "vigore_da": "2024-03-30"
+  },
+  "342": {
+   "file": "cp-2.md",
+   "rubrica": "Oltraggio a un Corpo politico, amministrativo o giudiziario",
+   "vigore_da": "2006-03-28"
+  },
+  "343": {
+   "file": "cp-2.md",
+   "rubrica": "Oltraggio a un magistrato in udienza",
+   "vigore_da": "2019-08-10"
+  },
+  "343-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Corte penale internazionale",
+   "vigore_da": "2013-01-23"
+  },
+  "344": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "345": {
+   "file": "cp-2.md",
+   "rubrica": "Offesa all'Autorita' mediante danneggiamento di affissioni",
+   "vigore_da": "2000-01-15"
+  },
+  "346": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2019-01-31"
+  },
+  "346-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2024-08-25"
+  },
+  "347": {
+   "file": "cp-2.md",
+   "rubrica": "Usurpazione di funzioni pubbliche",
+   "vigore_da": "1931-07-01"
+  },
+  "348": {
+   "file": "cp-2.md",
+   "rubrica": "Esercizio abusivo di una professione",
+   "vigore_da": "2018-02-15"
+  },
+  "349": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione di sigilli",
+   "vigore_da": "1931-07-01"
+  },
+  "350": {
+   "file": "cp-2.md",
+   "rubrica": "Agevolazione colposa",
+   "vigore_da": "2000-01-15"
+  },
+  "351": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione della pubblica custodia di cose",
+   "vigore_da": "1931-07-01"
+  },
+  "352": {
+   "file": "cp-2.md",
+   "rubrica": "Vendita di stampati dei quali e' stato ordinato il sequestro",
+   "vigore_da": "2000-01-15"
+  },
+  "353": {
+   "file": "cp-2.md",
+   "rubrica": "Turbata liberta' degli incanti",
+   "vigore_da": "2011-10-13"
+  },
+  "353-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Turbata liberta' del procedimento di scelta del contraente",
+   "vigore_da": "2010-09-07"
+  },
+  "354": {
+   "file": "cp-2.md",
+   "rubrica": "Astensione dagli incanti",
+   "vigore_da": "1931-07-01"
+  },
+  "355": {
+   "file": "cp-2.md",
+   "rubrica": "Inadempimento di contratti di pubbliche forniture",
+   "vigore_da": "1931-07-01"
+  },
+  "356": {
+   "file": "cp-2.md",
+   "rubrica": "Frode nelle pubbliche forniture",
+   "vigore_da": "1931-07-01"
+  },
+  "357": {
+   "file": "cp-2.md",
+   "rubrica": "Nozione del pubblico ufficiale",
+   "vigore_da": "1992-03-17"
+  },
+  "358": {
+   "file": "cp-2.md",
+   "rubrica": "Nozione della persona incaricata di un pubblico servizio",
+   "vigore_da": "1990-05-12"
+  },
+  "359": {
+   "file": "cp-2.md",
+   "rubrica": "Persone esercenti un servizio di pubblica necessita'",
+   "vigore_da": "1931-07-01"
+  },
+  "360": {
+   "file": "cp-2.md",
+   "rubrica": "Cessazione della qualita' di pubblico ufficiale",
+   "vigore_da": "1931-07-01"
+  },
+  "361": {
+   "file": "cp-2.md",
+   "rubrica": "Omessa denuncia di reato da parte del pubblico ufficiale",
+   "vigore_da": "1931-07-01"
+  },
+  "362": {
+   "file": "cp-2.md",
+   "rubrica": "Omessa denuncia da parte di un incaricato di pubblico servizio",
+   "vigore_da": "1990-07-11"
+  },
+  "363": {
+   "file": "cp-2.md",
+   "rubrica": "Omessa denuncia aggravata",
+   "vigore_da": "1931-07-01"
+  },
+  "364": {
+   "file": "cp-2.md",
+   "rubrica": "Omessa denuncia di reato da parte del cittadino",
+   "vigore_da": "1944-10-05"
+  },
+  "365": {
+   "file": "cp-2.md",
+   "rubrica": "Omissione di referto",
+   "vigore_da": "1931-07-01"
+  },
+  "366": {
+   "file": "cp-2.md",
+   "rubrica": "Rifiuto di uffici legalmente dovuti",
+   "vigore_da": "1931-07-01"
+  },
+  "367": {
+   "file": "cp-2.md",
+   "rubrica": "Simulazione di reato",
+   "vigore_da": "1931-07-01"
+  },
+  "368": {
+   "file": "cp-2.md",
+   "rubrica": "Calunnia",
+   "vigore_da": "2018-02-21"
+  },
+  "369": {
+   "file": "cp-2.md",
+   "rubrica": "Autocalunnia",
+   "vigore_da": "1931-07-01"
+  },
+  "370": {
+   "file": "cp-2.md",
+   "rubrica": "Simulazione o calunnia per un fatto costituente contravvenzione",
+   "vigore_da": "1931-07-01"
+  },
+  "371": {
+   "file": "cp-2.md",
+   "rubrica": "Falso giuramento della parte",
+   "vigore_da": "1931-07-01"
+  },
+  "371-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2013-01-23"
+  },
+  "371-ter": {
+   "file": "cp-2.md",
+   "rubrica": "False dichiarazioni al difensore",
+   "vigore_da": "2023-01-01"
+  },
+  "372": {
+   "file": "cp-2.md",
+   "rubrica": "Falsa testimonianza",
+   "vigore_da": "2013-01-23"
+  },
+  "373": {
+   "file": "cp-2.md",
+   "rubrica": "Falsa perizia o interpretazione",
+   "vigore_da": "1982-09-29"
+  },
+  "374": {
+   "file": "cp-2.md",
+   "rubrica": "Frode processuale",
+   "vigore_da": "2016-08-02"
+  },
+  "374-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2013-01-23"
+  },
+  "375": {
+   "file": "cp-2.md",
+   "rubrica": "Frode in processo penale e depistaggio",
+   "vigore_da": "2016-08-02"
+  },
+  "376": {
+   "file": "cp-2.md",
+   "rubrica": "Ritrattazione",
+   "vigore_da": "2016-08-02"
+  },
+  "377": {
+   "file": "cp-2.md",
+   "rubrica": "Intralcio alla giustizia",
+   "vigore_da": "2013-01-23"
+  },
+  "377-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Induzione a non rendere dichiarazioni o a rendere dichiarazioni mendaci all'autorita' giudiziaria",
+   "vigore_da": "2001-04-06"
+  },
+  "378": {
+   "file": "cp-2.md",
+   "rubrica": "Favoreggiamento personale",
+   "vigore_da": "2013-01-23"
+  },
+  "379": {
+   "file": "cp-2.md",
+   "rubrica": "Favoreggiamento reale",
+   "vigore_da": "2011-10-13"
+  },
+  "379-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Rivelazione di segreti inerenti a un procedimento penale",
+   "vigore_da": "2001-01-18"
+  },
+  "380": {
+   "file": "cp-2.md",
+   "rubrica": "Patrocinio o consulenza infedele",
+   "vigore_da": "2013-01-23"
+  },
+  "381": {
+   "file": "cp-2.md",
+   "rubrica": "Altre infedelta' del patrocinatore o del consulente tecnico",
+   "vigore_da": "1931-07-01"
+  },
+  "382": {
+   "file": "cp-2.md",
+   "rubrica": "Millantato credito del patrocinatore",
+   "vigore_da": "1931-07-01"
+  },
+  "383": {
+   "file": "cp-2.md",
+   "rubrica": "Interdizione dai pubblici uffici",
+   "vigore_da": "1931-07-01"
+  },
+  "383-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti per il caso di condanna",
+   "vigore_da": "2016-08-02"
+  },
+  "384": {
+   "file": "cp-2.md",
+   "rubrica": "Casi di non punibilita'",
+   "vigore_da": "2009-03-26"
+  },
+  "384-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Punibilita' dei fatti commessi in collegamento audiovisivo nel corso di una rogatoria dall'estero",
+   "vigore_da": "2001-10-09"
+  },
+  "384-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze speciali",
+   "vigore_da": "2016-08-02"
+  },
+  "385": {
+   "file": "cp-2.md",
+   "rubrica": "Evasione",
+   "vigore_da": "2010-12-16"
+  },
+  "386": {
+   "file": "cp-2.md",
+   "rubrica": "Procurata evasione",
+   "vigore_da": "1944-10-05"
+  },
+  "387": {
+   "file": "cp-2.md",
+   "rubrica": "Colpa del custode",
+   "vigore_da": "1931-07-01"
+  },
+  "387-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione dei provvedimenti di allontanamento dalla casa familiare e del divieto di avvicinamento ai luoghi frequentati dalla persona offesa",
+   "vigore_da": "2024-11-26"
+  },
+  "388": {
+   "file": "cp-2.md",
+   "rubrica": "Mancata esecuzione dolosa di un provvedimento del giudice",
+   "vigore_da": "2023-12-09"
+  },
+  "388-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione colposa dei doveri inerenti alla custodia di cose sottoposte a pignoramento ovvero a sequestro giudiziario o conservativo",
+   "vigore_da": "1981-12-15"
+  },
+  "388-ter": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2022-12-30"
+  },
+  "389": {
+   "file": "cp-2.md",
+   "rubrica": "Inosservanza di pene accessorie",
+   "vigore_da": "1981-12-15"
+  },
+  "390": {
+   "file": "cp-2.md",
+   "rubrica": "Procurata inosservanza di pena",
+   "vigore_da": "1931-07-01"
+  },
+  "391": {
+   "file": "cp-2.md",
+   "rubrica": "Procurata inosservanza di misure di sicurezza detentive",
+   "vigore_da": "1931-07-01"
+  },
+  "391-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2020-12-20"
+  },
+  "391-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Accesso indebito a dispositivi idonei alla comunicazione da parte di soggetti detenuti",
+   "vigore_da": "2020-12-20"
+  },
+  "392": {
+   "file": "cp-2.md",
+   "rubrica": "Esercizio arbitrario delle proprie ragioni con violenza sulle cose",
+   "vigore_da": "1994-01-14"
+  },
+  "393": {
+   "file": "cp-2.md",
+   "rubrica": "Esercizio arbitrario delle proprie ragioni con violenza alle persone",
+   "vigore_da": "1931-07-01"
+  },
+  "393-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Causa di non punibilita'",
+   "vigore_da": "2017-07-22"
+  },
+  "394": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "395": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "396": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "397": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "398": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "399": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "400": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "401": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "402": {
+   "file": "cp-2.md",
+   "rubrica": "Vilipendio della religione dello Stato",
+   "vigore_da": "2000-11-30"
+  },
+  "403": {
+   "file": "cp-2.md",
+   "rubrica": "Offese a una confessione religiosa mediante vilipendio di persone",
+   "vigore_da": "2006-03-28"
+  },
+  "404": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2006-03-28"
+  },
+  "405": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2006-03-28"
+  },
+  "406": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2006-03-28"
+  },
+  "407": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione di sepolcro",
+   "vigore_da": "1931-07-01"
+  },
+  "408": {
+   "file": "cp-2.md",
+   "rubrica": "Vilipendio delle tombe",
+   "vigore_da": "1931-07-01"
+  },
+  "409": {
+   "file": "cp-2.md",
+   "rubrica": "Turbamento di un funerale o servizio funebre",
+   "vigore_da": "1931-07-01"
+  },
+  "410": {
+   "file": "cp-2.md",
+   "rubrica": "Vilipendio di cadavere",
+   "vigore_da": "1931-07-01"
+  },
+  "411": {
+   "file": "cp-2.md",
+   "rubrica": "Distruzione, soppressione o sottrazione di cadavere",
+   "vigore_da": "2001-05-04"
+  },
+  "412": {
+   "file": "cp-2.md",
+   "rubrica": "Occultamento di cadavere",
+   "vigore_da": "1931-07-01"
+  },
+  "413": {
+   "file": "cp-2.md",
+   "rubrica": "Uso illegittimo di cadavere",
+   "vigore_da": "1931-07-01"
+  },
+  "414": {
+   "file": "cp-2.md",
+   "rubrica": "Istigazione a delinquere",
+   "vigore_da": "2015-04-21"
+  },
+  "414-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Istigazione a pratiche di pedofilia e di pedopornografia",
+   "vigore_da": "2012-10-23"
+  },
+  "415": {
+   "file": "cp-2.md",
+   "rubrica": "Istigazione a disobbedire alle leggi",
+   "vigore_da": "2025-04-12"
+  },
+  "415-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Rivolta all'interno di un istituto penitenziario",
+   "vigore_da": "2025-04-12"
+  },
+  "416": {
+   "file": "cp-2.md",
+   "rubrica": "Associazione per delinquere",
+   "vigore_da": "2017-01-07"
+  },
+  "416-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2015-06-14"
+  },
+  "416-bis.1": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti e attenuanti per reati connessi ad attivita' mafiose",
+   "vigore_da": "2023-06-16"
+  },
+  "416-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Scambio elettorale politico-mafioso",
+   "vigore_da": "2019-06-11"
+  },
+  "417": {
+   "file": "cp-2.md",
+   "rubrica": "Misura di sicurezza",
+   "vigore_da": "1982-12-29"
+  },
+  "418": {
+   "file": "cp-2.md",
+   "rubrica": "Assistenza agli associati",
+   "vigore_da": "2017-11-19"
+  },
+  "419": {
+   "file": "cp-2.md",
+   "rubrica": "Devastazione e saccheggio",
+   "vigore_da": "2019-06-15"
+  },
+  "420": {
+   "file": "cp-2.md",
+   "rubrica": "Attentato a impianti di pubblica utilita'",
+   "vigore_da": "2008-04-05"
+  },
+  "421": {
+   "file": "cp-2.md",
+   "rubrica": "Pubblica intimidazione",
+   "vigore_da": "1931-07-01"
+  },
+  "421-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Pubblica intimidazione con uso di armi",
+   "vigore_da": "2023-11-15"
+  },
+  "422": {
+   "file": "cp-2.md",
+   "rubrica": "Strage",
+   "vigore_da": "1945-05-25"
+  },
+  "423": {
+   "file": "cp-2.md",
+   "rubrica": "Incendio",
+   "vigore_da": "1970-05-22"
+  },
+  "423-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Incendio boschivo",
+   "vigore_da": "2023-10-10"
+  },
+  "423-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Pene accessorie",
+   "vigore_da": "2023-10-10"
+  },
+  "423-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2021-11-09"
+  },
+  "424": {
+   "file": "cp-2.md",
+   "rubrica": "Danneggiamento seguito da incendio",
+   "vigore_da": "2011-10-13"
+  },
+  "425": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2021-11-09"
+  },
+  "426": {
+   "file": "cp-2.md",
+   "rubrica": "Inondazione, frana o valanga",
+   "vigore_da": "1945-05-25"
+  },
+  "427": {
+   "file": "cp-2.md",
+   "rubrica": "Danneggiamento seguito da inondazione, frana o valanga",
+   "vigore_da": "1945-05-25"
+  },
+  "428": {
+   "file": "cp-2.md",
+   "rubrica": "Naufragio, sommersione o disastro aviatorio",
+   "vigore_da": "1945-05-25"
+  },
+  "429": {
+   "file": "cp-2.md",
+   "rubrica": "Danneggiamento seguito da naufragio",
+   "vigore_da": "1945-05-25"
+  },
+  "430": {
+   "file": "cp-2.md",
+   "rubrica": "Disastro ferroviario",
+   "vigore_da": "1945-05-25"
+  },
+  "431": {
+   "file": "cp-2.md",
+   "rubrica": "Pericolo di disastro ferroviario causato da danneggiamento",
+   "vigore_da": "1945-05-25"
+  },
+  "432": {
+   "file": "cp-2.md",
+   "rubrica": "Attentati alla sicurezza dei trasporti",
+   "vigore_da": "1945-05-25"
+  },
+  "433": {
+   "file": "cp-2.md",
+   "rubrica": "Attentati alla sicurezza degli impianti di energia elettrica e del gas, ovvero delle pubbliche comunicazioni",
+   "vigore_da": "1945-05-25"
+  },
+  "433-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Attentato alla sicurezza delle installazioni nucleari",
+   "vigore_da": "2015-05-28"
+  },
+  "434": {
+   "file": "cp-2.md",
+   "rubrica": "Crollo di costruzioni o altri disastri dolosi",
+   "vigore_da": "1945-05-25"
+  },
+  "434-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2022-12-31"
+  },
+  "435": {
+   "file": "cp-2.md",
+   "rubrica": "Fabbricazione o detenzione di materie esplodenti",
+   "vigore_da": "2025-04-12"
+  },
+  "436": {
+   "file": "cp-2.md",
+   "rubrica": "Sottrazione, occultamento o guasto di apparecchi a pubblica difesa da infortuni",
+   "vigore_da": "1945-05-25"
+  },
+  "437": {
+   "file": "cp-2.md",
+   "rubrica": "Rimozione od omissione dolosa di cautele contro infortuni sul lavoro",
+   "vigore_da": "1945-05-25"
+  },
+  "438": {
+   "file": "cp-2.md",
+   "rubrica": "Epidemia",
+   "vigore_da": "1944-10-05"
+  },
+  "439": {
+   "file": "cp-2.md",
+   "rubrica": "Avvelenamento di acque o di sostanze alimentari",
+   "vigore_da": "1944-10-05"
+  },
+  "440": {
+   "file": "cp-2.md",
+   "rubrica": "Adulterazione e contraffazione di sostanze alimentari",
+   "vigore_da": "1944-10-05"
+  },
+  "441": {
+   "file": "cp-2.md",
+   "rubrica": "Adulterazione e contraffazione di altre cose in danno della pubblica salute",
+   "vigore_da": "1931-07-01"
+  },
+  "442": {
+   "file": "cp-2.md",
+   "rubrica": "Commercio di sostanze alimentari contraffatte o adulterate",
+   "vigore_da": "1931-07-01"
+  },
+  "443": {
+   "file": "cp-2.md",
+   "rubrica": "Commercio o somministrazione di medicinali guasti",
+   "vigore_da": "1931-07-01"
+  },
+  "444": {
+   "file": "cp-2.md",
+   "rubrica": "Commercio di sostanze alimentari nocive",
+   "vigore_da": "1931-07-01"
+  },
+  "445": {
+   "file": "cp-2.md",
+   "rubrica": "Somministrazione di medicinali in modo pericoloso per la salute pubblica",
+   "vigore_da": "1931-07-01"
+  },
+  "446": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca obbligatoria",
+   "vigore_da": "1990-07-11"
+  },
+  "447": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1990-11-15"
+  },
+  "448": {
+   "file": "cp-2.md",
+   "rubrica": "Pene accessorie",
+   "vigore_da": "1986-06-21"
+  },
+  "449": {
+   "file": "cp-2.md",
+   "rubrica": "Delitti colposi di danno",
+   "vigore_da": "2000-12-01"
+  },
+  "450": {
+   "file": "cp-2.md",
+   "rubrica": "Delitti colposi di pericolo",
+   "vigore_da": "1931-07-01"
+  },
+  "451": {
+   "file": "cp-2.md",
+   "rubrica": "Omissione colposa di cautele o difese contro disastri o infortuni sul lavoro",
+   "vigore_da": "1931-07-01"
+  },
+  "452": {
+   "file": "cp-2.md",
+   "rubrica": "Delitti colposi contro la salute pubblica",
+   "vigore_da": "1944-10-05"
+  },
+  "452-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Inquinamento ambientale",
+   "vigore_da": "2026-06-02"
+  },
+  "452-bis.1": {
+   "file": "cp-2.md",
+   "rubrica": "Commercio di prodotti inquinanti",
+   "vigore_da": "2026-06-02"
+  },
+  "452-ter": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-02"
+  },
+  "452-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Disastro ambientale",
+   "vigore_da": "2023-10-10"
+  },
+  "452-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "Delitti colposi contro l'ambiente",
+   "vigore_da": "2015-05-29"
+  },
+  "452-sexies": {
+   "file": "cp-2.md",
+   "rubrica": "Traffico e abbandono di materiale ad alta radioattivita'",
+   "vigore_da": "2025-08-09"
+  },
+  "452-septies": {
+   "file": "cp-2.md",
+   "rubrica": "Impedimento del controllo",
+   "vigore_da": "2015-05-29"
+  },
+  "452-octies": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2015-05-29"
+  },
+  "452-novies": {
+   "file": "cp-2.md",
+   "rubrica": "Aggravante ambientale",
+   "vigore_da": "2015-05-29"
+  },
+  "452-decies": {
+   "file": "cp-2.md",
+   "rubrica": "Ravvedimento operoso",
+   "vigore_da": "2015-05-29"
+  },
+  "452-undecies": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2015-05-29"
+  },
+  "452-duodecies": {
+   "file": "cp-2.md",
+   "rubrica": "Ripristino dello stato dei luoghi",
+   "vigore_da": "2015-05-29"
+  },
+  "452-terdecies": {
+   "file": "cp-2.md",
+   "rubrica": "Omessa bonifica",
+   "vigore_da": "2015-05-29"
+  },
+  "452-quaterdecies": {
+   "file": "cp-2.md",
+   "rubrica": "Attivita' organizzate per il traffico illecito di rifiuti",
+   "vigore_da": "2025-10-08"
+  },
+  "452-quinquiesdecies": {
+   "file": "cp-2.md",
+   "rubrica": "Nozione di abusivita'",
+   "vigore_da": "2026-06-02"
+  },
+  "452-sexiesdecies": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2026-06-02"
+  },
+  "453": {
+   "file": "cp-2.md",
+   "rubrica": "Falsificazione di monete, spendita e introduzione nello Stato, previo concerto, di monete falsificate",
+   "vigore_da": "2016-07-27"
+  },
+  "454": {
+   "file": "cp-2.md",
+   "rubrica": "Alterazione di monete",
+   "vigore_da": "2001-09-27"
+  },
+  "455": {
+   "file": "cp-2.md",
+   "rubrica": "Spendita e introduzione nello Stato, senza concerto, di monete falsificate",
+   "vigore_da": "2001-09-27"
+  },
+  "456": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2001-09-27"
+  },
+  "457": {
+   "file": "cp-2.md",
+   "rubrica": "Spendita di monete falsificate ricevute in buona fede",
+   "vigore_da": "2001-09-27"
+  },
+  "458": {
+   "file": "cp-2.md",
+   "rubrica": "Parificazione delle carte di pubblico credito alle monete",
+   "vigore_da": "1931-07-01"
+  },
+  "459": {
+   "file": "cp-2.md",
+   "rubrica": "Falsificazione di valori di bollo, introduzione nello Stato, acquisto, detenzione o messa in circolazione di valori di bollo falsificati",
+   "vigore_da": "2001-09-27"
+  },
+  "460": {
+   "file": "cp-2.md",
+   "rubrica": "Contraffazione di carta filigranata in uso per la fabbricazione di carte di pubblico credito o di valori di bollo",
+   "vigore_da": "2001-09-27"
+  },
+  "461": {
+   "file": "cp-2.md",
+   "rubrica": "Fabbricazione o detenzione di filigrane o di strumenti destinati alla falsificazione di monete, di valori di bollo o di carta filigranata",
+   "vigore_da": "2016-07-27"
+  },
+  "462": {
+   "file": "cp-2.md",
+   "rubrica": "Falsificazione di biglietti di pubbliche imprese di trasporto",
+   "vigore_da": "1931-07-01"
+  },
+  "463": {
+   "file": "cp-2.md",
+   "rubrica": "Casi di non punibilita'",
+   "vigore_da": "1931-07-01"
+  },
+  "464": {
+   "file": "cp-2.md",
+   "rubrica": "Uso di valori di bollo contraffatti o alterati",
+   "vigore_da": "2001-09-27"
+  },
+  "465": {
+   "file": "cp-2.md",
+   "rubrica": "Uso di biglietti falsificati di pubbliche imprese di trasporto",
+   "vigore_da": "2000-01-15"
+  },
+  "466": {
+   "file": "cp-2.md",
+   "rubrica": "Alterazione di segni nei valori di bollo o nei biglietti usati e uso degli oggetti cosi' alterati",
+   "vigore_da": "2000-01-15"
+  },
+  "466-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2016-11-24"
+  },
+  "467": {
+   "file": "cp-2.md",
+   "rubrica": "Contraffazione del sigillo dello Stato e uso del sigillo contraffatto",
+   "vigore_da": "1953-02-25"
+  },
+  "468": {
+   "file": "cp-2.md",
+   "rubrica": "Contraffazione di altri pubblici sigilli o strumenti destinati a pubblica autenticazione o certificazione e uso di tali sigilli e strumenti contraffatti",
+   "vigore_da": "1953-02-25"
+  },
+  "469": {
+   "file": "cp-2.md",
+   "rubrica": "Contraffazione delle impronte di una pubblica autenticazione o certificazione",
+   "vigore_da": "1953-02-25"
+  },
+  "470": {
+   "file": "cp-2.md",
+   "rubrica": "Vendita o acquisto di cose con impronte contraffatte di una pubblica autenticazione o certificazione",
+   "vigore_da": "1953-02-25"
+  },
+  "471": {
+   "file": "cp-2.md",
+   "rubrica": "Uso abusivo di sigilli e strumenti veri",
+   "vigore_da": "1953-02-25"
+  },
+  "472": {
+   "file": "cp-2.md",
+   "rubrica": "Uso o detenzione di misure o pesi con falsa impronta",
+   "vigore_da": "1953-02-25"
+  },
+  "473": {
+   "file": "cp-2.md",
+   "rubrica": "Contraffazione, alterazione o uso di marchi o segni distintivi ovvero di brevetti, modelli e disegni",
+   "vigore_da": "2009-08-15"
+  },
+  "474": {
+   "file": "cp-2.md",
+   "rubrica": "Introduzione nello Stato e commercio di prodotti con segni falsi",
+   "vigore_da": "2009-08-15"
+  },
+  "474-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2009-08-15"
+  },
+  "474-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanza aggravante",
+   "vigore_da": "2009-08-15"
+  },
+  "474-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanza attenuante",
+   "vigore_da": "2009-08-15"
+  },
+  "475": {
+   "file": "cp-2.md",
+   "rubrica": "Pena accessoria",
+   "vigore_da": "1953-02-25"
+  },
+  "476": {
+   "file": "cp-2.md",
+   "rubrica": "Falsita' materiale commessa dal pubblico ufficiale in atti pubblici",
+   "vigore_da": "1981-12-19"
+  },
+  "477": {
+   "file": "cp-2.md",
+   "rubrica": "Falsita' materiale commessa dal pubblico ufficiale in certificati o autorizzazioni amministrative",
+   "vigore_da": "1931-07-01"
+  },
+  "478": {
+   "file": "cp-2.md",
+   "rubrica": "Falsita' materiale commessa dal pubblico ufficiale in copie autentiche di atti pubblici o privati e in attestati del contenuto di atti",
+   "vigore_da": "1931-07-01"
+  },
+  "479": {
+   "file": "cp-2.md",
+   "rubrica": "Falsita' ideologica commessa dal pubblico ufficiale in atti pubblici",
+   "vigore_da": "1980-12-25"
+  },
+  "480": {
+   "file": "cp-2.md",
+   "rubrica": "Falsita' ideologica commessa dal pubblico ufficiale in certificati o in autorizzazioni amministrative",
+   "vigore_da": "1980-12-25"
+  },
+  "481": {
+   "file": "cp-2.md",
+   "rubrica": "Falsita' ideologica in certificati commessa da persone esercenti un servizio di pubblica necessita'",
+   "vigore_da": "1980-12-25"
+  },
+  "482": {
+   "file": "cp-2.md",
+   "rubrica": "Falsita' materiale commessa dal privato",
+   "vigore_da": "1992-01-23"
+  },
+  "483": {
+   "file": "cp-2.md",
+   "rubrica": "Falsita' ideologica commessa dal privato in atto pubblico",
+   "vigore_da": "1992-01-23"
+  },
+  "484": {
+   "file": "cp-2.md",
+   "rubrica": "Falsita' in registri e notificazioni",
+   "vigore_da": "1992-01-23"
+  },
+  "485": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2016-02-06"
+  },
+  "486": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2016-02-06"
+  },
+  "487": {
+   "file": "cp-2.md",
+   "rubrica": "Falsita' in foglio firmato in bianco. Atto pubblico",
+   "vigore_da": "1931-07-01"
+  },
+  "488": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2016-02-06"
+  },
+  "489": {
+   "file": "cp-2.md",
+   "rubrica": "Uso di atto falso",
+   "vigore_da": "2016-02-06"
+  },
+  "490": {
+   "file": "cp-2.md",
+   "rubrica": "Soppressione, distruzione e occultamento di atti veri",
+   "vigore_da": "2016-02-06"
+  },
+  "491": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2016-02-06"
+  },
+  "491-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2016-02-06"
+  },
+  "492": {
+   "file": "cp-2.md",
+   "rubrica": "Copie autentiche che tengono luogo degli originali mancanti",
+   "vigore_da": "1992-01-23"
+  },
+  "493": {
+   "file": "cp-2.md",
+   "rubrica": "Falsita' commesse da pubblici impiegati incaricati di un servizio pubblico",
+   "vigore_da": "1931-07-01"
+  },
+  "493-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2016-02-06"
+  },
+  "493-ter": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2021-12-14"
+  },
+  "493-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Detenzione e diffusione di apparecchiature, dispositivi o programmi informatici diretti a commettere reati riguardanti strumenti di pagamento diversi dai contanti",
+   "vigore_da": "2021-12-14"
+  },
+  "494": {
+   "file": "cp-2.md",
+   "rubrica": "Sostituzione di persona",
+   "vigore_da": "1931-07-01"
+  },
+  "495": {
+   "file": "cp-2.md",
+   "rubrica": "Falsa attestazione o dichiarazione a un pubblico ufficiale sulla identita' o su qualita' personali proprie o di altri",
+   "vigore_da": "2023-06-08"
+  },
+  "495-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Falsa dichiarazione o attestazione al certificatore di firma elettronica sull'identita' o su qualita' personali proprie o di altri",
+   "vigore_da": "2008-04-05"
+  },
+  "495-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Fraudolente alterazioni per impedire l'identificazione o l'accertamento di qualita' personali",
+   "vigore_da": "2008-07-26"
+  },
+  "496": {
+   "file": "cp-2.md",
+   "rubrica": "False dichiarazioni sulla identita' o su qualita' personali proprie o di altri",
+   "vigore_da": "2008-07-26"
+  },
+  "497": {
+   "file": "cp-2.md",
+   "rubrica": "Frode nel farsi rilasciare certificati del casellario giudiziale e uso indebito di tali certificati",
+   "vigore_da": "1931-07-01"
+  },
+  "497-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2015-04-21"
+  },
+  "497-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Possesso di segni distintivi contraffatti",
+   "vigore_da": "2006-02-28"
+  },
+  "498": {
+   "file": "cp-2.md",
+   "rubrica": "Usurpazione di titoli o di onori",
+   "vigore_da": "2006-02-28"
+  },
+  "499": {
+   "file": "cp-2.md",
+   "rubrica": "Distruzione di materie prime o di prodotti agricoli o industriali ovvero di mezzi di produzione",
+   "vigore_da": "1931-07-01"
+  },
+  "500": {
+   "file": "cp-2.md",
+   "rubrica": "Diffusione di una malattia delle piante o degli animali",
+   "vigore_da": "1931-07-01"
+  },
+  "501": {
+   "file": "cp-2.md",
+   "rubrica": "Rialzo e ribasso fraudolento di prezzi sul pubblico mercato o nelle borse di commercio",
+   "vigore_da": "1976-12-10"
+  },
+  "501-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Manovre speculative su merci",
+   "vigore_da": "1976-12-10"
+  },
+  "502": {
+   "file": "cp-2.md",
+   "rubrica": "Serrata e sciopero per fini contrattuali",
+   "vigore_da": "1960-05-08"
+  },
+  "503": {
+   "file": "cp-2.md",
+   "rubrica": "Serrata e sciopero per fini non contrattuali",
+   "vigore_da": "1975-01-04"
+  },
+  "504": {
+   "file": "cp-2.md",
+   "rubrica": "Coazione alla pubblica Autorita' mediante serrata o sciopero",
+   "vigore_da": "1983-06-16"
+  },
+  "505": {
+   "file": "cp-2.md",
+   "rubrica": "Serrata o sciopero a scopo di solidarieta' o di protesta",
+   "vigore_da": "1931-07-01"
+  },
+  "506": {
+   "file": "cp-2.md",
+   "rubrica": "Serrata di esercenti di piccole industrie o commerci",
+   "vigore_da": "1975-07-24"
+  },
+  "507": {
+   "file": "cp-2.md",
+   "rubrica": "Boicottaggio",
+   "vigore_da": "1969-04-24"
+  },
+  "508": {
+   "file": "cp-2.md",
+   "rubrica": "Arbitraria invasione e occupazione di aziende agricole o industriali. Sabotaggio",
+   "vigore_da": "1966-06-04"
+  },
+  "509": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1995-04-26"
+  },
+  "510": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "1931-07-01"
+  },
+  "511": {
+   "file": "cp-2.md",
+   "rubrica": "Pena per i capi, promotori e organizzatori",
+   "vigore_da": "1931-07-01"
+  },
+  "512": {
+   "file": "cp-2.md",
+   "rubrica": "Pena accessoria",
+   "vigore_da": "1931-07-01"
+  },
+  "512-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Trasferimento fraudolento di valori",
+   "vigore_da": "2024-03-02"
+  },
+  "513": {
+   "file": "cp-2.md",
+   "rubrica": "Turbata liberta' dell'industria o del commercio",
+   "vigore_da": "1931-07-01"
+  },
+  "513-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2011-10-13"
+  },
+  "514": {
+   "file": "cp-2.md",
+   "rubrica": "Frodi contro le industrie nazionali",
+   "vigore_da": "1931-07-01"
+  },
+  "515": {
+   "file": "cp-2.md",
+   "rubrica": "Frode nell'esercizio del commercio",
+   "vigore_da": "1931-07-01"
+  },
+  "516": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2026-05-29"
+  },
+  "517": {
+   "file": "cp-2.md",
+   "rubrica": "Vendita di prodotti industriali con segni mendaci",
+   "vigore_da": "2024-01-11"
+  },
+  "517-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2026-05-29"
+  },
+  "517-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Fabbricazione e commercio di beni realizzati usurpando titoli di proprieta' industriale",
+   "vigore_da": "2009-08-15"
+  },
+  "517-quater": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2026-05-29"
+  },
+  "517-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanza attenuante",
+   "vigore_da": "2026-05-29"
+  },
+  "517-sexies": {
+   "file": "cp-2.md",
+   "rubrica": "Frode alimentare",
+   "vigore_da": "2026-05-29"
+  },
+  "517-septies": {
+   "file": "cp-2.md",
+   "rubrica": "Commercio di alimenti con segni mendaci",
+   "vigore_da": "2026-05-29"
+  },
+  "517-octies": {
+   "file": "cp-2.md",
+   "rubrica": "Pena accessoria e circostanze aggravanti",
+   "vigore_da": "2026-05-29"
+  },
+  "518": {
+   "file": "cp-2.md",
+   "rubrica": "Pubblicazione della sentenza",
+   "vigore_da": "2026-05-29"
+  },
+  "518-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Furto di beni culturali",
+   "vigore_da": "2022-03-23"
+  },
+  "518-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Appropriazione indebita di beni culturali",
+   "vigore_da": "2022-03-23"
+  },
+  "518-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Ricettazione di beni culturali",
+   "vigore_da": "2026-04-25"
+  },
+  "518-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "Impiego di beni culturali provenienti da delitto",
+   "vigore_da": "2022-03-23"
+  },
+  "518-sexies": {
+   "file": "cp-2.md",
+   "rubrica": "Riciclaggio di beni culturali",
+   "vigore_da": "2022-03-23"
+  },
+  "518-septies": {
+   "file": "cp-2.md",
+   "rubrica": "Autoriciclaggio di beni culturali",
+   "vigore_da": "2022-03-23"
+  },
+  "518-octies": {
+   "file": "cp-2.md",
+   "rubrica": "Falsificazione in scrittura privata relativa a beni culturali",
+   "vigore_da": "2022-03-23"
+  },
+  "518-novies": {
+   "file": "cp-2.md",
+   "rubrica": "Violazioni in materia di alienazione di beni culturali",
+   "vigore_da": "2022-03-23"
+  },
+  "518-decies": {
+   "file": "cp-2.md",
+   "rubrica": "Importazione illecita di beni culturali",
+   "vigore_da": "2022-03-23"
+  },
+  "518-undecies": {
+   "file": "cp-2.md",
+   "rubrica": "Uscita o esportazione illecite di beni culturali",
+   "vigore_da": "2022-03-23"
+  },
+  "518-duodecies": {
+   "file": "cp-2.md",
+   "rubrica": "Distruzione, dispersione, deterioramento, deturpamento, imbrattamento e uso illecito di beni culturali o paesaggistici",
+   "vigore_da": "2024-02-08"
+  },
+  "518-terdecies": {
+   "file": "cp-2.md",
+   "rubrica": "Devastazione e saccheggio di beni culturali e paesaggistici",
+   "vigore_da": "2022-03-23"
+  },
+  "518-quaterdecies": {
+   "file": "cp-2.md",
+   "rubrica": "Contraffazione di opere d'arte",
+   "vigore_da": "2022-03-23"
+  },
+  "518-quinquiesdecies": {
+   "file": "cp-2.md",
+   "rubrica": "Casi di non punibilita'",
+   "vigore_da": "2022-03-23"
+  },
+  "518-sexiesdecies": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2022-03-23"
+  },
+  "518-septiesdecies": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze attenuanti",
+   "vigore_da": "2022-03-23"
+  },
+  "518-duodevicies": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2022-03-23"
+  },
+  "518-undevicies": {
+   "file": "cp-2.md",
+   "rubrica": "Fatto commesso all'estero",
+   "vigore_da": "2022-03-23"
+  },
+  "518.1": {
+   "file": "cp-2.md",
+   "rubrica": "Ulteriori pene accessorie",
+   "vigore_da": "2026-05-29"
+  },
+  "518.2": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca obbligatoria e per equivalente",
+   "vigore_da": "2026-05-29"
+  },
+  "519": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-06"
+  },
+  "520": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-06"
+  },
+  "521": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-06"
+  },
+  "522": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-06"
+  },
+  "523": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-06"
+  },
+  "524": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-06"
+  },
+  "525": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-06"
+  },
+  "526": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-06"
+  },
+  "527": {
+   "file": "cp-2.md",
+   "rubrica": "Atti osceni",
+   "vigore_da": "2016-02-06"
+  },
+  "528": {
+   "file": "cp-2.md",
+   "rubrica": "Pubblicazioni e spettacoli osceni",
+   "vigore_da": "2016-02-06"
+  },
+  "529": {
+   "file": "cp-2.md",
+   "rubrica": "Atti e oggetti osceni: nozione",
+   "vigore_da": "1931-07-01"
+  },
+  "530": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-06"
+  },
+  "531": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1958-03-19"
+  },
+  "532": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1958-03-19"
+  },
+  "533": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1958-03-19"
+  },
+  "534": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1958-03-19"
+  },
+  "535": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1958-03-19"
+  },
+  "536": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1958-03-19"
+  },
+  "537": {
+   "file": "cp-2.md",
+   "rubrica": "Tratta di donne e di minori commessa all'estero",
+   "vigore_da": "1931-07-01"
+  },
+  "538": {
+   "file": "cp-2.md",
+   "rubrica": "Misura di sicurezza",
+   "vigore_da": "1931-07-01"
+  },
+  "539": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-06"
+  },
+  "540": {
+   "file": "cp-2.md",
+   "rubrica": "Rapporto di parentela",
+   "vigore_da": "2014-02-07"
+  },
+  "541": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-06"
+  },
+  "542": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-06"
+  },
+  "543": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-06"
+  },
+  "544": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1981-08-25"
+  },
+  "544-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Uccisione di animali",
+   "vigore_da": "2025-07-01"
+  },
+  "544-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Maltrattamento di animali",
+   "vigore_da": "2025-07-01"
+  },
+  "544-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Spettacoli o manifestazioni vietati",
+   "vigore_da": "2025-07-01"
+  },
+  "544-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "Divieto di combattimenti tra animali",
+   "vigore_da": "2025-07-01"
+  },
+  "544-sexies": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca e pene accessorie",
+   "vigore_da": "2025-07-01"
+  },
+  "544-septies": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2025-07-01"
+  },
+  "545": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1978-06-06"
+  },
+  "546": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1978-06-06"
+  },
+  "547": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1978-06-06"
+  },
+  "548": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1978-06-06"
+  },
+  "549": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1978-06-06"
+  },
+  "550": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1978-06-06"
+  },
+  "551": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1978-06-06"
+  },
+  "552": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1978-06-06"
+  },
+  "553": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1978-06-06"
+  },
+  "554": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1978-06-06"
+  },
+  "555": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1978-06-06"
+  },
+  "556": {
+   "file": "cp-2.md",
+   "rubrica": "Bigamia",
+   "vigore_da": "1931-07-01"
+  },
+  "557": {
+   "file": "cp-2.md",
+   "rubrica": "Prescrizione del reato",
+   "vigore_da": "1931-07-01"
+  },
+  "558": {
+   "file": "cp-2.md",
+   "rubrica": "Induzione al matrimonio mediante inganno",
+   "vigore_da": "1931-07-01"
+  },
+  "558-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Costrizione o induzione al matrimonio",
+   "vigore_da": "2019-08-09"
+  },
+  "559": {
+   "file": "cp-2.md",
+   "rubrica": "Adulterio",
+   "vigore_da": "1969-12-11"
+  },
+  "560": {
+   "file": "cp-2.md",
+   "rubrica": "Concubinato",
+   "vigore_da": "1969-12-11"
+  },
+  "561": {
+   "file": "cp-2.md",
+   "rubrica": "Casi di non punibilita'. Circostanza attenuante",
+   "vigore_da": "1969-12-11"
+  },
+  "562": {
+   "file": "cp-2.md",
+   "rubrica": "Pena accessoria e sanzione civile",
+   "vigore_da": "1969-12-11"
+  },
+  "563": {
+   "file": "cp-2.md",
+   "rubrica": "Estinzione del reato",
+   "vigore_da": "1969-12-11"
+  },
+  "564": {
+   "file": "cp-2.md",
+   "rubrica": "Incesto",
+   "vigore_da": "2014-02-07"
+  },
+  "565": {
+   "file": "cp-2.md",
+   "rubrica": "Attentati alla morale famigliare commessi col mezzo della stampa periodica",
+   "vigore_da": "1931-07-01"
+  },
+  "566": {
+   "file": "cp-2.md",
+   "rubrica": "Supposizione o soppressione di stato",
+   "vigore_da": "1931-07-01"
+  },
+  "567": {
+   "file": "cp-2.md",
+   "rubrica": "Alterazione di stato",
+   "vigore_da": "2016-11-17"
+  },
+  "568": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2014-02-07"
+  },
+  "569": {
+   "file": "cp-2.md",
+   "rubrica": "Pena accessoria",
+   "vigore_da": "2014-02-07"
+  },
+  "570": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione degli obblighi di assistenza famigliare",
+   "vigore_da": "2014-02-07"
+  },
+  "570-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione degli obblighi di assistenza familiare in caso di separazione o di scioglimento del matrimonio",
+   "vigore_da": "2018-04-06"
+  },
+  "570-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Inosservanza dell'obbligo dell'istruzione dei minori",
+   "vigore_da": "2023-11-15"
+  },
+  "571": {
+   "file": "cp-2.md",
+   "rubrica": "Abuso dei mezzi di correzione o di disciplina",
+   "vigore_da": "1931-07-01"
+  },
+  "572": {
+   "file": "cp-2.md",
+   "rubrica": "Maltrattamenti contro familiari e conviventi",
+   "vigore_da": "2025-12-17"
+  },
+  "572-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2025-12-17"
+  },
+  "573": {
+   "file": "cp-2.md",
+   "rubrica": "Sottrazione consensuale di minorenni",
+   "vigore_da": "2014-02-07"
+  },
+  "574": {
+   "file": "cp-2.md",
+   "rubrica": "Sottrazione di persone incapaci",
+   "vigore_da": "2014-02-07"
+  },
+  "574-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Sottrazione e trattenimento di minore all'estero",
+   "vigore_da": "2020-06-04"
+  },
+  "574-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Costituzione di un'unione civile agli effetti della legge penale",
+   "vigore_da": "2017-02-11"
+  },
+  "575": {
+   "file": "cp-2.md",
+   "rubrica": "Omicidio",
+   "vigore_da": "2011-10-13"
+  },
+  "576": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti. Ergastolo",
+   "vigore_da": "2019-08-09"
+  },
+  "577": {
+   "file": "cp-2.md",
+   "rubrica": "Altre circostanze aggravanti. Ergastolo",
+   "vigore_da": "2023-11-03"
+  },
+  "577-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Femminicidio",
+   "vigore_da": "2025-12-17"
+  },
+  "578": {
+   "file": "cp-2.md",
+   "rubrica": "Infanticidio in condizioni di abbandono materiale e morale",
+   "vigore_da": "1981-08-25"
+  },
+  "579": {
+   "file": "cp-2.md",
+   "rubrica": "Omicidio del consenziente",
+   "vigore_da": "1931-07-01"
+  },
+  "580": {
+   "file": "cp-2.md",
+   "rubrica": "Istigazione o aiuto al suicidio",
+   "vigore_da": "2019-11-28"
+  },
+  "581": {
+   "file": "cp-2.md",
+   "rubrica": "Percosse",
+   "vigore_da": "2020-09-24"
+  },
+  "582": {
+   "file": "cp-2.md",
+   "rubrica": "Lesione personale",
+   "vigore_da": "2026-04-25"
+  },
+  "583": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2019-08-09"
+  },
+  "583-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Pratiche di mutilazione degli organi genitali femminili",
+   "vigore_da": "2014-02-07"
+  },
+  "583-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Pena accessoria",
+   "vigore_da": "2006-02-02"
+  },
+  "583-quater": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-25"
+  },
+  "583-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "Deformazione dell'aspetto della persona mediante lesioni permanenti al viso",
+   "vigore_da": "2025-06-26"
+  },
+  "584": {
+   "file": "cp-2.md",
+   "rubrica": "Omicidio preterintenzionale",
+   "vigore_da": "1931-07-01"
+  },
+  "585": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2025-12-17"
+  },
+  "585-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Pena accessoria",
+   "vigore_da": "2026-04-08"
+  },
+  "586": {
+   "file": "cp-2.md",
+   "rubrica": "Morte o lesioni come conseguenza di altro delitto",
+   "vigore_da": "1931-07-01"
+  },
+  "586-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Utilizzo o somministrazione di farmaci o di altre sostanze al fine di alterare le prestazioni agonistiche degli atleti",
+   "vigore_da": "2022-04-28"
+  },
+  "587": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1981-08-25"
+  },
+  "588": {
+   "file": "cp-2.md",
+   "rubrica": "Rissa",
+   "vigore_da": "2020-12-20"
+  },
+  "589": {
+   "file": "cp-2.md",
+   "rubrica": "Omicidio colposo",
+   "vigore_da": "2018-02-15"
+  },
+  "589-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Omicidio stradale o nautico",
+   "vigore_da": "2024-12-14"
+  },
+  "589-ter": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2023-10-25"
+  },
+  "590": {
+   "file": "cp-2.md",
+   "rubrica": "Lesioni personali colpose",
+   "vigore_da": "2018-02-15"
+  },
+  "590-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Lesioni personali stradali o nautiche gravi o gravissime",
+   "vigore_da": "2024-12-14"
+  },
+  "590-ter": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2023-10-25"
+  },
+  "590-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Computo delle circostanze",
+   "vigore_da": "2016-03-25"
+  },
+  "590-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "Definizione di strade urbane e extraurbane",
+   "vigore_da": "2016-03-25"
+  },
+  "590-sexies": {
+   "file": "cp-2.md",
+   "rubrica": "Responsabilita' colposa per morte o lesioni personali in ambito sanitario",
+   "vigore_da": "2017-04-01"
+  },
+  "591": {
+   "file": "cp-2.md",
+   "rubrica": "Abbandono di persone minori o incapaci",
+   "vigore_da": "1931-07-01"
+  },
+  "592": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1981-08-25"
+  },
+  "593": {
+   "file": "cp-2.md",
+   "rubrica": "Omissione di soccorso",
+   "vigore_da": "2003-04-30"
+  },
+  "593-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Interruzione colposa di gravidanza",
+   "vigore_da": "2018-04-06"
+  },
+  "593-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Interruzione di gravidanza non consensuale",
+   "vigore_da": "2025-12-17"
+  },
+  "594": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2016-02-06"
+  },
+  "595": {
+   "file": "cp-2.md",
+   "rubrica": "Diffamazione",
+   "vigore_da": "1931-07-01"
+  },
+  "596": {
+   "file": "cp-2.md",
+   "rubrica": "Esclusione della prova liberatoria",
+   "vigore_da": "2016-02-06"
+  },
+  "596-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Diffamazione col mezzo della stampa",
+   "vigore_da": "1958-03-27"
+  },
+  "597": {
+   "file": "cp-2.md",
+   "rubrica": "Querela della persona offesa ed estinzione del reato",
+   "vigore_da": "2016-02-06"
+  },
+  "598": {
+   "file": "cp-2.md",
+   "rubrica": "Offese in scritti e discorsi pronunciati dinanzi alle Autorita' giudiziarie o amministrative",
+   "vigore_da": "1931-07-01"
+  },
+  "599": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2016-02-06"
+  },
+  "600": {
+   "file": "cp-2.md",
+   "rubrica": "Riduzione o mantenimento in schiavitu' o in servitu'",
+   "vigore_da": "2026-07-16"
+  },
+  "600-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Prostituzione minorile",
+   "vigore_da": "2012-10-23"
+  },
+  "600-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Pornografia minorile",
+   "vigore_da": "2024-05-23"
+  },
+  "600-quater": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2022-02-01"
+  },
+  "600-quater.1": {
+   "file": "cp-2.md",
+   "rubrica": "Pornografia virtuale",
+   "vigore_da": "2006-03-02"
+  },
+  "600-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "Iniziative turistiche volte allo sfruttamento della prostituzione minorile",
+   "vigore_da": "1998-08-11"
+  },
+  "600-sexies": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2012-10-23"
+  },
+  "600-septies": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2012-10-23"
+  },
+  "600-septies.1": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanza attenuante",
+   "vigore_da": "2012-10-23"
+  },
+  "600-septies.2": {
+   "file": "cp-2.md",
+   "rubrica": "Pene accessorie",
+   "vigore_da": "2014-02-07"
+  },
+  "600-octies": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2025-04-12"
+  },
+  "601": {
+   "file": "cp-2.md",
+   "rubrica": "Tratta di persone",
+   "vigore_da": "2026-07-16"
+  },
+  "601-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Traffico di organi prelevati da persona vivente",
+   "vigore_da": "2018-04-06"
+  },
+  "601.1": {
+   "file": "cp-2.md",
+   "rubrica": "Approfittamento della vittima di riduzione in schiavitu' o di tratta",
+   "vigore_da": "2026-07-16"
+  },
+  "602": {
+   "file": "cp-2.md",
+   "rubrica": "Acquisto e alienazione di schiavi",
+   "vigore_da": "2011-10-13"
+  },
+  "602-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2012-10-23"
+  },
+  "602-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2026-07-16"
+  },
+  "602-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Ignoranza dell'eta' della persona offesa",
+   "vigore_da": "2012-10-23"
+  },
+  "603": {
+   "file": "cp-2.md",
+   "rubrica": "Plagio",
+   "vigore_da": "1981-06-11"
+  },
+  "603-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Intermediazione illecita e sfruttamento del lavoro",
+   "vigore_da": "2016-11-04"
+  },
+  "603-bis.1": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanza attenuante",
+   "vigore_da": "2016-11-04"
+  },
+  "603-bis.2": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca obbligatoria",
+   "vigore_da": "2016-11-04"
+  },
+  "603-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Pene accessorie",
+   "vigore_da": "2011-09-17"
+  },
+  "604": {
+   "file": "cp-2.md",
+   "rubrica": "Fatto commesso all'estero",
+   "vigore_da": "2012-10-23"
+  },
+  "604-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Propaganda e istigazione a delinquere per motivi di discriminazione razziale etnica e religiosa",
+   "vigore_da": "2018-04-06"
+  },
+  "604-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanza aggravante",
+   "vigore_da": "2018-04-06"
+  },
+  "605": {
+   "file": "cp-2.md",
+   "rubrica": "Sequestro di persona",
+   "vigore_da": "2022-12-30"
+  },
+  "606": {
+   "file": "cp-2.md",
+   "rubrica": "Arresto illegale",
+   "vigore_da": "1931-07-01"
+  },
+  "607": {
+   "file": "cp-2.md",
+   "rubrica": "Indebita limitazione di liberta' personale",
+   "vigore_da": "1931-07-01"
+  },
+  "608": {
+   "file": "cp-2.md",
+   "rubrica": "Abuso di autorita' contro arrestati o detenuti",
+   "vigore_da": "1931-07-01"
+  },
+  "609": {
+   "file": "cp-2.md",
+   "rubrica": "Perquisizione e ispezione personali arbitrarie",
+   "vigore_da": "1931-07-01"
+  },
+  "609-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Violenza sessuale",
+   "vigore_da": "2019-08-09"
+  },
+  "609-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2025-12-17"
+  },
+  "609-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Atti sessuali con minorenne",
+   "vigore_da": "2022-02-01"
+  },
+  "609-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "Corruzione di minorenne",
+   "vigore_da": "2022-02-01"
+  },
+  "609-sexies": {
+   "file": "cp-2.md",
+   "rubrica": "Ignoranza dell'eta' della persona offesa",
+   "vigore_da": "2012-10-23"
+  },
+  "609-septies": {
+   "file": "cp-2.md",
+   "rubrica": "Querela di parte",
+   "vigore_da": "2019-08-09"
+  },
+  "609-octies": {
+   "file": "cp-2.md",
+   "rubrica": "Violenza sessuale di gruppo",
+   "vigore_da": "2026-01-01"
+  },
+  "609-novies": {
+   "file": "cp-2.md",
+   "rubrica": "Pene accessorie ed altri effetti penali",
+   "vigore_da": "2014-02-07"
+  },
+  "609-decies": {
+   "file": "cp-2.md",
+   "rubrica": "Comunicazione al tribunale per i minorenni",
+   "vigore_da": "2026-07-16"
+  },
+  "609-undecies": {
+   "file": "cp-2.md",
+   "rubrica": "Adescamento di minorenni",
+   "vigore_da": "2022-02-01"
+  },
+  "609-duodecies": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2014-04-06"
+  },
+  "610": {
+   "file": "cp-2.md",
+   "rubrica": "Violenza privata",
+   "vigore_da": "2022-12-30"
+  },
+  "611": {
+   "file": "cp-2.md",
+   "rubrica": "Violenza o minaccia per costringere a commettere un reato",
+   "vigore_da": "2011-10-13"
+  },
+  "612": {
+   "file": "cp-2.md",
+   "rubrica": "Minaccia",
+   "vigore_da": "2022-12-30"
+  },
+  "612-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Atti persecutori",
+   "vigore_da": "2025-12-17"
+  },
+  "612-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Diffusione illecita di immagini o video sessualmente espliciti",
+   "vigore_da": "2025-12-17"
+  },
+  "612-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Illecita diffusione di contenuti generati o alterati con sistemi di intelligenza artificiale",
+   "vigore_da": "2025-10-10"
+  },
+  "613": {
+   "file": "cp-2.md",
+   "rubrica": "Stato di incapacita' procurato mediante violenza",
+   "vigore_da": "1931-07-01"
+  },
+  "613-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Tortura",
+   "vigore_da": "2017-07-18"
+  },
+  "613-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Istigazione del pubblico ufficiale a commettere tortura",
+   "vigore_da": "2017-07-18"
+  },
+  "614": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione di domicilio",
+   "vigore_da": "2022-12-30"
+  },
+  "615": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione di domicilio commessa da un pubblico ufficiale",
+   "vigore_da": "2018-05-09"
+  },
+  "615-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Interferenze illecite nella vita privata",
+   "vigore_da": "1974-04-13"
+  },
+  "615-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Accesso abusivo ad un sistema informatico o telematico",
+   "vigore_da": "2024-07-17"
+  },
+  "615-quater": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2024-07-17"
+  },
+  "615-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2024-07-17"
+  },
+  "616": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione, sottrazione e soppressione di corrispondenza",
+   "vigore_da": "1994-01-14"
+  },
+  "617": {
+   "file": "cp-2.md",
+   "rubrica": "Cognizione, interruzione o impedimento illeciti di comunicazioni o conversazioni telegrafiche o telefoniche",
+   "vigore_da": "2022-02-01"
+  },
+  "617-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2024-07-17"
+  },
+  "617-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Falsificazione, alterazione o soppressione del contenuto di comunicazioni o conversazioni telegrafiche o telefoniche",
+   "vigore_da": "2018-05-09"
+  },
+  "617-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Intercettazione, impedimento o interruzione illecita di comunicazioni informatiche o telematiche",
+   "vigore_da": "2024-07-17"
+  },
+  "617-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2024-07-17"
+  },
+  "617-sexies": {
+   "file": "cp-2.md",
+   "rubrica": "Falsificazione, alterazione o soppressione del contenuto di comunicazioni informatiche o telematiche",
+   "vigore_da": "2024-07-17"
+  },
+  "617-septies": {
+   "file": "cp-2.md",
+   "rubrica": "Diffusione di riprese e registrazioni fraudolente",
+   "vigore_da": "2018-01-26"
+  },
+  "618": {
+   "file": "cp-2.md",
+   "rubrica": "Rivelazione del contenuto di corrispondenza",
+   "vigore_da": "1931-07-01"
+  },
+  "619": {
+   "file": "cp-2.md",
+   "rubrica": "Violazione, sottrazione e soppressione di corrispondenza commesse da persona addetta al servizio delle poste, dei telegrafi o dei telefoni",
+   "vigore_da": "2018-05-09"
+  },
+  "620": {
+   "file": "cp-2.md",
+   "rubrica": "Rivelazione del contenuto di corrispondenza, commessa da persona addetta al servizio delle poste, dei telegrafi o dei telefoni",
+   "vigore_da": "2018-05-09"
+  },
+  "621": {
+   "file": "cp-2.md",
+   "rubrica": "Rivelazione del contenuto di documenti segreti",
+   "vigore_da": "1994-01-14"
+  },
+  "622": {
+   "file": "cp-2.md",
+   "rubrica": "Rivelazione di segreto professionale",
+   "vigore_da": "2006-01-12"
+  },
+  "623": {
+   "file": "cp-2.md",
+   "rubrica": "Rivelazione di segreti scientifici o commerciali",
+   "vigore_da": "2018-06-22"
+  },
+  "623-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Altre comunicazioni e conversazioni",
+   "vigore_da": "1994-01-14"
+  },
+  "623-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Casi di procedibilita' d'ufficio",
+   "vigore_da": "2022-12-30"
+  },
+  "623-quater": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2024-07-17"
+  },
+  "624": {
+   "file": "cp-2.md",
+   "rubrica": "Furto",
+   "vigore_da": "2022-12-30"
+  },
+  "624-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2026-04-25"
+  },
+  "625": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "2017-08-03"
+  },
+  "625-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Circostanze attenuanti",
+   "vigore_da": "2001-05-04"
+  },
+  "626": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2022-12-30"
+  },
+  "627": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2016-02-06"
+  },
+  "628": {
+   "file": "cp-2.md",
+   "rubrica": "Rapina",
+   "vigore_da": "2025-07-31"
+  },
+  "628-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Rapina aggravata commessa da un gruppo organizzato",
+   "vigore_da": "2026-04-25"
+  },
+  "629": {
+   "file": "cp-2.md",
+   "rubrica": "Estorsione",
+   "vigore_da": "2024-07-17"
+  },
+  "630": {
+   "file": "cp-2.md",
+   "rubrica": "Sequestro di persona a scopo di estorsione",
+   "vigore_da": "2012-03-29"
+  },
+  "631": {
+   "file": "cp-2.md",
+   "rubrica": "Usurpazione",
+   "vigore_da": "1981-12-15"
+  },
+  "632": {
+   "file": "cp-2.md",
+   "rubrica": "Deviazione di acque e modificazione dello stato dei luoghi",
+   "vigore_da": "2011-10-13"
+  },
+  "633": {
+   "file": "cp-2.md",
+   "rubrica": "Invasione di terreni o edifici",
+   "vigore_da": "2018-12-18"
+  },
+  "633-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Invasione di terreni o edifici con pericolo per la salute pubblica o l'incolumita' pubblica",
+   "vigore_da": "2022-12-31"
+  },
+  "634": {
+   "file": "cp-2.md",
+   "rubrica": "Turbativa violenta del possesso di cose immobili",
+   "vigore_da": "2022-12-31"
+  },
+  "634-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Occupazione arbitraria di immobile destinato a domicilio altrui",
+   "vigore_da": "2025-04-12"
+  },
+  "635": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2025-04-12"
+  },
+  "635-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Danneggiamento di informazioni, dati e programmi informatici",
+   "vigore_da": "2024-07-17"
+  },
+  "635-ter": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2024-07-17"
+  },
+  "635-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Danneggiamento di sistemi informatici o telematici",
+   "vigore_da": "2024-07-17"
+  },
+  "635-quater.1": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2024-07-17"
+  },
+  "635-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2024-07-17"
+  },
+  "636": {
+   "file": "cp-2.md",
+   "rubrica": "Introduzione o abbandono di animali nel fondo altrui e pascolo abusivo",
+   "vigore_da": "2011-10-13"
+  },
+  "637": {
+   "file": "cp-2.md",
+   "rubrica": "Ingresso abusivo nel fondo altrui",
+   "vigore_da": "2011-10-13"
+  },
+  "638": {
+   "file": "cp-2.md",
+   "rubrica": "Uccisione o danneggiamento di animali altrui",
+   "vigore_da": "2025-07-01"
+  },
+  "639": {
+   "file": "cp-2.md",
+   "rubrica": "Deturpamento e imbrattamento di cose altrui",
+   "vigore_da": "2025-04-12"
+  },
+  "639-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Casi di esclusione della perseguibilita' a querela",
+   "vigore_da": "2025-04-12"
+  },
+  "639-ter": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2024-07-17"
+  },
+  "640": {
+   "file": "cp-2.md",
+   "rubrica": "Truffa",
+   "vigore_da": "2025-04-12"
+  },
+  "640-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Truffa aggravata per il conseguimento di erogazioni pubbliche",
+   "vigore_da": "2022-03-29"
+  },
+  "640-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Frode informatica",
+   "vigore_da": "2022-12-30"
+  },
+  "640-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Applicabilita' dell'articolo 322-ter",
+   "vigore_da": "2024-07-17"
+  },
+  "640-quinquies": {
+   "file": "cp-2.md",
+   "rubrica": "Frode informatica del soggetto che presta servizi di certificazione di firma elettronica",
+   "vigore_da": "2008-04-05"
+  },
+  "641": {
+   "file": "cp-2.md",
+   "rubrica": "Insolvenza fraudolenta",
+   "vigore_da": "1931-07-01"
+  },
+  "642": {
+   "file": "cp-2.md",
+   "rubrica": "Fraudolento danneggiamento dei beni assicurati e mutilazione fraudolenta della propria persona",
+   "vigore_da": "2012-03-25"
+  },
+  "643": {
+   "file": "cp-2.md",
+   "rubrica": "Circonvenzione di persone incapaci",
+   "vigore_da": "1931-07-01"
+  },
+  "644": {
+   "file": "cp-2.md",
+   "rubrica": "Usura",
+   "vigore_da": "2011-07-13"
+  },
+  "644-bis": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-24"
+  },
+  "644-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Prescrizione del reato di usura",
+   "vigore_da": "1996-03-24"
+  },
+  "645": {
+   "file": "cp-2.md",
+   "rubrica": "Frode in emigrazione",
+   "vigore_da": "1931-07-01"
+  },
+  "646": {
+   "file": "cp-2.md",
+   "rubrica": "Appropriazione indebita",
+   "vigore_da": "2024-03-28"
+  },
+  "647": {
+   "file": "cp-2.md",
+   "rubrica": "",
+   "vigore_da": "2016-02-06"
+  },
+  "648": {
+   "file": "cp-2.md",
+   "rubrica": "Ricettazione",
+   "vigore_da": "2026-04-25"
+  },
+  "648-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Riciclaggio",
+   "vigore_da": "2021-12-15"
+  },
+  "648-ter": {
+   "file": "cp-2.md",
+   "rubrica": "Impiego di denaro, beni o utilita' di provenienza illecita",
+   "vigore_da": "2021-12-15"
+  },
+  "648-ter.1": {
+   "file": "cp-2.md",
+   "rubrica": "Autoriciclaggio",
+   "vigore_da": "2021-12-15"
+  },
+  "648-quater": {
+   "file": "cp-2.md",
+   "rubrica": "Confisca",
+   "vigore_da": "2015-01-01"
+  },
+  "649": {
+   "file": "cp-2.md",
+   "rubrica": "Non punibilita' e querela della persona offesa, per fatti commessi a danno di congiunti",
+   "vigore_da": "2017-02-11"
+  },
+  "649-bis": {
+   "file": "cp-2.md",
+   "rubrica": "Casi di procedibilita' d'ufficio",
+   "vigore_da": "2022-12-30"
+  },
+  "650": {
+   "file": "cp-3.md",
+   "rubrica": "Inosservanza dei provvedimenti dell'Autorita'",
+   "vigore_da": "1931-07-01"
+  },
+  "651": {
+   "file": "cp-3.md",
+   "rubrica": "Rifiuto d'indicazioni sulla propria identita' personale",
+   "vigore_da": "1931-07-01"
+  },
+  "652": {
+   "file": "cp-3.md",
+   "rubrica": "Rifiuto di prestare la propria opera in occasione di un tumulto",
+   "vigore_da": "2016-02-06"
+  },
+  "653": {
+   "file": "cp-3.md",
+   "rubrica": "Formazione di corpi armati non diretti a commettere reati",
+   "vigore_da": "1931-07-01"
+  },
+  "654": {
+   "file": "cp-3.md",
+   "rubrica": "Grida e manifestazioni sediziose",
+   "vigore_da": "2026-04-25"
+  },
+  "655": {
+   "file": "cp-3.md",
+   "rubrica": "Radunata sediziosa",
+   "vigore_da": "1931-07-01"
+  },
+  "656": {
+   "file": "cp-3.md",
+   "rubrica": "Pubblicazione o diffusione di notizie false, esagerate o tendenziose, atte a turbare l'ordine pubblico",
+   "vigore_da": "1931-07-01"
+  },
+  "657": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "658": {
+   "file": "cp-3.md",
+   "rubrica": "Procurato allarme presso l'Autorita'",
+   "vigore_da": "1931-07-01"
+  },
+  "659": {
+   "file": "cp-3.md",
+   "rubrica": "Disturbo delle occupazioni o del riposo delle persone",
+   "vigore_da": "2022-12-30"
+  },
+  "660": {
+   "file": "cp-3.md",
+   "rubrica": "Molestia o disturbo alle persone",
+   "vigore_da": "2022-12-30"
+  },
+  "661": {
+   "file": "cp-3.md",
+   "rubrica": "Abuso della credulita' popolare",
+   "vigore_da": "2016-02-06"
+  },
+  "662": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1994-08-05"
+  },
+  "663": {
+   "file": "cp-3.md",
+   "rubrica": "Vendita, distribuzione o affissione abusiva di scritti o disegni",
+   "vigore_da": "2000-01-15"
+  },
+  "663-bis": {
+   "file": "cp-3.md",
+   "rubrica": "Divulgazione di stampa clandestina",
+   "vigore_da": "2000-01-15"
+  },
+  "664": {
+   "file": "cp-3.md",
+   "rubrica": "Distruzione o deterioramento di affissioni",
+   "vigore_da": "2000-01-15"
+  },
+  "665": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1994-08-05"
+  },
+  "666": {
+   "file": "cp-3.md",
+   "rubrica": "Spettacoli o trattenimenti pubblici senza licenza",
+   "vigore_da": "2000-01-15"
+  },
+  "667": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1994-08-05"
+  },
+  "668": {
+   "file": "cp-3.md",
+   "rubrica": "Rappresentazioni teatrali o cinematografiche abusive",
+   "vigore_da": "2018-01-12"
+  },
+  "669": {
+   "file": "cp-3.md",
+   "rubrica": "Esercizio abusivo di mestieri girovaghi",
+   "vigore_da": "1981-12-15"
+  },
+  "669-bis": {
+   "file": "cp-3.md",
+   "rubrica": "Esercizio molesto dell'accattonaggio",
+   "vigore_da": "2018-12-17"
+  },
+  "670": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "671": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "2009-08-08"
+  },
+  "672": {
+   "file": "cp-3.md",
+   "rubrica": "Omessa custodia e mal governo di animali",
+   "vigore_da": "1981-12-15"
+  },
+  "673": {
+   "file": "cp-3.md",
+   "rubrica": "Omesso collocamento o rimozione di segnali o ripari",
+   "vigore_da": "1931-07-01"
+  },
+  "674": {
+   "file": "cp-3.md",
+   "rubrica": "Getto pericoloso di cose",
+   "vigore_da": "1931-07-01"
+  },
+  "675": {
+   "file": "cp-3.md",
+   "rubrica": "Collocamento pericoloso di cose",
+   "vigore_da": "2000-01-15"
+  },
+  "676": {
+   "file": "cp-3.md",
+   "rubrica": "Rovina di edifici o di altre costruzioni",
+   "vigore_da": "2000-01-15"
+  },
+  "677": {
+   "file": "cp-3.md",
+   "rubrica": "Omissione di lavori in edifici o costruzioni che minacciano rovina",
+   "vigore_da": "2000-01-15"
+  },
+  "678": {
+   "file": "cp-3.md",
+   "rubrica": "Fabbricazione o commercio abusivi di materie esplodenti",
+   "vigore_da": "1931-07-01"
+  },
+  "678-bis": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "2022-02-01"
+  },
+  "679": {
+   "file": "cp-3.md",
+   "rubrica": "Omessa denuncia di materie esplodenti",
+   "vigore_da": "1931-07-01"
+  },
+  "679-bis": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "2022-02-01"
+  },
+  "680": {
+   "file": "cp-3.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "1931-07-01"
+  },
+  "681": {
+   "file": "cp-3.md",
+   "rubrica": "Apertura abusiva di luoghi di pubblico spettacolo o trattenimento",
+   "vigore_da": "1931-07-01"
+  },
+  "682": {
+   "file": "cp-3.md",
+   "rubrica": "Ingresso arbitrario in luoghi, ove l'accesso e' vietato nell'interesse militare dello Stato",
+   "vigore_da": "2013-10-16"
+  },
+  "683": {
+   "file": "cp-3.md",
+   "rubrica": "Pubblicazione delle discussioni o delle deliberazioni segrete di una delle Camere",
+   "vigore_da": "1981-12-15"
+  },
+  "684": {
+   "file": "cp-3.md",
+   "rubrica": "Pubblicazione arbitraria di atti di un procedimento penale",
+   "vigore_da": "1981-12-15"
+  },
+  "685": {
+   "file": "cp-3.md",
+   "rubrica": "Indebita pubblicazione di notizie concernenti un procedimento penale",
+   "vigore_da": "1981-12-15"
+  },
+  "686": {
+   "file": "cp-3.md",
+   "rubrica": "Fabbricazione o commercio abusivi di liquori o droghe, o di sostanze destinate alla loro composizione",
+   "vigore_da": "2000-01-15"
+  },
+  "687": {
+   "file": "cp-3.md",
+   "rubrica": "Consumo di bevande alcooliche in tempo di vendita non consentita",
+   "vigore_da": "1981-12-15"
+  },
+  "688": {
+   "file": "cp-3.md",
+   "rubrica": "Ubriachezza",
+   "vigore_da": "2002-07-25"
+  },
+  "689": {
+   "file": "cp-3.md",
+   "rubrica": "Somministrazione di bevande alcooliche a minori o a infermi di mente",
+   "vigore_da": "2012-11-11"
+  },
+  "690": {
+   "file": "cp-3.md",
+   "rubrica": "Determinazione in altri dello stato di ubriachezza",
+   "vigore_da": "1931-07-01"
+  },
+  "691": {
+   "file": "cp-3.md",
+   "rubrica": "Somministrazione di bevande alcooliche a persona in stato di manifesta ubriachezza",
+   "vigore_da": "1931-07-01"
+  },
+  "692": {
+   "file": "cp-3.md",
+   "rubrica": "Detenzione di misure e pesi illegali",
+   "vigore_da": "2000-01-15"
+  },
+  "693": {
+   "file": "cp-3.md",
+   "rubrica": "Rifiuto di monete aventi corso legale",
+   "vigore_da": "1981-12-15"
+  },
+  "694": {
+   "file": "cp-3.md",
+   "rubrica": "Omessa consegna di monete riconosciute contraffatte",
+   "vigore_da": "1981-12-15"
+  },
+  "695": {
+   "file": "cp-3.md",
+   "rubrica": "Fabbricazione o commercio non autorizzati di armi",
+   "vigore_da": "2011-10-13"
+  },
+  "696": {
+   "file": "cp-3.md",
+   "rubrica": "Vendita ambulante di armi",
+   "vigore_da": "2011-10-13"
+  },
+  "697": {
+   "file": "cp-3.md",
+   "rubrica": "Detenzione abusiva di armi",
+   "vigore_da": "2015-04-21"
+  },
+  "698": {
+   "file": "cp-3.md",
+   "rubrica": "Omessa consegna di armi",
+   "vigore_da": "2011-10-13"
+  },
+  "699": {
+   "file": "cp-3.md",
+   "rubrica": "Porto abusivo di armi",
+   "vigore_da": "2023-11-15"
+  },
+  "700": {
+   "file": "cp-3.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "1931-07-01"
+  },
+  "701": {
+   "file": "cp-3.md",
+   "rubrica": "Misura di sicurezza",
+   "vigore_da": "1931-07-01"
+  },
+  "702": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1991-07-13"
+  },
+  "703": {
+   "file": "cp-3.md",
+   "rubrica": "Accensioni ed esplosioni pericolose",
+   "vigore_da": "1931-07-01"
+  },
+  "704": {
+   "file": "cp-3.md",
+   "rubrica": "Armi",
+   "vigore_da": "1931-07-01"
+  },
+  "705": {
+   "file": "cp-3.md",
+   "rubrica": "Commercio non autorizzato di cose preziose",
+   "vigore_da": "2000-01-15"
+  },
+  "706": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1994-08-05"
+  },
+  "707": {
+   "file": "cp-3.md",
+   "rubrica": "Possesso ingiustificato di chiavi alterate o di grimaldelli",
+   "vigore_da": "1971-02-11"
+  },
+  "707-bis": {
+   "file": "cp-3.md",
+   "rubrica": "Possesso ingiustificato di strumenti per il sondaggio del terreno o di apparecchiature per la rilevazione dei metalli",
+   "vigore_da": "2022-03-23"
+  },
+  "708": {
+   "file": "cp-3.md",
+   "rubrica": "Possesso ingiustificato di valori",
+   "vigore_da": "1996-11-07"
+  },
+  "709": {
+   "file": "cp-3.md",
+   "rubrica": "Omessa denuncia di cose provenienti da delitto",
+   "vigore_da": "1931-07-01"
+  },
+  "710": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "711": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "712": {
+   "file": "cp-3.md",
+   "rubrica": "Acquisto di cose di sospetta provenienza",
+   "vigore_da": "1931-07-01"
+  },
+  "713": {
+   "file": "cp-3.md",
+   "rubrica": "Misura di sicurezza",
+   "vigore_da": "1931-07-01"
+  },
+  "714": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1978-05-17"
+  },
+  "715": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1978-05-17"
+  },
+  "716": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1978-05-17"
+  },
+  "717": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1978-05-17"
+  },
+  "718": {
+   "file": "cp-3.md",
+   "rubrica": "Esercizio di giuochi d'azzardo",
+   "vigore_da": "1998-03-01"
+  },
+  "719": {
+   "file": "cp-3.md",
+   "rubrica": "Circostanze aggravanti",
+   "vigore_da": "1998-03-01"
+  },
+  "720": {
+   "file": "cp-3.md",
+   "rubrica": "Partecipazione a giuochi d'azzardo",
+   "vigore_da": "1998-03-01"
+  },
+  "721": {
+   "file": "cp-3.md",
+   "rubrica": "Elementi essenziali del giuoco d'azzardo. Case da giuoco",
+   "vigore_da": "1998-03-01"
+  },
+  "722": {
+   "file": "cp-3.md",
+   "rubrica": "Pena accessoria e misura di sicurezza",
+   "vigore_da": "1998-03-01"
+  },
+  "723": {
+   "file": "cp-3.md",
+   "rubrica": "Esercizio abusivo di un giuoco non d'azzardo",
+   "vigore_da": "1931-07-01"
+  },
+  "724": {
+   "file": "cp-3.md",
+   "rubrica": "Bestemmia e manifestazioni oltraggiose verso i defunti",
+   "vigore_da": "2000-01-15"
+  },
+  "725": {
+   "file": "cp-3.md",
+   "rubrica": "Commercio di scritti, disegni o altri oggetti contrari alla pubblica decenza",
+   "vigore_da": "2000-01-15"
+  },
+  "726": {
+   "file": "cp-3.md",
+   "rubrica": "Atti contrari alla pubblica decenza. Turpiloquio",
+   "vigore_da": "2022-04-21"
+  },
+  "727": {
+   "file": "cp-3.md",
+   "rubrica": "Abbandono di animali",
+   "vigore_da": "2025-07-01"
+  },
+  "727-bis": {
+   "file": "cp-3.md",
+   "rubrica": "Uccisione, distruzione, cattura, prelievo, detenzione e commercio di esemplari di specie animali o vegetali selvatiche protette",
+   "vigore_da": "2025-07-01"
+  },
+  "728": {
+   "file": "cp-3.md",
+   "rubrica": "Trattamento idoneo a sopprimere la coscienza o la volonta' altrui",
+   "vigore_da": "1931-07-01"
+  },
+  "729": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1990-11-15"
+  },
+  "730": {
+   "file": "cp-3.md",
+   "rubrica": "Somministrazione a minori di sostanze velenose o nocive",
+   "vigore_da": "1931-07-01"
+  },
+  "731": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "2023-09-16"
+  },
+  "732": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-13"
+  },
+  "733": {
+   "file": "cp-3.md",
+   "rubrica": "Danneggiamento al patrimonio archeologico, storico o artistico nazionale",
+   "vigore_da": "1956-07-05"
+  },
+  "733-bis": {
+   "file": "cp-3.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-02"
+  },
+  "734": {
+   "file": "cp-3.md",
+   "rubrica": "Distruzione o deturpamento di bellezze naturali",
+   "vigore_da": "1956-07-05"
+  },
+  "734-bis": {
+   "file": "cp-3.md",
+   "rubrica": "Divulgazione delle generalita' o dell'immagine di persona offesa da atti di violenza sessuale",
+   "vigore_da": "2006-03-02"
+  }
+ }
+}

@@ -1,0 +1,487 @@
+{
+ "_meta": {
+  "codice": "l-300-1970",
+  "nome": "Statuto dei lavoratori (L. 300/1970)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2025-11-06",
+  "articoli": 41,
+  "file": [
+   "l-300-1970.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1970-05-20;300",
+  "versioni": [
+   {
+    "data": "1970-05-27",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1974-03-04",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 2 marzo 1974, n. 30"
+   },
+   {
+    "data": "1977-11-28",
+    "evento": "rp2",
+    "atto_modificante": "L. 8 novembre 1977, n. 847"
+   },
+   {
+    "data": "1977-12-17",
+    "evento": "rp3",
+    "atto_modificante": "L. 9 dicembre 1977, n. 903"
+   },
+   {
+    "data": "1979-08-20",
+    "evento": "rp4",
+    "atto_modificante": "L. 13 agosto 1979, n. 384"
+   },
+   {
+    "data": "1982-12-09",
+    "evento": "rp5",
+    "atto_modificante": "atto modificante non indicato (rp5)"
+   },
+   {
+    "data": "1986-01-10",
+    "evento": "rp6",
+    "atto_modificante": "L. 27 dicembre 1985, n. 816"
+   },
+   {
+    "data": "1987-04-08",
+    "evento": "rp7",
+    "atto_modificante": "atto modificante non indicato (rp7)"
+   },
+   {
+    "data": "1989-08-02",
+    "evento": "rp8",
+    "atto_modificante": "atto modificante non indicato (rp8)"
+   },
+   {
+    "data": "1990-05-11",
+    "evento": "rp9",
+    "atto_modificante": "L. 11 maggio 1990, n. 108"
+   },
+   {
+    "data": "1990-06-14",
+    "evento": "rp10",
+    "atto_modificante": "L. 12 giugno 1990, n. 146"
+   },
+   {
+    "data": "1991-02-06",
+    "evento": "rp11",
+    "atto_modificante": "atto modificante non indicato (rp11)"
+   },
+   {
+    "data": "1991-07-27",
+    "evento": "rp12",
+    "atto_modificante": "L. 23 luglio 1991, n. 223"
+   },
+   {
+    "data": "1991-07-31",
+    "evento": "rp13",
+    "atto_modificante": "atto modificante non indicato (rp13)"
+   },
+   {
+    "data": "1992-07-11",
+    "evento": "rp14",
+    "atto_modificante": "D.L. 11 luglio 1992, n. 333"
+   },
+   {
+    "data": "1994-12-30",
+    "evento": "rp15",
+    "atto_modificante": "L. 23 dicembre 1994, n. 724"
+   },
+   {
+    "data": "1995-07-29",
+    "evento": "rp16+rp17",
+    "atto_modificante": "D.P.R. 28 luglio 1995, n. 312; D.P.R. 28 luglio 1995, n. 313"
+   },
+   {
+    "data": "1997-01-07",
+    "evento": "rp18",
+    "atto_modificante": "Circ. Ministero Del Lavoro E Della Previdenza Sociale 4 dicembre 1996, n. 162"
+   },
+   {
+    "data": "1998-06-24",
+    "evento": "rp19",
+    "atto_modificante": "atto modificante non indicato (rp19)"
+   },
+   {
+    "data": "2000-04-11",
+    "evento": "rp20",
+    "atto_modificante": "L. 11 aprile 2000, n. 83"
+   },
+   {
+    "data": "2000-06-30",
+    "evento": "rp21",
+    "atto_modificante": "atto modificante non indicato (rp21)"
+   },
+   {
+    "data": "2003-01-15",
+    "evento": "rp22",
+    "atto_modificante": "D.Lgs. 19 dicembre 2002, n. 297"
+   },
+   {
+    "data": "2003-07-14",
+    "evento": "rp23",
+    "atto_modificante": "atto modificante non indicato (rp23)"
+   },
+   {
+    "data": "2003-07-29",
+    "evento": "rp24",
+    "atto_modificante": "D.Lgs. 30 giugno 2003, n. 196"
+   },
+   {
+    "data": "2003-08-13",
+    "evento": "rp25",
+    "atto_modificante": "D.Lgs. 9 luglio 2003, n. 216"
+   },
+   {
+    "data": "2007-12-31",
+    "evento": "rp26",
+    "atto_modificante": "D.L. 31 dicembre 2007, n. 248"
+   },
+   {
+    "data": "2012-07-03",
+    "evento": "rp27",
+    "atto_modificante": "L. 28 giugno 2012, n. 92"
+   },
+   {
+    "data": "2013-07-31",
+    "evento": "rp28",
+    "atto_modificante": "atto modificante non indicato (rp28)"
+   },
+   {
+    "data": "2015-09-23",
+    "evento": "rp29",
+    "atto_modificante": "D.Lgs. 14 settembre 2015, n. 151"
+   },
+   {
+    "data": "2016-10-07",
+    "evento": "rp30",
+    "atto_modificante": "D.Lgs. 24 settembre 2016, n. 185"
+   },
+   {
+    "data": "2021-04-07",
+    "evento": "rp31",
+    "atto_modificante": "atto modificante non indicato (rp31)"
+   },
+   {
+    "data": "2022-01-17",
+    "evento": "rp32",
+    "atto_modificante": "L. 23 dicembre 2021, n. 238"
+   },
+   {
+    "data": "2022-05-25",
+    "evento": "rp33",
+    "atto_modificante": "atto modificante non indicato (rp33)"
+   },
+   {
+    "data": "2025-11-05",
+    "evento": "rp34",
+    "atto_modificante": "atto modificante non indicato (rp34)"
+   }
+  ],
+  "ultima_versione": "2025-11-05",
+  "datazione": {
+   "monoblocco": 41,
+   "api": 2,
+   "riportati": 39,
+   "ignota": 0,
+   "stima_anteriore": 1,
+   "chiamate": 2,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-300-1970.md",
+   "rubrica": "Liberta' di opinione",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "fa194296d347"
+  },
+  "2": {
+   "file": "l-300-1970.md",
+   "rubrica": "Guardie giurate",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "215e77bb9efb"
+  },
+  "3": {
+   "file": "l-300-1970.md",
+   "rubrica": "Personale di vigilanza",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "e2bc136fac1d"
+  },
+  "4": {
+   "file": "l-300-1970.md",
+   "rubrica": "Impianti audiovisivi e altri strumenti di controllo",
+   "vigore_da": "2016-10-08",
+   "datazione": "api",
+   "h": "2f51a08435f2"
+  },
+  "5": {
+   "file": "l-300-1970.md",
+   "rubrica": "Accertamenti sanitari",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "175ff88f3a05"
+  },
+  "6": {
+   "file": "l-300-1970.md",
+   "rubrica": "Visite personali di controllo",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "90eba9bec3a9"
+  },
+  "7": {
+   "file": "l-300-1970.md",
+   "rubrica": "Sanzioni disciplinari",
+   "vigore_da": "2012-07-18",
+   "datazione": "api",
+   "h": "d36d02181146"
+  },
+  "8": {
+   "file": "l-300-1970.md",
+   "rubrica": "Divieto di indagini sulle opinioni",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "af7487680dc2"
+  },
+  "9": {
+   "file": "l-300-1970.md",
+   "rubrica": "Tutela della salute e dell'integrita' fisica",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "c5f874f9614b"
+  },
+  "10": {
+   "file": "l-300-1970.md",
+   "rubrica": "Lavoratori studenti",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "cdd5f7c6f32f"
+  },
+  "11": {
+   "file": "l-300-1970.md",
+   "rubrica": "",
+   "vigore_da": "1992-08-14",
+   "datazione": "api",
+   "h": "ebf0500f9be0"
+  },
+  "12": {
+   "file": "l-300-1970.md",
+   "rubrica": "Istituti di patronato",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "bbbd7215eabd"
+  },
+  "13": {
+   "file": "l-300-1970.md",
+   "rubrica": "Mansioni del lavoratore",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "4731aa4824e2"
+  },
+  "14": {
+   "file": "l-300-1970.md",
+   "rubrica": "Diritto di associazione e di attivita' sindacale",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "190b2025fff6"
+  },
+  "15": {
+   "file": "l-300-1970.md",
+   "rubrica": "Atti discriminatori",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "d589903c3c6a"
+  },
+  "16": {
+   "file": "l-300-1970.md",
+   "rubrica": "Trattamenti economici collettivi discriminatori",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "ba523c4fe2ba"
+  },
+  "17": {
+   "file": "l-300-1970.md",
+   "rubrica": "Sindacati di comodo",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "fbfc853f4874"
+  },
+  "18": {
+   "file": "l-300-1970.md",
+   "rubrica": "Tutela del lavoratore in caso di licenziamento illegittimo",
+   "vigore_da": "2022-05-26",
+   "datazione": "api",
+   "h": "9f16c923aac9"
+  },
+  "19": {
+   "file": "l-300-1970.md",
+   "rubrica": "Costituzione delle rappresentanze sindacali aziendali",
+   "vigore_da": "2025-11-06",
+   "datazione": "api",
+   "h": "c67b40212578"
+  },
+  "20": {
+   "file": "l-300-1970.md",
+   "rubrica": "Assemblea",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "21a3314638ef"
+  },
+  "21": {
+   "file": "l-300-1970.md",
+   "rubrica": "Referendum",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "17657f0822bf"
+  },
+  "22": {
+   "file": "l-300-1970.md",
+   "rubrica": "Trasferimento dei dirigenti delle rappresentanze sindacali aziendali",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "8e7759d17630"
+  },
+  "23": {
+   "file": "l-300-1970.md",
+   "rubrica": "Permessi retribuiti",
+   "vigore_da": "1974-05-03",
+   "datazione": "api",
+   "h": "78ae59c8e22e"
+  },
+  "24": {
+   "file": "l-300-1970.md",
+   "rubrica": "Permessi non retribuiti",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "ee981323d818"
+  },
+  "25": {
+   "file": "l-300-1970.md",
+   "rubrica": "Diritto di affissione",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "9d3602f0b404"
+  },
+  "26": {
+   "file": "l-300-1970.md",
+   "rubrica": "Contributi sindacali",
+   "vigore_da": "1995-09-27",
+   "datazione": "api",
+   "h": "651a78dd8d51"
+  },
+  "27": {
+   "file": "l-300-1970.md",
+   "rubrica": "Locali delle rappresentanze sindacali aziendali",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "c7a23ca3e658"
+  },
+  "28": {
+   "file": "l-300-1970.md",
+   "rubrica": "Repressione della condotta antisindacale",
+   "vigore_da": "2000-04-26",
+   "datazione": "api",
+   "h": "fd6429626626"
+  },
+  "29": {
+   "file": "l-300-1970.md",
+   "rubrica": "Fusione delle rappresentanze sindacali aziendali",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "0afc1aa56a4a"
+  },
+  "30": {
+   "file": "l-300-1970.md",
+   "rubrica": "Permessi per i dirigenti provinciali e nazionali",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "9a4020df0c31"
+  },
+  "31": {
+   "file": "l-300-1970.md",
+   "rubrica": "Aspettativa dei lavoratori chiamati a funzioni pubbliche elettive o a ricoprire cariche sindacali provinciali e nazionali",
+   "vigore_da": "1995-01-01",
+   "datazione": "api",
+   "h": "abaeac5449c5"
+  },
+  "32": {
+   "file": "l-300-1970.md",
+   "rubrica": "Permessi ai lavoratori chiamati a funzioni pubbliche elettive",
+   "vigore_da": "1986-01-25",
+   "datazione": "api",
+   "h": "e204e97deef2"
+  },
+  "33": {
+   "file": "l-300-1970.md",
+   "rubrica": "",
+   "vigore_da": "2003-01-30",
+   "datazione": "api",
+   "h": "caef24adda32"
+  },
+  "34": {
+   "file": "l-300-1970.md",
+   "rubrica": "",
+   "vigore_da": "2003-01-30",
+   "datazione": "api",
+   "h": "caef24adda32"
+  },
+  "35": {
+   "file": "l-300-1970.md",
+   "rubrica": "Campo di applicazione",
+   "vigore_da": "1991-08-01",
+   "datazione": "api",
+   "h": "177581ed911e"
+  },
+  "36": {
+   "file": "l-300-1970.md",
+   "rubrica": "Obblighi dei titolari di benefici accordati dallo Stato e degli appaltatori di opere pubbliche",
+   "vigore_da": "1998-06-25",
+   "datazione": "api",
+   "h": "7f28d6ff1175"
+  },
+  "37": {
+   "file": "l-300-1970.md",
+   "rubrica": "Applicazione ai dipendenti da enti pubblici",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "d3978f43f83e"
+  },
+  "38": {
+   "file": "l-300-1970.md",
+   "rubrica": "Disposizioni penali",
+   "vigore_da": "2004-01-01",
+   "datazione": "api",
+   "h": "3dc821b25536"
+  },
+  "39": {
+   "file": "l-300-1970.md",
+   "rubrica": "Versamento delle ammende al Fondo adeguamento pensioni",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "9403d24ca2fc"
+  },
+  "40": {
+   "file": "l-300-1970.md",
+   "rubrica": "Abrogazione delle disposizioni contrastanti",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "904242e047db"
+  },
+  "41": {
+   "file": "l-300-1970.md",
+   "rubrica": "Esenzioni fiscali",
+   "vigore_da": "1970-06-11",
+   "datazione": "api",
+   "h": "32a94c8398cf"
+  }
+ }
+}

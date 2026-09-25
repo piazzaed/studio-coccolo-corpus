@@ -1,0 +1,132 @@
+{
+ "_meta": {
+  "codice": "l-742-1969",
+  "nome": "Sospensione dei termini processuali nel periodo feriale (L. 742/1969)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2015-08-21",
+  "articoli": 6,
+  "file": [
+   "l-742-1969.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1969-10-07;742",
+  "versioni": [
+   {
+    "data": "1969-11-06",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1985-02-20",
+    "evento": "rp1",
+    "atto_modificante": "atto modificante non indicato (rp1)"
+   },
+   {
+    "data": "1987-07-15",
+    "evento": "rp2",
+    "atto_modificante": "atto modificante non indicato (rp2)"
+   },
+   {
+    "data": "1987-07-29",
+    "evento": "rp3",
+    "atto_modificante": "atto modificante non indicato (rp3)"
+   },
+   {
+    "data": "1990-02-07",
+    "evento": "rp4",
+    "atto_modificante": "atto modificante non indicato (rp4)"
+   },
+   {
+    "data": "1990-03-23",
+    "evento": "rp5",
+    "atto_modificante": "L. 19 marzo 1990, n. 55"
+   },
+   {
+    "data": "1990-07-21",
+    "evento": "rp6",
+    "atto_modificante": "D.Lgs. 20 luglio 1990, n. 193"
+   },
+   {
+    "data": "1992-06-08",
+    "evento": "rp7",
+    "atto_modificante": "D.L. 8 giugno 1992, n. 306"
+   },
+   {
+    "data": "1992-08-05",
+    "evento": "rp8",
+    "atto_modificante": "atto modificante non indicato (rp8)"
+   },
+   {
+    "data": "2009-12-14",
+    "evento": "rp9",
+    "atto_modificante": "D.Lgs. 1 dicembre 2009, n. 179"
+   },
+   {
+    "data": "2014-09-12",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 12 settembre 2014, n. 132"
+   },
+   {
+    "data": "2015-06-27",
+    "evento": "rp11",
+    "atto_modificante": "D.L. 27 giugno 2015, n. 83"
+   }
+  ],
+  "ultima_versione": "2015-06-27",
+  "datazione": {
+   "monoblocco": 6,
+   "api": 1,
+   "riportati": 5,
+   "ignota": 0,
+   "stima_uguale": 1,
+   "chiamate": 1,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-742-1969.md",
+   "rubrica": "",
+   "vigore_da": "2015-08-21",
+   "datazione": "api",
+   "h": "ab5fbb47a064"
+  },
+  "2": {
+   "file": "l-742-1969.md",
+   "rubrica": "",
+   "vigore_da": "1992-08-08",
+   "datazione": "api",
+   "h": "4382d36f509b"
+  },
+  "3": {
+   "file": "l-742-1969.md",
+   "rubrica": "",
+   "vigore_da": "1969-11-06",
+   "datazione": "api",
+   "h": "30a9229d2c21"
+  },
+  "4": {
+   "file": "l-742-1969.md",
+   "rubrica": "",
+   "vigore_da": "1969-11-06",
+   "datazione": "api",
+   "h": "c38d703dfbe9"
+  },
+  "5": {
+   "file": "l-742-1969.md",
+   "rubrica": "",
+   "vigore_da": "1969-11-06",
+   "datazione": "api",
+   "h": "d18fd3c95f7d"
+  },
+  "6": {
+   "file": "l-742-1969.md",
+   "rubrica": "",
+   "vigore_da": "1969-11-06",
+   "datazione": "api",
+   "h": "983ee1f4f8c3"
+  }
+ }
+}

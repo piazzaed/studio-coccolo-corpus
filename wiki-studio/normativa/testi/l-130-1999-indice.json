@@ -1,0 +1,361 @@
+{
+ "_meta": {
+  "codice": "l-130-1999",
+  "nome": "Cartolarizzazione dei crediti (L. 130/1999)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-08-07",
+  "articoli": 32,
+  "file": [
+   "l-130-1999.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1999-04-30;130",
+  "versioni": [
+   {
+    "data": "1999-05-14",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2001-09-26",
+    "evento": "rp1+rp2",
+    "atto_modificante": "D.L. 25 settembre 2001, n. 350; D.L. 25 settembre 2001, n. 351"
+   },
+   {
+    "data": "2005-03-16",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 14 marzo 2005, n. 35"
+   },
+   {
+    "data": "2005-12-29",
+    "evento": "rp4",
+    "atto_modificante": "L. 23 dicembre 2005, n. 266"
+   },
+   {
+    "data": "2010-09-04",
+    "evento": "rp5",
+    "atto_modificante": "D.Lgs. 13 agosto 2010, n. 141"
+   },
+   {
+    "data": "2010-12-18",
+    "evento": "rp6",
+    "atto_modificante": "D.Lgs. 14 dicembre 2010, n. 218"
+   },
+   {
+    "data": "2013-12-23",
+    "evento": "rp7",
+    "atto_modificante": "D.L. 23 dicembre 2013, n. 145"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 91"
+   },
+   {
+    "data": "2016-02-15",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 14 febbraio 2016, n. 18"
+   },
+   {
+    "data": "2017-04-24",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 24 aprile 2017, n. 50"
+   },
+   {
+    "data": "2018-12-31",
+    "evento": "rp11",
+    "atto_modificante": "L. 30 dicembre 2018, n. 145"
+   },
+   {
+    "data": "2019-04-30",
+    "evento": "rp12",
+    "atto_modificante": "D.L. 30 aprile 2019, n. 34"
+   },
+   {
+    "data": "2019-06-29",
+    "evento": "rp13",
+    "atto_modificante": "L. 28 giugno 2019, n. 58"
+   },
+   {
+    "data": "2019-12-30",
+    "evento": "rp14",
+    "atto_modificante": "L. 27 dicembre 2019, n. 160"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp16",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2020-12-30",
+    "evento": "rp17",
+    "atto_modificante": "L. 30 dicembre 2020, n. 178"
+   },
+   {
+    "data": "2021-11-30",
+    "evento": "rp18",
+    "atto_modificante": "D.Lgs. 5 novembre 2021, n. 190"
+   },
+   {
+    "data": "2026-03-23",
+    "evento": "rp19",
+    "atto_modificante": "L. 11 marzo 2026, n. 34"
+   },
+   {
+    "data": "2026-07-03",
+    "evento": "rp20",
+    "atto_modificante": "D.Lgs. 19 giugno 2026, n. 117"
+   },
+   {
+    "data": "2026-08-06",
+    "evento": "rp21",
+    "atto_modificante": "D.Lgs. 5 agosto 2026, n. 141"
+   }
+  ],
+  "ultima_versione": "2026-08-06",
+  "datazione": {
+   "monoblocco": 32,
+   "api": 14,
+   "riportati": 15,
+   "ignota": 3,
+   "testo_diverso": 3,
+   "stima_anteriore": 14,
+   "chiamate": 17,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-130-1999.md",
+   "rubrica": "Ambito di applicazione e definizioni",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "7ea868b59b0c"
+  },
+  "2": {
+   "file": "l-130-1999.md",
+   "rubrica": "Programma dell'operazione",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "1dc520d8221c"
+  },
+  "3": {
+   "file": "l-130-1999.md",
+   "rubrica": "Societa' per la cartolarizzazione dei crediti",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "29bbae5c7e13"
+  },
+  "4": {
+   "file": "l-130-1999.md",
+   "rubrica": "Modalita' ed efficacia della cessione",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "2a63ecd238be"
+  },
+  "5": {
+   "file": "l-130-1999.md",
+   "rubrica": "Titoli emessi a fronte dei crediti acquistati",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "35676b3266d3"
+  },
+  "6": {
+   "file": "l-130-1999.md",
+   "rubrica": "Disposizioni fiscali e di bilancio",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "093df585e3df"
+  },
+  "7": {
+   "file": "l-130-1999.md",
+   "rubrica": "Altre operazioni",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "687bcdf6bdec"
+  },
+  "7-bis": {
+   "file": "l-130-1999.md",
+   "rubrica": "",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "fbc6038a39c0"
+  },
+  "7-ter": {
+   "file": "l-130-1999.md",
+   "rubrica": "",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "fbc6038a39c0"
+  },
+  "7-quater": {
+   "file": "l-130-1999.md",
+   "rubrica": "",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "fbc6038a39c0"
+  },
+  "7-quinquies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "6928ffc00940"
+  },
+  "7-sexies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "fc442446f81d"
+  },
+  "7-septies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Societa' cessionaria",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "ca55836e7cc0"
+  },
+  "7-octies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Patrimonio separato",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "259f4c7a0125"
+  },
+  "7-novies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Attivi idonei",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "5e4225966c23"
+  },
+  "7-decies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Contratti derivati",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "d2028a61a966"
+  },
+  "7-undecies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Requisiti di copertura",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "690f4519eb1a"
+  },
+  "7-duodecies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Requisito per la riserva di liquidita'",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "f9b36a8d05a7"
+  },
+  "7-terdecies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Scadenze estensibili",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "b6c44f4cee73"
+  },
+  "7-quaterdecies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Garanzia della societa' cessionaria",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "16afd412bb54"
+  },
+  "7-quindecies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Garanzia della banca emittente sui contratti derivati",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "fcc06751608b"
+  },
+  "7-sex-decies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Societa' di controllo dell'aggregato di copertura",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "029dbec9c575"
+  },
+  "7-septies-decies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Informativa al pubblico",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "4e7117e2b277"
+  },
+  "7-duodevicies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Vigilanza",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "4a946744db7e"
+  },
+  "7-undevicies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Autorizzazione del programma di emissione di obbligazioni bancarie garantite",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "4489749e0607"
+  },
+  "7-vicies": {
+   "file": "l-130-1999.md",
+   "rubrica": "Collaborazione tra autorita'",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "ffafaf244136"
+  },
+  "7-vicies-semel": {
+   "file": "l-130-1999.md",
+   "rubrica": "Disciplina e procedura sanzionatoria",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "84e62d22043b"
+  },
+  "7-vicies-bis": {
+   "file": "l-130-1999.md",
+   "rubrica": "Marchio",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "60a3c47994f3"
+  },
+  "7-vicies-ter": {
+   "file": "l-130-1999.md",
+   "rubrica": "Disposizioni fiscali",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "a9135251c681"
+  },
+  "7-vicies-quater": {
+   "file": "l-130-1999.md",
+   "rubrica": "Cessione di ulteriori crediti e titoli",
+   "vigore_da": "2021-12-01",
+   "datazione": "api",
+   "h": "00e47892b0d1"
+  },
+  "7.1": {
+   "file": "l-130-1999.md",
+   "rubrica": "Cartolarizzazione di crediti deteriorati da parte di banche e intermediari finanziari",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "4d04fea86948"
+  },
+  "7.2": {
+   "file": "l-130-1999.md",
+   "rubrica": "Cartolarizzazioni immobiliari e di beni mobili anche registrati",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "9c084078708f"
+  }
+ }
+}

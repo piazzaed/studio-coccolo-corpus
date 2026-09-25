@@ -1,0 +1,1859 @@
+{
+ "_meta": {
+  "codice": "dlgs-196-2003",
+  "nome": "Codice in materia di protezione dei dati personali (D.Lgs. 196/2003)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-02-20",
+  "articoli": 221,
+  "file": [
+   "dlgs-196-2003.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2003-06-30;196",
+  "versioni": [
+   {
+    "data": "2003-07-29",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2003-12-29",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 24 dicembre 2003, n. 354"
+   },
+   {
+    "data": "2004-02-24",
+    "evento": "rp2",
+    "atto_modificante": "D.Lgs. 22 gennaio 2004, n. 42"
+   },
+   {
+    "data": "2004-03-31",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 29 marzo 2004, n. 81"
+   },
+   {
+    "data": "2004-06-25",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 24 giugno 2004, n. 158"
+   },
+   {
+    "data": "2004-11-10",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 9 novembre 2004, n. 266"
+   },
+   {
+    "data": "2004-12-31",
+    "evento": "rp6",
+    "atto_modificante": "D.L. 30 dicembre 2004, n. 314"
+   },
+   {
+    "data": "2005-01-29",
+    "evento": "rp7",
+    "atto_modificante": "atto modificante non indicato (rp7)"
+   },
+   {
+    "data": "2005-07-27",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 27 luglio 2005, n. 144"
+   },
+   {
+    "data": "2005-10-13",
+    "evento": "rp9",
+    "atto_modificante": "D.Lgs. 7 settembre 2005, n. 209"
+   },
+   {
+    "data": "2005-11-30",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 30 novembre 2005, n. 245"
+   },
+   {
+    "data": "2005-12-30",
+    "evento": "rp11",
+    "atto_modificante": "D.L. 30 dicembre 2005, n. 273"
+   },
+   {
+    "data": "2006-05-13",
+    "evento": "rp12",
+    "atto_modificante": "D.L. 12 maggio 2006, n. 173"
+   },
+   {
+    "data": "2006-12-28",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 28 dicembre 2006, n. 300"
+   },
+   {
+    "data": "2007-12-31",
+    "evento": "rp14",
+    "atto_modificante": "D.L. 31 dicembre 2007, n. 248"
+   },
+   {
+    "data": "2008-04-04",
+    "evento": "rp15",
+    "atto_modificante": "L. 18 marzo 2008, n. 48"
+   },
+   {
+    "data": "2008-06-18",
+    "evento": "rp16",
+    "atto_modificante": "D.Lgs. 30 maggio 2008, n. 109"
+   },
+   {
+    "data": "2008-06-25",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 25 giugno 2008, n. 112"
+   },
+   {
+    "data": "2008-10-02",
+    "evento": "rp18",
+    "atto_modificante": "D.L. 2 ottobre 2008, n. 151"
+   },
+   {
+    "data": "2008-12-24",
+    "evento": "rp19",
+    "atto_modificante": "atto modificante non indicato (rp19)"
+   },
+   {
+    "data": "2008-12-31",
+    "evento": "rp20",
+    "atto_modificante": "D.L. 30 dicembre 2008, n. 207"
+   },
+   {
+    "data": "2009-03-05",
+    "evento": "rp21",
+    "atto_modificante": "L. 4 marzo 2009, n. 15"
+   },
+   {
+    "data": "2009-09-25",
+    "evento": "rp22",
+    "atto_modificante": "D.L. 25 settembre 2009, n. 135"
+   },
+   {
+    "data": "2010-07-29",
+    "evento": "rp23",
+    "atto_modificante": "L. 29 luglio 2010, n. 120"
+   },
+   {
+    "data": "2010-11-09",
+    "evento": "rp24",
+    "atto_modificante": "L. 4 novembre 2010, n. 183"
+   },
+   {
+    "data": "2011-05-13",
+    "evento": "rp25",
+    "atto_modificante": "D.L. 13 maggio 2011, n. 70"
+   },
+   {
+    "data": "2011-09-21",
+    "evento": "rp26",
+    "atto_modificante": "D.Lgs. 1 settembre 2011, n. 150"
+   },
+   {
+    "data": "2011-12-06",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 6 dicembre 2011, n. 201"
+   },
+   {
+    "data": "2012-02-09",
+    "evento": "rp28",
+    "atto_modificante": "D.L. 9 febbraio 2012, n. 5"
+   },
+   {
+    "data": "2012-05-31",
+    "evento": "rp29",
+    "atto_modificante": "D.Lgs. 28 maggio 2012, n. 69"
+   },
+   {
+    "data": "2013-04-05",
+    "evento": "rp30",
+    "atto_modificante": "D.Lgs. 14 marzo 2013, n. 33"
+   },
+   {
+    "data": "2013-12-27",
+    "evento": "rp31",
+    "atto_modificante": "L. 27 dicembre 2013, n. 147"
+   },
+   {
+    "data": "2014-10-06",
+    "evento": "rp32",
+    "atto_modificante": "atto modificante non indicato (rp32)"
+   },
+   {
+    "data": "2015-02-19",
+    "evento": "rp33",
+    "atto_modificante": "D.L. 18 febbraio 2015, n. 7"
+   },
+   {
+    "data": "2015-09-23",
+    "evento": "rp34",
+    "atto_modificante": "D.Lgs. 14 settembre 2015, n. 151"
+   },
+   {
+    "data": "2015-11-02",
+    "evento": "rp35",
+    "atto_modificante": "atto modificante non indicato (rp35)"
+   },
+   {
+    "data": "2015-12-30",
+    "evento": "rp36",
+    "atto_modificante": "D.L. 30 dicembre 2015, n. 210"
+   },
+   {
+    "data": "2017-11-27",
+    "evento": "rp37",
+    "atto_modificante": "L. 20 novembre 2017, n. 167"
+   },
+   {
+    "data": "2018-05-24",
+    "evento": "rp38",
+    "atto_modificante": "D.Lgs. 18 maggio 2018, n. 51"
+   },
+   {
+    "data": "2018-09-04",
+    "evento": "rp39",
+    "atto_modificante": "D.Lgs. 10 agosto 2018, n. 101"
+   },
+   {
+    "data": "2018-09-27",
+    "evento": "rp40",
+    "atto_modificante": "atto modificante non indicato (rp40)"
+   },
+   {
+    "data": "2019-02-11",
+    "evento": "rp41",
+    "atto_modificante": "atto modificante non indicato (rp41)"
+   },
+   {
+    "data": "2019-03-25",
+    "evento": "rp42",
+    "atto_modificante": "atto modificante non indicato (rp42)"
+   },
+   {
+    "data": "2019-03-26",
+    "evento": "rp43",
+    "atto_modificante": "atto modificante non indicato (rp43)"
+   },
+   {
+    "data": "2019-06-14",
+    "evento": "rp44",
+    "atto_modificante": "D.L. 14 giugno 2019, n. 53"
+   },
+   {
+    "data": "2019-12-30",
+    "evento": "rp45",
+    "atto_modificante": "L. 27 dicembre 2019, n. 160"
+   },
+   {
+    "data": "2021-09-30",
+    "evento": "rp46",
+    "atto_modificante": "D.L. 30 settembre 2021, n. 132"
+   },
+   {
+    "data": "2021-10-08",
+    "evento": "rp47",
+    "atto_modificante": "D.L. 8 ottobre 2021, n. 139"
+   },
+   {
+    "data": "2021-11-29",
+    "evento": "rp48",
+    "atto_modificante": "L. 23 novembre 2021, n. 178"
+   },
+   {
+    "data": "2021-12-07",
+    "evento": "rp49",
+    "atto_modificante": "L. 3 dicembre 2021, n. 205"
+   },
+   {
+    "data": "2023-03-15",
+    "evento": "rp50",
+    "atto_modificante": "D.Lgs. 10 marzo 2023, n. 24"
+   },
+   {
+    "data": "2024-03-02",
+    "evento": "rp51",
+    "atto_modificante": "D.L. 2 marzo 2024, n. 19"
+   },
+   {
+    "data": "2024-04-30",
+    "evento": "rp52",
+    "atto_modificante": "L. 29 aprile 2024, n. 56"
+   },
+   {
+    "data": "2025-12-03",
+    "evento": "rp53",
+    "atto_modificante": "L. 2 dicembre 2025, n. 182"
+   },
+   {
+    "data": "2026-01-15",
+    "evento": "rp54",
+    "atto_modificante": "D.Lgs. 30 dicembre 2025, n. 215"
+   },
+   {
+    "data": "2026-02-19",
+    "evento": "rp55",
+    "atto_modificante": "D.L. 19 febbraio 2026, n. 19"
+   }
+  ],
+  "ultima_versione": "2026-02-19",
+  "datazione": {
+   "monoblocco": 221,
+   "api": 103,
+   "riportati": 117,
+   "ignota": 1,
+   "testo_diverso": 1,
+   "stima_anteriore": 9,
+   "stima_posteriore": 1,
+   "chiamate": 104,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Oggetto",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "85086144f2de"
+  },
+  "2": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Finalita'",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "ccd20b7ce524"
+  },
+  "2-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Autorita' di controllo",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "9f05ebb44a88"
+  },
+  "2-ter": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Base giuridica per il trattamento di dati personali effettuato per l'esecuzione di un compito di interesse pubblico o connesso all'esercizio di pubblici poteri",
+   "vigore_da": "2021-12-08",
+   "datazione": "api",
+   "h": "b2c9921ca5cc"
+  },
+  "2-quater": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Regole deontologiche",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "573479cb47af"
+  },
+  "2-quinquies": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Consenso del minore in relazione ai servizi della societa' dell'informazione",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f6e083a48fd8"
+  },
+  "2-sexies": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Trattamento di categorie particolari di dati personali necessario per motivi di interesse pubblico rilevante",
+   "vigore_da": "2024-05-01",
+   "datazione": "api",
+   "h": "2456253a49a9"
+  },
+  "2-septies": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Misure di garanzia per il trattamento dei dati genetici, biometrici e relativi alla salute",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "a72a1d37baf2"
+  },
+  "2-octies": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Principi relativi al trattamento di dati relativi a condanne penali e reati",
+   "vigore_da": "2025-12-18",
+   "datazione": "api",
+   "h": "aad8d8573e0a"
+  },
+  "2-novies": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Trattamenti disciplinati dalla Presidenza della Repubblica, dalla Camera dei deputati, dal Senato della Repubblica e dalla Corte costituzionale",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "e9028eb5ef22"
+  },
+  "2-decies": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Inutilizzabilita' dei dati",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "0481fb8cc41d"
+  },
+  "2-undecies": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Limitazioni ai diritti dell'interessato",
+   "vigore_da": "2023-03-30",
+   "datazione": "api",
+   "h": "cad68ee866c3"
+  },
+  "2-duodecies": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Limitazioni per ragioni di giustizia",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "c50370dfd83e"
+  },
+  "2-terdecies": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Diritti riguardanti le persone decedute",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "b1cf8a600f44"
+  },
+  "2-quaterdecies": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Attribuzione di funzioni e compiti a soggetti designati",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "d8ff03eeda36"
+  },
+  "2-quaterdecies.1": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Procedura di notifica delle violazioni di dati personali da parte di microimprese",
+   "vigore_da": "2026-02-20",
+   "datazione": "api",
+   "h": "33423f44b253"
+  },
+  "2-quindecies": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2021-12-08",
+   "datazione": "api",
+   "h": "32d296a29c86"
+  },
+  "2-sex-decies": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Responsabile della protezione dei dati per i trattamenti effettuati dalle autorita' giudiziarie nell'esercizio delle loro funzioni",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "c990c1f08f3b"
+  },
+  "2-septies-decies": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Organismo nazionale di accreditamento",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "84fd21bc3c4b"
+  },
+  "3": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "4": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "5": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "6": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "7": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "8": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "9": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "10": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "11": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "12": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "13": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "14": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "15": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "16": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "17": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "18": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "19": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "20": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "21": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "22": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "23": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "24": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "25": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "26": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "27": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "28": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "29": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "30": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "31": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "32": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "32-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "33": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "34": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "35": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "36": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "37": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "1125aed6d9cd"
+  },
+  "38": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "39": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "40": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "41": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "42": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "43": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "44": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "45": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "45-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Base giuridica",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "903e14dbdd22"
+  },
+  "46": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "47": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "48": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "49": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "50": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Notizie o immagini relative a minori",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "7266ec1aedb4"
+  },
+  "51": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Principi generali",
+   "vigore_da": "2004-01-01",
+   "datazione": "api",
+   "h": "bde465bd9756"
+  },
+  "52": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Dati identificativi degli interessati",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "631628943bae"
+  },
+  "53": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-06-08",
+   "datazione": "api",
+   "h": "00214f4f56e7"
+  },
+  "54": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-06-08",
+   "datazione": "api",
+   "h": "90ea8ad95411"
+  },
+  "55": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-06-08",
+   "datazione": "api",
+   "h": "90ea8ad95411"
+  },
+  "56": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-06-08",
+   "datazione": "api",
+   "h": "90ea8ad95411"
+  },
+  "57": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Disposizioni di attuazione",
+   "vigore_da": "2019-06-15",
+   "datazione": "api",
+   "h": "4d56cf12b665"
+  },
+  "58": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Trattamenti di dati personali per fini di sicurezza nazionale o difesa",
+   "vigore_da": "2021-12-08",
+   "datazione": "api",
+   "h": "fd06dd67dac1"
+  },
+  "59": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "11c77ee4d229"
+  },
+  "60": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Dati relativi alla salute o alla vita sessuale o all'orientamento sessuale",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "4cbe6e0f2d51"
+  },
+  "61": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "ac0f6876619a"
+  },
+  "62": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "63": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "64": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "65": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "66": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "67": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "68": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "69": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "70": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "71": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "72": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "73": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "74": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "75": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Specifiche condizioni in ambito sanitario",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "59be26a5a0b3"
+  },
+  "76": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "77": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Modalita' particolari",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "940825ef63f5"
+  },
+  "78": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "d56136fea043"
+  },
+  "79": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Informazioni da parte di strutture pubbliche e private che erogano prestazioni sanitarie e socio-sanitarie",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "562058e0d6be"
+  },
+  "80": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Informativa da parte di altri soggetti",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "053c63c2c5dc"
+  },
+  "81": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "82": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Emergenze e tutela della salute e dell'incolumita' fisica",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "1cefbf21399b"
+  },
+  "83": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "84": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "85": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "86": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "87": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "88": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "89": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "89-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Prescrizioni di medicinali",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "4adc242c7598"
+  },
+  "90": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "91": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "92": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Cartelle cliniche",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "830c96efe27e"
+  },
+  "93": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Certificato di assistenza al parto",
+   "vigore_da": "2004-01-01",
+   "datazione": "api",
+   "h": "0fb546a3dbea"
+  },
+  "94": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "95": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "96": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Trattamento di dati relativi a studenti",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "aad5da8532ea"
+  },
+  "97": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Ambito applicativo",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f4d633cb1c5d"
+  },
+  "98": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "99": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Durata del trattamento",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "c6d78464e1c8"
+  },
+  "100": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Dati relativi ad attivita' di studio e ricerca",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "552357f1a097"
+  },
+  "101": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Modalita' di trattamento",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "2050bcffb83d"
+  },
+  "102": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Regole deontologiche per il trattamento a fini di archiviazione nel pubblico interesse o di ricerca storica",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "62672cb17550"
+  },
+  "103": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Consultazione di documenti conservati in archivi",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "fd69ec31e506"
+  },
+  "104": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "9c161ba351a8"
+  },
+  "105": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Modalita' di trattamento",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "8fed07848401"
+  },
+  "106": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Regole deontologiche per trattamenti a fini statistici o di ricerca scientifica",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "39e58f5c498e"
+  },
+  "107": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Trattamento di categorie particolari di dati personali",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "365807c3ac18"
+  },
+  "108": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Sistema statistico nazionale",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "68d3f6fd0263"
+  },
+  "109": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Dati statistici relativi all'evento della nascita",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "cc9a5cf9de5e"
+  },
+  "110": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Ricerca medica, biomedica ed epidemiologica",
+   "vigore_da": "2024-05-01",
+   "datazione": "api",
+   "h": "68f14704dac2"
+  },
+  "110-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Trattamento ulteriore da parte di terzi dei dati personali a fini di ricerca scientifica o a fini statistici",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "e7532f29b757"
+  },
+  "111": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Regole deontologiche per trattamenti nell'ambito del rapporto di lavoro",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "a0f56f581251"
+  },
+  "111-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Informazioni in caso di ricezione di curriculum",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "284c7a924f7d"
+  },
+  "112": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "113": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Raccolta di dati e pertinenza",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "87521350378d"
+  },
+  "114": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Garanzie in materia di controllo a distanza",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "186566a097d2"
+  },
+  "115": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Telelavoro, lavoro agile e lavoro domestico",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "3b3cb72a3d30"
+  },
+  "116": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Conoscibilita' di dati su mandato dell'interessato",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "19a4023090fe"
+  },
+  "117": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "118": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "119": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "120": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Sinistri",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "b0076474ccc7"
+  },
+  "121": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Servizi interessati e definizioni",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "bc037ca554c7"
+  },
+  "122": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Informazioni raccolte nei riguardi dell'contraente o dell'utente",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "9239e943cb5f"
+  },
+  "123": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Dati relativi al traffico",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "adabe927e8f3"
+  },
+  "124": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Fatturazione dettagliata",
+   "vigore_da": "2012-06-01",
+   "datazione": "api",
+   "h": "1f431d488b62"
+  },
+  "125": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Identificazione della linea",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "1504443a20d1"
+  },
+  "126": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Dati relativi all'ubicazione",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "c7e01e0260cc"
+  },
+  "127": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Chiamate di disturbo e di emergenza",
+   "vigore_da": "2012-06-01",
+   "datazione": "api",
+   "h": "7c5137ea7701"
+  },
+  "128": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Trasferimento automatico della chiamata",
+   "vigore_da": "2012-06-01",
+   "datazione": "api",
+   "h": "9da548ad4f19"
+  },
+  "129": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Elenchi dei contraenti",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "5f0afc59caac"
+  },
+  "130": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Comunicazioni indesiderate",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "83d97bf9df20"
+  },
+  "131": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Informazioni a contraenti e utenti",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f98ac34c3748"
+  },
+  "132": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Conservazione di dati di traffico per altre finalita'",
+   "vigore_da": "2026-01-30",
+   "datazione": "api",
+   "h": "e9864edaa92c"
+  },
+  "132-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Procedure istituite dai fornitori",
+   "vigore_da": "2012-06-01",
+   "datazione": "api",
+   "h": "e519b305a024"
+  },
+  "132-ter": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Sicurezza del trattamento",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "73fc3774ca1a"
+  },
+  "132-quater": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Informazioni sui rischi",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "d5f8f3d265d5"
+  },
+  "133": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "134": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "135": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "136": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Finalita' giornalistiche e altre manifestazioni del pensiero",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "24037a46022e"
+  },
+  "137": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Disposizioni applicabili",
+   "vigore_da": "2021-12-08",
+   "datazione": "api",
+   "h": "34e086636959"
+  },
+  "138": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Segreto professionale",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "99c46e9cfc20"
+  },
+  "139": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Regole deontologiche relative ad attivita' giornalistiche",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "9c1d9b0eceec"
+  },
+  "140": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "140-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Forme alternative di tutela",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "b9cf02280aeb"
+  },
+  "141": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Reclamo al Garante",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "09ce8ac91c78"
+  },
+  "142": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Proposizione del reclamo",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "b9ccfb6d0a74"
+  },
+  "143": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Decisione del reclamo",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "268ed99d61e7"
+  },
+  "144": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Segnalazioni",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "4ffa0d4e30bf"
+  },
+  "144-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Revenge porn",
+   "vigore_da": "2021-12-08",
+   "datazione": "api",
+   "h": "bab97961bd15"
+  },
+  "145": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "146": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "147": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "148": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "149": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "150": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "151": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "152": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Autorita' giudiziaria ordinaria",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "3efa3240ddb2"
+  },
+  "153": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Garante per la protezione dei dati personali",
+   "vigore_da": "2021-12-08",
+   "datazione": "api",
+   "h": "a81cd18c3147"
+  },
+  "154": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Compiti",
+   "vigore_da": "2021-12-08",
+   "datazione": "api",
+   "h": "2c090575fabf"
+  },
+  "154-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Poteri",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "a3b6c0f15dc5"
+  },
+  "154-ter": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Potere di agire e rappresentanza in giudizio",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "d4fa1421f78b"
+  },
+  "155": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Ufficio del Garante",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "d58dc41023d2"
+  },
+  "156": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Ruolo organico e personale",
+   "vigore_da": "2021-12-08",
+   "datazione": "api",
+   "h": "8edb22cef02c"
+  },
+  "157": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Richiesta di informazioni e di esibizione di documenti",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "176e15c32618"
+  },
+  "158": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Accertamenti",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "4978fc3269e1"
+  },
+  "159": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Modalita",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "7b67d4095f4a"
+  },
+  "160": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Particolari accertamenti",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "19d9d8772abf"
+  },
+  "160-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Validita', efficacia e utilizzabilita' nel procedimento giudiziario di atti, documenti e provvedimenti basati sul trattamento di dati personali non conforme a disposizioni di legge o di Regolamento",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "a7fa66e1eefe"
+  },
+  "161": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "162": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "162-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "162-ter": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "163": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "164": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "164-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "165": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "166": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Criteri di applicazione delle sanzioni amministrative pecuniarie e procedimento per l'adozione dei provvedimenti correttivi e sanzionatori",
+   "vigore_da": "2021-12-08",
+   "datazione": "api",
+   "h": "c75656e0c27c"
+  },
+  "167": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Trattamento illecito di dati",
+   "vigore_da": "2021-12-08",
+   "datazione": "api",
+   "h": "08a1f7bb863a"
+  },
+  "167-bis": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Comunicazione e diffusione illecita di dati personali oggetto di trattamento su larga scala",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "8307768316c2"
+  },
+  "167-ter": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Acquisizione fraudolenta di dati personali oggetto di trattamento su larga scala",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "43f3f259ab6f"
+  },
+  "168": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Falsita' nelle dichiarazioni al Garante e interruzione dell'esecuzione dei compiti o dell'esercizio dei poteri del Garante",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "7ccd9bd4258c"
+  },
+  "169": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "170": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Inosservanza di provvedimenti del Garante",
+   "vigore_da": "2021-12-08",
+   "datazione": "api",
+   "h": "52c1a9c1b52f"
+  },
+  "171": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Violazioni delle disposizioni in materia di controlli a distanza e indagini sulle opinioni dei lavoratori",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "3e052dd9bc75"
+  },
+  "172": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Pene accessorie",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "1c4c2731bf47"
+  },
+  "173": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "174": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "175": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Forze di polizia",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "6871abcde46b"
+  },
+  "176": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "177": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "178": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "179": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "180": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "181": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "182": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "183": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Norme abrogate",
+   "vigore_da": "2004-01-01",
+   "datazione": "api",
+   "h": "d83ab10144b4"
+  },
+  "184": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "185": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "",
+   "vigore_da": "2018-09-19",
+   "datazione": "api",
+   "h": "f0a3a2887479"
+  },
+  "186": {
+   "file": "dlgs-196-2003.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2004-01-01",
+   "datazione": "api",
+   "h": "86c03b2cc75c"
+  }
+ }
+}

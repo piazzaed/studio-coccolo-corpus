@@ -1,0 +1,721 @@
+{
+ "_meta": {
+  "codice": "dpr-394-1999",
+  "nome": "Regolamento di attuazione del T.U. immigrazione (D.P.R. 394/1999)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2025-02-25",
+  "articoli": 75,
+  "file": [
+   "dpr-394-1999.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-08-31;394",
+  "versioni": [
+   {
+    "data": "1999-11-03",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2003-08-23",
+    "evento": "rp1",
+    "atto_modificante": "L. 11 agosto 2003, n. 228"
+   },
+   {
+    "data": "2005-02-10",
+    "evento": "rp2",
+    "atto_modificante": "D.P.R. 18 ottobre 2004, n. 334"
+   },
+   {
+    "data": "2007-07-20",
+    "evento": "rp3",
+    "atto_modificante": "D.P.R. 14 maggio 2007, n. 102"
+   },
+   {
+    "data": "2007-11-09",
+    "evento": "rp4",
+    "atto_modificante": "D.Lgs. 9 novembre 2007, n. 206"
+   },
+   {
+    "data": "2012-02-09",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 9 febbraio 2012, n. 5"
+   },
+   {
+    "data": "2012-12-29",
+    "evento": "rp6",
+    "atto_modificante": "L. 24 dicembre 2012, n. 228"
+   },
+   {
+    "data": "2013-08-03",
+    "evento": "rp7",
+    "atto_modificante": "atto modificante non indicato (rp7)"
+   },
+   {
+    "data": "2013-12-30",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 30 dicembre 2013, n. 150"
+   },
+   {
+    "data": "2014-03-22",
+    "evento": "rp9",
+    "atto_modificante": "D.Lgs. 4 marzo 2014, n. 40"
+   },
+   {
+    "data": "2014-08-22",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 22 agosto 2014, n. 119"
+   },
+   {
+    "data": "2014-12-31",
+    "evento": "rp11",
+    "atto_modificante": "D.L. 31 dicembre 2014, n. 192"
+   },
+   {
+    "data": "2015-12-30",
+    "evento": "rp12",
+    "atto_modificante": "D.L. 30 dicembre 2015, n. 210"
+   },
+   {
+    "data": "2016-07-08",
+    "evento": "rp13",
+    "atto_modificante": "L. 7 luglio 2016, n. 122"
+   },
+   {
+    "data": "2016-11-09",
+    "evento": "rp14",
+    "atto_modificante": "D.Lgs. 29 ottobre 2016, n. 203"
+   },
+   {
+    "data": "2016-12-30",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 30 dicembre 2016, n. 244"
+   },
+   {
+    "data": "2017-01-10",
+    "evento": "rp16",
+    "atto_modificante": "D.Lgs. 29 dicembre 2016, n. 253"
+   },
+   {
+    "data": "2017-12-29",
+    "evento": "rp17",
+    "atto_modificante": "L. 27 dicembre 2017, n. 205"
+   },
+   {
+    "data": "2018-10-04",
+    "evento": "rp18",
+    "atto_modificante": "D.L. 4 ottobre 2018, n. 113"
+   },
+   {
+    "data": "2018-12-31",
+    "evento": "rp19",
+    "atto_modificante": "L. 30 dicembre 2018, n. 145"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp20",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-12-31",
+    "evento": "rp21",
+    "atto_modificante": "D.L. 31 dicembre 2020, n. 183"
+   },
+   {
+    "data": "2021-12-30",
+    "evento": "rp22",
+    "atto_modificante": "D.L. 30 dicembre 2021, n. 228"
+   },
+   {
+    "data": "2022-01-17",
+    "evento": "rp23",
+    "atto_modificante": "L. 23 dicembre 2021, n. 238"
+   },
+   {
+    "data": "2022-04-30",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 30 aprile 2022, n. 36"
+   },
+   {
+    "data": "2022-06-29",
+    "evento": "rp25",
+    "atto_modificante": "L. 29 giugno 2022, n. 79"
+   },
+   {
+    "data": "2022-12-13",
+    "evento": "rp26",
+    "atto_modificante": "D.P.R. 4 ottobre 2022, n. 191"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 29 dicembre 2022, n. 198"
+   },
+   {
+    "data": "2023-03-10",
+    "evento": "rp28",
+    "atto_modificante": "D.L. 10 marzo 2023, n. 20"
+   },
+   {
+    "data": "2023-06-13",
+    "evento": "rp29",
+    "atto_modificante": "D.L. 13 giugno 2023, n. 69"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp30",
+    "atto_modificante": "D.L. 30 dicembre 2023, n. 215"
+   },
+   {
+    "data": "2024-12-27",
+    "evento": "rp31",
+    "atto_modificante": "D.L. 27 dicembre 2024, n. 202"
+   },
+   {
+    "data": "2025-02-24",
+    "evento": "rp32",
+    "atto_modificante": "L. 21 febbraio 2025, n. 15"
+   }
+  ],
+  "ultima_versione": "2025-02-24",
+  "datazione": {
+   "monoblocco": 75,
+   "api": 69,
+   "riportati": 4,
+   "ignota": 2,
+   "testo_diverso": 2,
+   "stima_anteriore": 22,
+   "chiamate": 71,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Accertamento della condizione di reciprocita'",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "479217623c5f"
+  },
+  "2": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Rapporti con la pubblica amministrazione",
+   "vigore_da": "2025-02-25",
+   "datazione": "api",
+   "h": "c5a4d12712b8"
+  },
+  "3": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Comunicazioni allo straniero",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "cc15396ec00e"
+  },
+  "4": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Comunicazioni all'autorita' consolare",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "c80455ff0261"
+  },
+  "5": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Rilascio dei visti di ingresso",
+   "vigore_da": "2022-12-28",
+   "datazione": "api",
+   "h": "491e4869c7cc"
+  },
+  "6": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Visti per ricongiungimento familiare e per familiari al seguito",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "3c793379cbae"
+  },
+  "6-bis": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Diniego del visto d`ingresso",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "1b22ce414303"
+  },
+  "7": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Ingresso nel territorio dello Stato",
+   "vigore_da": "2023-06-14",
+   "datazione": "api",
+   "h": "73eac2373771"
+  },
+  "8": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Uscita dal territorio dello Stato e reingresso",
+   "vigore_da": "2023-06-14",
+   "datazione": "api",
+   "h": "7f0c9a9b1dbd"
+  },
+  "8-bis": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Contratto di soggiorno per lavoro subordinato",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "8d47d1feb776"
+  },
+  "9": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Richiesta del permesso di soggiorno",
+   "vigore_da": "2022-12-28",
+   "datazione": "api",
+   "h": "7a300fb17487"
+  },
+  "10": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Richiesta del permesso di soggiorno in casi particolari",
+   "vigore_da": "2022-12-28",
+   "datazione": "api",
+   "h": "26534974cba3"
+  },
+  "11": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Rilascio del permesso di soggiorno",
+   "vigore_da": "2022-12-28",
+   "datazione": "api",
+   "h": "32aa552aa1a6"
+  },
+  "12": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Rifiuto del permesso di soggiorno",
+   "vigore_da": "2023-03-11",
+   "datazione": "api",
+   "h": "803393447bf7"
+  },
+  "13": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Rinnovo del permesso di soggiorno",
+   "vigore_da": "2018-12-04",
+   "datazione": "api",
+   "h": "fd90a4b69f07"
+  },
+  "14": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Conversione del permesso di soggiorno",
+   "vigore_da": "2022-12-28",
+   "datazione": "api",
+   "h": "6ac6abb8b7b7"
+  },
+  "14-bis": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Conversione del permesso di soggiorno del minore straniero non accompagnato",
+   "vigore_da": "2022-12-28",
+   "datazione": "api",
+   "h": "0e4bf61c4f50"
+  },
+  "15": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Iscrizioni anagrafiche",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "9a9efeeb22b6"
+  },
+  "16": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Richiesta della carta di soggiorno",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "05e98e03fa95"
+  },
+  "17": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Rilascio e rinnovo della caria di soggiorno",
+   "vigore_da": "2022-02-01",
+   "datazione": "api",
+   "h": "b932ed876a63"
+  },
+  "18": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Ricorsi contro i provvedimenti di espulsione",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "f502abda1614"
+  },
+  "19": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Divieto di rientro per gli stranieri espulsi",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "155fc8df85c7"
+  },
+  "19-bis": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Autorizzazione speciale al rientro per gli stranieri espulsi",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "1281e9aa28e7"
+  },
+  "20": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Trattenimento nei centri di permanenza temporanea e assistenza",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "52df62f50a1a"
+  },
+  "21": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Modalita' del trattenimento",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "23e841b38553"
+  },
+  "22": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Funzionamento dei centri di permanenza temporanea e assistenza",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "9406d6c5731a"
+  },
+  "23": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Attivita' di prima assistenza e soccorso",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "c30c81930da4"
+  },
+  "24": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Servizi di accoglienza alla frontiera",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "353fe365cb76"
+  },
+  "25": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Programmi di assistenza ed integrazione sociale",
+   "vigore_da": "2007-08-04",
+   "datazione": "api",
+   "h": "9d26eafa96af"
+  },
+  "26": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Convenzioni con soggetti privati",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "aff565a4b7ee"
+  },
+  "27": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Rilascio del permesso di soggiorno per motivi di protezione sociale",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "ae720d4a7242"
+  },
+  "28": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Permessi di soggiorno per gli stranieri per i quali sono vietati l'espulsione o il respingimento",
+   "vigore_da": "2022-12-28",
+   "datazione": "api",
+   "h": "5181b6854260"
+  },
+  "29": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Definizione delle quote d'ingresso per motivi di lavoro",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "bfece1c90415"
+  },
+  "30": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Sportello unico per l'immigrazione",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "416bc383d661"
+  },
+  "30-bis": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Richiesta assunzione lavoratori stranieri",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "0ca26c247a55"
+  },
+  "30-ter": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Modulistica",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "974e073070de"
+  },
+  "30-quater": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Archivio informatizzato dello Sportello unico",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "eb4ae2fa6e42"
+  },
+  "30-quinquies": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Verifica delle disponibilita' di offerta di lavoro presso i centri per l'impiego",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "32163e398ecb"
+  },
+  "30-sexies": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Rinuncia all'assunzione",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "4d69a9be06b0"
+  },
+  "31": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Nullaosta dello Sportello unico e visto d'ingresso",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "43528d0e0552"
+  },
+  "32": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Liste degli stranieri che chiedono di lavorare in Italia",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "fe722205b34f"
+  },
+  "32-bis": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Liste dei lavoratori di origine italiana",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "131fa42f7404"
+  },
+  "33": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Autorizzazione al lavoro degli stranieri iscritti nelle liste",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "723dc0516f38"
+  },
+  "34": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Titoli di prelazione",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "3554662ab5f0"
+  },
+  "35": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Stipula del contratto di soggiorno per lavoro subordinato",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "a0d3868bae8e"
+  },
+  "36": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Rilascio del permesso di soggiorno per lavoro",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "e614c3c54723"
+  },
+  "36-bis": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "",
+   "vigore_da": "2014-04-06",
+   "datazione": "api",
+   "h": "591bc7149eed"
+  },
+  "37": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Iscrizione nelle liste o nell'elenco anagrafico finalizzata al collocamento del lavoratore licenziato, dimesso o invalido",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "623020c4fd0f"
+  },
+  "38": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "",
+   "vigore_da": "2016-11-24",
+   "datazione": "api",
+   "h": "5d265eb69389"
+  },
+  "38-bis": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "",
+   "vigore_da": "2016-11-24",
+   "datazione": "api",
+   "h": "5d265eb69389"
+  },
+  "39": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Disposizioni relative al lavoro autonomo",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "60337a74ff9b"
+  },
+  "40": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Casi particolari di ingresso per lavoro",
+   "vigore_da": "2017-01-11",
+   "datazione": "api",
+   "h": "db199e02528b"
+  },
+  "41": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Archivio anagrafico dei lavoratori extracomunitari",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "41145f0c01a4"
+  },
+  "42": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Assistenza per gli stranieri iscritti al Servizio Sanitario Nazionale",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "0542e66cd420"
+  },
+  "43": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Assistenza sanitaria per gli stranieri non iscritti al Servizio Sanitario Nazionale",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "6220048ae4cf"
+  },
+  "44": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Ingresso e soggiorno per cure mediche",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "6dc18bfbf0fa"
+  },
+  "44-bis": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Visti di ingresso per motivi di studio, borse di studio e ricerca",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "d4269ee658fa"
+  },
+  "45": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Iscrizione scolastica",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "000d4e4cc768"
+  },
+  "46": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Accesso degli stranieri alle universita'",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "c2b7dc49d108"
+  },
+  "47": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Abilitazione all'esercizio della professione",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "8cb17d744969"
+  },
+  "48": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Riconoscimento dei titoli di studio conseguiti all'estero",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "e1380e79191d"
+  },
+  "49": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Riconoscimento titoli abilitanti all'esercizio delle professioni",
+   "vigore_da": "2007-11-24",
+   "datazione": "api",
+   "h": "bc2b5517dd6b"
+  },
+  "50": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Disposizioni particolari per gli esercenti le professioni sanitarie",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "81909901d9fa"
+  },
+  "51": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "34b60b85028a"
+  },
+  "52": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Registro delle associazioni e degli enti che svolgono attivita' a favore degli immigrati",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "4f9b1c0f8913"
+  },
+  "53": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Condizioni per l'iscrizione nel Registro",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "53571e6b06b7"
+  },
+  "54": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Iscrizione nel Registro",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "67c1deaf6986"
+  },
+  "55": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Funzionamento della Consulta per i problemi degli stranieri immigrati e delle loro famiglie",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "0342606a957b"
+  },
+  "56": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Organismo nazionale di coordinamento",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "461c38c0b9e1"
+  },
+  "57": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Istituzione del Consigli territoriali per l'immigrazione",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "d9fb5de5ae23"
+  },
+  "58": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Fondo nazionale per le politiche migratorie",
+   "vigore_da": "2003-09-07",
+   "datazione": "api",
+   "h": "52a914cf9622"
+  },
+  "59": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Attivita' delle regioni e delle province autonome",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "42d674d0d925"
+  },
+  "60": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Attivita' delle Amministrazioni statali",
+   "vigore_da": "1999-11-18",
+   "datazione": "api",
+   "h": "95a09d8e0618"
+  },
+  "61": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Disposizione transitoria",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "7194e58194d6"
+  },
+  "61-bis": {
+   "file": "dpr-394-1999.md",
+   "rubrica": "Sistemi informativi",
+   "vigore_da": "2005-02-25",
+   "datazione": "api",
+   "h": "d2f1cda6a848"
+  }
+ }
+}

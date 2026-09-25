@@ -1,0 +1,604 @@
+{
+ "_meta": {
+  "codice": "dl-262-2006",
+  "nome": "D.L. 262/2006 (art. 2 c. 47-53: reintroduzione dell'imposta di successione)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-08-12",
+  "articoli": 48,
+  "file": [
+   "dl-262-2006.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legge:2006-10-03;262",
+  "versioni": [
+   {
+    "data": "2006-10-03",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2006-11-28",
+    "evento": "rp1",
+    "atto_modificante": "L. 24 novembre 2006, n. 286"
+   },
+   {
+    "data": "2006-12-27",
+    "evento": "rp2",
+    "atto_modificante": "L. 27 dicembre 2006, n. 296"
+   },
+   {
+    "data": "2006-12-28",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 28 dicembre 2006, n. 300"
+   },
+   {
+    "data": "2007-07-02",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 2 luglio 2007, n. 81"
+   },
+   {
+    "data": "2007-10-02",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 1 ottobre 2007, n. 159"
+   },
+   {
+    "data": "2007-10-10",
+    "evento": "rp6",
+    "atto_modificante": "L. 27 settembre 2007, n. 165"
+   },
+   {
+    "data": "2007-12-28",
+    "evento": "rp7",
+    "atto_modificante": "L. 24 dicembre 2007, n. 244"
+   },
+   {
+    "data": "2007-12-31",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 31 dicembre 2007, n. 248"
+   },
+   {
+    "data": "2008-04-09",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 8 aprile 2008, n. 59"
+   },
+   {
+    "data": "2008-05-07",
+    "evento": "rp10",
+    "atto_modificante": "atto modificante non indicato (rp10)"
+   },
+   {
+    "data": "2008-05-28",
+    "evento": "rp11",
+    "atto_modificante": "atto modificante non indicato (rp11)"
+   },
+   {
+    "data": "2008-06-03",
+    "evento": "rp12",
+    "atto_modificante": "D.L. 3 giugno 2008, n. 97"
+   },
+   {
+    "data": "2008-11-29",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 29 novembre 2008, n. 185"
+   },
+   {
+    "data": "2009-07-31",
+    "evento": "rp14",
+    "atto_modificante": "L. 23 luglio 2009, n. 99"
+   },
+   {
+    "data": "2009-12-30",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 30 dicembre 2009, n. 194"
+   },
+   {
+    "data": "2010-01-26",
+    "evento": "rp16",
+    "atto_modificante": "D.L. 25 gennaio 2010, n. 2"
+   },
+   {
+    "data": "2010-03-10",
+    "evento": "rp17",
+    "atto_modificante": "atto modificante non indicato (rp17)"
+   },
+   {
+    "data": "2011-01-14",
+    "evento": "rp18",
+    "atto_modificante": "L. 30 dicembre 2010, n. 240"
+   },
+   {
+    "data": "2011-10-29",
+    "evento": "rp19",
+    "atto_modificante": "Circ. Ministero Dell'Economia E Delle Finanze 23 settembre 2011, n. 27"
+   },
+   {
+    "data": "2011-12-06",
+    "evento": "rp20",
+    "atto_modificante": "D.L. 6 dicembre 2011, n. 201"
+   },
+   {
+    "data": "2011-12-29",
+    "evento": "rp21",
+    "atto_modificante": "D.L. 29 dicembre 2011, n. 216"
+   },
+   {
+    "data": "2012-01-24",
+    "evento": "rp22",
+    "atto_modificante": "D.L. 24 gennaio 2012, n. 1"
+   },
+   {
+    "data": "2012-03-02",
+    "evento": "rp23",
+    "atto_modificante": "D.L. 2 marzo 2012, n. 16"
+   },
+   {
+    "data": "2012-07-06",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 6 luglio 2012, n. 95"
+   },
+   {
+    "data": "2012-12-29",
+    "evento": "rp25",
+    "atto_modificante": "L. 24 dicembre 2012, n. 228"
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp26",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2013-09-12",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 12 settembre 2013, n. 104"
+   },
+   {
+    "data": "2013-12-27",
+    "evento": "rp28",
+    "atto_modificante": "L. 27 dicembre 2013, n. 147"
+   },
+   {
+    "data": "2017-06-19",
+    "evento": "rp29",
+    "atto_modificante": "D.Lgs. 25 maggio 2017, n. 90"
+   },
+   {
+    "data": "2019-10-26",
+    "evento": "rp30",
+    "atto_modificante": "D.L. 26 ottobre 2019, n. 124"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp31",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp32",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2020-12-30",
+    "evento": "rp33",
+    "atto_modificante": "L. 30 dicembre 2020, n. 178"
+   },
+   {
+    "data": "2021-05-31",
+    "evento": "rp34",
+    "atto_modificante": "D.L. 31 maggio 2021, n. 77"
+   },
+   {
+    "data": "2021-06-03",
+    "evento": "rp35",
+    "atto_modificante": "atto modificante non indicato (rp35)"
+   },
+   {
+    "data": "2021-07-30",
+    "evento": "rp36",
+    "atto_modificante": "L. 29 luglio 2021, n. 108"
+   },
+   {
+    "data": "2021-09-10",
+    "evento": "rp37",
+    "atto_modificante": "D.L. 10 settembre 2021, n. 121"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp38",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp39+rp40",
+    "atto_modificante": "L. 30 dicembre 2023, n. 213; D.L. 30 dicembre 2023, n. 215"
+   },
+   {
+    "data": "2024-10-02",
+    "evento": "rp41",
+    "atto_modificante": "D.Lgs. 18 settembre 2024, n. 139"
+   },
+   {
+    "data": "2024-12-17",
+    "evento": "rp42",
+    "atto_modificante": "L. 16 dicembre 2024, n. 193"
+   },
+   {
+    "data": "2025-03-14",
+    "evento": "rp43",
+    "atto_modificante": "D.L. 14 marzo 2025, n. 25"
+   },
+   {
+    "data": "2025-05-13",
+    "evento": "rp44",
+    "atto_modificante": "L. 9 maggio 2025, n. 69"
+   },
+   {
+    "data": "2026-07-03",
+    "evento": "rp45",
+    "atto_modificante": "D.Lgs. 19 giugno 2026, n. 117"
+   },
+   {
+    "data": "2026-08-06",
+    "evento": "rp46",
+    "atto_modificante": "D.Lgs. 5 agosto 2026, n. 141"
+   },
+   {
+    "data": "2026-08-11",
+    "evento": "rp47",
+    "atto_modificante": "D.Lgs. 7 agosto 2026, n. 147"
+   }
+  ],
+  "ultima_versione": "2026-08-11",
+  "datazione": {
+   "monoblocco": 48,
+   "api": 2,
+   "riportati": 46,
+   "ignota": 0,
+   "stima_anteriore": 1,
+   "stima_uguale": 1,
+   "chiamate": 2,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dl-262-2006.md",
+   "rubrica": "Accertamento, contrasto all'evasione ed all'elusione fiscale, nonche' potenziamento dell'Amministrazione economico-finanziaria",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "2a8b81b2221b"
+  },
+  "2": {
+   "file": "dl-262-2006.md",
+   "rubrica": "Misure in materia di riscossione",
+   "vigore_da": "2025-05-14",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "1585e16bc8ec"
+  },
+  "3": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "4": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "5": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "6": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "d2449e4c605f"
+  },
+  "7": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "8": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "9": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "10": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "11": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "12": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "13": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "14": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "15": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "16": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "17": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "18": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2008-05-08",
+   "datazione": "api",
+   "h": "397aa495c079"
+  },
+  "19": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "20": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "21": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "22": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "23": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "24": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "25": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "26": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "27": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "28": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "29": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "30": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "31": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "32": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "33": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "34": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "35": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "36": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "37": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "38": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "39": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "40": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "41": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "42": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "43": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "44": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "45": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "46": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "47": {
+   "file": "dl-262-2006.md",
+   "rubrica": "",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "h": "56a831582767"
+  },
+  "48": {
+   "file": "dl-262-2006.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2006-10-03",
+   "datazione": "api",
+   "h": "b55f0406934c"
+  }
+ }
+}

@@ -1,0 +1,304 @@
+{
+ "_meta": {
+  "codice": "l-108-1996",
+  "nome": "Disposizioni in materia di usura (L. 108/1996)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2025-08-10",
+  "articoli": 19,
+  "file": [
+   "l-108-1996.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1996-03-07;108",
+  "versioni": [
+   {
+    "data": "1996-03-09",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1997-05-02",
+    "evento": "rp1",
+    "atto_modificante": "Circ. Ministero Delle Finanze 14 marzo 1997, n. 78"
+   },
+   {
+    "data": "1997-12-30",
+    "evento": "rp2",
+    "atto_modificante": "L. 27 dicembre 1997, n. 449"
+   },
+   {
+    "data": "1998-09-04",
+    "evento": "rp3",
+    "atto_modificante": "D.Lgs. 26 agosto 1998, n. 319"
+   },
+   {
+    "data": "1999-03-03",
+    "evento": "rp4",
+    "atto_modificante": "L. 23 febbraio 1999, n. 44"
+   },
+   {
+    "data": "2000-08-28",
+    "evento": "rp5",
+    "atto_modificante": "L. 18 agosto 2000, n. 235"
+   },
+   {
+    "data": "2000-12-19",
+    "evento": "rp6",
+    "atto_modificante": "atto modificante non indicato (rp6)"
+   },
+   {
+    "data": "2000-12-29",
+    "evento": "rp7",
+    "atto_modificante": "L. 23 dicembre 2000, n. 388"
+   },
+   {
+    "data": "2002-12-14",
+    "evento": "rp8",
+    "atto_modificante": "L. 12 dicembre 2002, n. 273"
+   },
+   {
+    "data": "2003-10-02",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 30 settembre 2003, n. 269"
+   },
+   {
+    "data": "2005-06-09",
+    "evento": "rp10",
+    "atto_modificante": "atto modificante non indicato (rp10)"
+   },
+   {
+    "data": "2010-09-04",
+    "evento": "rp11",
+    "atto_modificante": "D.Lgs. 13 agosto 2010, n. 141"
+   },
+   {
+    "data": "2010-12-18",
+    "evento": "rp12",
+    "atto_modificante": "D.Lgs. 14 dicembre 2010, n. 218"
+   },
+   {
+    "data": "2011-05-13",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 13 maggio 2011, n. 70"
+   },
+   {
+    "data": "2011-09-21",
+    "evento": "rp14",
+    "atto_modificante": "D.Lgs. 1 settembre 2011, n. 150"
+   },
+   {
+    "data": "2011-11-14",
+    "evento": "rp15",
+    "atto_modificante": "L. 12 novembre 2011, n. 183"
+   },
+   {
+    "data": "2012-01-30",
+    "evento": "rp16",
+    "atto_modificante": "L. 27 gennaio 2012, n. 3"
+   },
+   {
+    "data": "2017-07-31",
+    "evento": "rp17",
+    "atto_modificante": "D.Lgs. 13 luglio 2017, n. 116"
+   },
+   {
+    "data": "2018-10-04",
+    "evento": "rp18",
+    "atto_modificante": "D.L. 4 ottobre 2018, n. 113"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp19",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp20",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp21",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp22",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2024-12-31",
+    "evento": "rp23",
+    "atto_modificante": "L. 30 dicembre 2024, n. 207"
+   },
+   {
+    "data": "2025-04-11",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 11 aprile 2025, n. 48"
+   },
+   {
+    "data": "2025-06-30",
+    "evento": "rp25",
+    "atto_modificante": "D.L. 30 giugno 2025, n. 95"
+   },
+   {
+    "data": "2025-08-08",
+    "evento": "rp26",
+    "atto_modificante": "D.L. 8 agosto 2025, n. 117"
+   },
+   {
+    "data": "2025-08-09",
+    "evento": "rp27",
+    "atto_modificante": "L. 8 agosto 2025, n. 118"
+   }
+  ],
+  "ultima_versione": "2025-08-09",
+  "datazione": {
+   "monoblocco": 19,
+   "api": 18,
+   "riportati": 1,
+   "ignota": 0,
+   "stima_anteriore": 14,
+   "stima_posteriore": 1,
+   "chiamate": 18,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-24",
+   "datazione": "api",
+   "h": "1b75da58edb2"
+  },
+  "2": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "2011-07-13",
+   "datazione": "api",
+   "h": "aa321100f66c"
+  },
+  "3": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-24",
+   "datazione": "api",
+   "h": "bdabd8874dbb"
+  },
+  "4": {
+   "file": "l-108-1996.md",
+   "rubrica": "null",
+   "vigore_da": "1996-03-24",
+   "datazione": "api",
+   "h": "4911a6ec8b47"
+  },
+  "5": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-24",
+   "datazione": "api",
+   "h": "f981d29ef7d1"
+  },
+  "6": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-24",
+   "datazione": "api",
+   "h": "4860026654d2"
+  },
+  "7": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-24",
+   "datazione": "api",
+   "h": "aae8d7703045"
+  },
+  "8": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-24",
+   "datazione": "api",
+   "h": "2b9771b1c3b0"
+  },
+  "9": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-24",
+   "datazione": "api",
+   "h": "0093a7bd99ff"
+  },
+  "10": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-24",
+   "datazione": "api",
+   "h": "c2a267fa22b6"
+  },
+  "11": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-24",
+   "datazione": "api",
+   "h": "29369e73da82"
+  },
+  "12": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-24",
+   "datazione": "api",
+   "h": "75585ed9330d"
+  },
+  "13": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-24",
+   "datazione": "api",
+   "h": "ecb0f5cdd174"
+  },
+  "14": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "2018-12-04",
+   "datazione": "api",
+   "h": "8f448cdb6f14"
+  },
+  "14-bis": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "2025-04-12",
+   "datazione": "api",
+   "h": "670477513137"
+  },
+  "15": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "2025-08-10",
+   "datazione": "api",
+   "h": "22c1f77183db"
+  },
+  "16": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "2012-02-29",
+   "datazione": "api",
+   "h": "72a4d128e797"
+  },
+  "17": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "49cb813c8abc"
+  },
+  "18": {
+   "file": "l-108-1996.md",
+   "rubrica": "",
+   "vigore_da": "1996-03-24",
+   "datazione": "api",
+   "h": "61449c2aa136"
+  }
+ }
+}

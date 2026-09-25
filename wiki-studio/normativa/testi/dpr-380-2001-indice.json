@@ -1,0 +1,1637 @@
+{
+ "_meta": {
+  "codice": "dpr-380-2001",
+  "nome": "Testo unico dell'edilizia (D.P.R. 380/2001)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-03-01",
+  "articoli": 151,
+  "file": [
+   "dpr-380-2001.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380",
+  "versioni": [
+   {
+    "data": "2001-10-20",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2001-11-10",
+    "evento": "rp1",
+    "atto_modificante": "atto modificante non indicato (rp1)"
+   },
+   {
+    "data": "2001-11-13",
+    "evento": "rp2",
+    "atto_modificante": "atto modificante non indicato (rp2)"
+   },
+   {
+    "data": "2001-11-26",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 23 novembre 2001, n. 411"
+   },
+   {
+    "data": "2001-12-29",
+    "evento": "rp4",
+    "atto_modificante": "L. 28 dicembre 2001, n. 448"
+   },
+   {
+    "data": "2002-02-25",
+    "evento": "rp5",
+    "atto_modificante": "atto modificante non indicato (rp5)"
+   },
+   {
+    "data": "2002-06-21",
+    "evento": "rp6",
+    "atto_modificante": "D.L. 20 giugno 2002, n. 122"
+   },
+   {
+    "data": "2002-08-03",
+    "evento": "rp7",
+    "atto_modificante": "L. 1 agosto 2002, n. 166"
+   },
+   {
+    "data": "2003-01-21",
+    "evento": "rp8",
+    "atto_modificante": "D.Lgs. 27 dicembre 2002, n. 301"
+   },
+   {
+    "data": "2003-06-25",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 24 giugno 2003, n. 147"
+   },
+   {
+    "data": "2003-10-02",
+    "evento": "rp10",
+    "atto_modificante": "D.L. 30 settembre 2003, n. 269"
+   },
+   {
+    "data": "2003-11-25",
+    "evento": "rp11",
+    "atto_modificante": "Circ. Ministero Delle Infrastrutture E Dei Trasporti 7 agosto 2003, n. 4174"
+   },
+   {
+    "data": "2003-12-29",
+    "evento": "rp12",
+    "atto_modificante": "D.L. 24 dicembre 2003, n. 355"
+   },
+   {
+    "data": "2004-11-10",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 9 novembre 2004, n. 266"
+   },
+   {
+    "data": "2004-12-31",
+    "evento": "rp14",
+    "atto_modificante": "L. 30 dicembre 2004, n. 311"
+   },
+   {
+    "data": "2005-05-30",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 27 maggio 2005, n. 86"
+   },
+   {
+    "data": "2005-12-01",
+    "evento": "rp16",
+    "atto_modificante": "L. 28 novembre 2005, n. 246"
+   },
+   {
+    "data": "2006-03-10",
+    "evento": "rp17",
+    "atto_modificante": "D.P.R. 9 novembre 2005, n. 304"
+   },
+   {
+    "data": "2006-12-27",
+    "evento": "rp18",
+    "atto_modificante": "L. 27 dicembre 2006, n. 296"
+   },
+   {
+    "data": "2006-12-28",
+    "evento": "rp19",
+    "atto_modificante": "D.L. 28 dicembre 2006, n. 300"
+   },
+   {
+    "data": "2007-12-28",
+    "evento": "rp20",
+    "atto_modificante": "L. 24 dicembre 2007, n. 244"
+   },
+   {
+    "data": "2008-12-31",
+    "evento": "rp21",
+    "atto_modificante": "D.L. 30 dicembre 2008, n. 207"
+   },
+   {
+    "data": "2009-12-30",
+    "evento": "rp22",
+    "atto_modificante": "D.L. 30 dicembre 2009, n. 194"
+   },
+   {
+    "data": "2010-03-26",
+    "evento": "rp23",
+    "atto_modificante": "D.L. 25 marzo 2010, n. 40"
+   },
+   {
+    "data": "2010-05-08",
+    "evento": "rp24",
+    "atto_modificante": "D.Lgs. 15 marzo 2010, n. 66"
+   },
+   {
+    "data": "2010-07-07",
+    "evento": "rp25",
+    "atto_modificante": "D.Lgs. 2 luglio 2010, n. 104"
+   },
+   {
+    "data": "2010-11-03",
+    "evento": "rp26+rp27+rp28",
+    "atto_modificante": "Circ. Ministero Delle Infrastrutture E Dei Trasporti Presidenza Del Consiglio Superiore Dei Lavori Pubblici 8 settembre 2010, n. 7617; Circ. Ministero Delle Infrastrutture E Dei Trasporti Presidenza Del Consiglio Superiore Dei Lavori Pubblici 8 settembre 2010, n. 7618; Circ. Ministero Delle Infrastrutture E Dei Trasporti Presidenza Del Consiglio Superiore Dei Lavori Pubblici 8 settembre 2010, n. 7619"
+   },
+   {
+    "data": "2011-03-28",
+    "evento": "rp29",
+    "atto_modificante": "D.Lgs. 3 marzo 2011, n. 28"
+   },
+   {
+    "data": "2011-05-13",
+    "evento": "rp30",
+    "atto_modificante": "D.L. 13 maggio 2011, n. 70"
+   },
+   {
+    "data": "2011-09-22",
+    "evento": "rp31",
+    "atto_modificante": "D.P.R. 1 agosto 2011, n. 151"
+   },
+   {
+    "data": "2011-12-06",
+    "evento": "rp32",
+    "atto_modificante": "D.L. 6 dicembre 2011, n. 201"
+   },
+   {
+    "data": "2012-06-26",
+    "evento": "rp33",
+    "atto_modificante": "D.L. 22 giugno 2012, n. 83"
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp34",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2014-03-28",
+    "evento": "rp35",
+    "atto_modificante": "D.L. 28 marzo 2014, n. 47"
+   },
+   {
+    "data": "2014-09-12",
+    "evento": "rp36",
+    "atto_modificante": "D.L. 12 settembre 2014, n. 133"
+   },
+   {
+    "data": "2015-07-29",
+    "evento": "rp37",
+    "atto_modificante": "atto modificante non indicato (rp37)"
+   },
+   {
+    "data": "2016-01-18",
+    "evento": "rp38",
+    "atto_modificante": "L. 28 dicembre 2015, n. 221"
+   },
+   {
+    "data": "2016-01-28",
+    "evento": "rp39",
+    "atto_modificante": "D.Lgs. 22 gennaio 2016, n. 10"
+   },
+   {
+    "data": "2016-07-13",
+    "evento": "rp40",
+    "atto_modificante": "D.Lgs. 30 giugno 2016, n. 127"
+   },
+   {
+    "data": "2016-11-26",
+    "evento": "rp41",
+    "atto_modificante": "D.Lgs. 25 novembre 2016, n. 222"
+   },
+   {
+    "data": "2016-12-21",
+    "evento": "rp42",
+    "atto_modificante": "L. 11 dicembre 2016, n. 232"
+   },
+   {
+    "data": "2017-01-13",
+    "evento": "rp43",
+    "atto_modificante": "D.Lgs. 16 dicembre 2016, n. 257"
+   },
+   {
+    "data": "2017-04-24",
+    "evento": "rp44",
+    "atto_modificante": "D.L. 24 aprile 2017, n. 50"
+   },
+   {
+    "data": "2017-08-14",
+    "evento": "rp45",
+    "atto_modificante": "L. 4 agosto 2017, n. 124"
+   },
+   {
+    "data": "2017-10-16",
+    "evento": "rp46",
+    "atto_modificante": "D.L. 16 ottobre 2017, n. 148"
+   },
+   {
+    "data": "2018-05-29",
+    "evento": "rp47",
+    "atto_modificante": "D.L. 29 maggio 2018, n. 55"
+   },
+   {
+    "data": "2018-12-14",
+    "evento": "rp48",
+    "atto_modificante": "D.L. 14 dicembre 2018, n. 135"
+   },
+   {
+    "data": "2019-04-18",
+    "evento": "rp49",
+    "atto_modificante": "D.L. 18 aprile 2019, n. 32"
+   },
+   {
+    "data": "2019-10-24",
+    "evento": "rp50",
+    "atto_modificante": "D.L. 24 ottobre 2019, n. 123"
+   },
+   {
+    "data": "2019-12-23",
+    "evento": "rp51",
+    "atto_modificante": "L. 12 dicembre 2019, n. 156"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp52",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp53",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2020-06-10",
+    "evento": "rp54",
+    "atto_modificante": "D.Lgs. 10 giugno 2020, n. 48"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp55",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   },
+   {
+    "data": "2020-09-14",
+    "evento": "rp56",
+    "atto_modificante": "L. 11 settembre 2020, n. 120"
+   },
+   {
+    "data": "2021-05-31",
+    "evento": "rp57",
+    "atto_modificante": "D.L. 31 maggio 2021, n. 77"
+   },
+   {
+    "data": "2021-07-30",
+    "evento": "rp58",
+    "atto_modificante": "L. 29 luglio 2021, n. 108"
+   },
+   {
+    "data": "2021-12-09",
+    "evento": "rp59",
+    "atto_modificante": "D.Lgs. 8 novembre 2021, n. 207"
+   },
+   {
+    "data": "2022-03-01",
+    "evento": "rp60",
+    "atto_modificante": "D.L. 1 marzo 2022, n. 17"
+   },
+   {
+    "data": "2022-03-21",
+    "evento": "rp61",
+    "atto_modificante": "D.L. 21 marzo 2022, n. 21"
+   },
+   {
+    "data": "2022-04-28",
+    "evento": "rp62",
+    "atto_modificante": "L. 27 aprile 2022, n. 34"
+   },
+   {
+    "data": "2022-05-17",
+    "evento": "rp63",
+    "atto_modificante": "D.L. 17 maggio 2022, n. 50"
+   },
+   {
+    "data": "2022-05-20",
+    "evento": "rp64",
+    "atto_modificante": "L. 20 maggio 2022, n. 51"
+   },
+   {
+    "data": "2022-07-15",
+    "evento": "rp65",
+    "atto_modificante": "L. 15 luglio 2022, n. 91"
+   },
+   {
+    "data": "2022-08-09",
+    "evento": "rp66",
+    "atto_modificante": "D.L. 9 agosto 2022, n. 115"
+   },
+   {
+    "data": "2022-09-21",
+    "evento": "rp67",
+    "atto_modificante": "L. 21 settembre 2022, n. 142"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp68",
+    "atto_modificante": "D.L. 29 dicembre 2022, n. 198"
+   },
+   {
+    "data": "2023-02-24",
+    "evento": "rp69",
+    "atto_modificante": "D.L. 24 febbraio 2023, n. 13"
+   },
+   {
+    "data": "2023-02-27",
+    "evento": "rp70",
+    "atto_modificante": "L. 24 febbraio 2023, n. 14"
+   },
+   {
+    "data": "2023-04-14",
+    "evento": "rp71",
+    "atto_modificante": "D.L. 14 aprile 2023, n. 39"
+   },
+   {
+    "data": "2023-04-21",
+    "evento": "rp72",
+    "atto_modificante": "L. 21 aprile 2023, n. 41"
+   },
+   {
+    "data": "2023-06-13",
+    "evento": "rp73",
+    "atto_modificante": "L. 13 giugno 2023, n. 68"
+   },
+   {
+    "data": "2023-12-09",
+    "evento": "rp74",
+    "atto_modificante": "D.L. 9 dicembre 2023, n. 181"
+   },
+   {
+    "data": "2024-01-12",
+    "evento": "rp75",
+    "atto_modificante": "D.Lgs. 8 gennaio 2024, n. 1"
+   },
+   {
+    "data": "2024-02-07",
+    "evento": "rp76",
+    "atto_modificante": "L. 2 febbraio 2024, n. 11"
+   },
+   {
+    "data": "2024-04-13",
+    "evento": "rp77",
+    "atto_modificante": "D.Lgs. 24 marzo 2024, n. 48"
+   },
+   {
+    "data": "2024-05-29",
+    "evento": "rp78",
+    "atto_modificante": "D.L. 29 maggio 2024, n. 69"
+   },
+   {
+    "data": "2024-07-27",
+    "evento": "rp79",
+    "atto_modificante": "L. 24 luglio 2024, n. 105"
+   },
+   {
+    "data": "2024-10-09",
+    "evento": "rp80",
+    "atto_modificante": "atto modificante non indicato (rp80)"
+   },
+   {
+    "data": "2024-12-12",
+    "evento": "rp81",
+    "atto_modificante": "D.Lgs. 25 novembre 2024, n. 190"
+   },
+   {
+    "data": "2024-12-27",
+    "evento": "rp82",
+    "atto_modificante": "D.L. 27 dicembre 2024, n. 202"
+   },
+   {
+    "data": "2025-11-26",
+    "evento": "rp83",
+    "atto_modificante": "D.Lgs. 26 novembre 2025, n. 178"
+   },
+   {
+    "data": "2025-12-03",
+    "evento": "rp84",
+    "atto_modificante": "L. 2 dicembre 2025, n. 182"
+   },
+   {
+    "data": "2025-12-31",
+    "evento": "rp85",
+    "atto_modificante": "D.L. 31 dicembre 2025, n. 200"
+   },
+   {
+    "data": "2026-02-28",
+    "evento": "rp86",
+    "atto_modificante": "L. 27 febbraio 2026, n. 26"
+   }
+  ],
+  "ultima_versione": "2026-02-28",
+  "datazione": {
+   "monoblocco": 151,
+   "api": 147,
+   "riportati": 2,
+   "ignota": 2,
+   "testo_diverso": 2,
+   "stima_anteriore": 95,
+   "chiamate": 149,
+   "urn_api": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001;380",
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "natura": "L",
+   "h": "30adce190555"
+  },
+  "2": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Competenze delle regioni e degli enti locali",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "972c287e3382"
+  },
+  "2-bis": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Deroghe in materia di limiti di distanza tra fabbricati",
+   "vigore_da": "2024-07-28",
+   "datazione": "api",
+   "h": "d46b49cd2af9"
+  },
+  "3": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Definizioni degli interventi edilizi (legge 5 agosto 1978, n. 457, art. 31)",
+   "vigore_da": "2022-07-16",
+   "datazione": "api",
+   "natura": "L",
+   "h": "7a0161d074e4"
+  },
+  "3-bis": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Interventi di conservazione",
+   "vigore_da": "2014-11-12",
+   "datazione": "api",
+   "h": "1145a8ae136a"
+  },
+  "4": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Regolamenti edilizi comunali (legge 17 agosto 1942, n. 1150, art. 33)",
+   "vigore_da": "2020-06-11",
+   "datazione": "api",
+   "natura": "L",
+   "h": "582fab813f7a"
+  },
+  "5": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Sportello unico per l'edilizia (decreto-legge 5 ottobre 1993, n. 398, art. 4, commi 1, 2, 3, 4, 5 e 6, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 493; art. 220, regio decreto 27 luglio 1934, n. 1265)",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "natura": "R",
+   "h": "1bc3ffc1bd5c"
+  },
+  "6": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Attivita' edilizia libera",
+   "vigore_da": "2025-12-11",
+   "datazione": "api",
+   "h": "9de7fb9864f5"
+  },
+  "6-bis": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Interventi subordinati a comunicazione di inizio lavori asseverata",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "h": "6cb0da9937d3"
+  },
+  "7": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Attivita' edilizia delle pubbliche amministrazioni (legge 17 agosto 1942, n. 1150, art. 31, comma 3; decreto legislativo 18 agosto 2000, n. 267, art. 34; decreto del Presidente della Repubblica 24 luglio 1977, n. 616, art. 81; decreto del Presidente della Repubblica 18 aprile 1994, n. 383; decreto-legge 5 ottobre 1993, n. 398, art. 4, comma 16, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 493)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "a4ff75a17f3d"
+  },
+  "8": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Attivita' edilizia dei privati su aree demaniali (legge 17 agosto 1942, n. 1150, art. 31, comma 3)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "4658183318f1"
+  },
+  "9": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Attivita' edilizia in assenza di pianificazione urbanistica (legge n. 10 del 1977, art. 4, ultimo comma; legge n. 457 del 1978, art. 27, ultimo comma)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "b912f83ac54e"
+  },
+  "9-bis": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Documentazione amministrativa e stato legittimo degli immobili",
+   "vigore_da": "2024-07-28",
+   "datazione": "api",
+   "h": "438e857e16be"
+  },
+  "10": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Interventi subordinati a permesso di costruire (legge n. 10 del 1977, art. 1; legge 28 febbraio 1985, n. 47, art. 25, comma 4)",
+   "vigore_da": "2024-07-28",
+   "datazione": "api",
+   "natura": "L",
+   "h": "e0323c073001"
+  },
+  "11": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Caratteristiche del permesso di costruire (legge 28 gennaio 1977, n. 10, art. 4, commi 1, 2 e 6; legge 23 dicembre 1994, n. 724, art. 39, comma 2, come sostituito dall'art. 2, comma 37, della legge 23 dicembre 1996, n. 662)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "304d167f0eb9"
+  },
+  "12": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Presupposti per il rilascio del permesso di costruire articolo unico legge 3 novembre 1952, n. 1902",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "fd0113de254a"
+  },
+  "13": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Competenza al rilascio del permesso di costruire (legge 28 gennaio 1977, n. 10, art. 4, comma 1; decreto legislativo 18 agosto 2000, n. 267, articoli 107 e 109; legge 17 agosto 1942, n. 1150, art. 41-quater)",
+   "vigore_da": "2012-08-12",
+   "datazione": "api",
+   "natura": "L",
+   "h": "e58261b5c1f3"
+  },
+  "14": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Permesso di costruire in deroga agli strumenti urbanistici legge 17 agosto 1942, n. 1150, art. 41-quater, introdotto dall'art. 16 della legge 6 agosto 1967, n. 765; decreto legislativo n. 267 del 2000, art. 42, comma 2, lettera b ; legge 21 dicembre 1955, n. 1357, art. 3",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "natura": "L",
+   "h": "fecac166d27b"
+  },
+  "15": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Efficacia temporale e decadenza del permesso di costruire (legge 28 gennaio 1977, n. 10, art. 4, commi 3, 4 e 5; legge 17 agosto 1942, n. 1150, art. 31, comma 11)",
+   "vigore_da": "2026-03-01",
+   "datazione": "api",
+   "natura": "R",
+   "h": "56c4810af8c4"
+  },
+  "16": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Contributo per il rilascio del permesso di costruire legge 28 gennaio 1977, n. 10, articoli 3; 5, comma 1; 6, commi 1, 4 e 5; 11; legge 5 agosto 1978, n. 457, art. 47; legge 24 dicembre 1993, n. 537, art. 7; legge 29 settembre 1964, n. 847, articoli 1, comma 1, lettere b e c , e 4; legge 22 ottobre 1971, n. 865, art. 44; legge 11 marzo 1988, n. 67, art. 17; decreto legislativo 5 febbraio 1997, n. 22, art. 58, comma 1; legge 23 dicembre 1998, n. 448, art. 61, comma 2",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "natura": "L",
+   "h": "88612069e3ed"
+  },
+  "17": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Riduzione o esonero dal contributo di costruzione (legge 28 gennaio 1977, n. 10, articoli 7, comma 1; 9; decreto-legge 23 gennaio 1982, n. 9, articoli 7 e 9, convertito in legge 25 marzo 1982, n. 94; legge 24 marzo 1989, n. 122, art. 11; legge 9 gennaio 1991, n. 10, art. 26, comma 1; legge n. 662 del 1996, art. 2, comma 60)",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "natura": "L",
+   "h": "04acdeb6e800"
+  },
+  "18": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Convenzione-tipo (legge 28 gennaio 1977, n. 10, art. 8; legge 17 febbraio 1992, n. 179, art. 23, comma 6)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "5a2120ab8350"
+  },
+  "19": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Contributo di costruzione per opere o impianti non destinati alla residenza (legge 28 gennaio 1977, n. 10, art. 10)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "da8c8ac0ed1a"
+  },
+  "20": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Procedimento per il rilascio del permesso di costruire",
+   "vigore_da": "2025-12-18",
+   "datazione": "api",
+   "h": "45afe2cef0a8"
+  },
+  "21": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Intervento sostitutivo regionale",
+   "vigore_da": "2011-07-13",
+   "datazione": "api",
+   "h": "2718b78b706f"
+  },
+  "22": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Interventi subordinati a segnalazione certificata di inizio di attivita'",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "h": "de71ae87c141"
+  },
+  "23": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "L comma 3 e 4 - R comma 1, 2, 5, 6 e 7",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "h": "faff1328fe5a"
+  },
+  "23-bis": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Autorizzazioni preliminari alla segnalazione certificata di inizio attivita' e alla comunicazione dell'inizio dei lavori",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "h": "ee1c494e1ddc"
+  },
+  "23-ter": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Mutamento d'uso urbanisticamente rilevante",
+   "vigore_da": "2024-07-28",
+   "datazione": "api",
+   "h": "daf0c3723b59"
+  },
+  "23-quater": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Usi temporanei",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "h": "88c3c72b1443"
+  },
+  "24": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Agibilita'",
+   "vigore_da": "2024-07-28",
+   "datazione": "api",
+   "h": "fc9bdc97f1ca"
+  },
+  "25": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "h": "cf2341993e58"
+  },
+  "26": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Dichiarazione di inagibilita' (regio decreto 27 luglio 1934, n. 1265, art. 222)",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "natura": "L",
+   "h": "0941923e0cda"
+  },
+  "27": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Vigilanza sull'attivita' urbanistico-edilizia (legge 28 febbraio 1985, n. 47, art. 4; decreto legislativo 18 agosto 2000, n. 267, articoli 107 e 109)",
+   "vigore_da": "2008-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "fc2d3facde85"
+  },
+  "28": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Vigilanza su opere di amministrazioni statali (legge 28 febbraio 1985, n. 47, art. 5; decreto legislativo 18 agosto 2000, n. 267, articoli 107 e 109)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "7c71ce6f2579"
+  },
+  "28-bis": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Permesso di costruire convenzionato",
+   "vigore_da": "2014-11-12",
+   "datazione": "api",
+   "h": "c0d146a9a5fe"
+  },
+  "29": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "",
+   "vigore_da": "2014-11-12",
+   "datazione": "api",
+   "h": "cac12c7b034f"
+  },
+  "30": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Lottizzazione abusiva (legge 28 febbraio 1985, n. 47, art. 18; decreto-legge 23 aprile 1985, n. 146, articoli 1, comma 3-bis, e 7-bis; decreto legislativo 18 agosto 2000, n. 267, art. 107 e 109)",
+   "vigore_da": "2024-01-13",
+   "datazione": "api",
+   "natura": "L",
+   "h": "05e097ba7373"
+  },
+  "31": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Interventi eseguiti in assenza di permesso di costruire, in totale difformita' o con variazioni essenziali (legge 28 febbraio 1985, n. 47, art. 7; decreto-legge 23 aprile 1985, n. 146, art. 2, convertito, con modificazioni, in legge 21 giugno 1985, n. 298; decreto legislativo 18 agosto 2000, n. 267, articoli 107 e 109)",
+   "vigore_da": "2024-10-10",
+   "datazione": "api",
+   "natura": "L",
+   "h": "dbccf32916a6"
+  },
+  "32": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Determinazione delle variazioni essenziali (legge 28 febbraio 1985, n. 47, art. 8)",
+   "vigore_da": "2024-07-28",
+   "datazione": "api",
+   "natura": "L",
+   "h": "4be1af64502e"
+  },
+  "33": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Interventi di ristrutturazione edilizia in assenza di permesso di costruire o in totale difformita' (legge 28 febbraio 1985, n. 47, art. 9; decreto legislativo 18 agosto 2000, n. 267, articoli 107 e 109)",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "natura": "L",
+   "h": "cb811ebded69"
+  },
+  "34": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Interventi eseguiti in parziale difformita' dal permesso di costruire (legge 28 febbraio 1985, n. 47, art. 12; decreto legislativo 18 agosto 2000, n. 267, articoli 107 e 109)",
+   "vigore_da": "2024-05-30",
+   "datazione": "api",
+   "natura": "L",
+   "h": "a835dd05859a"
+  },
+  "34-bis": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Tolleranze costruttive",
+   "vigore_da": "2024-07-28",
+   "datazione": "api",
+   "h": "71a6fd74d985"
+  },
+  "34-ter": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Casi particolari di interventi eseguiti in parziale difformita' dal titolo",
+   "vigore_da": "2024-07-28",
+   "datazione": "api",
+   "h": "b6472c3deaa4"
+  },
+  "35": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Interventi abusivi realizzati su suoli di proprieta' dello Stato o di enti pubblici (legge 28 febbraio 1985, n. 47, art. 14; decreto legge 13 maggio 1991, n. 152, art. 17-bis, convertito in legge 12 luglio 1991, n. 203; decreto legislativo 18 agosto 2000, n. 267, articoli 107 e 109)",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "natura": "L",
+   "h": "2079f302a818"
+  },
+  "36": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "",
+   "vigore_da": "2024-07-28",
+   "datazione": "api",
+   "h": "a5ffd26a37aa"
+  },
+  "36-bis": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Accertamento di conformita' nelle ipotesi di parziali difformita' e di variazioni essenziali",
+   "vigore_da": "2024-07-28",
+   "datazione": "api",
+   "h": "6783e123ad1b"
+  },
+  "37": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Interventi eseguiti in assenza o in difformita' dalla segnalazione certificata di inizio attivita' art. 10 della legge n. 47 del 1985",
+   "vigore_da": "2024-07-28",
+   "datazione": "api",
+   "natura": "L",
+   "h": "4bb619d0af72"
+  },
+  "38": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Interventi eseguiti in base a permesso annullato (legge 28 febbraio 1985, n. 47, art. 11; decreto legislativo 18 agosto 2000, n. 267, articoli 107 e 109)",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "natura": "L",
+   "h": "340e156fe727"
+  },
+  "39": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Annullamento del permesso di costruire da parte della regione (legge 17 agosto 1942, n. 1150, art. 27, come sostituito dall'art. 7, legge 6 agosto 1967, n. 765; decreto del Presidente della Repubblica 15 gennaio 1972, n. 8, art. 1)",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "natura": "L",
+   "h": "e493c30c986f"
+  },
+  "40": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Sospensione o demolizione di interventi abusivi da parte della regione (legge 17 agosto 1942, n. 1150, art. 26, come sostituito dall'art. 6, legge 6 agosto 1967, n. 765; decreto del Presidente della Repubblica 15 gennaio 1972, n. 8, art. 1)",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "natura": "L",
+   "h": "d0ee6bd087c0"
+  },
+  "41": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Demolizione di opere abusive",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "h": "ad8ea3a9040e"
+  },
+  "42": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Ritardato od omesso versamento del contributo di costruzione (legge 28 febbraio 1985, n. 47, art. 3)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "4b2923c9f9db"
+  },
+  "43": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Riscossione (legge 28 febbraio 1985, n. 47, art. 16)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "b2865a3d43a3"
+  },
+  "44": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Sanzioni penali (legge 28 febbraio 1985, n. 47, articoli 19 e 20; decreto-legge 23 aprile 1985, n. 146, art. 3, convertito, con modificazioni, in legge 21 giugno 1985, n. 298)",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "natura": "L",
+   "h": "5c4d3f8bfd23"
+  },
+  "45": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Norme relative all'azione penale (legge 28 febbraio 1985, n. 47, art. 22)",
+   "vigore_da": "2010-09-16",
+   "datazione": "api",
+   "natura": "L",
+   "h": "3f517ca2f5f8"
+  },
+  "46": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Nullita' degli atti giuridici relativi ad edifici la cui costruzione abusiva sia iniziata dopo il 17 marzo 1985 (legge 28 febbraio 1985, n. 47, art. 17; decreto-legge 23 aprile 1985, n. 146, art. 8)",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "natura": "L",
+   "h": "3713ef34f969"
+  },
+  "47": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Sanzioni a carico dei notai (legge 28 febbraio 1985, n. 47, art. 21)",
+   "vigore_da": "2006-03-25",
+   "datazione": "api",
+   "natura": "L",
+   "h": "7e077750f6d3"
+  },
+  "48": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Aziende erogatrici di servizi pubblici (legge 28 febbraio 1985, n. 47, art. 45)",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "natura": "L",
+   "h": "3df2d048ce53"
+  },
+  "49": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Disposizioni fiscali (legge 17 agosto 1942, n. 1150, art. 41-ter)",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "natura": "L",
+   "h": "16e6e34a9242"
+  },
+  "50": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Agevolazioni tributarie in caso di sanatoria (legge 28 febbraio 1985, n. 47, art. 46)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "3c063bc0c584"
+  },
+  "51": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Finanziamenti pubblici e sanatoria (legge 23 dicembre 1996, n. 662, art. 2, comma 50)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "2a7f1ba368fb"
+  },
+  "52": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Tipo di strutture e norme tecniche (legge 3 febbraio 1974, n. 64, articoli 1 e 32, comma 1)",
+   "vigore_da": "2011-12-28",
+   "datazione": "api",
+   "natura": "L",
+   "h": "364deec6de01"
+  },
+  "53": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Definizioni (legge 5 novembre 1971, n. 1086, art. 1, primo, secondo e terzo comma)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "8e5d017d222e"
+  },
+  "54": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Sistemi costruttivi (legge 2 febbraio 1974, n. 64, art. 5, art. 6, primo comma, art. 7, primo comma, art. 8, primo comma)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "ac886325063a"
+  },
+  "55": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Edifici in muratura (legge 3 febbraio 1974, n. 64, art. 6, secondo comma)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "d007fba6d780"
+  },
+  "56": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Edifici con struttura a pannelli portanti (legge 3 febbraio 1974, n. 64, art. 7, secondo, terzo, quarto e quinto comma)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "2d66668efdb3"
+  },
+  "57": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Edifici con strutture intelaiate (legge 3 febbraio 1974, n. 64, art. 8, secondo periodo del primo comma, secondo, terzo e quarto comma)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "34e11b54f345"
+  },
+  "58": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Produzione in serie in stabilimenti di manufatti in conglomerato normale e precompresso e di manufatti complessi in metallo (legge 5 novembre 1971, n. 1086, art. 9)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "f9064129a21d"
+  },
+  "59": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Laboratori (legge 5 novembre 1971, n. 1086, art. 20)",
+   "vigore_da": "2019-06-18",
+   "datazione": "api",
+   "natura": "L",
+   "h": "5f6ffc4855af"
+  },
+  "60": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Emanazione di norme tecniche (legge 5 novembre 1971, n. 1086, art. 21)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "79af0d0b776c"
+  },
+  "61": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Abitati da consolidare (legge 3 febbraio 1974, n. 64, art. 2)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "39ff83bc1f51"
+  },
+  "62": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Utilizzazione di edifici (legge 3 febbraio 1974, n. 64, art. 28)",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "natura": "L",
+   "h": "56a08d845ac5"
+  },
+  "63": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Opere pubbliche",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "ddcfe17d4af8"
+  },
+  "64": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Progettazione, direzione, esecuzione, responsabilita' (legge n. 1086 del 1971, art. 1, quarto comma; art. 2, primo e secondo comma; art. 3, primo e secondo comma)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "6f1780e717c9"
+  },
+  "65": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Denuncia dei lavori di realizzazione e relazione a struttura ultimata di opere di conglomerato cementizio armato, normale e precompresso ed a struttura metallica (legge n. 1086 del 1971, articoli 4 e 6)",
+   "vigore_da": "2023-04-22",
+   "datazione": "api",
+   "natura": "R",
+   "h": "4e0fbab76a50"
+  },
+  "66": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Documenti in cantiere (legge n. 1086 del 1971, art. 5)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "930dbc4e22f1"
+  },
+  "67": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "L, comma 1, 2, 4 e 8; R, i commi 3, 5, 6 e 7) Collaudo statico (legge 5 novembre 1971, n. 1086, articoli 7 e 8",
+   "vigore_da": "2019-06-18",
+   "datazione": "api",
+   "h": "f74e0c926c25"
+  },
+  "68": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Controlli (legge 5 novembre 1971, n. 1086, art. 10)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "2b4e38331be4"
+  },
+  "69": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Accertamenti delle violazioni (legge 5 novembre 1971, n. 1086, art. 11)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "8c619ac80cf9"
+  },
+  "70": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Sospensione dei lavori (legge 5 novembre 1971, n. 1086, art. 12)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "92b3fc23bf0a"
+  },
+  "71": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Lavori abusivi (legge 5 novembre 1971, n. 1086, art. 13)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "08101fc248a9"
+  },
+  "72": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Omessa denuncia dei lavori (legge 5 novembre 1971, n. 1086, art. 14)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "5fcb7d8765d0"
+  },
+  "73": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Responsabilita' del direttore dei lavori (legge 5 novembre 1971, n. 1086, art. 15)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "28c0ea44936d"
+  },
+  "74": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Responsabilita' del collaudatore (legge 5 novembre 1971, n. 1086, art. 16)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "46be81d9fac7"
+  },
+  "75": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Mancanza del certificato di collaudo (legge 5 novembre 1971, n. 1086, art. 17)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "bb5b8fd4bd55"
+  },
+  "76": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Comunicazione della sentenza (legge 5 novembre 1971, n. 1086, art. 8)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "42ff3c4800a9"
+  },
+  "77": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Progettazione di nuovi edifici e ristrutturazione di interi edifici (legge 9 gennaio 1989, n. 13, art. 1)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "aa770d33b47e"
+  },
+  "78": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Deliberazioni sull'eliminazione delle barriere architettoniche (legge 9 gennaio 1989, n. 13, art. 2)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "176758da03ec"
+  },
+  "79": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Opere finalizzate all'eliminazione delle barriere architettoniche realizzate in deroga ai regolamenti edilizi (legge 9 gennaio 1989, n. 13, art. 3)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "2c7c7296a8a0"
+  },
+  "80": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Rispetto delle norme antisismiche, antincendio e di prevenzione degli infortuni (legge 9 gennaio 1989, n. 13, art. 6)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "8e26f34f9197"
+  },
+  "81": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Certificazioni (legge 9 gennaio 1989, n. 13, art. 8; decreto legislativo 18 agosto 2000, n. 267, articoli 107 e 109)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "5ed8b6e85d10"
+  },
+  "82": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Eliminazione o superamento delle barriere architettoniche negli edifici pubblici e privati aperti al pubblico (legge 5 febbraio 1992, n. 104, art. 24; decreto legislativo 31 marzo 1998, n. 112, art. 62, comma 2; decreto legislativo n. 267 del 2000, articoli 107 e 109)",
+   "vigore_da": "2016-12-11",
+   "datazione": "api",
+   "natura": "L",
+   "h": "68dc773ce284"
+  },
+  "83": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Opere disciplinate e gradi di sismicita' legge 3 febbraio 1974, n. 64, art. 3; articoli 54, comma 1, lettera c , 93, comma 1, lettera g , e comma 4 del decreto legislativo n. 112 del 1998",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "7aa1ae4e24d0"
+  },
+  "84": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Contenuto delle norme tecniche (legge 3 febbraio 1974, n. 64, art. 4)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "3a8d95f01f13"
+  },
+  "85": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Azioni sismiche (legge 3 febbraio 1974, n. 64, art. 9)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "a72abd970cc7"
+  },
+  "86": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Verifica delle strutture (legge 3 febbraio 1974, n. 64, art. 10)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "8dfd58d4445e"
+  },
+  "87": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Verifica delle fondazioni (legge 3 febbraio 1974, n. 64, art. 11)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "f3d35705a6d2"
+  },
+  "88": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Deroghe (legge 3 febbraio 1974, n. 64, art. 12)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "39a45bf0184d"
+  },
+  "89": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Parere sugli strumenti urbanistici (legge 3 febbraio 1974, n. 64, art. 13)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "e45b5b132731"
+  },
+  "90": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Sopraelevazioni (legge 3 febbraio 1974, n. 64, art. 14)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "6ca6dc781a24"
+  },
+  "91": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Riparazioni (legge 3 febbraio 1974, n. 64, art. 15)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "d1d97296d927"
+  },
+  "92": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Edifici di speciale importanza artistica (legge 3 febbraio 1974, n. 64, art. 16)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "33e338363b17"
+  },
+  "93": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Denuncia dei lavori e presentazione dei progetti di costruzioni in zone sismiche (legge n. 64 del 1974, articoli 17 e 19)",
+   "vigore_da": "2019-06-18",
+   "datazione": "api",
+   "natura": "R",
+   "h": "4a74116b3bf4"
+  },
+  "94": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Autorizzazione per l'inizio dei lavori (legge 3 febbraio 1974, n. 64, art. 18)",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "natura": "L",
+   "h": "3b351c77be55"
+  },
+  "94-bis": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Disciplina degli interventi strutturali in zone sismiche",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "h": "db5be21fc4ae"
+  },
+  "95": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Sanzioni penali (legge 3 febbraio 1974, n. 64, art. 20)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "c4ef3ba0fb2b"
+  },
+  "96": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Accertamento delle violazioni (legge 3 febbraio 1974, n. 64, art. 21)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "8959393a8f78"
+  },
+  "97": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Sospensione dei lavori (legge 3 febbraio 1974, n. 64, art. 22)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "f5ec8b40ff1a"
+  },
+  "98": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Procedimento penale (legge 3 febbraio 1974, n. 64, art. 23)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "b0d7fa3601e1"
+  },
+  "99": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Esecuzione d'ufficio (legge 3 febbraio 1974, n. 64, art. 24)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "69bd7c8458c5"
+  },
+  "100": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "b81acb3768c3"
+  },
+  "101": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Comunicazione del provvedimento al competente ufficio tecnico della regione (legge 3 febbraio 1974, n. 64, art. 26)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "0c058be93c2b"
+  },
+  "102": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Modalita' per l'esecuzione d'ufficio (legge 3 febbraio 1974, n. 64, art. 27)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "aba062536232"
+  },
+  "103": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Vigilanza per l'osservanza delle norme tecniche (legge 3 febbraio 1974, n. 64, art. 29)",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "natura": "L",
+   "h": "b48f4cf1277b"
+  },
+  "104": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Costruzioni in corso in zone sismiche di nuova classificazione (legge 3 febbraio 1974, n. 64, art. 30; articoli 107 e 109 del decreto legislativo n. 267 del 2000)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "4142cb60f8c5"
+  },
+  "105": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Costruzioni eseguite col sussidio dello Stato (legge 3 febbraio 1974, n. 64, art. 33)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "f2c5c0b1fd48"
+  },
+  "106": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Esenzione per le opere eseguite dal genio militare (legge 3 febbraio 1974, n. 64, art. 33)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "81c260e54196"
+  },
+  "107": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Ambito di applicazione (legge 18 maggio 1990, n. 46, art. 1, primo comma)",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "L",
+   "h": "8b626994b908"
+  },
+  "108": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Soggetti abilitati (legge 18 maggio 1990, n. 46, art. 2; al comma 3, e' l'art. 22 della legge 30 aprile 1999, n. 136)",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "L",
+   "h": "3759581369d5"
+  },
+  "109": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Requisiti tecnico-professionali (legge 18 maggio 1990, n. 46, art. 3)",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "L",
+   "h": "f15d5293a96a"
+  },
+  "110": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "L, commi 1 e 2 - R, comma 3) Progettazione degli impianti (legge 18 maggio 1990, n. 46, art. 6",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "h": "9118e45675a9"
+  },
+  "111": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Misure di semplificazione per il collaudo degli impianti installati",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "R",
+   "h": "6d1a19e44bc5"
+  },
+  "112": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Installazione degli impianti (legge 18 maggio 1990, n. 46, art. 7)",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "L",
+   "h": "ab3ec4f47a00"
+  },
+  "113": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Dichiarazione di conformita' (legge 18 maggio 1990, n. 46, art. 9)",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "L",
+   "h": "61438815d1a1"
+  },
+  "114": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Responsabilita' del committente o del proprietario (legge 18 maggio 1990, n. 46, art. 10)",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "L",
+   "h": "941658479d08"
+  },
+  "115": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Certificato di agibilita' (legge 18 maggio 1990, n. 46, art. 11, decreto legislativo n. 267 del 2000, articoli 107 e 109)",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "L",
+   "h": "26392bde88ca"
+  },
+  "116": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Ordinaria manutenzione degli impianti e cantieri (legge 18 maggio 1990, n. 46, art. 12)",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "L",
+   "h": "78d8f41e486f"
+  },
+  "117": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Deposito presso lo sportello unico della dichiarazione di conformita' o del certificato di collaudo (legge 18 maggio 1990, n. 46, art. 13)",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "R",
+   "h": "ffa145baf53d"
+  },
+  "118": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Verifiche (legge 18 maggio 1990, n. 46, art. 14)",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "L",
+   "h": "296edf7bb427"
+  },
+  "119": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Regolamento di attuazione (legge 18 maggio 1990, n. 46, art. 15)",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "L",
+   "h": "61654d46eca4"
+  },
+  "120": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Sanzioni (legge 18 maggio 1990, n. 46, art. 16)",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "L",
+   "h": "4e40d9a2c7ca"
+  },
+  "121": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Abrogazione e adeguamento dei regolamenti comunali e regionali (legge 18 maggio 1990, n. 46, art. 17)",
+   "vigore_da": "2007-02-27",
+   "datazione": "api",
+   "natura": "L",
+   "h": "c71fa6086c22"
+  },
+  "122": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Ambito di applicazione (legge 9 gennaio 1991, n. 10, art. 25)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "263ca2618b4c"
+  },
+  "123": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Progettazione, messa in opera ed esercizio di edifici e di impianti (legge 9 gennaio 1991, n. 10, art. 26)",
+   "vigore_da": "2024-12-30",
+   "datazione": "api",
+   "natura": "L",
+   "h": "76b0bde759e9"
+  },
+  "124": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Limiti ai consumi di energia (legge 9 gennaio 1991, n. 10, art. 27)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "1c022a16d9e1"
+  },
+  "125": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "L - R, commi 1 e 3) Denuncia dei lavori, relazione tecnica e progettazione degli impianti e delle opere relativi alle fonti rinnovabili di energia, al risparmio e all'uso razionale dell'energia (legge 9 gennaio 1991, n. 10, art. 28",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "32954ba07b11"
+  },
+  "126": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Certificazione di impianti",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "R",
+   "h": "31455a65b8f9"
+  },
+  "127": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Certificazione delle opere e collaudo (legge 9 gennaio 1999, n. 10, art 29)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "R",
+   "h": "eff32058436d"
+  },
+  "128": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Certificazione energetica degli edifici (legge 9 gennaio 1991, n. 10, art. 30)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "00eb46f95f8e"
+  },
+  "129": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Esercizio e manutenzione degli impianti (legge 9 gennaio 1991, n. 10, art. 31)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "f245c033bf2c"
+  },
+  "130": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Certificazioni e informazioni ai consumatori (legge 9 gennaio 1991, n. 10, art. 32)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "b7fb1ab7866b"
+  },
+  "131": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Controlli e verifiche (legge 9 gennaio 1991, n. 10, art. 33; decreto legislativo n. 267 del 2000, articoli 107 e 109)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "4838635a00fa"
+  },
+  "132": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Sanzioni (legge 9 gennaio 1991, n. 10, art. 34)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "6cca437363b0"
+  },
+  "133": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Provvedimenti di sospensione dei lavori (legge 9 gennaio 1991, n. 10, art. 35; decreto legislativo n. 267 del 2000, articoli 107 e 109)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "29477a5ce8a3"
+  },
+  "134": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Irregolarita' rilevate dall'acquirente o dal conduttore (legge 9 gennaio 1991, n. 10, art. 136)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "470b596c5a6d"
+  },
+  "135": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Applicazione (legge 9 gennaio 1991, n. 10, art. 37)",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "576e820d62d3"
+  },
+  "135-bis": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Norme per l'infrastrutturazione digitale degli edifici",
+   "vigore_da": "2024-04-28",
+   "datazione": "api",
+   "h": "95db51cee98d"
+  },
+  "136": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "L, commi 1 e 2, lettere a , b , c , d , e , f , g , h , i , l - R comma 2, lettera m Abrogazioni",
+   "vigore_da": "2002-01-01",
+   "datazione": "api",
+   "h": "0cdd8a61c650"
+  },
+  "137": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Norme che rimangono in vigore",
+   "vigore_da": "2014-11-12",
+   "datazione": "api",
+   "natura": "L",
+   "h": "acebd0df5009"
+  },
+  "138": {
+   "file": "dpr-380-2001.md",
+   "rubrica": "Entrata in vigore del testo unico",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "natura": "L",
+   "h": "e49b58e95f4e"
+  }
+ }
+}

@@ -1,0 +1,181 @@
+{
+ "_meta": {
+  "codice": "l-817-1971",
+  "nome": "Proprietà coltivatrice — prelazione del confinante (L. 817/1971)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2016-08-25",
+  "articoli": 18,
+  "file": [
+   "l-817-1971.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1971-08-14;817",
+  "versioni": [
+   {
+    "data": "1971-10-14",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2001-06-15",
+    "evento": "rp1",
+    "atto_modificante": "D.Lgs. 18 maggio 2001, n. 228"
+   },
+   {
+    "data": "2005-06-15",
+    "evento": "rp2",
+    "atto_modificante": "D.Lgs. 27 maggio 2005, n. 101"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 91"
+   },
+   {
+    "data": "2016-08-10",
+    "evento": "rp4",
+    "atto_modificante": "L. 28 luglio 2016, n. 154"
+   }
+  ],
+  "ultima_versione": "2016-08-10",
+  "datazione": {
+   "monoblocco": 18,
+   "api": 1,
+   "riportati": 17,
+   "ignota": 0,
+   "stima_anteriore": 1,
+   "chiamate": 1,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "8e18fed0be3a"
+  },
+  "2": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "9db21572e411"
+  },
+  "3": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "58318e552aca"
+  },
+  "4": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "1903649ba2da"
+  },
+  "5": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "15f8b5620ae7"
+  },
+  "6": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "a7461dd3fc13"
+  },
+  "7": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "2016-08-25",
+   "datazione": "api",
+   "h": "5a19156ba1bf"
+  },
+  "8": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "2bd2b2737781"
+  },
+  "9": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "0c2618a6ce2d"
+  },
+  "10": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "b5970fbde2c9"
+  },
+  "11": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "2005-06-30",
+   "datazione": "api",
+   "h": "7e0969a246e0"
+  },
+  "12": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "b2ce37228e22"
+  },
+  "13": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "892e94612e5a"
+  },
+  "14": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "fe4819068150"
+  },
+  "15": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "697224b11484"
+  },
+  "16": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "b3beb8a18d6e"
+  },
+  "17": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "00c59d82cb7a"
+  },
+  "18": {
+   "file": "l-817-1971.md",
+   "rubrica": "",
+   "vigore_da": "1971-10-29",
+   "datazione": "api",
+   "h": "163f15c4fae7"
+  }
+ }
+}

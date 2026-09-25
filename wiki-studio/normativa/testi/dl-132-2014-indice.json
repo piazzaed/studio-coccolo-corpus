@@ -1,0 +1,358 @@
+{
+ "_meta": {
+  "codice": "dl-132-2014",
+  "nome": "Negoziazione assistita e degiurisdizionalizzazione (D.L. 132/2014)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2025-01-25",
+  "articoli": 39,
+  "file": [
+   "dl-132-2014.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legge:2014-09-12;132",
+  "versioni": [
+   {
+    "data": "2014-09-12",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2014-11-10",
+    "evento": "rp1",
+    "atto_modificante": "L. 10 novembre 2014, n. 162"
+   },
+   {
+    "data": "2015-06-27",
+    "evento": "rp2",
+    "atto_modificante": "D.L. 27 giugno 2015, n. 83"
+   },
+   {
+    "data": "2021-01-25",
+    "evento": "rp3",
+    "atto_modificante": "D.Lgs. 30 dicembre 2020, n. 187"
+   },
+   {
+    "data": "2021-08-24",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 24 agosto 2021, n. 118"
+   },
+   {
+    "data": "2021-10-23",
+    "evento": "rp5",
+    "atto_modificante": "L. 21 ottobre 2021, n. 147"
+   },
+   {
+    "data": "2021-12-09",
+    "evento": "rp6",
+    "atto_modificante": "L. 26 novembre 2021, n. 206"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp7",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp8",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2024-11-11",
+    "evento": "rp9",
+    "atto_modificante": "D.Lgs. 31 ottobre 2024, n. 164"
+   },
+   {
+    "data": "2025-01-10",
+    "evento": "rp10",
+    "atto_modificante": "D.Lgs. 27 dicembre 2024, n. 216"
+   }
+  ],
+  "ultima_versione": "2025-01-10",
+  "datazione": {
+   "monoblocco": 39,
+   "api": 37,
+   "riportati": 2,
+   "ignota": 0,
+   "stima_anteriore": 18,
+   "chiamate": 37,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Trasferimento alla sede arbitrale di procedimenti pendenti dinanzi all'autorita' giudiziaria",
+   "vigore_da": "2014-11-11",
+   "datazione": "api",
+   "h": "938b6891c9fa"
+  },
+  "2": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Convenzione di negoziazione assistita da avvocati 7",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "5d8b4cffc44d"
+  },
+  "2-bis": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Negoziazione assistita in modalita' telematica e incontri con collegamento audiovisivo da remoto",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "80f00a0fcc32"
+  },
+  "2-ter": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Negoziazione assistita nelle controversie di lavoro",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "d929d482eda0"
+  },
+  "3": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Improcedibilita'",
+   "vigore_da": "2023-06-30",
+   "datazione": "api",
+   "h": "3593e910a0e2"
+  },
+  "4": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Non accettazione dell'invito e mancato accordo",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "c7db0396dfe2"
+  },
+  "4-bis": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Acquisizione di dichiarazioni",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "139817922701"
+  },
+  "4-ter": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Dichiarazioni confessorie",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "fb4e4b669593"
+  },
+  "5": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Esecutivita' dell'accordo raggiunto a seguito della convenzione e trascrizione",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "d1b0ccd14a03"
+  },
+  "6": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Convenzione di negoziazione assistita da avvocati per le soluzioni consensuali di separazione personale, di cessazione degli effetti civili o di scioglimento del matrimonio, di modifica delle condizioni di separazione o di divorzio, di affidamento e mantenimento dei figli nati fuori del matrimonio, e loro modifica, e di alimenti",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "91ca311aee52"
+  },
+  "7": {
+   "file": "dl-132-2014.md",
+   "rubrica": "",
+   "vigore_da": "2014-11-11",
+   "datazione": "api",
+   "h": "3537245ae303"
+  },
+  "8": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Interruzione della prescrizione e della decadenza",
+   "vigore_da": "2014-09-13",
+   "datazione": "api",
+   "h": "cf0501fe72fd"
+  },
+  "9": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Obblighi dei difensori e tutela della riservatezza",
+   "vigore_da": "2014-11-11",
+   "datazione": "api",
+   "h": "d7122f1f7f97"
+  },
+  "10": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Antiriciclaggio",
+   "vigore_da": "2014-11-11",
+   "datazione": "api",
+   "h": "b0c3211a27d5"
+  },
+  "11": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Raccolta dei dati",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "f1c63fbb91d5"
+  },
+  "11-bis": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Istituzione del patrocinio e ambito di applicabilita'",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "410d5d4ae993"
+  },
+  "11-ter": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Condizioni per l'ammissione",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "1545dc7a45a8"
+  },
+  "11-quater": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Istanza per l'ammissione anticipata",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "04b73438cd75"
+  },
+  "11-quinquies": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Organo competente a ricevere l'istanza di ammissione anticipata e nomina dell'avvocato",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "ae097bb0482a"
+  },
+  "11-sexies": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Ricorso avverso il rigetto dell'istanza per l'ammissione anticipata",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "9c921ff736aa"
+  },
+  "11-septies": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Effetti dell'ammissione anticipata e sua conferma",
+   "vigore_da": "2025-01-25",
+   "datazione": "api",
+   "h": "6a9bbaac0e70"
+  },
+  "11-octies": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Determinazione, liquidazione e pagamento dell'onorario e delle spese dell'avvocato",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "0eba7d1d2491"
+  },
+  "11-novies": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Revoca del provvedimento di ammissione e ricorso avverso il relativo decreto",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "012e97a14c14"
+  },
+  "11-decies": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Sanzioni e controlli da parte della Guardia di finanza",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "810ff640378d"
+  },
+  "11-undecies": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Disposizioni finanziarie",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "75f78e00c1cd"
+  },
+  "12": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Separazione consensuale, richiesta congiunta di scioglimento o di cessazione degli effetti civili del matrimonio e modifica delle condizioni di separazione o di divorzio innanzi all'ufficiale dello stato civile",
+   "vigore_da": "2014-11-11",
+   "datazione": "api",
+   "h": "c971b4e933c9"
+  },
+  "13": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Modifiche al regime della compensazione delle spese",
+   "vigore_da": "2014-11-11",
+   "datazione": "api",
+   "h": "80d6c37772a5"
+  },
+  "14": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Passaggio dal rito ordinario al rito sommario di cognizione",
+   "vigore_da": "2014-09-13",
+   "datazione": "api",
+   "h": "c666ce4e5864"
+  },
+  "15": {
+   "file": "dl-132-2014.md",
+   "rubrica": "",
+   "vigore_da": "2014-11-11",
+   "datazione": "api",
+   "h": "3537245ae303"
+  },
+  "16": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Modifiche alla legge 7 ottobre 1969, n. 742 e riduzione delle ferie dei magistrati e degli avvocati e procuratori dello Stato",
+   "vigore_da": "2015-08-21",
+   "datazione": "api",
+   "h": "e0d1fd3b7d41"
+  },
+  "17": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Misure per il contrasto del ritardo nei pagamenti",
+   "vigore_da": "2014-11-11",
+   "datazione": "api",
+   "h": "5367a44a3ced"
+  },
+  "18": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Iscrizione a ruolo del processo esecutivo per espropriazione",
+   "vigore_da": "2014-11-11",
+   "datazione": "api",
+   "h": "38763392757f"
+  },
+  "19": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Misure per l'efficienza e la semplificazione del processo esecutivo",
+   "vigore_da": "2014-11-11",
+   "datazione": "api",
+   "h": "97278484d45c"
+  },
+  "19-bis": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Crediti delle rappresentanze diplomatiche e consolari straniere",
+   "vigore_da": "2014-11-11",
+   "datazione": "api",
+   "h": "091c94dc2960"
+  },
+  "20": {
+   "file": "dl-132-2014.md",
+   "rubrica": "",
+   "vigore_da": "2021-10-24",
+   "datazione": "api",
+   "h": "2f51182fc9ab"
+  },
+  "21": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Disposizioni in tema di tramutamenti successivi dei magistrati",
+   "vigore_da": "2014-09-13",
+   "datazione": "api",
+   "h": "9f3fddf0b2f2"
+  },
+  "21-bis": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Istituzione dell'ufficio del giudice di pace di Ostia e ripristino dell'ufficio del giudice di pace di Barra",
+   "vigore_da": "2014-11-11",
+   "datazione": "api",
+   "h": "7967553c7a0d"
+  },
+  "22": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Disposizioni finanziarie",
+   "vigore_da": "2014-11-11",
+   "datazione": "api",
+   "h": "e6293ebc4bb6"
+  },
+  "23": {
+   "file": "dl-132-2014.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2014-09-13",
+   "datazione": "api",
+   "h": "b011a219f1da"
+  }
+ }
+}

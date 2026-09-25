@@ -1,0 +1,1141 @@
+{
+ "_meta": {
+  "codice": "cost",
+  "nome": "Costituzione della Repubblica Italiana",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2023-10-22",
+  "articoli": 139,
+  "file": [
+   "cost.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:costituzione:1947-12-27",
+  "versioni": [
+   {
+    "data": "1947-12-27",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1948-01-03",
+    "evento": "rp1",
+    "atto_modificante": "atto modificante non indicato (rp1)"
+   },
+   {
+    "data": "1953-03-14",
+    "evento": "rp2",
+    "atto_modificante": "L. cost. 11 marzo 1953, n. 1"
+   },
+   {
+    "data": "1958-04-01",
+    "evento": "rp3",
+    "atto_modificante": "L. cost. 18 marzo 1958, n. 1"
+   },
+   {
+    "data": "1963-02-12",
+    "evento": "rp4",
+    "atto_modificante": "L. cost. 9 febbraio 1963, n. 2"
+   },
+   {
+    "data": "1964-01-04",
+    "evento": "rp5",
+    "atto_modificante": "L. cost. 27 dicembre 1963, n. 3"
+   },
+   {
+    "data": "1967-07-03",
+    "evento": "rp6",
+    "atto_modificante": "L. cost. 21 giugno 1967, n. 1"
+   },
+   {
+    "data": "1967-11-25",
+    "evento": "rp7",
+    "atto_modificante": "L. cost. 22 novembre 1967, n. 2"
+   },
+   {
+    "data": "1989-01-17",
+    "evento": "rp8",
+    "atto_modificante": "L. cost. 16 gennaio 1989, n. 1"
+   },
+   {
+    "data": "1991-11-08",
+    "evento": "rp9",
+    "atto_modificante": "L. cost. 4 novembre 1991, n. 1"
+   },
+   {
+    "data": "1992-03-09",
+    "evento": "rp10",
+    "atto_modificante": "L. cost. 6 marzo 1992, n. 1"
+   },
+   {
+    "data": "1993-10-30",
+    "evento": "rp11",
+    "atto_modificante": "L. cost. 29 ottobre 1993, n. 3"
+   },
+   {
+    "data": "1999-12-22",
+    "evento": "rp12",
+    "atto_modificante": "L. cost. 22 novembre 1999, n. 1"
+   },
+   {
+    "data": "1999-12-23",
+    "evento": "rp13",
+    "atto_modificante": "L. cost. 23 novembre 1999, n. 2"
+   },
+   {
+    "data": "2000-01-20",
+    "evento": "rp14",
+    "atto_modificante": "L. cost. 17 gennaio 2000, n. 1"
+   },
+   {
+    "data": "2001-01-24",
+    "evento": "rp15",
+    "atto_modificante": "L. cost. 23 gennaio 2001, n. 1"
+   },
+   {
+    "data": "2001-10-24",
+    "evento": "rp16",
+    "atto_modificante": "L. cost. 18 ottobre 2001, n. 3"
+   },
+   {
+    "data": "2002-10-26",
+    "evento": "rp17",
+    "atto_modificante": "L. cost. 23 ottobre 2002, n. 1"
+   },
+   {
+    "data": "2003-06-12",
+    "evento": "rp18",
+    "atto_modificante": "L. cost. 30 maggio 2003, n. 1"
+   },
+   {
+    "data": "2006-07-25",
+    "evento": "rp19",
+    "atto_modificante": "atto modificante non indicato (rp19)"
+   },
+   {
+    "data": "2007-10-10",
+    "evento": "rp20",
+    "atto_modificante": "L. cost. 2 ottobre 2007, n. 1"
+   },
+   {
+    "data": "2012-04-23",
+    "evento": "rp21",
+    "atto_modificante": "L. cost. 20 aprile 2012, n. 1"
+   },
+   {
+    "data": "2017-02-07",
+    "evento": "rp22",
+    "atto_modificante": "atto modificante non indicato (rp22)"
+   },
+   {
+    "data": "2020-10-21",
+    "evento": "rp23",
+    "atto_modificante": "L. cost. 19 ottobre 2020, n. 1"
+   },
+   {
+    "data": "2021-10-20",
+    "evento": "rp24",
+    "atto_modificante": "L. cost. 18 ottobre 2021, n. 1"
+   },
+   {
+    "data": "2022-02-22",
+    "evento": "rp25",
+    "atto_modificante": "L. cost. 11 febbraio 2022, n. 1"
+   },
+   {
+    "data": "2022-11-15",
+    "evento": "rp26",
+    "atto_modificante": "L. cost. 7 novembre 2022, n. 2"
+   },
+   {
+    "data": "2023-10-07",
+    "evento": "rp27",
+    "atto_modificante": "L. cost. 26 settembre 2023, n. 1"
+   }
+  ],
+  "ultima_versione": "2023-10-07",
+  "datazione": {
+   "monoblocco": 139,
+   "api": 0,
+   "riportati": 139,
+   "ignota": 0,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "6d32a6a12996"
+  },
+  "2": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "eadf1ecd1f8c"
+  },
+  "3": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "990d397751f9"
+  },
+  "4": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "4f826b1ea117"
+  },
+  "5": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "f2875b43d205"
+  },
+  "6": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "9e2ff86459b3"
+  },
+  "7": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "187533cf3289"
+  },
+  "8": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "c741f55ad20e"
+  },
+  "9": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2022-03-09",
+   "datazione": "api",
+   "h": "deb46b9d20b8"
+  },
+  "10": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1967-07-18",
+   "datazione": "api",
+   "h": "70a5cbab031f"
+  },
+  "11": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "a1ed172fd317"
+  },
+  "12": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "3a4bf75d4a66"
+  },
+  "13": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "4fb41fc70efc"
+  },
+  "14": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "0e7bc2ea6315"
+  },
+  "15": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "20df0bf0be70"
+  },
+  "16": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "971fe2fd8027"
+  },
+  "17": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "722a343f5f6e"
+  },
+  "18": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "8fe80e741475"
+  },
+  "19": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "2673fc32a632"
+  },
+  "20": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "7d1714675ea7"
+  },
+  "21": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "c6eda09d673f"
+  },
+  "22": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "5cd39a0e2fca"
+  },
+  "23": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "e15dd159dd2f"
+  },
+  "24": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "4202e22020b4"
+  },
+  "25": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "a16245127af2"
+  },
+  "26": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1967-07-18",
+   "datazione": "api",
+   "h": "790124e4cf36"
+  },
+  "27": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2007-10-25",
+   "datazione": "api",
+   "h": "68875fa03cc1"
+  },
+  "28": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "26993d6f43ca"
+  },
+  "29": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "f82f2f0a4c94"
+  },
+  "30": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "19638ae9e072"
+  },
+  "31": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "9192e401e1bf"
+  },
+  "32": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "f97e6897f52f"
+  },
+  "33": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2023-10-22",
+   "datazione": "api",
+   "h": "c596c819c031"
+  },
+  "34": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "809e0ba2a024"
+  },
+  "35": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "185e38a03459"
+  },
+  "36": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "2a43871124e7"
+  },
+  "37": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "e2db3de92bd9"
+  },
+  "38": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "1bbc15e49592"
+  },
+  "39": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "e4e2aa3a258c"
+  },
+  "40": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "aae4425211bb"
+  },
+  "41": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2022-03-09",
+   "datazione": "api",
+   "h": "59a0f3b85de6"
+  },
+  "42": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "ce85f70b913b"
+  },
+  "43": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "fbc245e71de3"
+  },
+  "44": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "9b8002528138"
+  },
+  "45": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "72f2fd0fc319"
+  },
+  "46": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "37a25fb9b3b5"
+  },
+  "47": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "2e8e5d11aa3a"
+  },
+  "48": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2000-02-04",
+   "datazione": "api",
+   "h": "2bda2e16117e"
+  },
+  "49": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "c3f162663c2a"
+  },
+  "50": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "32c24bd6c48e"
+  },
+  "51": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2003-06-27",
+   "datazione": "api",
+   "h": "211efa18a58b"
+  },
+  "52": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "621c09c86cc5"
+  },
+  "53": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "bb73881fbaad"
+  },
+  "54": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "c1454a7ddb72"
+  },
+  "55": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "8f57a6d42f6d"
+  },
+  "56": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2020-11-05",
+   "datazione": "api",
+   "h": "dd5ea1b78487"
+  },
+  "57": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2020-11-05",
+   "datazione": "api",
+   "h": "68b4c7dd2229"
+  },
+  "58": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2021-11-04",
+   "datazione": "api",
+   "h": "23b8f0c117d3"
+  },
+  "59": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2020-11-05",
+   "datazione": "api",
+   "h": "0ad5c9793234"
+  },
+  "60": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1963-02-27",
+   "datazione": "api",
+   "h": "cbd55c997e5a"
+  },
+  "61": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "64c4ecf2d25d"
+  },
+  "62": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "2c09835529aa"
+  },
+  "63": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "d6e8428d145d"
+  },
+  "64": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "1221a0923376"
+  },
+  "65": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "e034836ae991"
+  },
+  "66": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "421b849cd0a8"
+  },
+  "67": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "c27d36879d9f"
+  },
+  "68": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1993-11-14",
+   "datazione": "api",
+   "h": "5d55d94e5223"
+  },
+  "69": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "4fdebde2f170"
+  },
+  "70": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "1bf52c0855f1"
+  },
+  "71": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "4da8995d576d"
+  },
+  "72": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "5f15a1cd375f"
+  },
+  "73": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "2859f4ac1d96"
+  },
+  "74": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "21d97fa8acf1"
+  },
+  "75": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "ee5ef5c552e2"
+  },
+  "76": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "03ca22c2a42c"
+  },
+  "77": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "98e84f309d66"
+  },
+  "78": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "16c45304dbe3"
+  },
+  "79": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1992-03-24",
+   "datazione": "api",
+   "h": "8bed553ea1f0"
+  },
+  "80": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "200df5284bf4"
+  },
+  "81": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2012-05-08",
+   "datazione": "api",
+   "h": "dc2bc4265503"
+  },
+  "82": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "e8411c761bd5"
+  },
+  "83": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "3513ecb6a755"
+  },
+  "84": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "69ab906cf47f"
+  },
+  "85": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "f2ec3897da9d"
+  },
+  "86": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "f69e4c8a04bd"
+  },
+  "87": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "2998d568b5c1"
+  },
+  "88": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1991-11-23",
+   "datazione": "api",
+   "h": "6f121bd34eae"
+  },
+  "89": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "0032e228f16f"
+  },
+  "90": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "38b78e8476b3"
+  },
+  "91": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "6caeb35d5b7a"
+  },
+  "92": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "e55c6b45ffa1"
+  },
+  "93": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "15556c351d2b"
+  },
+  "94": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "dfb491f91169"
+  },
+  "95": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "ffd8d1515475"
+  },
+  "96": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1989-01-18",
+   "datazione": "api",
+   "h": "95fd7fb295bd"
+  },
+  "97": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2012-05-08",
+   "datazione": "api",
+   "h": "65cf86252b16"
+  },
+  "98": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "c21a220e86bd"
+  },
+  "99": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "bcbd07896a6a"
+  },
+  "100": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "a0d395a30ac2"
+  },
+  "101": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "cf570a77e70c"
+  },
+  "102": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "a8e12e6730a4"
+  },
+  "103": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "06764efa8387"
+  },
+  "104": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "a8eaa9b8efeb"
+  },
+  "105": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "74f359c23f29"
+  },
+  "106": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "6fef161b9096"
+  },
+  "107": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-03",
+   "datazione": "api",
+   "h": "12cb2f9c28a8"
+  },
+  "108": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "a1f0de01eb0c"
+  },
+  "109": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "67b963b6e95f"
+  },
+  "110": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "7e2a864be42e"
+  },
+  "111": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2000-01-07",
+   "datazione": "api",
+   "h": "dfc5900a43ee"
+  },
+  "112": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "95d9cafb5cbc"
+  },
+  "113": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "686c0d8d8660"
+  },
+  "114": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2001-11-08",
+   "datazione": "api",
+   "h": "ec9cc68bfb3a"
+  },
+  "115": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2001-11-08",
+   "datazione": "api",
+   "h": "377487bf6ebb"
+  },
+  "116": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2001-11-08",
+   "datazione": "api",
+   "h": "f9f5ef29e8e1"
+  },
+  "117": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2012-05-08",
+   "datazione": "api",
+   "h": "83aec163eedf"
+  },
+  "118": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2001-11-08",
+   "datazione": "api",
+   "h": "31029b3cc9ab"
+  },
+  "119": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2022-11-30",
+   "datazione": "api",
+   "h": "3353e61c96bd"
+  },
+  "120": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2001-11-08",
+   "datazione": "api",
+   "h": "fa5983e2b988"
+  },
+  "121": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2000-01-06",
+   "datazione": "api",
+   "h": "afa7c88330a7"
+  },
+  "122": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2000-01-06",
+   "datazione": "api",
+   "h": "f5779e42330f"
+  },
+  "123": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2001-11-08",
+   "datazione": "api",
+   "h": "788ad4a414c5"
+  },
+  "124": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2001-11-08",
+   "datazione": "api",
+   "h": "377487bf6ebb"
+  },
+  "125": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2001-11-08",
+   "datazione": "api",
+   "h": "a194643a1a87"
+  },
+  "126": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2000-01-06",
+   "datazione": "api",
+   "h": "1568e564d0db"
+  },
+  "127": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2001-11-08",
+   "datazione": "api",
+   "h": "a9bd710f5965"
+  },
+  "128": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2001-11-08",
+   "datazione": "api",
+   "h": "377487bf6ebb"
+  },
+  "129": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2001-11-08",
+   "datazione": "api",
+   "h": "377487bf6ebb"
+  },
+  "130": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2001-11-08",
+   "datazione": "api",
+   "h": "377487bf6ebb"
+  },
+  "131": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1964-01-19",
+   "datazione": "api",
+   "h": "820f5012c80b"
+  },
+  "132": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "2001-11-08",
+   "datazione": "api",
+   "h": "5abdb3103a36"
+  },
+  "133": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "8dae53ae560d"
+  },
+  "134": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1989-01-18",
+   "datazione": "api",
+   "h": "bf9c17ed28e9"
+  },
+  "135": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1989-01-18",
+   "datazione": "api",
+   "h": "ed089811a887"
+  },
+  "136": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "2aee613057be"
+  },
+  "137": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "2b4dd158221f"
+  },
+  "138": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "05fe1f33680f"
+  },
+  "139": {
+   "file": "cost.md",
+   "rubrica": "",
+   "vigore_da": "1948-01-01",
+   "datazione": "api",
+   "h": "243c4bfc8893"
+  }
+ }
+}

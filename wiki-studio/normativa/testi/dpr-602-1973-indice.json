@@ -1,0 +1,1828 @@
+{
+ "_meta": {
+  "codice": "dpr-602-1973",
+  "nome": "Riscossione delle imposte sul reddito (D.P.R. 602/1973)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-05-23",
+  "articoli": 135,
+  "file": [
+   "dpr-602-1973.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;602",
+  "versioni": [
+   {
+    "data": "1973-10-16",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1974-05-03",
+    "evento": "rp1",
+    "atto_modificante": "D.P.R. 20 aprile 1974, n. 116"
+   },
+   {
+    "data": "1974-07-09",
+    "evento": "rp2+rp3",
+    "atto_modificante": "D.L. 6 luglio 1974, n. 259; D.L. 6 luglio 1974, n. 260"
+   },
+   {
+    "data": "1974-12-28",
+    "evento": "rp4",
+    "atto_modificante": "D.P.R. 23 dicembre 1974, n. 690"
+   },
+   {
+    "data": "1975-03-28",
+    "evento": "rp5",
+    "atto_modificante": "D.P.R. 28 marzo 1975, n. 60"
+   },
+   {
+    "data": "1975-12-04",
+    "evento": "rp6",
+    "atto_modificante": "L. 2 dicembre 1975, n. 576"
+   },
+   {
+    "data": "1976-03-05",
+    "evento": "rp7",
+    "atto_modificante": "D.L. 4 marzo 1976, n. 30"
+   },
+   {
+    "data": "1977-01-19",
+    "evento": "rp8",
+    "atto_modificante": "D.P.R. 24 dicembre 1976, n. 920"
+   },
+   {
+    "data": "1977-04-16",
+    "evento": "rp9",
+    "atto_modificante": "L. 13 aprile 1977, n. 114"
+   },
+   {
+    "data": "1977-06-03",
+    "evento": "rp10",
+    "atto_modificante": "L. 31 maggio 1977, n. 247"
+   },
+   {
+    "data": "1978-03-09",
+    "evento": "rp11",
+    "atto_modificante": "D.P.R. 13 dicembre 1977, n. 1119"
+   },
+   {
+    "data": "1979-06-29",
+    "evento": "rp12",
+    "atto_modificante": "D.P.R. 26 maggio 1979, n. 249"
+   },
+   {
+    "data": "1979-12-31",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 30 dicembre 1979, n. 660"
+   },
+   {
+    "data": "1980-11-29",
+    "evento": "rp14",
+    "atto_modificante": "D.P.R. 28 novembre 1980, n. 787"
+   },
+   {
+    "data": "1981-10-03",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 2 ottobre 1981, n. 546"
+   },
+   {
+    "data": "1981-11-07",
+    "evento": "rp16",
+    "atto_modificante": "L. 4 novembre 1981, n. 626"
+   },
+   {
+    "data": "1981-11-24",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 20 novembre 1981, n. 661"
+   },
+   {
+    "data": "1981-12-04",
+    "evento": "rp18",
+    "atto_modificante": "Circ. Ministero Delle Finanze 11 novembre 1981, n. 36"
+   },
+   {
+    "data": "1981-12-31",
+    "evento": "rp19",
+    "atto_modificante": "D.L. 30 dicembre 1981, n. 792"
+   },
+   {
+    "data": "1982-06-07",
+    "evento": "rp20",
+    "atto_modificante": "D.P.R. 14 aprile 1982, n. 309"
+   },
+   {
+    "data": "1982-07-13",
+    "evento": "rp21",
+    "atto_modificante": "D.L. 10 luglio 1982, n. 429"
+   },
+   {
+    "data": "1982-08-07",
+    "evento": "rp22",
+    "atto_modificante": "L. 2 agosto 1982, n. 512"
+   },
+   {
+    "data": "1982-08-10",
+    "evento": "rp23",
+    "atto_modificante": "D.P.R. 9 agosto 1982, n. 525"
+   },
+   {
+    "data": "1982-12-31",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 30 dicembre 1982, n. 953"
+   },
+   {
+    "data": "1983-02-22",
+    "evento": "rp25",
+    "atto_modificante": "D.P.R. 22 febbraio 1983, n. 43"
+   },
+   {
+    "data": "1984-10-29",
+    "evento": "rp26",
+    "atto_modificante": "Circ. Ministero Delle Finanze 24 luglio 1984, n. 26"
+   },
+   {
+    "data": "1986-03-17",
+    "evento": "rp27",
+    "atto_modificante": "Circ. Ministero Delle Finanze 2 gennaio 1986, n. 1"
+   },
+   {
+    "data": "1986-05-26",
+    "evento": "rp28",
+    "atto_modificante": "Circ. Ministero Delle Finanze 23 aprile 1986, n. 12"
+   },
+   {
+    "data": "1988-02-29",
+    "evento": "rp29+rp30",
+    "atto_modificante": "Circ. Ministero Delle Finanze 12 gennaio 1988, n. 1; D.P.R. 28 gennaio 1988, n. 43"
+   },
+   {
+    "data": "1988-03-14",
+    "evento": "rp31",
+    "atto_modificante": "L. 11 marzo 1988, n. 67"
+   },
+   {
+    "data": "1989-03-02",
+    "evento": "rp32",
+    "atto_modificante": "D.L. 2 marzo 1989, n. 69"
+   },
+   {
+    "data": "1990-04-30",
+    "evento": "rp33",
+    "atto_modificante": "D.L. 27 aprile 1990, n. 90"
+   },
+   {
+    "data": "1990-09-19",
+    "evento": "rp34",
+    "atto_modificante": "D.L. 15 settembre 1990, n. 261"
+   },
+   {
+    "data": "1990-12-31",
+    "evento": "rp35",
+    "atto_modificante": "L. 29 dicembre 1990, n. 408"
+   },
+   {
+    "data": "1991-12-31",
+    "evento": "rp36",
+    "atto_modificante": "L. 30 dicembre 1991, n. 413"
+   },
+   {
+    "data": "1992-03-18",
+    "evento": "rp37",
+    "atto_modificante": "atto modificante non indicato (rp37)"
+   },
+   {
+    "data": "1993-01-13",
+    "evento": "rp38",
+    "atto_modificante": "D.Lgs. 31 dicembre 1992, n. 546"
+   },
+   {
+    "data": "1993-01-23",
+    "evento": "rp39",
+    "atto_modificante": "D.L. 23 gennaio 1993, n. 16"
+   },
+   {
+    "data": "1993-08-30",
+    "evento": "rp40",
+    "atto_modificante": "D.L. 30 agosto 1993, n. 331"
+   },
+   {
+    "data": "1993-12-30",
+    "evento": "rp41",
+    "atto_modificante": "D.L. 30 dicembre 1993, n. 557"
+   },
+   {
+    "data": "1994-04-30",
+    "evento": "rp42",
+    "atto_modificante": "D.L. 29 aprile 1994, n. 260"
+   },
+   {
+    "data": "1994-06-01",
+    "evento": "rp43",
+    "atto_modificante": "D.L. 31 maggio 1994, n. 330"
+   },
+   {
+    "data": "1995-08-23",
+    "evento": "rp44",
+    "atto_modificante": "L. 8 agosto 1995, n. 349"
+   },
+   {
+    "data": "1995-12-29",
+    "evento": "rp45",
+    "atto_modificante": "L. 28 dicembre 1995, n. 549"
+   },
+   {
+    "data": "1996-08-26",
+    "evento": "rp46",
+    "atto_modificante": "D.L. 8 agosto 1996, n. 437"
+   },
+   {
+    "data": "1996-12-28",
+    "evento": "rp47",
+    "atto_modificante": "L. 23 dicembre 1996, n. 662"
+   },
+   {
+    "data": "1996-12-31",
+    "evento": "rp48",
+    "atto_modificante": "D.L. 31 dicembre 1996, n. 669"
+   },
+   {
+    "data": "1997-05-17",
+    "evento": "rp49",
+    "atto_modificante": "L. 15 maggio 1997, n. 127"
+   },
+   {
+    "data": "1997-07-28",
+    "evento": "rp50",
+    "atto_modificante": "D.Lgs. 9 luglio 1997, n. 241"
+   },
+   {
+    "data": "1997-12-30",
+    "evento": "rp51",
+    "atto_modificante": "L. 27 dicembre 1997, n. 449"
+   },
+   {
+    "data": "1998-01-03",
+    "evento": "rp52+rp53",
+    "atto_modificante": "D.Lgs. 18 dicembre 1997, n. 462; D.Lgs. 21 novembre 1997, n. 461"
+   },
+   {
+    "data": "1998-01-08",
+    "evento": "rp54",
+    "atto_modificante": "D.Lgs. 18 dicembre 1997, n. 471"
+   },
+   {
+    "data": "1999-03-05",
+    "evento": "rp55",
+    "atto_modificante": "D.Lgs. 26 febbraio 1999, n. 46"
+   },
+   {
+    "data": "1999-05-17",
+    "evento": "rp56",
+    "atto_modificante": "L. 13 maggio 1999, n. 133"
+   },
+   {
+    "data": "1999-09-20",
+    "evento": "rp57",
+    "atto_modificante": "D.Lgs. 17 agosto 1999, n. 326"
+   },
+   {
+    "data": "1999-12-31",
+    "evento": "rp58",
+    "atto_modificante": "D.Lgs. 23 dicembre 1999, n. 505"
+   },
+   {
+    "data": "2000-02-17",
+    "evento": "rp59",
+    "atto_modificante": "D.P.R. 14 ottobre 1999, n. 542"
+   },
+   {
+    "data": "2000-03-31",
+    "evento": "rp60",
+    "atto_modificante": "D.Lgs. 10 marzo 2000, n. 74"
+   },
+   {
+    "data": "2000-12-29",
+    "evento": "rp61",
+    "atto_modificante": "L. 23 dicembre 2000, n. 388"
+   },
+   {
+    "data": "2001-03-05",
+    "evento": "rp62",
+    "atto_modificante": "D.Lgs. 26 gennaio 2001, n. 32"
+   },
+   {
+    "data": "2001-05-25",
+    "evento": "rp63",
+    "atto_modificante": "D.Lgs. 27 aprile 2001, n. 193"
+   },
+   {
+    "data": "2002-07-08",
+    "evento": "rp64",
+    "atto_modificante": "D.L. 8 luglio 2002, n. 138"
+   },
+   {
+    "data": "2002-12-31",
+    "evento": "rp65",
+    "atto_modificante": "L. 27 dicembre 2002, n. 289"
+   },
+   {
+    "data": "2003-06-24",
+    "evento": "rp66",
+    "atto_modificante": "D.L. 24 giugno 2003, n. 143"
+   },
+   {
+    "data": "2003-06-30",
+    "evento": "rp67",
+    "atto_modificante": "atto modificante non indicato (rp67)"
+   },
+   {
+    "data": "2004-12-31",
+    "evento": "rp68",
+    "atto_modificante": "L. 30 dicembre 2004, n. 311"
+   },
+   {
+    "data": "2005-06-17",
+    "evento": "rp69",
+    "atto_modificante": "D.L. 17 giugno 2005, n. 106"
+   },
+   {
+    "data": "2005-07-20",
+    "evento": "rp70",
+    "atto_modificante": "atto modificante non indicato (rp70)"
+   },
+   {
+    "data": "2005-07-26",
+    "evento": "rp71",
+    "atto_modificante": "D.Lgs. 30 maggio 2005, n. 143"
+   },
+   {
+    "data": "2005-10-03",
+    "evento": "rp72",
+    "atto_modificante": "D.L. 30 settembre 2005, n. 203"
+   },
+   {
+    "data": "2006-07-04",
+    "evento": "rp73",
+    "atto_modificante": "D.L. 4 luglio 2006, n. 223"
+   },
+   {
+    "data": "2006-10-03",
+    "evento": "rp74",
+    "atto_modificante": "D.L. 3 ottobre 2006, n. 262"
+   },
+   {
+    "data": "2007-08-17",
+    "evento": "rp75",
+    "atto_modificante": "Circ. Ministero Dell'Economia E Delle Finanze 6 agosto 2007, n. 28"
+   },
+   {
+    "data": "2007-09-12",
+    "evento": "rp76",
+    "atto_modificante": "Circ. Ministero Dell'Economia E Delle Finanze 4 settembre 2007, n. 29"
+   },
+   {
+    "data": "2007-10-02",
+    "evento": "rp77",
+    "atto_modificante": "D.L. 1 ottobre 2007, n. 159"
+   },
+   {
+    "data": "2007-11-14",
+    "evento": "rp78",
+    "atto_modificante": "atto modificante non indicato (rp78)"
+   },
+   {
+    "data": "2007-12-28",
+    "evento": "rp79",
+    "atto_modificante": "L. 24 dicembre 2007, n. 244"
+   },
+   {
+    "data": "2007-12-31",
+    "evento": "rp80",
+    "atto_modificante": "D.L. 31 dicembre 2007, n. 248"
+   },
+   {
+    "data": "2008-06-25",
+    "evento": "rp81",
+    "atto_modificante": "D.L. 25 giugno 2008, n. 112"
+   },
+   {
+    "data": "2008-08-09",
+    "evento": "rp82",
+    "atto_modificante": "Circ. Ministero Dell'Economia E Delle Finanze 29 luglio 2008, n. 22"
+   },
+   {
+    "data": "2008-11-29",
+    "evento": "rp83",
+    "atto_modificante": "D.L. 29 novembre 2008, n. 185"
+   },
+   {
+    "data": "2009-06-15",
+    "evento": "rp84",
+    "atto_modificante": "atto modificante non indicato (rp84)"
+   },
+   {
+    "data": "2009-07-24",
+    "evento": "rp85",
+    "atto_modificante": "L. 15 luglio 2009, n. 94"
+   },
+   {
+    "data": "2009-10-22",
+    "evento": "rp86",
+    "atto_modificante": "Circ. Ministero Dell'Economia E Delle Finanze 8 ottobre 2009, n. 29"
+   },
+   {
+    "data": "2010-03-26",
+    "evento": "rp87",
+    "atto_modificante": "D.L. 25 marzo 2010, n. 40"
+   },
+   {
+    "data": "2010-05-31",
+    "evento": "rp88",
+    "atto_modificante": "D.L. 31 maggio 2010, n. 78"
+   },
+   {
+    "data": "2011-05-13",
+    "evento": "rp89",
+    "atto_modificante": "D.L. 13 maggio 2011, n. 70"
+   },
+   {
+    "data": "2011-10-29",
+    "evento": "rp90",
+    "atto_modificante": "Circ. Ministero Dell'Economia E Delle Finanze 23 settembre 2011, n. 27"
+   },
+   {
+    "data": "2011-11-02",
+    "evento": "rp91",
+    "atto_modificante": "atto modificante non indicato (rp91)"
+   },
+   {
+    "data": "2011-12-06",
+    "evento": "rp92",
+    "atto_modificante": "D.L. 6 dicembre 2011, n. 201"
+   },
+   {
+    "data": "2012-03-02",
+    "evento": "rp93",
+    "atto_modificante": "D.L. 2 marzo 2012, n. 16"
+   },
+   {
+    "data": "2012-05-08",
+    "evento": "rp94",
+    "atto_modificante": "D.L. 7 maggio 2012, n. 52"
+   },
+   {
+    "data": "2012-07-06",
+    "evento": "rp95",
+    "atto_modificante": "D.L. 6 luglio 2012, n. 95"
+   },
+   {
+    "data": "2012-11-28",
+    "evento": "rp96",
+    "atto_modificante": "atto modificante non indicato (rp96)"
+   },
+   {
+    "data": "2013-04-08",
+    "evento": "rp97",
+    "atto_modificante": "D.L. 8 aprile 2013, n. 35"
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp98",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2014-04-24",
+    "evento": "rp99",
+    "atto_modificante": "D.L. 24 aprile 2014, n. 66"
+   },
+   {
+    "data": "2014-11-28",
+    "evento": "rp100",
+    "atto_modificante": "D.Lgs. 21 novembre 2014, n. 175"
+   },
+   {
+    "data": "2015-10-07",
+    "evento": "rp101",
+    "atto_modificante": "D.Lgs. 24 settembre 2015, n. 159"
+   },
+   {
+    "data": "2016-06-24",
+    "evento": "rp102",
+    "atto_modificante": "D.L. 24 giugno 2016, n. 113"
+   },
+   {
+    "data": "2016-10-24",
+    "evento": "rp103",
+    "atto_modificante": "D.L. 22 ottobre 2016, n. 193"
+   },
+   {
+    "data": "2017-04-24",
+    "evento": "rp104",
+    "atto_modificante": "D.L. 24 aprile 2017, n. 50"
+   },
+   {
+    "data": "2017-10-16",
+    "evento": "rp105",
+    "atto_modificante": "D.L. 16 ottobre 2017, n. 148"
+   },
+   {
+    "data": "2017-12-29",
+    "evento": "rp106",
+    "atto_modificante": "L. 27 dicembre 2017, n. 205"
+   },
+   {
+    "data": "2018-04-10",
+    "evento": "rp107",
+    "atto_modificante": "Circ. Ministero Dell'Economia E Delle Finanze 21 marzo 2018, n. 13"
+   },
+   {
+    "data": "2018-06-06",
+    "evento": "rp108",
+    "atto_modificante": "atto modificante non indicato (rp108)"
+   },
+   {
+    "data": "2018-12-28",
+    "evento": "rp109",
+    "atto_modificante": "D.Lgs. 29 novembre 2018, n. 142"
+   },
+   {
+    "data": "2019-04-30",
+    "evento": "rp110",
+    "atto_modificante": "D.L. 30 aprile 2019, n. 34"
+   },
+   {
+    "data": "2019-06-29",
+    "evento": "rp111",
+    "atto_modificante": "L. 28 giugno 2019, n. 58"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp112",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-06-10",
+    "evento": "rp113",
+    "atto_modificante": "D.Lgs. 10 giugno 2020, n. 49"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp114",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   },
+   {
+    "data": "2020-07-18",
+    "evento": "rp115",
+    "atto_modificante": "L. 17 luglio 2020, n. 77"
+   },
+   {
+    "data": "2020-10-28",
+    "evento": "rp116",
+    "atto_modificante": "D.L. 28 ottobre 2020, n. 137"
+   },
+   {
+    "data": "2020-11-30",
+    "evento": "rp117",
+    "atto_modificante": "D.L. 30 novembre 2020, n. 157"
+   },
+   {
+    "data": "2020-12-24",
+    "evento": "rp118",
+    "atto_modificante": "L. 18 dicembre 2020, n. 176"
+   },
+   {
+    "data": "2020-12-31",
+    "evento": "rp119",
+    "atto_modificante": "D.L. 31 dicembre 2020, n. 183"
+   },
+   {
+    "data": "2021-01-15",
+    "evento": "rp120",
+    "atto_modificante": "D.L. 15 gennaio 2021, n. 3"
+   },
+   {
+    "data": "2021-01-30",
+    "evento": "rp121",
+    "atto_modificante": "D.L. 30 gennaio 2021, n. 7"
+   },
+   {
+    "data": "2021-03-01",
+    "evento": "rp122",
+    "atto_modificante": "L. 26 febbraio 2021, n. 21"
+   },
+   {
+    "data": "2021-03-22",
+    "evento": "rp123",
+    "atto_modificante": "D.L. 22 marzo 2021, n. 41"
+   },
+   {
+    "data": "2021-05-25",
+    "evento": "rp124",
+    "atto_modificante": "D.L. 25 maggio 2021, n. 73"
+   },
+   {
+    "data": "2021-06-30",
+    "evento": "rp125",
+    "atto_modificante": "D.L. 30 giugno 2021, n. 99"
+   },
+   {
+    "data": "2021-07-24",
+    "evento": "rp126",
+    "atto_modificante": "L. 23 luglio 2021, n. 106"
+   },
+   {
+    "data": "2021-10-21",
+    "evento": "rp127",
+    "atto_modificante": "D.L. 21 ottobre 2021, n. 146"
+   },
+   {
+    "data": "2021-11-06",
+    "evento": "rp128",
+    "atto_modificante": "D.L. 6 novembre 2021, n. 152"
+   },
+   {
+    "data": "2021-12-20",
+    "evento": "rp129",
+    "atto_modificante": "L. 17 dicembre 2021, n. 215"
+   },
+   {
+    "data": "2021-12-31",
+    "evento": "rp130+rp131",
+    "atto_modificante": "L. 30 dicembre 2021, n. 234; L. 29 dicembre 2021, n. 233"
+   },
+   {
+    "data": "2022-05-17",
+    "evento": "rp132",
+    "atto_modificante": "D.L. 17 maggio 2022, n. 50"
+   },
+   {
+    "data": "2022-06-21",
+    "evento": "rp133",
+    "atto_modificante": "D.L. 21 giugno 2022, n. 73"
+   },
+   {
+    "data": "2022-07-15",
+    "evento": "rp134",
+    "atto_modificante": "L. 15 luglio 2022, n. 91"
+   },
+   {
+    "data": "2022-08-19",
+    "evento": "rp135",
+    "atto_modificante": "L. 4 agosto 2022, n. 122"
+   },
+   {
+    "data": "2022-09-01",
+    "evento": "rp136",
+    "atto_modificante": "L. 31 agosto 2022, n. 130"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp137",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp138",
+    "atto_modificante": "L. 30 dicembre 2023, n. 213"
+   },
+   {
+    "data": "2024-02-21",
+    "evento": "rp139",
+    "atto_modificante": "D.Lgs. 12 febbraio 2024, n. 13"
+   },
+   {
+    "data": "2024-06-28",
+    "evento": "rp140",
+    "atto_modificante": "D.Lgs. 14 giugno 2024, n. 87"
+   },
+   {
+    "data": "2024-08-05",
+    "evento": "rp141",
+    "atto_modificante": "D.Lgs. 5 agosto 2024, n. 108"
+   },
+   {
+    "data": "2024-08-07",
+    "evento": "rp142",
+    "atto_modificante": "D.Lgs. 29 luglio 2024, n. 110"
+   },
+   {
+    "data": "2024-11-28",
+    "evento": "rp143",
+    "atto_modificante": "D.Lgs. 5 novembre 2024, n. 173"
+   },
+   {
+    "data": "2024-12-31",
+    "evento": "rp144",
+    "atto_modificante": "L. 30 dicembre 2024, n. 207"
+   },
+   {
+    "data": "2025-03-26",
+    "evento": "rp145",
+    "atto_modificante": "D.Lgs. 24 marzo 2025, n. 33"
+   },
+   {
+    "data": "2025-12-30",
+    "evento": "rp146",
+    "atto_modificante": "L. 30 dicembre 2025, n. 199"
+   },
+   {
+    "data": "2026-03-27",
+    "evento": "rp147",
+    "atto_modificante": "D.L. 27 marzo 2026, n. 38"
+   },
+   {
+    "data": "2026-05-22",
+    "evento": "rp148",
+    "atto_modificante": "L. 22 maggio 2026, n. 88"
+   }
+  ],
+  "ultima_versione": "2026-05-22",
+  "datazione": {
+   "monoblocco": 135,
+   "api": 126,
+   "ignota": 9,
+   "falliti": 6,
+   "testo_diverso": 3,
+   "stima_anteriore": 35,
+   "chiamate": 135,
+   "errori_rete": 6,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Modalita' di riscossione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "1b82b1d5c7fb"
+  },
+  "2": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Riscossione per ritenuta diretta",
+   "vigore_da": "1974-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "fbb8ccd1c878"
+  },
+  "3": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Riscossione mediante versamenti diretti",
+   "vigore_da": "2001-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "db2b2d2a15a9"
+  },
+  "3-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Versamento diretto dell'imposta sul reddito delle persone fisiche",
+   "vigore_da": "1977-04-17",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "f9c31c6dca8a"
+  },
+  "4": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1975-12-05",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "b3616a8ad39d"
+  },
+  "5": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1997-08-12",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "874fea153058"
+  },
+  "5-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Versamento ad ufficio incompetente",
+   "vigore_da": "1979-06-30",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "36e99fcca657"
+  },
+  "6": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Distinta dei versamenti diretti",
+   "vigore_da": "1977-01-20",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "f3e609293fb8"
+  },
+  "7": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Versamento diretto mediante conti correnti postali",
+   "vigore_da": "1990-11-16",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "9daa4e51881d"
+  },
+  "8": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Termini per il versamento diretto",
+   "vigore_da": "2005-07-26",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "41b4d3dd7d18"
+  },
+  "9": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1999-09-21",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "fbcf59b7c264"
+  },
+  "10": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "abd1bc2fb56e"
+  },
+  "11": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Oggetto e specie dei ruoli",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "b9c386624ffb"
+  },
+  "12": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Formazione e contenuto dei ruoli",
+   "vigore_da": "2024-08-08",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "da200a064b31"
+  },
+  "12-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Importo minimo iscrivibile a ruolo",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "bc8cc9b7ecae"
+  },
+  "13": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "cce6e49cbba0"
+  },
+  "14": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Iscrizioni a ruolo a titolo definitivo",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "6ea3a8769a12"
+  },
+  "15": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Iscrizioni nei ruoli in base ad accertamenti non definitivi",
+   "vigore_da": "2022-09-16",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "c8383f63a1d9"
+  },
+  "15-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Iscrizioni nei ruoli straordinari",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "586af29b9247"
+  },
+  "15-ter": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Inadempimenti nei pagamenti delle somme dovute a seguito dell'attivita' di controllo dell'Agenzia delle entrate",
+   "vigore_da": "2024-08-06",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "00cbcc3cbfa5"
+  },
+  "16": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "d1b1096fd1a2"
+  },
+  "17": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "2005-08-10",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "f84e4447c746"
+  },
+  "18": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "cce6e49cbba0"
+  },
+  "19": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Dilazione del pagamento",
+   "vigore_da": "2024-08-08",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "e3b248988309"
+  },
+  "19-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Sospensione della riscossione per situazioni eccezionali",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "d62231afa922"
+  },
+  "20": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Interessi per ritardata iscrizione a ruolo",
+   "vigore_da": "2020-12-25",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "f304c7de0e3a"
+  },
+  "21": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Interessi per dilazione del pagamento",
+   "vigore_da": "2009-06-30",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "93c19fe5478a"
+  },
+  "22": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Esecutorieta' dei ruoli",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "7f374bae19bd"
+  },
+  "23": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "cce6e49cbba0"
+  },
+  "24": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Consegna del ruolo al concessionario",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "6e5ea231ecfb"
+  },
+  "25": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Cartella di pagamento",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "9bbb181d0fd9"
+  },
+  "25-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Effetti della richiesta di rateazione della cartella di pagamento in caso di responsabilita' sussidiaria",
+   "vigore_da": "2024-08-08",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "90255901ee02"
+  },
+  "26": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Notificazione della cartella di pagamento",
+   "vigore_da": "2024-02-22",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "fe3ea6640d9a"
+  },
+  "26-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Comunicazioni al domicilio digitale",
+   "vigore_da": "2024-02-22",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "bc9d50a7fb43"
+  },
+  "27": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "cce6e49cbba0"
+  },
+  "28": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Modalita' di pagamento",
+   "vigore_da": "2008-08-22",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "e4b866371a1c"
+  },
+  "28-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Pagamento delle imposte dirette mediante cessione di beni culturali",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "65e423e5f848"
+  },
+  "28-ter": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Pagamento mediante compensazione volontaria con crediti d'imposta",
+   "vigore_da": "2024-08-08",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "25ba690cd23a"
+  },
+  "28-quater": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Compensazioni di crediti con somme dovute a seguito di iscrizione a ruolo",
+   "vigore_da": "2022-07-16",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "71b9f8c0566b"
+  },
+  "28-quinquies": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Compensazioni di crediti con somme dovute in base agli istituti definitori della pretesa tributaria e deflativi del contenzioso tributario",
+   "vigore_da": "2014-06-24",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "1469bc348e3e"
+  },
+  "28-sexies": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Compensazioni di crediti con somme dovute a titolo di sanzioni e interessi per mancati versamenti di imposte su redditi regolarmente dichiarati",
+   "vigore_da": "2024-06-29",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "9cbf8e1ebfd0"
+  },
+  "29": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Rilascio della quietanza",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "3f998d8bc2b7"
+  },
+  "30": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Interessi di mora",
+   "vigore_da": "2011-07-13",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "1773aa18d3f1"
+  },
+  "31": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Imputazione dei pagamenti",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "c29d32290968"
+  },
+  "32": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Responsabilita' solidale dei nuovi possessori di immobili",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "638a2228b872"
+  },
+  "33": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Responsabilita' solidale per l'imposta locale sui redditi",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "36f3c6e49fb3"
+  },
+  "34": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Responsabilita' solidale per l'imposta sui redditi delle persone fisiche",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "fe8a418694a3"
+  },
+  "35": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Solidarieta' del sostituto di imposta",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "97ed8cabae4d"
+  },
+  "36": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Responsabilita' ed obblighi degli amministratori, dei liquidatori e dei soci",
+   "vigore_da": "2014-12-13",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "1d1f97c3b2df"
+  },
+  "37": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Rimborso di ritenute dirette",
+   "vigore_da": "2001-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "a43cc80b1092"
+  },
+  "38": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Rimborso di versamenti diretti",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "7dbdc647848d"
+  },
+  "39": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Sospensione amministrativa della riscossione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "fe099ae58967"
+  },
+  "40": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "cce6e49cbba0"
+  },
+  "41": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Rimborso d'ufficio",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "163d9225e72a"
+  },
+  "42": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Esecuzione del rimborso",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "fc6cde1084b5"
+  },
+  "42-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Esecuzione del rimborso d'ufficio tramite procedura automatizzata",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "249e76bb18f3"
+  },
+  "43": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Recupero di somme erroneamente rimborsare",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "c4aa51082af7"
+  },
+  "43-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Cessione dei crediti di imposta",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "d12efc94cf28"
+  },
+  "43-ter": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Cessione delle eccedenze nell'ambito del gruppo",
+   "vigore_da": "2019-01-12",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "0e95e615db9b"
+  },
+  "44": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Interessi per ritardato rimborso di imposte pagate",
+   "vigore_da": "2009-06-30",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "12c85e51eee6"
+  },
+  "44-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Interessi per rimborsi eseguiti mediante procedura automatizzata",
+   "vigore_da": "2009-06-30",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "9b824e867802"
+  },
+  "45": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Riscossione coattiva",
+   "vigore_da": "2024-08-08",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "9bb9a04261a1"
+  },
+  "46": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Delega ad altro concessionario",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "0a27e26a70e4"
+  },
+  "47": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Gratuita' delle trascrizioni, iscrizioni e cancellazioni di pignoramenti e ipoteche",
+   "vigore_da": "2001-06-09",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "30de2e96f2d5"
+  },
+  "47-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Gratuita' di altre attivita' e misura dell'imposta di registro sui trasferimenti coattivi di beni mobili",
+   "vigore_da": "2008-08-22",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "7cd231d263ef"
+  },
+  "48": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Tasse e diritti per atti giudiziari",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "c51020208ed2"
+  },
+  "48-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Disposizioni sui pagamenti delle pubbliche amministrazioni",
+   "vigore_da": "2026-05-23",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "60e8f795ac92"
+  },
+  "49": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Espropriazione forzata",
+   "vigore_da": "2015-10-22",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "f28b464ef0f5"
+  },
+  "50": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Termine per l'inizio dell'esecuzione",
+   "vigore_da": "2024-08-08",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "0c9a59806239"
+  },
+  "51": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Surroga del concessionario in procedimenti esecutivi gia' iniziati",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "80601ea4261f"
+  },
+  "52": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Procedimento di vendita",
+   "vigore_da": "2022-08-20",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "6ed69e78733e"
+  },
+  "53": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Cessazione dell'efficacia del pignoramento e cancellazione della trascrizione",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "c6a687af74b6"
+  },
+  "54": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Intervento dei creditori",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "c310cd9164b1"
+  },
+  "55": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Divieto per il concessionario di acquisto dei beni pignorati",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "4b271ea01a88"
+  },
+  "56": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Deposito degli atti e del prezzo",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "4fb299cd25dd"
+  },
+  "57": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Opposizione all'esecuzione o agli atti esecutivi",
+   "vigore_da": "2018-06-07",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "9f4cfc990ed1"
+  },
+  "58": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Opposizione di terzi",
+   "vigore_da": "2001-06-09",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "297d7a8dfedd"
+  },
+  "59": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Risarcimento dei danni",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "59fd1ddaf73c"
+  },
+  "60": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Sospensione dell'esecuzione",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "b7fb4c5d1638"
+  },
+  "61": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Estinzione del procedimento per pagamento del debito",
+   "vigore_da": "2001-06-09",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "dd36a6e243cd"
+  },
+  "62": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Disposizioni particolari sui beni pignorabili",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "3853183d08bf"
+  },
+  "63": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Astensione dal pignoramento",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "9aabbcea25d5"
+  },
+  "64": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Custodia dei beni pignorati",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "51b134b4e4fa"
+  },
+  "65": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Notifica del verbale di pignoramento",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "bb9cb4ce1f39"
+  },
+  "66": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Avviso di vendita dei beni pignorati",
+   "vigore_da": "2001-06-09",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "ddabc1b7a1ad"
+  },
+  "67": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Incanto anticipato",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "c069bf4d42cf"
+  },
+  "68": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Prezzo base del primo incanto",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "87982557228e"
+  },
+  "69": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Secondo incanto",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "53843bbd0ad7"
+  },
+  "70": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Beni invenduti",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "84e89a57c694"
+  },
+  "71": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Intervento degli istituti vendite giudiziarie",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "9233cf844a91"
+  },
+  "72": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Pignoramento di fitti o pigioni",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "7d152390eac9"
+  },
+  "72-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Pignoramento dei crediti verso terzi",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "04ff468c58fb"
+  },
+  "72-ter": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Limiti di pignorabilita'",
+   "vigore_da": "2016-12-03",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "a07abf89e74d"
+  },
+  "73": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Pignoramento di cose del debitore in possesso di terzi",
+   "vigore_da": "2008-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "9e24d070b3cd"
+  },
+  "74": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Vendita e assegnazione dei crediti pignorati",
+   "vigore_da": "2001-06-09",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "4bc746fe5644"
+  },
+  "75": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Pignoramenti presso pubbliche amministrazioni",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "0138c5bf0e21"
+  },
+  "75-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Dichiarazione stragiudiziale del terzo",
+   "vigore_da": "2006-11-29",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "2485cc830a59"
+  },
+  "75-ter": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Cooperazione applicativa e informatica per l'accesso alle informazioni necessarie per il potenziamento dell'azione di recupero coattivo",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "c79500677ff3"
+  },
+  "76": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Espropriazione immobiliare",
+   "vigore_da": "2022-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "00350cd6e278"
+  },
+  "77": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Iscrizione di ipoteca",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "aa0e4683c97d"
+  },
+  "78": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Avviso di vendita",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "d9ad5670aeab"
+  },
+  "79": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Prezzo base e cauzione",
+   "vigore_da": "2008-08-22",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "26cb2fa20881"
+  },
+  "80": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Pubblicazione e notificazione dell'avviso di vendita",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "bb07301825f6"
+  },
+  "81": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Secondo e terzo incanto",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "583efd01a8d2"
+  },
+  "82": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Versamento del prezzo",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "dc1c2801ac8a"
+  },
+  "83": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Progetto di distribuzione",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "169f5220135e"
+  },
+  "84": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Distribuzione della somma ricavata",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "e8240e5037c1"
+  },
+  "85": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Assegnazione dell'immobile allo Stato",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "2e56195f51d9"
+  },
+  "86": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Fermo di beni mobili registrati",
+   "vigore_da": "2013-08-21",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "f0bafd70d961"
+  },
+  "87": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Ricorso per la dichiarazione di fallimento e domanda di ammissione al passivo",
+   "vigore_da": "2010-07-31",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "c3733a806923"
+  },
+  "88": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Ammissione al passivo con riserva",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "a6acb7e9500b"
+  },
+  "89": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Esenzione dell'azione revocatoria",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "af6ea3c8dea7"
+  },
+  "90": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Ammissione del debitore al concordato preventivo o all'amministrazione controllata",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "a92f091ca3b1"
+  },
+  "91": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Espropriazione di navi e aeromobili",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "14fb1d715ceb"
+  },
+  "91-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Fermo dei veicoli a motore ed autoscafi",
+   "vigore_da": "1999-07-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "e0cb38af979f"
+  },
+  "92": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1998-04-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "81718f03b962"
+  },
+  "92-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1998-04-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "81718f03b962"
+  },
+  "93": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1998-04-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "81718f03b962"
+  },
+  "94": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1998-04-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "81718f03b962"
+  },
+  "95": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1998-04-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "81718f03b962"
+  },
+  "96": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1998-04-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "81718f03b962"
+  },
+  "97": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Morosita' nel pagamento di imposte riscosse mediante ruoli",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "d6e3e697c916"
+  },
+  "98": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1998-04-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "81718f03b962"
+  },
+  "99": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Versamento delle ritenute sui dividendi",
+   "vigore_da": "1974-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "2b8a3b355c9d"
+  },
+  "100": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Versamento in tesoreria e iscrizione a ruolo di tributi soppressi",
+   "vigore_da": "1977-01-20",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "4c5afad6a2b9"
+  },
+  "100-bis": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Acconti di imposte sui redditi dell'anno 1974",
+   "vigore_da": "1974-05-04",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "cd707e0771c5"
+  },
+  "100-ter": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Ammontare degli acconti",
+   "vigore_da": "1974-05-04",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "7495b77c4d20"
+  },
+  "100-quater": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Imputazione degli acconti alle imposte sul reddito dovute per l'anno 1974",
+   "vigore_da": "1974-05-04",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "8e51bdf527a0"
+  },
+  "100-quinquies": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Riscossione degli acconti",
+   "vigore_da": "1974-07-10",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "ab779579ddab"
+  },
+  "100-sexies": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "",
+   "vigore_da": "1975-12-05",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "b3616a8ad39d"
+  },
+  "101": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Termini per sgravi e rimborsi relativi a tributi soppressi",
+   "vigore_da": "1974-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "dbfb448e50ed"
+  },
+  "102": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Responsabilita' solidale e privilegi relativi a tributi soppressi",
+   "vigore_da": "1974-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "f2a7200f352b"
+  },
+  "103": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Riscossione dei ruoli di enti diversi dallo Stato",
+   "vigore_da": "1978-03-10",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "0396a9803d9c"
+  },
+  "104": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Disposizioni abrogate",
+   "vigore_da": "1974-01-01",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "98ec2c312088"
+  },
+  "105": {
+   "file": "dpr-602-1973.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "3e4ed7143383"
+  }
+ }
+}

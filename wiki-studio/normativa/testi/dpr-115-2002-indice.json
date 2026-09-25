@@ -1,0 +1,2802 @@
+{
+ "_meta": {
+  "codice": "dpr-115-2002",
+  "nome": "Testo unico spese di giustizia (D.P.R. 115/2002)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-08-26",
+  "articoli": 316,
+  "file": [
+   "dpr-115-2002.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115",
+  "versioni": [
+   {
+    "data": "2002-06-15",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2002-12-06",
+    "evento": "rp1",
+    "atto_modificante": "atto modificante non indicato (rp1)"
+   },
+   {
+    "data": "2002-12-31",
+    "evento": "rp2",
+    "atto_modificante": "L. 27 dicembre 2002, n. 289"
+   },
+   {
+    "data": "2003-02-10",
+    "evento": "rp3",
+    "atto_modificante": "D.L. 8 febbraio 2003, n. 18"
+   },
+   {
+    "data": "2004-12-31",
+    "evento": "rp4",
+    "atto_modificante": "L. 30 dicembre 2004, n. 311"
+   },
+   {
+    "data": "2005-03-02",
+    "evento": "rp5",
+    "atto_modificante": "L. 24 febbraio 2005, n. 25"
+   },
+   {
+    "data": "2005-07-01",
+    "evento": "rp6",
+    "atto_modificante": "D.L. 30 giugno 2005, n. 115"
+   },
+   {
+    "data": "2006-02-02",
+    "evento": "rp7",
+    "atto_modificante": "atto modificante non indicato (rp7)"
+   },
+   {
+    "data": "2006-05-03",
+    "evento": "rp8",
+    "atto_modificante": "atto modificante non indicato (rp8)"
+   },
+   {
+    "data": "2006-07-04",
+    "evento": "rp9",
+    "atto_modificante": "D.L. 4 luglio 2006, n. 223"
+   },
+   {
+    "data": "2006-10-10",
+    "evento": "rp10",
+    "atto_modificante": "D.M. Ministero Della Giustizia 2 settembre 2006, n. 265"
+   },
+   {
+    "data": "2006-12-27",
+    "evento": "rp11",
+    "atto_modificante": "L. 27 dicembre 2006, n. 296"
+   },
+   {
+    "data": "2007-07-11",
+    "evento": "rp12",
+    "atto_modificante": "atto modificante non indicato (rp12)"
+   },
+   {
+    "data": "2007-12-28",
+    "evento": "rp13",
+    "atto_modificante": "L. 24 dicembre 2007, n. 244"
+   },
+   {
+    "data": "2008-05-26",
+    "evento": "rp14",
+    "atto_modificante": "D.L. 23 maggio 2008, n. 92"
+   },
+   {
+    "data": "2008-06-25",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 25 giugno 2008, n. 112"
+   },
+   {
+    "data": "2009-02-06",
+    "evento": "rp16",
+    "atto_modificante": "atto modificante non indicato (rp16)"
+   },
+   {
+    "data": "2009-02-24",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 23 febbraio 2009, n. 11"
+   },
+   {
+    "data": "2009-03-27",
+    "evento": "rp18",
+    "atto_modificante": "atto modificante non indicato (rp18)"
+   },
+   {
+    "data": "2009-06-19",
+    "evento": "rp19",
+    "atto_modificante": "L. 18 giugno 2009, n. 69"
+   },
+   {
+    "data": "2009-12-30",
+    "evento": "rp20+rp21",
+    "atto_modificante": "D.L. 29 dicembre 2009, n. 193; L. 23 dicembre 2009, n. 191"
+   },
+   {
+    "data": "2010-04-12",
+    "evento": "rp22",
+    "atto_modificante": "D.Lgs. 20 marzo 2010, n. 53"
+   },
+   {
+    "data": "2010-04-21",
+    "evento": "rp23",
+    "atto_modificante": "atto modificante non indicato (rp23)"
+   },
+   {
+    "data": "2010-05-31",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 31 maggio 2010, n. 78"
+   },
+   {
+    "data": "2010-07-07",
+    "evento": "rp25",
+    "atto_modificante": "D.Lgs. 2 luglio 2010, n. 104"
+   },
+   {
+    "data": "2010-12-29",
+    "evento": "rp26",
+    "atto_modificante": "D.L. 29 dicembre 2010, n. 225"
+   },
+   {
+    "data": "2011-07-06",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 6 luglio 2011, n. 98"
+   },
+   {
+    "data": "2011-08-13",
+    "evento": "rp28",
+    "atto_modificante": "D.L. 13 agosto 2011, n. 138"
+   },
+   {
+    "data": "2011-09-21",
+    "evento": "rp29",
+    "atto_modificante": "D.Lgs. 1 settembre 2011, n. 150"
+   },
+   {
+    "data": "2011-11-14",
+    "evento": "rp30",
+    "atto_modificante": "L. 12 novembre 2011, n. 183"
+   },
+   {
+    "data": "2012-01-24",
+    "evento": "rp31",
+    "atto_modificante": "D.L. 24 gennaio 2012, n. 1"
+   },
+   {
+    "data": "2012-03-02",
+    "evento": "rp32",
+    "atto_modificante": "D.L. 2 marzo 2012, n. 16"
+   },
+   {
+    "data": "2012-10-08",
+    "evento": "rp33",
+    "atto_modificante": "L. 1 ottobre 2012, n. 172"
+   },
+   {
+    "data": "2012-10-19",
+    "evento": "rp34",
+    "atto_modificante": "D.L. 18 ottobre 2012, n. 179"
+   },
+   {
+    "data": "2012-10-25",
+    "evento": "rp35",
+    "atto_modificante": "atto modificante non indicato (rp35)"
+   },
+   {
+    "data": "2012-12-29",
+    "evento": "rp36",
+    "atto_modificante": "L. 24 dicembre 2012, n. 228"
+   },
+   {
+    "data": "2013-08-16",
+    "evento": "rp37",
+    "atto_modificante": "D.L. 14 agosto 2013, n. 93"
+   },
+   {
+    "data": "2013-09-12",
+    "evento": "rp38",
+    "atto_modificante": "D.L. 12 settembre 2013, n. 104"
+   },
+   {
+    "data": "2013-12-27",
+    "evento": "rp39",
+    "atto_modificante": "L. 27 dicembre 2013, n. 147"
+   },
+   {
+    "data": "2014-03-18",
+    "evento": "rp40",
+    "atto_modificante": "D.Lgs. 4 marzo 2014, n. 32"
+   },
+   {
+    "data": "2014-04-18",
+    "evento": "rp41",
+    "atto_modificante": "atto modificante non indicato (rp41)"
+   },
+   {
+    "data": "2014-06-24",
+    "evento": "rp42",
+    "atto_modificante": "D.L. 24 giugno 2014, n. 90"
+   },
+   {
+    "data": "2014-07-23",
+    "evento": "rp43",
+    "atto_modificante": "atto modificante non indicato (rp43)"
+   },
+   {
+    "data": "2014-09-12",
+    "evento": "rp44",
+    "atto_modificante": "D.L. 12 settembre 2014, n. 132"
+   },
+   {
+    "data": "2015-06-27",
+    "evento": "rp45",
+    "atto_modificante": "D.L. 27 giugno 2015, n. 83"
+   },
+   {
+    "data": "2015-06-30",
+    "evento": "rp46",
+    "atto_modificante": "atto modificante non indicato (rp46)"
+   },
+   {
+    "data": "2015-08-12",
+    "evento": "rp47",
+    "atto_modificante": "atto modificante non indicato (rp47)"
+   },
+   {
+    "data": "2015-09-30",
+    "evento": "rp48",
+    "atto_modificante": "atto modificante non indicato (rp48)"
+   },
+   {
+    "data": "2015-10-07",
+    "evento": "rp49",
+    "atto_modificante": "D.Lgs. 24 settembre 2015, n. 156"
+   },
+   {
+    "data": "2015-12-30",
+    "evento": "rp50",
+    "atto_modificante": "L. 28 dicembre 2015, n. 208"
+   },
+   {
+    "data": "2016-08-31",
+    "evento": "rp51",
+    "atto_modificante": "D.L. 31 agosto 2016, n. 168"
+   },
+   {
+    "data": "2016-10-24",
+    "evento": "rp52",
+    "atto_modificante": "D.L. 22 ottobre 2016, n. 193"
+   },
+   {
+    "data": "2017-04-21",
+    "evento": "rp53",
+    "atto_modificante": "L. 7 aprile 2017, n. 47"
+   },
+   {
+    "data": "2017-07-19",
+    "evento": "rp54",
+    "atto_modificante": "atto modificante non indicato (rp54)"
+   },
+   {
+    "data": "2017-07-31",
+    "evento": "rp55",
+    "atto_modificante": "D.Lgs. 13 luglio 2017, n. 116"
+   },
+   {
+    "data": "2017-12-29",
+    "evento": "rp56",
+    "atto_modificante": "L. 27 dicembre 2017, n. 205"
+   },
+   {
+    "data": "2018-02-01",
+    "evento": "rp57",
+    "atto_modificante": "L. 11 gennaio 2018, n. 4"
+   },
+   {
+    "data": "2018-02-28",
+    "evento": "rp58",
+    "atto_modificante": "atto modificante non indicato (rp58)"
+   },
+   {
+    "data": "2018-07-26",
+    "evento": "rp59",
+    "atto_modificante": "atto modificante non indicato (rp59)"
+   },
+   {
+    "data": "2018-10-04",
+    "evento": "rp60",
+    "atto_modificante": "D.L. 4 ottobre 2018, n. 113"
+   },
+   {
+    "data": "2018-10-26",
+    "evento": "rp61",
+    "atto_modificante": "D.Lgs. 2 ottobre 2018, n. 120"
+   },
+   {
+    "data": "2019-02-14",
+    "evento": "rp62",
+    "atto_modificante": "D.Lgs. 12 gennaio 2019, n. 14"
+   },
+   {
+    "data": "2019-03-26",
+    "evento": "rp63",
+    "atto_modificante": "D.Lgs. 7 marzo 2019, n. 24"
+   },
+   {
+    "data": "2019-05-03",
+    "evento": "rp64",
+    "atto_modificante": "L. 26 aprile 2019, n. 36"
+   },
+   {
+    "data": "2019-06-05",
+    "evento": "rp65",
+    "atto_modificante": "atto modificante non indicato (rp65)"
+   },
+   {
+    "data": "2019-10-02",
+    "evento": "rp66",
+    "atto_modificante": "atto modificante non indicato (rp66)"
+   },
+   {
+    "data": "2020-04-08",
+    "evento": "rp67",
+    "atto_modificante": "D.L. 8 aprile 2020, n. 23"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp68",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-06-06",
+    "evento": "rp69",
+    "atto_modificante": "L. 5 giugno 2020, n. 40"
+   },
+   {
+    "data": "2020-10-28",
+    "evento": "rp70",
+    "atto_modificante": "D.L. 28 ottobre 2020, n. 137"
+   },
+   {
+    "data": "2020-11-16",
+    "evento": "rp71",
+    "atto_modificante": "D.Lgs. 26 ottobre 2020, n. 152"
+   },
+   {
+    "data": "2020-12-24",
+    "evento": "rp72",
+    "atto_modificante": "L. 18 dicembre 2020, n. 176"
+   },
+   {
+    "data": "2021-01-30",
+    "evento": "rp73",
+    "atto_modificante": "atto modificante non indicato (rp73)"
+   },
+   {
+    "data": "2021-05-05",
+    "evento": "rp74",
+    "atto_modificante": "atto modificante non indicato (rp74)"
+   },
+   {
+    "data": "2021-06-09",
+    "evento": "rp75",
+    "atto_modificante": "D.L. 9 giugno 2021, n. 80"
+   },
+   {
+    "data": "2021-07-21",
+    "evento": "rp76",
+    "atto_modificante": "atto modificante non indicato (rp76)"
+   },
+   {
+    "data": "2021-08-03",
+    "evento": "rp77",
+    "atto_modificante": "atto modificante non indicato (rp77)"
+   },
+   {
+    "data": "2021-08-07",
+    "evento": "rp78",
+    "atto_modificante": "L. 6 agosto 2021, n. 113"
+   },
+   {
+    "data": "2021-12-31",
+    "evento": "rp79",
+    "atto_modificante": "L. 30 dicembre 2021, n. 234"
+   },
+   {
+    "data": "2022-01-26",
+    "evento": "rp80",
+    "atto_modificante": "atto modificante non indicato (rp80)"
+   },
+   {
+    "data": "2022-07-06",
+    "evento": "rp81",
+    "atto_modificante": "atto modificante non indicato (rp81)"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp82+rp83",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149; D.Lgs. 10 ottobre 2022, n. 150"
+   },
+   {
+    "data": "2022-11-09",
+    "evento": "rp84",
+    "atto_modificante": "atto modificante non indicato (rp84)"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp85",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   },
+   {
+    "data": "2023-04-21",
+    "evento": "rp86",
+    "atto_modificante": "atto modificante non indicato (rp86)"
+   },
+   {
+    "data": "2023-06-06",
+    "evento": "rp87",
+    "atto_modificante": "atto modificante non indicato (rp87)"
+   },
+   {
+    "data": "2023-08-02",
+    "evento": "rp88",
+    "atto_modificante": "atto modificante non indicato (rp88)"
+   },
+   {
+    "data": "2023-08-10",
+    "evento": "rp89",
+    "atto_modificante": "D.L. 10 agosto 2023, n. 105"
+   },
+   {
+    "data": "2023-10-05",
+    "evento": "rp90",
+    "atto_modificante": "D.L. 5 ottobre 2023, n. 133"
+   },
+   {
+    "data": "2023-10-09",
+    "evento": "rp91",
+    "atto_modificante": "L. 9 ottobre 2023, n. 137"
+   },
+   {
+    "data": "2023-12-04",
+    "evento": "rp92",
+    "atto_modificante": "L. 1 dicembre 2023, n. 176"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp93",
+    "atto_modificante": "L. 30 dicembre 2023, n. 213"
+   },
+   {
+    "data": "2024-07-10",
+    "evento": "rp94",
+    "atto_modificante": "atto modificante non indicato (rp94)"
+   },
+   {
+    "data": "2024-10-11",
+    "evento": "rp95",
+    "atto_modificante": "D.L. 11 ottobre 2024, n. 145"
+   },
+   {
+    "data": "2024-11-11",
+    "evento": "rp96",
+    "atto_modificante": "D.Lgs. 31 ottobre 2024, n. 164"
+   },
+   {
+    "data": "2024-12-31",
+    "evento": "rp97",
+    "atto_modificante": "L. 30 dicembre 2024, n. 207"
+   },
+   {
+    "data": "2025-04-30",
+    "evento": "rp98",
+    "atto_modificante": "atto modificante non indicato (rp98)"
+   },
+   {
+    "data": "2025-07-11",
+    "evento": "rp99",
+    "atto_modificante": "atto modificante non indicato (rp99)"
+   },
+   {
+    "data": "2025-08-12",
+    "evento": "rp100",
+    "atto_modificante": "D.Lgs. 1 agosto 2025, n. 123"
+   },
+   {
+    "data": "2025-10-31",
+    "evento": "rp101",
+    "atto_modificante": "D.L. 31 ottobre 2025, n. 159"
+   },
+   {
+    "data": "2025-12-02",
+    "evento": "rp102",
+    "atto_modificante": "L. 2 dicembre 2025, n. 181"
+   },
+   {
+    "data": "2025-12-03",
+    "evento": "rp103",
+    "atto_modificante": "atto modificante non indicato (rp103)"
+   },
+   {
+    "data": "2025-12-30",
+    "evento": "rp104",
+    "atto_modificante": "L. 29 dicembre 2025, n. 198"
+   },
+   {
+    "data": "2026-02-24",
+    "evento": "rp105",
+    "atto_modificante": "D.L. 24 febbraio 2026, n. 23"
+   },
+   {
+    "data": "2026-06-12",
+    "evento": "rp106",
+    "atto_modificante": "D.L. 12 giugno 2026, n. 100"
+   },
+   {
+    "data": "2026-07-01",
+    "evento": "rp107",
+    "atto_modificante": "D.Lgs. 12 giugno 2026, n. 115"
+   },
+   {
+    "data": "2026-08-07",
+    "evento": "rp108",
+    "atto_modificante": "D.L. 7 agosto 2026, n. 144"
+   },
+   {
+    "data": "2026-08-11",
+    "evento": "rp109",
+    "atto_modificante": "D.Lgs. 7 agosto 2026, n. 149"
+   }
+  ],
+  "ultima_versione": "2026-08-11",
+  "datazione": {
+   "monoblocco": 316,
+   "api": 300,
+   "riportati": 12,
+   "ignota": 4,
+   "testo_diverso": 4,
+   "stima_anteriore": 252,
+   "chiamate": 304,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Oggetto",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "441915700df0"
+  },
+  "2": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "5e9725c98662"
+  },
+  "3": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "22ceca786e45"
+  },
+  "4": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Anticipazione delle spese",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "d550e06232ad"
+  },
+  "5": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese ripetibili e non ripetibili",
+   "vigore_da": "2014-04-02",
+   "datazione": "api",
+   "h": "486470f0b77d"
+  },
+  "6": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Remissione del debito",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "058780e85109"
+  },
+  "7": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Rogatorie all'estero",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "c12a604ef58b"
+  },
+  "8": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Onere delle spese",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "c29193103f78"
+  },
+  "8-bis": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Regime delle spese di giustizia nei procedimenti civili di cui e' parte il pubblico ministero",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "2a5a1e0df631"
+  },
+  "9": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Contributo unificato",
+   "vigore_da": "2011-07-17",
+   "datazione": "api",
+   "h": "633b1f96a2e7"
+  },
+  "10": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Esenzioni",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "natura": "L",
+   "h": "bec3033ed621"
+  },
+  "11": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Prenotazione a debito del contributo unificato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "d8cbc1fefd36"
+  },
+  "12": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Azione civile nel processo penale",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a14f238f76e1"
+  },
+  "13": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Importi",
+   "vigore_da": "2025-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "d5b4257d30f9"
+  },
+  "14": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Obbligo di pagamento",
+   "vigore_da": "2025-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "c42c10bab0ff"
+  },
+  "15": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Controllo in ordine alla dichiarazione di valore ed al pagamento del contributo unificato",
+   "vigore_da": "2005-08-23",
+   "datazione": "api",
+   "h": "f6de37093c82"
+  },
+  "16": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Omesso o insufficiente pagamento del contributo unificato",
+   "vigore_da": "2024-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "9acbafd6511a"
+  },
+  "17": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Variazione degli importi",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "f059ebf0b4a7"
+  },
+  "18": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Non applicabilita' dell'imposta di bollo nel processo penale e nei processi in cui e' dovuto il contributo unificato",
+   "vigore_da": "2013-01-01",
+   "datazione": "api",
+   "h": "edb1358256e4"
+  },
+  "18-bis": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Pubblicita' sul portale delle vendite pubbliche",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "9c429b84741e"
+  },
+  "19": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese di spedizione, diritti e indennita' di trasferta degli ufficiali giudiziari",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "77bb694f84b4"
+  },
+  "20": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Indennita' di trasferta",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "3ca527e1f244"
+  },
+  "21": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Calcolo delle distanze",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "2cc618bf3f8d"
+  },
+  "22": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Equiparazioni alla notifica a richiesta d'ufficio",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "da65aacd0fea"
+  },
+  "23": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Diritti",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a78292e6d3db"
+  },
+  "24": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Indennita' di trasferta",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "3014e064e1e3"
+  },
+  "25": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2009-07-04",
+   "datazione": "api",
+   "h": "6790e07134d9"
+  },
+  "26": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Indennita' di trasferta e spese di spedizione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "61320ea697d6"
+  },
+  "27": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Notificazioni a richiesta delle parti",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "2acfa130ac54"
+  },
+  "28": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Contestualita' di trasferte",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "f7a6088c2694"
+  },
+  "29": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Diritti",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "3e96498a11ac"
+  },
+  "30": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "0226b9341db7"
+  },
+  "31": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Indennita' di trasferta e spese di spedizione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "1b9af81e0854"
+  },
+  "32": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Notificazioni a richiesta delle parti",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "bfc079fb98c2"
+  },
+  "33": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Trasferte per la notifica e l'esecuzione di atti a richiesta di parte ammessa al patrocinio a spese dello Stato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "d84006189e23"
+  },
+  "34": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Importo dei diritti",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "cef0cc4eab2c"
+  },
+  "35": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Importo dell'indennita' di trasferta",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "ba236bc0a044"
+  },
+  "36": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Maggiorazioni per l'urgenza",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "4899df950d3e"
+  },
+  "37": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Diritto di esecuzione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "2418637e7e5c"
+  },
+  "38": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Indennita' di trasferta per atti di esecuzione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a56f19ada41d"
+  },
+  "39": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese di spedizione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "b13f705fa37f"
+  },
+  "40": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Determinazione di nuovi supporti e degli importi",
+   "vigore_da": "2014-08-19",
+   "datazione": "api",
+   "h": "e7e3390e92a9"
+  },
+  "41": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Trasferte di magistrati professionali e onorari",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "6c9d5a954990"
+  },
+  "42": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Trasferte di magistrati professionali di corte di assise",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "63077c0afe5f"
+  },
+  "43": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Trasferte di appartenenti all'ufficio, di ufficiali ed agenti di polizia giudiziaria",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "f19784c81368"
+  },
+  "44": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Trasferte degli ufficiali giudiziari",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "6b19bd7e85fe"
+  },
+  "45": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Indennita' per testimoni residenti",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "d1d54963ecc7"
+  },
+  "46": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese di viaggio e indennita' per testimoni non residenti",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "4aed4dd877c0"
+  },
+  "47": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Testimoni minori e accompagnatori di testimoni minori o invalidi",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "cfe04d909915"
+  },
+  "48": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Testimoni dipendenti pubblici",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "d6782e84b31f"
+  },
+  "49": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Elenco delle spettanze",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "324638e42e55"
+  },
+  "50": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Misura degli onorari",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "9118bfadeada"
+  },
+  "51": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Determinazione degli onorari variabili e aumento di quelli fissi e variabili",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "f1c3b51499e2"
+  },
+  "52": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Aumento e riduzione degli onorari",
+   "vigore_da": "2009-07-04",
+   "datazione": "api",
+   "h": "e51f8939b75e"
+  },
+  "53": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Incarichi collegiali",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "3d7ef4de400c"
+  },
+  "54": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Adeguamento periodico degli onorari",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "99acdd835a63"
+  },
+  "55": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Indennita' e spese di viaggio",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "e222418f29fb"
+  },
+  "56": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese per l'adempimento dell'incarico",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "fc1a21f9107a"
+  },
+  "57": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Equiparazione del commissario ad acta agli ausiliari del magistrato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "1c86d73250d3"
+  },
+  "58": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Indennita' di custodia",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a428daedb32d"
+  },
+  "59": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Tabelle delle tariffe vigenti",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "45b38238316a"
+  },
+  "60": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Convenzioni per le spese di pubblicazione dei provvedimenti del magistrato nel processo penale e civile",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "cf6ac4313f7b"
+  },
+  "61": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Esecuzione di sentenze recanti ordine di, o aventi ad oggetto la, demolizione di opere abusive e di riduzione in pristino dei luoghi",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "73ef7e962254"
+  },
+  "62": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Convenzione tra il Ministero delle infrastrutture e dei trasporti, il Ministero della difesa e il Ministero della giustizia",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "220a8b8a209c"
+  },
+  "63": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese per la demolizione di opere abusive e la riduzione in pristino dei luoghi",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "72a771849289"
+  },
+  "64": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2022-01-01",
+   "datazione": "api",
+   "h": "34559cb4a042"
+  },
+  "65": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Indennita' dei giudici popolari nei collegi di assise",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "0c5061201b6d"
+  },
+  "66": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Indennita' degli esperti dei tribunali e delle sezioni di corte di appello per i minori",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "da6847ce24b7"
+  },
+  "67": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Indennita' degli esperti dei tribunali di sorveglianza",
+   "vigore_da": "2002-12-06",
+   "datazione": "api",
+   "natura": "L",
+   "h": "dae535b87543"
+  },
+  "68": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Indennita' degli esperti delle sezioni agrarie",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "f7de3d022e9c"
+  },
+  "69": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese escluse",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "3a69f60e87fb"
+  },
+  "70": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese straordinarie",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "4a7fca753bcb"
+  },
+  "71": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Domanda di liquidazione e decadenza del diritto per testimoni, ausiliari del magistrato e aventi titolo alle trasferte",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "11a7af299478"
+  },
+  "72": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Domanda di liquidazione di acconti dell'indennita' di custodia",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "f2feec0975ac"
+  },
+  "73": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Procedura per la registrazione degli atti giudiziari",
+   "vigore_da": "2016-12-03",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "19bdacb4740d"
+  },
+  "73-bis": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Termini per la richiesta di registrazione",
+   "vigore_da": "2016-12-03",
+   "datazione": "api",
+   "h": "8c68c78ef582"
+  },
+  "73-ter": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Procedura per la registrazione degli atti giudiziari",
+   "vigore_da": "2009-07-04",
+   "datazione": "api",
+   "h": "6687908760c1"
+  },
+  "74": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Istituzione del patrocinio",
+   "vigore_da": "2022-01-27",
+   "datazione": "api",
+   "h": "c9adeb18a7f5"
+  },
+  "75": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ambito di applicabilita",
+   "vigore_da": "2022-01-27",
+   "datazione": "api",
+   "h": "b0232339eb57"
+  },
+  "76": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Condizioni per l'ammissione",
+   "vigore_da": "2026-07-16",
+   "datazione": "api",
+   "natura": "L",
+   "h": "7fe6773cccaf"
+  },
+  "77": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Adeguamento dei limiti di reddito per l'ammissione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "8715a341398a"
+  },
+  "78": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Istanza per l'ammissione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "2714d0ca475c"
+  },
+  "79": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Contenuto dell'istanza",
+   "vigore_da": "2021-07-22",
+   "datazione": "api",
+   "h": "c387627e63bd"
+  },
+  "80": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Nomina del difensore",
+   "vigore_da": "2005-03-17",
+   "datazione": "api",
+   "h": "c9dfbb472ca0"
+  },
+  "81": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Elenco degli avvocati per il patrocinio a spese dello Stato",
+   "vigore_da": "2005-03-17",
+   "datazione": "api",
+   "h": "ebcbb8c5d085"
+  },
+  "82": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Onorario e spese del difensore",
+   "vigore_da": "2005-01-01",
+   "datazione": "api",
+   "h": "abb48e62b669"
+  },
+  "83": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Onorario e spese dell'ausiliario del magistrato e del consulente tecnico di parte",
+   "vigore_da": "2022-01-27",
+   "datazione": "api",
+   "h": "8e68079b08f7"
+  },
+  "84": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Opposizione al decreto di pagamento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "634d49b86612"
+  },
+  "85": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Divieto di percepire compensi o rimborsi",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "42854b191ccd"
+  },
+  "86": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Recupero delle somme da parte dello Stato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "5859047a659a"
+  },
+  "87": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Servizio al pubblico in materia di patrocinio a spese dello Stato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "bd02b41ab488"
+  },
+  "88": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Controlli da parte della Guardia di finanza",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "4fe725ae6430"
+  },
+  "89": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Norme di attuazione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "d20cd2d014b4"
+  },
+  "90": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Equiparazione dello straniero e dell'apolide",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "57333f9ff83d"
+  },
+  "91": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Esclusione dal patrocinio",
+   "vigore_da": "2019-04-10",
+   "datazione": "api",
+   "h": "b5295015b90c"
+  },
+  "92": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Elevazione dei limiti di reddito per l'ammissione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "9af22356312a"
+  },
+  "93": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Presentazione dell'istanza al magistrato competente",
+   "vigore_da": "2008-07-26",
+   "datazione": "api",
+   "natura": "L",
+   "h": "0492d6f074a0"
+  },
+  "94": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Impossibilita' a presentare la documentazione necessaria ad accertare la veridicita",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "964ee637e95d"
+  },
+  "95": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Sanzioni",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "7c0e8cd6e68c"
+  },
+  "96": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Decisione sull'istanza di ammissione al patrocinio",
+   "vigore_da": "2008-07-26",
+   "datazione": "api",
+   "natura": "L",
+   "h": "396eb1de5286"
+  },
+  "97": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Provvedimenti adottabili dal magistrato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "e87b4d1cda4e"
+  },
+  "98": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Trasmissione all'ufficio finanziario degli atti relativi all'ammissione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "647c78a53b0f"
+  },
+  "99": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ricorso avverso i provvedimenti di rigetto dell'istanza",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "51f8c562c89b"
+  },
+  "100": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Nomina di un secondo difensore",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "e6a7fce1d3af"
+  },
+  "101": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Nomina del sostituto del difensore e dell'investigatore",
+   "vigore_da": "2005-03-17",
+   "datazione": "api",
+   "h": "c49c50bf12f6"
+  },
+  "102": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Nomina del consulente tecnico di parte",
+   "vigore_da": "2007-07-12",
+   "datazione": "api",
+   "natura": "L",
+   "h": "2aae2ca893c1"
+  },
+  "103": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Informazioni all'interessato in caso di nomina di un difensore di ufficio",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "4fe739f23135"
+  },
+  "104": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Compenso dell'investigatore privato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "77bdb77cc18f"
+  },
+  "105": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Liquidazione con provvedimento del giudice per le indagini preliminari",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "d6b2cc964897"
+  },
+  "106": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Esclusione dalla liquidazione dei compensi al difensore e al consulente tecnico di parte",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "03353653232f"
+  },
+  "106-bis": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Compensi del difensore, dell'ausiliario del magistrato, del consulente tecnico di parte e dell'investigatore privato autorizzato",
+   "vigore_da": "2017-07-20",
+   "datazione": "api",
+   "h": "aa157046bbcf"
+  },
+  "107": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Effetti dell'ammissione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "8c7463b5ddda"
+  },
+  "108": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Effetti dell'ammissione relativi all'azione di risarcimento del danno nel processo penale",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "100ddaece633"
+  },
+  "109": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Decorrenza degli effetti",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "b190ba75ef0a"
+  },
+  "110": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Pagamento in favore dello Stato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "c6ea22d49030"
+  },
+  "111": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Recupero nei confronti dell'imputato ammesso al patrocinio",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "7b116753e1a4"
+  },
+  "112": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Revoca del decreto di ammissione",
+   "vigore_da": "2005-08-23",
+   "datazione": "api",
+   "natura": "L",
+   "h": "bb039b1294f7"
+  },
+  "113": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ricorso avverso il decreto di revoca",
+   "vigore_da": "2005-08-23",
+   "datazione": "api",
+   "natura": "L",
+   "h": "6c1fe82e70c1"
+  },
+  "114": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Effetti della revoca",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "41f31949ae32"
+  },
+  "115": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Liquidazione dell'onorario e delle spese al difensore di persona ammessa al programma di protezione dei collaboratori di giustizia",
+   "vigore_da": "2003-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "b409c006064e"
+  },
+  "115-bis": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2019-05-18",
+   "datazione": "api",
+   "h": "56b9d532e6c2"
+  },
+  "116": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Liquidazione dell'onorario e delle spese al difensore di ufficio",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "83921494cfef"
+  },
+  "117": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Liquidazione dell'onorario e delle spese al difensore di ufficio di persona irreperibile",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a4ec4b630cfa"
+  },
+  "118": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Liquidazione dell'onorario e delle spese al difensore di ufficio del minore",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "37fd7807aad7"
+  },
+  "119": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Equiparazione dello straniero e dell'apolide",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "eebc0b4efcc0"
+  },
+  "120": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ambito di applicabilita",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "70d00277fb40"
+  },
+  "121": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Esclusione dal patrocinio",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "e52300507f54"
+  },
+  "122": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Contenuto integrativo dell'istanza",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "e9130b8710a0"
+  },
+  "123": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Termine per la presentazione o integrazione della documentazione necessaria ad accertare la veridicita",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "9bd08dbe7726"
+  },
+  "124": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Organo competente a ricevere l'istanza",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a93db2132f0d"
+  },
+  "125": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Sanzioni",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a2039ff4ca5f"
+  },
+  "126": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ammissione anticipata da parte del consiglio dell'ordine degli avvocati",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "0f7b3ffd50ca"
+  },
+  "127": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Trasmissione all'ufficio finanziario degli atti relativi all'ammissione al patrocinio",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "39071e0deea6"
+  },
+  "128": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Obbligo a carico del difensore",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "99bf833ee569"
+  },
+  "129": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Nomina del consulente tecnico di parte",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "ce75de881f28"
+  },
+  "130": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Compensi del difensore, dell'ausiliario del magistrato e del consulente tecnico di parte",
+   "vigore_da": "2025-12-04",
+   "datazione": "api",
+   "h": "14e9e6f9cbb2"
+  },
+  "130-bis": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Esclusione dalla liquidazione dei compensi al difensore e al consulente tecnico di parte",
+   "vigore_da": "2023-12-05",
+   "datazione": "api",
+   "h": "4167aff12356"
+  },
+  "131": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Effetti dell'ammissione al patrocinio",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "5eb96a522cd3"
+  },
+  "132": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Imposta di registro della sentenza e compensazione delle spese",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "6eb59e8a8dce"
+  },
+  "133": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Pagamento in favore dello Stato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a396d97c3e4f"
+  },
+  "134": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Recupero delle spese",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "b5e8ef69d486"
+  },
+  "135": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Norme particolari per alcuni processi",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "3ca00c628da8"
+  },
+  "136": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Revoca del provvedimento di ammissione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "6f3dd6a276b6"
+  },
+  "137": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ambito temporale di applicabilita",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "cf1d7a121442"
+  },
+  "138": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Commissione del patrocinio a spese dello Stato",
+   "vigore_da": "2026-08-26",
+   "datazione": "api",
+   "h": "6c18d436bdf3"
+  },
+  "139": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Funzioni della commissione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "36eb03dc14e4"
+  },
+  "140": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Nomina del difensore",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "44867405e596"
+  },
+  "141": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Onorario e spese del difensore",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "1c249d31442f"
+  },
+  "142": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2026-02-25",
+   "datazione": "api",
+   "h": "d3f3bab41269"
+  },
+  "143": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Processi previsti dalla legge 4 maggio 1983, n. 184, come modificata dalla legge 28 marzo 2001, n. 149",
+   "vigore_da": "2025-05-01",
+   "datazione": "api",
+   "h": "a8ea72f08fd1"
+  },
+  "144": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Processo in cui e' parte un fallimento",
+   "vigore_da": "2024-07-11",
+   "datazione": "api",
+   "h": "fa8dde4463f1"
+  },
+  "145": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Processo di interdizione e inabilitazione ad istanza del pubblico ministero",
+   "vigore_da": "2023-08-03",
+   "datazione": "api",
+   "h": "ac3958dcfad6"
+  },
+  "146": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Prenotazioni a debito, anticipazioni e recupero delle spese",
+   "vigore_da": "2024-07-11",
+   "datazione": "api",
+   "h": "1fbb9bb03b81"
+  },
+  "147": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Recupero delle spese in caso di revoca della dichiarazione di apertura della liquidazione giudiziale",
+   "vigore_da": "2019-03-16",
+   "datazione": "api",
+   "h": "371987261bc2"
+  },
+  "148": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Prenotazioni a debito, anticipazioni e recupero delle spese",
+   "vigore_da": "2021-05-06",
+   "datazione": "api",
+   "h": "ad5de76264f4"
+  },
+  "149": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Raccordo",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "781eec089c05"
+  },
+  "150": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Restituzione di beni sequestrati",
+   "vigore_da": "2005-08-23",
+   "datazione": "api",
+   "h": "09965785de06"
+  },
+  "151": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Provvedimenti in caso di mancato ritiro del bene restituito e vendita in casi particolari",
+   "vigore_da": "2005-08-23",
+   "datazione": "api",
+   "h": "ec3f2ab9b309"
+  },
+  "152": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Vendita",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "aa2b657f3382"
+  },
+  "153": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Modalita' di deposito delle somme ricavate dalla vendita dei beni sequestrati e delle somme e dei valori sequestrati",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "96d9788f1b8b"
+  },
+  "154": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Destinazione del ricavato della vendita e di somme e valori",
+   "vigore_da": "2005-08-23",
+   "datazione": "api",
+   "h": "5c538ab86814"
+  },
+  "155": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese nella procedura di vendita di beni sequestrati",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "d4850ef76751"
+  },
+  "156": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese nella procedura di vendita di beni confiscati",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "bfcae8198e63"
+  },
+  "157": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese processuali della procedura esecutiva attivata dal concessionario per la riscossione delle entrate iscritte a ruolo",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "8db359b5b46d"
+  },
+  "158": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese nel processo in cui e' parte l'amministrazione pubblica ammessa alla prenotazione a debito e recupero delle stesse",
+   "vigore_da": "2025-12-31",
+   "datazione": "api",
+   "h": "59fdd9d12773"
+  },
+  "159": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Imposta di registro della sentenza e compensazione delle spese",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "b762563ca9c5"
+  },
+  "159-bis": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Disposizioni speciali per i procedimenti per l'apertura delle tutele dei minori non accompagnati",
+   "vigore_da": "2024-11-26",
+   "datazione": "api",
+   "h": "cf799f184707"
+  },
+  "160": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Funzioni sottoposte ad annotazioni",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "eff189b9f593"
+  },
+  "161": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Elenco registri",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "b695af80f84d"
+  },
+  "162": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Attivita' dell'ufficio",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "07b5fa6b84a4"
+  },
+  "163": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Determinazione dei modelli dei registri",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a97772fc4247"
+  },
+  "164": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Rinvio",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "74a97d06eb69"
+  },
+  "165": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ordine di pagamento emesso dal funzionario",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "0333600770d7"
+  },
+  "166": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ordine di pagamento anticipato per i testimoni nel processo penale",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a089d4b66cf3"
+  },
+  "167": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ordine di pagamento dell'indennita' di trasferta agli ufficiali giudiziari",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "6fba88d5518f"
+  },
+  "168": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Decreto di pagamento delle spettanze agli ausiliari del magistrato e dell'indennita' di custodia",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "15bdeb33aa2f"
+  },
+  "168-bis": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Decreto di pagamento delle prestazioni di cui all'articolo 57 del decreto legislativo 1° agosto 2003, n. 259, e di quelle funzionali all'utilizzo delle medesime",
+   "vigore_da": "2026-08-08",
+   "datazione": "api",
+   "natura": "L",
+   "h": "bbe6fa11a81b"
+  },
+  "169": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Decreto di pagamento delle spese per la demolizione e la riduzione in pristino dei luoghi",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "d68176f204db"
+  },
+  "170": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Opposizione al decreto di pagamento",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "80f0bf263a08"
+  },
+  "171": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Effetti del decreto di pagamento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "9b294ae87ba3"
+  },
+  "172": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Responsabilita",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "51b8cb65f3ae"
+  },
+  "173": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Soggetti abilitati ad eseguire il pagamento delle spese",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a16fbaf99ff8"
+  },
+  "174": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Pagamenti eseguibili dall'ufficio postale",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "032ca03ec14d"
+  },
+  "175": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ufficio competente ad eseguire il pagamento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "b69952cd90fe"
+  },
+  "176": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Modalita' di pagamento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "9b811037a462"
+  },
+  "177": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Modello di pagamento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "e3e25b343862"
+  },
+  "178": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Adempimenti preliminari da parte dell'ufficio che dispone il pagamento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "4edfba418d5e"
+  },
+  "179": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Adempimenti comuni al concessionario e all'ufficio postale",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "efc651a3ddb2"
+  },
+  "180": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Adempimenti dell'ufficio postale",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "6bdfd24a34df"
+  },
+  "181": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Adempimenti del concessionario",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "02d749918c8d"
+  },
+  "182": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Prospetto riepilogativo dei pagamenti",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a2a5f84a46f8"
+  },
+  "183": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Regolazione e rimborso dei pagamenti",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a12335d7e83a"
+  },
+  "184": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Versamento di ritenute e di imposte",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "017a42862a3f"
+  },
+  "185": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Aperture di credito",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "0403d98a7f05"
+  },
+  "186": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Funzionari delegati",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "ccfe3f06a2a1"
+  },
+  "187": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Recupero delle somme indebitamente pagate a terzi",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "8456dcb7cdc5"
+  },
+  "188": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Compensi ai concessionari",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "9b13adea8b47"
+  },
+  "189": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Compensi a Poste Italiane S.p.a",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "72fe5080c86f"
+  },
+  "190": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Determinazione delle regole tecniche telematiche",
+   "vigore_da": "2020-12-25",
+   "datazione": "api",
+   "h": "5b691bb7b700"
+  },
+  "191": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2023-02-28",
+   "datazione": "api",
+   "h": "368d4ebad8a7"
+  },
+  "192": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Modalita' di pagamento",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "379e96d45bdb"
+  },
+  "193": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Convenzioni per il pagamento presso le rivendite di generi di monopolio",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "97aa9cd8e679"
+  },
+  "194": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ricevuta di versamento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "8ddf0449be06"
+  },
+  "195": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Determinazione delle regole tecniche telematiche",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "9b2e3cdce338"
+  },
+  "196": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Determinazione delle modalita' di pagamento",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "df9e2a6f37c6"
+  },
+  "197": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Pagamento delle spettanze degli ufficiali giudiziari relative a notifiche a richiesta di parte nel processo penale, civile, amministrativo, contabile e tributario",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "382626ea3d18"
+  },
+  "198": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Determinazione delle regole tecniche telematiche",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "2b575552704f"
+  },
+  "199": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Pagamento delle spese di viaggio e indennita' spettanti a testimoni e consulenti tecnici citati a richiesta di parte nel processo penale",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "c4fef3dbf3a0"
+  },
+  "200": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Applicabilita' della procedura nel processo penale",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "8abf052bb405"
+  },
+  "201": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Applicabilita' della procedura nel processo civile, amministrativo, contabile e tributario",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "584876f6696d"
+  },
+  "202": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Applicabilita' della procedura alle sanzioni pecuniarie processuali",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a855f53c7c1c"
+  },
+  "203": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Esclusione della procedura per alcuni processi",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "06a8d9e92911"
+  },
+  "204": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Recupero delle spese",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "e44e106361e7"
+  },
+  "205": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2009-07-04",
+   "datazione": "api",
+   "h": "44174cdb8e48"
+  },
+  "206": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese di mantenimento dei detenuti definitivi e in stato di custodia cautelare",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "5d8acda6c66b"
+  },
+  "207": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Recupero delle spese",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "98eb28778ed4"
+  },
+  "208": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ufficio competente",
+   "vigore_da": "2022-01-01",
+   "datazione": "api",
+   "h": "ff0ea2b088ec"
+  },
+  "209": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ufficio competente per le spese di mantenimento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "30d6a08a8137"
+  },
+  "210": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Discarico automatico",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "93b40a537ccf"
+  },
+  "211": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Quantificazione dell'importo dovuto",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "12e0df580cc9"
+  },
+  "212": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Invito al pagamento",
+   "vigore_da": "2009-07-04",
+   "datazione": "api",
+   "h": "0f28eea7bb48"
+  },
+  "213": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Iscrizione a ruolo",
+   "vigore_da": "2008-01-01",
+   "datazione": "api",
+   "h": "1921d796c599"
+  },
+  "214": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Trasmissione di notizie",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "77c3efde66d6"
+  },
+  "215": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Sospensione amministrativa della riscossione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "475952355552"
+  },
+  "216": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Rimborso al concessionario delle spese relative alle procedure esecutive e rimborso delle somme versate al debitore per indebiti pagamenti",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "663ac7e8e4d7"
+  },
+  "217": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Dati contenuti nel modello di pagamento e nel ruolo",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "ec7e2b1dbfe3"
+  },
+  "218": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Dilazione o rateizzazione del credito",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "f60c17b0940b"
+  },
+  "219": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Annullamento per irreperibilita",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "55ff9bdded8c"
+  },
+  "220": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Annullamento per insussistenza",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "17e15e0a0983"
+  },
+  "221": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Comunicazioni tra uffici relative a reati finanziari",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "7e43085b83e9"
+  },
+  "222": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Adempimento spontaneo",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "5289e2468f66"
+  },
+  "223": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Riscossione mediante ruolo",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "1787de5d7706"
+  },
+  "224": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Riscossione coattiva",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "e43e4bb02e7c"
+  },
+  "225": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Esenzioni",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "1137c5f272f1"
+  },
+  "226": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Garanzie giurisdizionali e sospensione amministrativa e giurisdizionale della riscossione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "9ca70bfbe7ca"
+  },
+  "227": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Concessionari",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "bb7da12c26c8"
+  },
+  "227-bis": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Quantificazione dell'importo dovuto",
+   "vigore_da": "2009-07-04",
+   "datazione": "api",
+   "h": "b7290c08ae1f"
+  },
+  "227-ter": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2009-07-04",
+   "datazione": "api",
+   "h": "17acfcff1a3e"
+  },
+  "227-quater": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Norme applicabili",
+   "vigore_da": "2009-07-04",
+   "datazione": "api",
+   "h": "793116b9ccfd"
+  },
+  "228": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Estinzione legale di crediti relativi a spese processuali e di mantenimento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "0bfdcc8dec14"
+  },
+  "229": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Estinzione legale di crediti relativi a sanzioni pecuniarie processuali",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "cbe2d1a37450"
+  },
+  "230": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Discarico automatico per inesigibilita' di crediti relativi a spese processuali e di mantenimento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "29e659ded4f1"
+  },
+  "231": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Reiscrizione a ruolo",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "8bf2df64b862"
+  },
+  "232": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Dilazione e rateizzazione del pagamento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "c97c650accb5"
+  },
+  "233": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Procedura per la concessione della dilazione e rateizzazione",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "1af6ba2f3e08"
+  },
+  "234": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Riscossione delle spese",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "cee9cfa098bd"
+  },
+  "235": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Annullamento del credito per irreperibilita' e possibile reviviscenza",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "e024b657b07b"
+  },
+  "236": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "1d008a80b2cc"
+  },
+  "237": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "1d008a80b2cc"
+  },
+  "238": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "1d008a80b2cc"
+  },
+  "238-bis": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2022-12-30",
+   "datazione": "api",
+   "h": "1d008a80b2cc"
+  },
+  "239": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Comunicazioni",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a118952567e4"
+  },
+  "240": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Dilazione e rateizzazione del pagamento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "2e65cba14bb4"
+  },
+  "241": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Annullamento del credito per irreperibilita' e possibile reviviscenza",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "096aabe15760"
+  },
+  "242": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Raccordo",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "dfc2267835cd"
+  },
+  "243": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Versamenti di somme agli ufficiali giudiziari",
+   "vigore_da": "2009-07-04",
+   "datazione": "api",
+   "h": "b642d36989bd"
+  },
+  "244": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Versamenti di somme prenotate a debito ad altri soggetti",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "2833ff563c90"
+  },
+  "245": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Privilegi",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "672abcb5cfc5"
+  },
+  "246": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Versamento agli ufficiali giudiziari della percentuale sul riscosso",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "eb64d43f9578"
+  },
+  "247": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ufficio competente",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "95a4eda30f23"
+  },
+  "248": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Invito al pagamento",
+   "vigore_da": "2025-01-01",
+   "datazione": "api",
+   "natura": "R",
+   "h": "c925fbaf1f5b"
+  },
+  "249": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Norme applicabili",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "465c0d1cf5c6"
+  },
+  "250": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Esclusione del diritto di certificato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "82317af876f9"
+  },
+  "251": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ordine di pagamento emesso dal funzionario",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "ddde5f2bf420"
+  },
+  "252": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Costo per il rilascio di copia conforme in casi particolari",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "aae875059b13"
+  },
+  "253": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Determinazione dell'importo e pagamento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "93473197c2bc"
+  },
+  "254": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Imposta di bollo",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "58b8a3077a43"
+  },
+  "255": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Procedure di anticipo e riscossione delle spese",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "8e98578053ec"
+  },
+  "256": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ordine di pagamento emesso dal funzionario",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "d7cbd32b2579"
+  },
+  "257": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "4518efc66877"
+  },
+  "258": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Modalita' di pagamento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "3edd1142c69c"
+  },
+  "259": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Pubblicazione gratuita di provvedimenti del magistrato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "2bf267cf23f4"
+  },
+  "260": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2011-07-17",
+   "datazione": "api",
+   "h": "e689b9d17e45"
+  },
+  "261": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Spese processuali nel processo tributario dinanzi alla Corte di cassazione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "8c0e584d238f"
+  },
+  "262": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Diritto di copia",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "257b736bdef7"
+  },
+  "263": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Esenzione",
+   "vigore_da": "2014-01-01",
+   "datazione": "api",
+   "h": "a3446d6f33e3"
+  },
+  "264": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Modalita' di pagamento",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "77cb9ab273b5"
+  },
+  "265": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Contributo unificato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "468227ea49ce"
+  },
+  "266": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Raccordo",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "b0b69a2fcbd9"
+  },
+  "267": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Diritto di copia senza certificazione di conformita",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "8dc5a9807d10"
+  },
+  "268": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Diritto di copia autentica",
+   "vigore_da": "2014-08-19",
+   "datazione": "api",
+   "h": "8ad1f4db91dc"
+  },
+  "269": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Diritto di copia su supporto diverso da quello cartaceo",
+   "vigore_da": "2025-01-01",
+   "datazione": "api",
+   "h": "8d6a571c9b2f"
+  },
+  "269-bis": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Diritto di trasmissione con modalita' telematica di duplicati e copie informatiche nel procedimento penale",
+   "vigore_da": "2025-01-01",
+   "datazione": "api",
+   "h": "08860e8f5d21"
+  },
+  "270": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Copia urgente su supporto cartaceo",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "bb12fd431469"
+  },
+  "271": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Diritti di copia per i processi dinanzi al giudice di pace",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "450a83692b4c"
+  },
+  "272": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Diritto di copia ai sensi dell'articolo 164 del decreto legislativo 28 luglio 1989, n. 271 e dell'articolo 137 del regio decreto 18 dicembre 1941, n. 1368",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "8c576b58cefa"
+  },
+  "273": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Diritto di certificato",
+   "vigore_da": "2021-08-18",
+   "datazione": "api",
+   "h": "c65d079e799c"
+  },
+  "274": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Adeguamento periodico degli importi",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "c4810ff81a09"
+  },
+  "275": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Onorari degli ausiliari del magistrato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "db1575f7b1a7"
+  },
+  "276": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Determinazione dell'indennita' di custodia",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "34e46d727063"
+  },
+  "277": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Importo da corrispondere alle strutture tecnico-operative del Ministero della difesa",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "abdcc9ee36ce"
+  },
+  "278": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Registrazione degli atti giudiziari nel processo civile e amministrativo",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "85cc33300e2f"
+  },
+  "279": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ammissione al patrocinio nel processo civile, amministrativo, contabile e tributario",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "f96f6cf26a71"
+  },
+  "280": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Foglio delle notizie e rubrica alfabetica",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "da6d2a78ef41"
+  },
+  "281": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Crediti gia' iscritti nella tavola alfabetica",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "87b6378f2deb"
+  },
+  "282": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Sopravvivenza delle disposizioni vigenti",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "a4f17eceb377"
+  },
+  "283": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Ordine di pagamento delle spese postali per notificazioni",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "09f8b3629385"
+  },
+  "284": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Raccordo",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "21663b74bcb3"
+  },
+  "285": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Modalita' di pagamento del diritto di copia, del diritto di certificato e delle spese per le notificazioni a richiesta d'ufficio nel processo civile",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "dbee435573e8"
+  },
+  "286": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Modalita' di pagamento della copia su compact disk",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "678d830ece5f"
+  },
+  "287": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Estinzione legale di crediti relativi a spese processuali e di mantenimento di un certo importo",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "9d7c3c8ac13a"
+  },
+  "288": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Discarico automatico per inesigibilita' delle spese processuali e di mantenimento di importo non superiore ad euro 25,82",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "eb7046fc1ebd"
+  },
+  "289": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2025-01-01",
+   "datazione": "api",
+   "h": "de3f54b842eb"
+  },
+  "290": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Versamenti di somme alla cassa di previdenza dei cancellieri",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "b73ee6fcb9da"
+  },
+  "291": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "313582b0021b"
+  },
+  "292": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Versamenti di somme alle casse di previdenza degli accertatori dei reati finanziari",
+   "vigore_da": "2002-12-06",
+   "datazione": "api",
+   "natura": "R",
+   "h": "828180c12ebb"
+  },
+  "293": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Processi davanti al tribunale superiore delle acque pubbliche e ai tribunali regionali delle acque pubbliche",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "4ed598aed7a6"
+  },
+  "294": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Relazione al Parlamento sul patrocinio a spese dello Stato",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "bf8ab7b4b304"
+  },
+  "295": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Rinvio per la copertura finanziaria",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "02face980671"
+  },
+  "296": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Modifiche alle norme esterne ed interne al testo unico",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "e9b43b16fd8f"
+  },
+  "297": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Non applicabilita' di norme",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "7cf4b44aa5cd"
+  },
+  "298": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Norme che restano abrogate",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "b3ad9b0bf2a2"
+  },
+  "299": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Abrogazioni di norme primarie",
+   "vigore_da": "2002-12-06",
+   "datazione": "api",
+   "natura": "L",
+   "h": "69d44cc104ff"
+  },
+  "300": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Abrogazioni parziali e riformulazioni conseguenti di norme",
+   "vigore_da": "2002-07-01",
+   "datazione": "api",
+   "h": "90c74c7f080d"
+  },
+  "301": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Abrogazioni di norme secondarie",
+   "vigore_da": "2002-12-06",
+   "datazione": "api",
+   "natura": "R",
+   "h": "9f1983841dd3"
+  },
+  "302": {
+   "file": "dpr-115-2002.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2002-12-06",
+   "datazione": "api",
+   "natura": "L",
+   "h": "2bdf90786add"
+  }
+ }
+}

@@ -1,0 +1,959 @@
+{
+ "_meta": {
+  "codice": "dpr-445-2000",
+  "nome": "Testo unico documentazione amministrativa (D.P.R. 445/2000)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-02-19",
+  "articoli": 92,
+  "file": [
+   "dpr-445-2000.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445",
+  "versioni": [
+   {
+    "data": "2001-02-20",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2002-02-15",
+    "evento": "rp1",
+    "atto_modificante": "D.Lgs. 23 gennaio 2002, n. 10"
+   },
+   {
+    "data": "2003-01-20",
+    "evento": "rp2",
+    "atto_modificante": "L. 16 gennaio 2003, n. 3"
+   },
+   {
+    "data": "2003-02-13",
+    "evento": "rp3",
+    "atto_modificante": "D.P.R. 14 novembre 2002, n. 313"
+   },
+   {
+    "data": "2003-06-17",
+    "evento": "rp4",
+    "atto_modificante": "D.P.R. 7 aprile 2003, n. 137"
+   },
+   {
+    "data": "2003-07-03",
+    "evento": "rp5",
+    "atto_modificante": "atto modificante non indicato (rp5)"
+   },
+   {
+    "data": "2003-07-29",
+    "evento": "rp6",
+    "atto_modificante": "D.Lgs. 30 giugno 2003, n. 196"
+   },
+   {
+    "data": "2005-04-28",
+    "evento": "rp7",
+    "atto_modificante": "D.P.R. 11 febbraio 2005, n. 68"
+   },
+   {
+    "data": "2005-05-16",
+    "evento": "rp8",
+    "atto_modificante": "D.Lgs. 7 marzo 2005, n. 82"
+   },
+   {
+    "data": "2005-09-13",
+    "evento": "rp9",
+    "atto_modificante": "Circ. Centro Nazionale Per L'Informatica Nella Pubblica Amministrazione 6 settembre 2005, n. 48"
+   },
+   {
+    "data": "2011-01-10",
+    "evento": "rp10",
+    "atto_modificante": "D.Lgs. 30 dicembre 2010, n. 235"
+   },
+   {
+    "data": "2011-05-13",
+    "evento": "rp11",
+    "atto_modificante": "D.L. 13 maggio 2011, n. 70"
+   },
+   {
+    "data": "2011-11-14",
+    "evento": "rp12",
+    "atto_modificante": "L. 12 novembre 2011, n. 183"
+   },
+   {
+    "data": "2011-12-29",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 29 dicembre 2011, n. 216"
+   },
+   {
+    "data": "2012-02-09",
+    "evento": "rp14",
+    "atto_modificante": "D.L. 9 febbraio 2012, n. 5"
+   },
+   {
+    "data": "2012-03-02",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 2 marzo 2012, n. 16"
+   },
+   {
+    "data": "2012-07-31",
+    "evento": "rp16",
+    "atto_modificante": "Circ. Presidenza Del Consiglio Dei Ministri Dipartimento Della Funzione Pubblica 23 maggio 2012, n. 5"
+   },
+   {
+    "data": "2012-09-05",
+    "evento": "rp17+rp18",
+    "atto_modificante": "Circ. Presidenza Del Consiglio Dei Ministri Dipartimento Della Funzione Pubblica 17 aprile 2012, n. 3; Circ. Presidenza Del Consiglio Dei Ministri Dipartimento Della Funzione Pubblica 31 maggio 2012, n. 6"
+   },
+   {
+    "data": "2012-12-29",
+    "evento": "rp19",
+    "atto_modificante": "L. 24 dicembre 2012, n. 228"
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp20",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2013-08-03",
+    "evento": "rp21",
+    "atto_modificante": "atto modificante non indicato (rp21)"
+   },
+   {
+    "data": "2013-12-30",
+    "evento": "rp22",
+    "atto_modificante": "D.L. 30 dicembre 2013, n. 150"
+   },
+   {
+    "data": "2014-08-22",
+    "evento": "rp23",
+    "atto_modificante": "D.L. 22 agosto 2014, n. 119"
+   },
+   {
+    "data": "2014-12-31",
+    "evento": "rp24",
+    "atto_modificante": "D.L. 31 dicembre 2014, n. 192"
+   },
+   {
+    "data": "2015-12-30",
+    "evento": "rp25",
+    "atto_modificante": "D.L. 30 dicembre 2015, n. 210"
+   },
+   {
+    "data": "2016-12-30",
+    "evento": "rp26",
+    "atto_modificante": "D.L. 30 dicembre 2016, n. 244"
+   },
+   {
+    "data": "2017-12-29",
+    "evento": "rp27",
+    "atto_modificante": "L. 27 dicembre 2017, n. 205"
+   },
+   {
+    "data": "2018-12-31",
+    "evento": "rp28",
+    "atto_modificante": "L. 30 dicembre 2018, n. 145"
+   },
+   {
+    "data": "2019-04-18",
+    "evento": "rp29",
+    "atto_modificante": "L. 12 aprile 2019, n. 31"
+   },
+   {
+    "data": "2019-12-31",
+    "evento": "rp30",
+    "atto_modificante": "D.L. 30 dicembre 2019, n. 162"
+   },
+   {
+    "data": "2020-02-29",
+    "evento": "rp31",
+    "atto_modificante": "L. 28 febbraio 2020, n. 8"
+   },
+   {
+    "data": "2020-05-19",
+    "evento": "rp32",
+    "atto_modificante": "D.L. 19 maggio 2020, n. 34"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp33",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   },
+   {
+    "data": "2020-07-18",
+    "evento": "rp34",
+    "atto_modificante": "L. 17 luglio 2020, n. 77"
+   },
+   {
+    "data": "2020-09-14",
+    "evento": "rp35",
+    "atto_modificante": "L. 11 settembre 2020, n. 120"
+   },
+   {
+    "data": "2020-10-28",
+    "evento": "rp36",
+    "atto_modificante": "D.L. 28 ottobre 2020, n. 137"
+   },
+   {
+    "data": "2020-11-09",
+    "evento": "rp37",
+    "atto_modificante": "D.L. 9 novembre 2020, n. 149"
+   },
+   {
+    "data": "2020-12-24",
+    "evento": "rp38",
+    "atto_modificante": "L. 18 dicembre 2020, n. 176"
+   },
+   {
+    "data": "2020-12-31",
+    "evento": "rp39",
+    "atto_modificante": "D.L. 31 dicembre 2020, n. 183"
+   },
+   {
+    "data": "2021-05-31",
+    "evento": "rp40",
+    "atto_modificante": "D.L. 31 maggio 2021, n. 77"
+   },
+   {
+    "data": "2021-12-30",
+    "evento": "rp41",
+    "atto_modificante": "D.L. 30 dicembre 2021, n. 228"
+   },
+   {
+    "data": "2022-04-30",
+    "evento": "rp42",
+    "atto_modificante": "D.L. 30 aprile 2022, n. 36"
+   },
+   {
+    "data": "2022-06-29",
+    "evento": "rp43",
+    "atto_modificante": "L. 29 giugno 2022, n. 79"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp44",
+    "atto_modificante": "D.L. 29 dicembre 2022, n. 198"
+   },
+   {
+    "data": "2023-12-30",
+    "evento": "rp45",
+    "atto_modificante": "D.L. 30 dicembre 2023, n. 215"
+   },
+   {
+    "data": "2024-12-27",
+    "evento": "rp46",
+    "atto_modificante": "D.L. 27 dicembre 2024, n. 202"
+   },
+   {
+    "data": "2025-02-24",
+    "evento": "rp47",
+    "atto_modificante": "L. 21 febbraio 2025, n. 15"
+   },
+   {
+    "data": "2026-02-04",
+    "evento": "rp48",
+    "atto_modificante": "L. 19 gennaio 2026, n. 11"
+   }
+  ],
+  "ultima_versione": "2026-02-04",
+  "datazione": {
+   "monoblocco": 92,
+   "api": 63,
+   "riportati": 28,
+   "ignota": 1,
+   "testo_diverso": 1,
+   "stima_anteriore": 46,
+   "chiamate": 64,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "0db77e922b15"
+  },
+  "2": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Oggetto",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "natura": "L",
+   "h": "e64edb41c25d"
+  },
+  "3": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Soggetti",
+   "vigore_da": "2025-02-25",
+   "datazione": "api",
+   "natura": "R",
+   "h": "1630746e9642"
+  },
+  "4": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Impedimento alla sottoscrizione e alla dichiarazione",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "a943f36bccf6"
+  },
+  "5": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Rappresentanza legale",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "L",
+   "h": "265c3d92c9b4"
+  },
+  "6": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "7": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Redazione e stesura di atti pubblici",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "L",
+   "h": "1eaec94b9d3c"
+  },
+  "8": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "9": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "10": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "11": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "12": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "13": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "14": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "15": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Trasmissione dall'estero di atti agli uffici di stato civile",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "h": "8ed1d3e0be21"
+  },
+  "15-bis": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Notificazioni di atti e documenti, comunicazioni ed avvisi",
+   "vigore_da": "2004-01-01",
+   "datazione": "api",
+   "h": "25f645e8e4df"
+  },
+  "16": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2004-01-01",
+   "datazione": "api",
+   "h": "66d805975c00"
+  },
+  "17": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "18": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "h": "40a76a774ce2"
+  },
+  "19": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Modalita' alternative all'autenticazione di copie",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "516f931a6457"
+  },
+  "19-bis": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Disposizioni concernenti la dichiarazione sostitutiva",
+   "vigore_da": "2003-02-04",
+   "datazione": "api",
+   "h": "0744ce01c592"
+  },
+  "20": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "21": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Autenticazione delle sottoscrizioni",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "3ec35514ad83"
+  },
+  "22": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "23": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "24": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "25": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "26": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "27": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "27-bis": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "28": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "28-bis": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "29": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "29-bis": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "29-ter": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "29-quater": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "29-quinquies": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "29-sexies": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "29-septies": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "29-octies": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "30": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Modalita' per la legalizzazione di firme",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "h": "ae808586dd9a"
+  },
+  "31": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Atti non soggetti a legalizzazione",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "L",
+   "h": "f76967b83e1c"
+  },
+  "32": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Legalizzazione di firme di capi di scuole parificate o legalmente riconosciute",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "L",
+   "h": "7a60d21b975a"
+  },
+  "33": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Legalizzazione di firme di atti da e per l'estero",
+   "vigore_da": "2026-02-19",
+   "datazione": "api",
+   "natura": "L",
+   "h": "7067395547c3"
+  },
+  "34": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Legalizzazione di fotografie",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "L",
+   "h": "e252552aad9e"
+  },
+  "35": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "(L-R) Documenti di identita' e di riconoscimento",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "h": "d675883a8ca7"
+  },
+  "36": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Carta d'identita' e documenti elettronici",
+   "vigore_da": "2020-07-17",
+   "datazione": "api",
+   "natura": "L",
+   "h": "d3cea5dcca62"
+  },
+  "37": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Esenzioni fiscali",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "L",
+   "h": "9c3b5a6bf20c"
+  },
+  "38": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "(L-R) Modalita' di invio e sottoscrizione delle istanze",
+   "vigore_da": "2011-01-25",
+   "datazione": "api",
+   "h": "838163d06276"
+  },
+  "39": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Domande per la partecipazione a concorsi pubblici",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "L",
+   "h": "2f57cad5b81a"
+  },
+  "40": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Certificati",
+   "vigore_da": "2012-04-29",
+   "datazione": "api",
+   "natura": "L",
+   "h": "ecf359a37200"
+  },
+  "41": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Validita' dei certificati",
+   "vigore_da": "2012-01-01",
+   "datazione": "api",
+   "natura": "L",
+   "h": "babed9ff5b78"
+  },
+  "42": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Certificati di abilitazione",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "d1cc96e18dc8"
+  },
+  "43": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "(L-R) Accertamenti d'Ufficio",
+   "vigore_da": "2021-06-01",
+   "datazione": "api",
+   "h": "67b5e5d384a1"
+  },
+  "43-bis": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Certificazione e documentazione d'impresa",
+   "vigore_da": "2011-07-13",
+   "datazione": "api",
+   "h": "4ed154be0f36"
+  },
+  "44": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Acquisizione di estratti degli atti dello stato civile",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "9f01233fbdd4"
+  },
+  "44-bis": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Acquisizione d'ufficio di informazioni",
+   "vigore_da": "2012-01-01",
+   "datazione": "api",
+   "h": "355394525e07"
+  },
+  "45": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "(L-R) Documentazione mediante esibizione",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "h": "1948a3205eb6"
+  },
+  "46": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Dichiarazioni sostitutive di certificazioni",
+   "vigore_da": "2016-02-27",
+   "datazione": "api",
+   "natura": "R",
+   "h": "fa67557c511d"
+  },
+  "47": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Dichiarazioni sostitutive dell'atto di notorieta'",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "ce0ac96e00f2"
+  },
+  "48": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Disposizioni generali in materia di dichiarazioni sostitutive",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "5143cbf661a2"
+  },
+  "49": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Limiti di utilizzo delle misure di semplificazione",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "h": "5a67fa7d811f"
+  },
+  "50": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Attuazione dei sistemi",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "f2b7507f0930"
+  },
+  "51": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "",
+   "vigore_da": "2006-01-01",
+   "datazione": "api",
+   "h": "226ab1bea661"
+  },
+  "52": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Il sistema di gestione informatica dei documenti",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "ee2262c0d808"
+  },
+  "53": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Registrazione di protocollo",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "66cc51cf5609"
+  },
+  "54": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Informazioni annullate o modificate",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "5770f2271aac"
+  },
+  "55": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Segnatura di protocollo",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "a8c505b63c3f"
+  },
+  "56": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Operazioni ed informazioni minime del sistema di gestione informatica dei documenti",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "6532861b05bd"
+  },
+  "57": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Numero di protocollo",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "d4eade4adedc"
+  },
+  "58": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Funzioni di accesso ai documenti e alle informazioni del sistema",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "33b5f83fdcd7"
+  },
+  "59": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Accesso esterno",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "f612268a496b"
+  },
+  "60": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Accesso effettuato dalle pubbliche amministrazioni",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "b073a8a352f1"
+  },
+  "61": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Servizio per la gestione informatica dei documenti, dei flussi documentali e degli archivi",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "efe45f9a352d"
+  },
+  "62": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Procedure di salvataggio e conservazione delle informazioni del sistema",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "0b7e39dadd67"
+  },
+  "63": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Registro di emergenza",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "286a41aa7b48"
+  },
+  "64": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Sistema di gestione dei flussi documentali",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "293bc1666eef"
+  },
+  "65": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Requisiti del sistema per la gestione dei flussi documentali",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "4ee523b7c00b"
+  },
+  "66": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Specificazione delle informazioni previste dal sistema di gestione dei flussi documentali",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "a3edaa1f89f3"
+  },
+  "67": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Trasferimento dei documenti all'archivio di deposito",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "h": "e5389c7b3e76"
+  },
+  "68": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Disposizioni per la conservazione degli archivi",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "45f93b68f618"
+  },
+  "69": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Archivi storici",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "23ef7e146f16"
+  },
+  "70": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Aggiornamenti del sistema",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "R",
+   "h": "dccdf47c230e"
+  },
+  "71": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Modalita' dei controlli",
+   "vigore_da": "2020-09-15",
+   "datazione": "api",
+   "natura": "R",
+   "h": "02569f033abb"
+  },
+  "72": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Responsabilita' in materia di accertamento d'ufficio e di esecuzione dei controlli",
+   "vigore_da": "2021-06-01",
+   "datazione": "api",
+   "h": "368f4b620278"
+  },
+  "73": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Assenza di responsabilita' della pubblica amministrazione",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "natura": "L",
+   "h": "a6f971d77c61"
+  },
+  "74": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "(L-R) Violazione dei doveri d'Ufficio",
+   "vigore_da": "2012-01-01",
+   "datazione": "api",
+   "h": "f6306955ed8f"
+  },
+  "75": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Decadenza dai benefici",
+   "vigore_da": "2020-05-19",
+   "datazione": "api",
+   "natura": "R",
+   "h": "28dde4a08dd3"
+  },
+  "76": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Norme penali",
+   "vigore_da": "2020-05-19",
+   "datazione": "api",
+   "natura": "L",
+   "h": "57e20df8e4d5"
+  },
+  "77": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "(L-R) Norme abrogate",
+   "vigore_da": "2001-03-07",
+   "datazione": "api",
+   "h": "9c13ff63b5e9"
+  },
+  "77-bis": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "Applicazione di norme",
+   "vigore_da": "2003-02-04",
+   "datazione": "api",
+   "h": "ce3ebbb76c31"
+  },
+  "78": {
+   "file": "dpr-445-2000.md",
+   "rubrica": "(L-R) Norme che rimangono in vigore",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "38bac629dd84"
+  }
+ }
+}

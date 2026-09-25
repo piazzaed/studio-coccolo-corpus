@@ -1,0 +1,1111 @@
+{
+ "_meta": {
+  "codice": "dl-1-2012",
+  "nome": "Liberalizzazioni — polizze connesse a mutui e credito al consumo (D.L. 1/2012)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-01-10",
+  "articoli": 120,
+  "file": [
+   "dl-1-2012.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legge:2012-01-24;1",
+  "versioni": [
+   {
+    "data": "2012-01-24",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2012-03-02",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 2 marzo 2012, n. 16"
+   },
+   {
+    "data": "2012-03-24",
+    "evento": "rp2+rp3",
+    "atto_modificante": "L. 24 marzo 2012, n. 27; D.L. 24 marzo 2012, n. 29"
+   },
+   {
+    "data": "2012-04-16",
+    "evento": "rp4",
+    "atto_modificante": "Circ. Ministero Dell'Economia E Delle Finanze 24 marzo 2012, n. 11"
+   },
+   {
+    "data": "2012-06-26",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 22 giugno 2012, n. 83"
+   },
+   {
+    "data": "2012-07-06",
+    "evento": "rp6",
+    "atto_modificante": "D.L. 6 luglio 2012, n. 95"
+   },
+   {
+    "data": "2012-10-10",
+    "evento": "rp7",
+    "atto_modificante": "D.L. 10 ottobre 2012, n. 174"
+   },
+   {
+    "data": "2012-10-19",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 18 ottobre 2012, n. 179"
+   },
+   {
+    "data": "2012-12-29",
+    "evento": "rp9",
+    "atto_modificante": "L. 24 dicembre 2012, n. 228"
+   },
+   {
+    "data": "2013-01-25",
+    "evento": "rp10",
+    "atto_modificante": "D.Lgs. 31 dicembre 2012, n. 248"
+   },
+   {
+    "data": "2013-04-10",
+    "evento": "rp11",
+    "atto_modificante": "atto modificante non indicato (rp11)"
+   },
+   {
+    "data": "2013-06-21",
+    "evento": "rp12",
+    "atto_modificante": "D.L. 21 giugno 2013, n. 69"
+   },
+   {
+    "data": "2013-11-30",
+    "evento": "rp13",
+    "atto_modificante": "D.L. 30 novembre 2013, n. 133"
+   },
+   {
+    "data": "2013-12-27",
+    "evento": "rp14",
+    "atto_modificante": "L. 27 dicembre 2013, n. 147"
+   },
+   {
+    "data": "2014-09-12",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 12 settembre 2014, n. 133"
+   },
+   {
+    "data": "2014-12-29",
+    "evento": "rp16",
+    "atto_modificante": "L. 23 dicembre 2014, n. 190"
+   },
+   {
+    "data": "2015-04-22",
+    "evento": "rp17",
+    "atto_modificante": "atto modificante non indicato (rp17)"
+   },
+   {
+    "data": "2015-05-06",
+    "evento": "rp18",
+    "atto_modificante": "D.L. 5 maggio 2015, n. 51"
+   },
+   {
+    "data": "2015-11-25",
+    "evento": "rp19",
+    "atto_modificante": "D.L. 25 novembre 2015, n. 185"
+   },
+   {
+    "data": "2016-01-28",
+    "evento": "rp20",
+    "atto_modificante": "D.Lgs. 22 gennaio 2016, n. 10"
+   },
+   {
+    "data": "2016-04-19",
+    "evento": "rp21",
+    "atto_modificante": "D.Lgs. 18 aprile 2016, n. 50"
+   },
+   {
+    "data": "2016-12-30",
+    "evento": "rp22",
+    "atto_modificante": "D.L. 30 dicembre 2016, n. 244"
+   },
+   {
+    "data": "2017-03-27",
+    "evento": "rp23",
+    "atto_modificante": "D.Lgs. 15 marzo 2017, n. 35"
+   },
+   {
+    "data": "2017-08-14",
+    "evento": "rp24",
+    "atto_modificante": "L. 4 agosto 2017, n. 124"
+   },
+   {
+    "data": "2017-12-29",
+    "evento": "rp25",
+    "atto_modificante": "L. 27 dicembre 2017, n. 205"
+   },
+   {
+    "data": "2019-05-11",
+    "evento": "rp26",
+    "atto_modificante": "L. 3 maggio 2019, n. 37"
+   },
+   {
+    "data": "2020-07-16",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 16 luglio 2020, n. 76"
+   },
+   {
+    "data": "2020-09-14",
+    "evento": "rp28",
+    "atto_modificante": "L. 11 settembre 2020, n. 120"
+   },
+   {
+    "data": "2020-12-31",
+    "evento": "rp29",
+    "atto_modificante": "D.L. 31 dicembre 2020, n. 183"
+   },
+   {
+    "data": "2021-03-01",
+    "evento": "rp30",
+    "atto_modificante": "L. 26 febbraio 2021, n. 21"
+   },
+   {
+    "data": "2021-05-31",
+    "evento": "rp31",
+    "atto_modificante": "D.L. 31 maggio 2021, n. 77"
+   },
+   {
+    "data": "2021-07-30",
+    "evento": "rp32",
+    "atto_modificante": "L. 29 luglio 2021, n. 108"
+   },
+   {
+    "data": "2021-09-10",
+    "evento": "rp33",
+    "atto_modificante": "D.L. 10 settembre 2021, n. 121"
+   },
+   {
+    "data": "2021-11-06",
+    "evento": "rp34",
+    "atto_modificante": "D.L. 6 novembre 2021, n. 152"
+   },
+   {
+    "data": "2021-11-09",
+    "evento": "rp35",
+    "atto_modificante": "L. 9 novembre 2021, n. 156"
+   },
+   {
+    "data": "2021-11-30",
+    "evento": "rp36",
+    "atto_modificante": "D.Lgs. 8 novembre 2021, n. 198"
+   },
+   {
+    "data": "2021-12-31",
+    "evento": "rp37",
+    "atto_modificante": "L. 30 dicembre 2021, n. 234"
+   },
+   {
+    "data": "2022-03-01",
+    "evento": "rp38",
+    "atto_modificante": "D.L. 1 marzo 2022, n. 17"
+   },
+   {
+    "data": "2022-04-28",
+    "evento": "rp39",
+    "atto_modificante": "L. 27 aprile 2022, n. 34"
+   },
+   {
+    "data": "2022-12-30",
+    "evento": "rp40",
+    "atto_modificante": "D.Lgs. 23 dicembre 2022, n. 201"
+   },
+   {
+    "data": "2023-12-09",
+    "evento": "rp41",
+    "atto_modificante": "D.L. 9 dicembre 2023, n. 181"
+   },
+   {
+    "data": "2024-02-07",
+    "evento": "rp42",
+    "atto_modificante": "L. 2 febbraio 2024, n. 11"
+   },
+   {
+    "data": "2024-11-29",
+    "evento": "rp43",
+    "atto_modificante": "L. 25 novembre 2024, n. 177"
+   },
+   {
+    "data": "2024-12-12",
+    "evento": "rp44",
+    "atto_modificante": "D.Lgs. 25 novembre 2024, n. 190"
+   },
+   {
+    "data": "2024-12-31",
+    "evento": "rp45",
+    "atto_modificante": "L. 30 dicembre 2024, n. 207"
+   },
+   {
+    "data": "2025-12-10",
+    "evento": "rp46",
+    "atto_modificante": "D.Lgs. 27 novembre 2025, n. 184"
+   },
+   {
+    "data": "2025-12-19",
+    "evento": "rp47",
+    "atto_modificante": "L. 18 dicembre 2025, n. 190"
+   },
+   {
+    "data": "2026-01-09",
+    "evento": "rp48",
+    "atto_modificante": "D.Lgs. 31 dicembre 2025, n. 212"
+   }
+  ],
+  "ultima_versione": "2026-01-09",
+  "datazione": {
+   "monoblocco": 120,
+   "api": 91,
+   "riportati": 29,
+   "ignota": 0,
+   "stima_anteriore": 6,
+   "stima_uguale": 25,
+   "chiamate": 91,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Liberalizzazione delle attivita' economiche e riduzione degli oneri amministrativi sulle imprese",
+   "vigore_da": "2016-01-29",
+   "datazione": "api",
+   "h": "4a2132d60e41"
+  },
+  "2": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Tribunale delle imprese",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "c53eb2498fce"
+  },
+  "3": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Acceso dei giovani alla costituzione di societa' a responsabilita' limitata",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "f552a98a8c07"
+  },
+  "4": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Norme a tutela e promozione della concorrenza nelle amministrazioni pubbliche",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "b7278231561c"
+  },
+  "5": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Tutela amministrativa contro le clausole vessatorie",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "c273cf43d075"
+  },
+  "5-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Finanziamento e risorse dell'Autorita' garante della concorrenza e del mercato",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "8e25e3bea128"
+  },
+  "5-ter": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Rating di legalita' delle imprese",
+   "vigore_da": "2026-01-01",
+   "datazione": "api",
+   "h": "f3f8a187b5c8"
+  },
+  "6": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Norme per rendere efficace l'azione di classe",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "ab35a34e85f8"
+  },
+  "7": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Tutela delle microimprese da pratiche commerciali ingannevoli e aggressive",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "0a0db7cffee1"
+  },
+  "8": {
+   "file": "dl-1-2012.md",
+   "rubrica": "",
+   "vigore_da": "2022-12-31",
+   "datazione": "api",
+   "h": "41bfa547764a"
+  },
+  "9": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Disposizioni sulle professioni regolamentate",
+   "vigore_da": "2017-08-29",
+   "datazione": "api",
+   "h": "10020bbee757"
+  },
+  "9-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Societa' tra professionisti",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "0dbc33bfc6f4"
+  },
+  "10": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Estensione ai liberi professionisti della possibilita' di partecipare al patrimonio dei confidi",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "cf2930b17457"
+  },
+  "11": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Potenziamento del servizio di distribuzione farmaceutica, accesso alla titolarita' delle farmacie, modifica alla disciplina della somministrazione dei farmaci e altre disposizioni in materia sanitaria",
+   "vigore_da": "2017-08-29",
+   "datazione": "api",
+   "h": "f03646089147"
+  },
+  "12": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Incremento del numero dei notai e concorrenza nei distretti",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "308d7a967034"
+  },
+  "13": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Misure per la riduzione del prezzo del gas naturale per i clienti vulnerabili",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "14429ab76227"
+  },
+  "14": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Misure per ridurre i costi di approvvigionamento di gas naturale per le imprese",
+   "vigore_da": "2012-08-12",
+   "datazione": "api",
+   "h": "fbd80a8eeb26"
+  },
+  "15": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Disposizioni in materia di separazione proprietaria",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "52410c2b0691"
+  },
+  "16": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Sviluppo di risorse energetiche e minerarie nazionali strategiche",
+   "vigore_da": "2014-11-12",
+   "datazione": "api",
+   "h": "cdd9fcaa6367"
+  },
+  "17": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Liberalizzazione della distribuzione dei carburanti",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "6f2e2a6d77e3"
+  },
+  "18": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Liberalizzazione degli impianti completamente automatizzati fuori dei centri abitati",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "e5f80716c70e"
+  },
+  "19": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Miglioramento delle informazioni al consumatore sui prezzi dei carburanti",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "aba8e1109756"
+  },
+  "20": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Fondo per la razionalizzazione della rete di distribuzione dei carburanti",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "b91c391407b0"
+  },
+  "21": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Disposizioni per accrescere la sicurezza, l'efficienza e la concorrenza nel mercato dell'energia elettrica",
+   "vigore_da": "2012-12-19",
+   "datazione": "api",
+   "h": "108704869b65"
+  },
+  "22": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Disposizioni per accrescere la trasparenza sui mercati dell'energia elettrica e del gas",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "87abbdcb806f"
+  },
+  "23": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Semplificazione delle procedure per l'approvazione del piano di sviluppo della rete di trasmissione nazionale",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "bc1a7d25a194"
+  },
+  "24": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Accelerazione delle attivita' di disattivazione e smantellamento dei siti nucleari",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "e72fb205e10c"
+  },
+  "24-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Contributo degli esercenti dei servizi idrici a favore dell'Autorita' per l'energia elettrica e il gas",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "5c0e7d30ef3f"
+  },
+  "24-ter": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Gare per le concessioni idroelettriche",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "bb9648d998fe"
+  },
+  "25": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Promozione della concorrenza nei servizi pubblici locali",
+   "vigore_da": "2022-12-31",
+   "datazione": "api",
+   "h": "5e854306c3ce"
+  },
+  "26": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Misure in favore della concorrenza nella gestione degli imballaggi e dei rifiuti da imballaggio e per l'incremento della raccolta e recupero degli imballaggi",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "ecc9a65a36cc"
+  },
+  "26-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "",
+   "vigore_da": "2022-12-31",
+   "datazione": "api",
+   "h": "41bfa547764a"
+  },
+  "27": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Promozione della concorrenza in materia di conto corrente o di conto di pagamento di base",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "0e97e99b9c79"
+  },
+  "27-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Nullita' di clausole nei contratti bancari",
+   "vigore_da": "2012-05-22",
+   "datazione": "api",
+   "h": "2a26b9e5da1f"
+  },
+  "27-ter": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Cancellazioni delle ipoteche perenti",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "beb115143c6e"
+  },
+  "27-quater": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Organi delle fondazioni bancarie",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "0dea9a9c764e"
+  },
+  "27-quinquies": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Termine per la surrogazione nei contratti di finanziamento",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "e470e0fb1327"
+  },
+  "28": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Assicurazioni connesse all'erogazione di mutui immobiliari e di credito al consumo",
+   "vigore_da": "2026-01-10",
+   "datazione": "api",
+   "h": "20a2a0adc0bf"
+  },
+  "29": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Efficienza produttiva del risarcimento diretto",
+   "vigore_da": "2017-08-29",
+   "datazione": "api",
+   "h": "c8ee4433b42d"
+  },
+  "30": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Repressione delle frodi",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "812d59bb98cd"
+  },
+  "31": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Contrasto della contraffazione dei contrassegni relativi ai contratti di assicurazione per la responsabilita' civile verso i terzi per i danni derivanti dalla circolazione dei veicoli a motore su strada",
+   "vigore_da": "2024-12-14",
+   "datazione": "api",
+   "h": "1c1ae36bdab2"
+  },
+  "32": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Ispezione del veicolo, scatola nera, attestato di rischio, liquidazione dei danni",
+   "vigore_da": "2017-08-29",
+   "datazione": "api",
+   "h": "fae3c2477f9b"
+  },
+  "33": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Sanzioni per frodi nell'attestazione delle invalidita' derivanti da incidenti",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "ca03ecb04334"
+  },
+  "34": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Obbligo di confronto delle tariffe r.c. auto",
+   "vigore_da": "2017-08-29",
+   "datazione": "api",
+   "h": "1d3b7628e75c"
+  },
+  "34-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Disposizioni in materia di contratti di assicurazione dei veicoli",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "df28a29dee1e"
+  },
+  "34-ter": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Certificato di chiusa inchiesta nell'assicurazione obbligatoria per i veicoli a motore",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "d3896de70898"
+  },
+  "35": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Misure per la tempestivita' dei pagamenti, per l'estinzione dei debiti pregressi delle amministrazioni statali, nonche' disposizioni in materia di tesoreria unica",
+   "vigore_da": "2025-01-01",
+   "datazione": "api",
+   "h": "c195b8518347"
+  },
+  "36": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Regolazione indipendente in materia di trasporti",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "a41f2d9bc6e9"
+  },
+  "37": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Misure per il trasporto ferroviario",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "ec85bca518ed"
+  },
+  "38": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Liberalizzazione delle pertinenze delle strade",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "f301e6dfcd4b"
+  },
+  "39": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Liberalizzazione del sistema di vendita della stampa quotidiana e periodica e disposizioni in materia di diritti connessi al diritto d'autore",
+   "vigore_da": "2017-04-11",
+   "datazione": "api",
+   "h": "46ac2195a3d5"
+  },
+  "40": {
+   "file": "dl-1-2012.md",
+   "rubrica": "",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "4414e814141f"
+  },
+  "40-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Misure per la trasparenza nella gestione dei grandi eventi",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "fac7b6a47766"
+  },
+  "41": {
+   "file": "dl-1-2012.md",
+   "rubrica": "",
+   "vigore_da": "2016-04-19",
+   "datazione": "api",
+   "h": "a91b2fbc61f5"
+  },
+  "42": {
+   "file": "dl-1-2012.md",
+   "rubrica": "",
+   "vigore_da": "2016-04-19",
+   "datazione": "api",
+   "h": "a91b2fbc61f5"
+  },
+  "43": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Project financing per la realizzazione di infrastrutture carcerarie",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "fadab526ae25"
+  },
+  "44": {
+   "file": "dl-1-2012.md",
+   "rubrica": "",
+   "vigore_da": "2016-04-19",
+   "datazione": "api",
+   "h": "a91b2fbc61f5"
+  },
+  "45": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Documentazione a corredo del PEF per le opere di interesse strategico",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "4339807bace5"
+  },
+  "46": {
+   "file": "dl-1-2012.md",
+   "rubrica": "",
+   "vigore_da": "2016-04-19",
+   "datazione": "api",
+   "h": "a91b2fbc61f5"
+  },
+  "47": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Riduzione importo \"opere d'arte\" per i grandi edifici - modifiche alla legge n. 717/1949",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "b9b3c7058755"
+  },
+  "48": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Norme in materia di dragaggi",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "73f2ad2005cf"
+  },
+  "49": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Utilizzo terre e rocce da scavo",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "a7abc53505ef"
+  },
+  "50": {
+   "file": "dl-1-2012.md",
+   "rubrica": "",
+   "vigore_da": "2016-04-19",
+   "datazione": "api",
+   "h": "a91b2fbc61f5"
+  },
+  "51": {
+   "file": "dl-1-2012.md",
+   "rubrica": "",
+   "vigore_da": "2016-04-19",
+   "datazione": "api",
+   "h": "a91b2fbc61f5"
+  },
+  "52": {
+   "file": "dl-1-2012.md",
+   "rubrica": "",
+   "vigore_da": "2016-04-19",
+   "datazione": "api",
+   "h": "a91b2fbc61f5"
+  },
+  "53": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Allineamento alle norme europee della regolazione progettuale delle infrastrutture ferroviarie e stradali e disposizioni in materia di gallerie stradali",
+   "vigore_da": "2021-11-10",
+   "datazione": "api",
+   "h": "94357b906fb7"
+  },
+  "54": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Emissione di obbligazioni di scopo da parte degli enti locali garantite da beni immobili patrimoniali ai fini della realizzazione di opere pubbliche",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "05e95f5a5349"
+  },
+  "55": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Affidamento concessioni relative a infrastrutture strategiche sulla base anche del progetto definitivo",
+   "vigore_da": "2016-04-19",
+   "datazione": "api",
+   "h": "c0577e05ddea"
+  },
+  "55-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Accelerazione degli interventi strategici per il riequilibrio economico e sociale",
+   "vigore_da": "2012-08-12",
+   "datazione": "api",
+   "h": "cd8a366cb850"
+  },
+  "56": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Norma nel settore edilizio",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "cd9d135733fe"
+  },
+  "57": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Ripristino IVA per housing sociale",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "06c4bbd2a825"
+  },
+  "58": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Semplificazione procedure Piano nazionale di edilizia abitativa",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "5e2c0544480a"
+  },
+  "59": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Extragettito IVA per le societa' di progetto per le opere portuali",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "4be3f1e0db14"
+  },
+  "59-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "",
+   "vigore_da": "2016-04-19",
+   "datazione": "api",
+   "h": "a91b2fbc61f5"
+  },
+  "59-ter": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Semplificazione nella navigazione da diporto",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "4e5ce5d48f12"
+  },
+  "60": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Regime doganale delle unita' da diporto",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "52777fafae36"
+  },
+  "60-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Misure a tutela della filiera della nautica da diporto",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "b25eb4e75ba7"
+  },
+  "61": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Anticipo recupero accise per autotrasportatori",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "8736b4587adf"
+  },
+  "61-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Piattaforma per la gestione della rete logistica nazionale",
+   "vigore_da": "2021-11-07",
+   "datazione": "api",
+   "h": "f3c7bbf488bc"
+  },
+  "62": {
+   "file": "dl-1-2012.md",
+   "rubrica": "",
+   "vigore_da": "2021-12-15",
+   "datazione": "api",
+   "h": "dc3562b5189c"
+  },
+  "63": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Attivazione nuovi \"contratti di filiera\"",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "63271dfb8301"
+  },
+  "64": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Attuazione della Decisione della Commissione Europea C(2011) 2929",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "cf9262f32f06"
+  },
+  "65": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Impianti fotovoltaici in ambito agricolo",
+   "vigore_da": "2024-12-30",
+   "datazione": "api",
+   "h": "dd492d6b4224"
+  },
+  "66": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Dismissione di terreni demaniali agricoli e a vocazione agricola",
+   "vigore_da": "2014-01-30",
+   "datazione": "api",
+   "h": "f5ff5170710c"
+  },
+  "67": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Convenzioni per lo sviluppo della filiera pesca",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "7aa6cafa97ad"
+  },
+  "67-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Accertamenti contributivi in caso di dismissione di bandiera per vendita della nave a stranieri o per demolizione",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "5e2c119a4a80"
+  },
+  "67-ter": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Adempimenti in materia di lavoro per le cooperative di pesca",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "69f0657b618a"
+  },
+  "68": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Repertorio nazionale dei dispositivi medici",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "aa41bfa60f42"
+  },
+  "69": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Dichiarazione preventiva in caso di spostamento del prestatore di servizi",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "2825272fc6a4"
+  },
+  "70": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Aiuti de minimis a favore di piccole e medie imprese in particolari aree",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "d58f31cbd07a"
+  },
+  "71": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Oggetto e ambito di applicazione",
+   "vigore_da": "2016-01-24",
+   "datazione": "api",
+   "h": "f2aa22e22d52"
+  },
+  "72": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "14cdb9f3c13f"
+  },
+  "73": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Autorita' nazionale di vigilanza",
+   "vigore_da": "2019-05-26",
+   "datazione": "api",
+   "h": "330bef6e2c91"
+  },
+  "74": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Reti aeroportuali",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "c03f3dddc7cc"
+  },
+  "75": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Non discriminazione",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "2062e13a4198"
+  },
+  "76": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Determinazione diritti aeroportuali. Consultazione",
+   "vigore_da": "2026-01-03",
+   "datazione": "api",
+   "h": "1c9d2422933f"
+  },
+  "77": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Trasparenza",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "26e1c4f06944"
+  },
+  "78": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Norme di qualita'",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "4579b64d4620"
+  },
+  "79": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Differenziazione dei servizi",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "496f16c8669b"
+  },
+  "80": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Vigilanza sulla determinazione dei diritti aeroportuali per l'utilizzo delle infrastrutture e dei servizi in regime di esclusiva",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "1e91f0b286cb"
+  },
+  "81": {
+   "file": "dl-1-2012.md",
+   "rubrica": "",
+   "vigore_da": "2013-02-09",
+   "datazione": "api",
+   "h": "185ddcf41f7b"
+  },
+  "82": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Clausola di invarianza finanziaria",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "c8a7f65fd315"
+  },
+  "83": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Modifiche al decreto legislativo 10 febbraio 2005, n. 30",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "099749ce40e7"
+  },
+  "84": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Modifiche al decreto del Presidente della Repubblica 28 maggio 2009, n. 107",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "f7a72f81c65c"
+  },
+  "85": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Modifiche al decreto legislativo 24 giugno 2003, n. 211",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "3e5386a6c6f2"
+  },
+  "86": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Servizio di gestione automatizzata dei pagamenti e dei corrispettivi dovuti per le pratiche di motorizzazione",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "eac48acba923"
+  },
+  "87": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Prestazione transfrontaliera di servizi in Italia dei consulenti in materia di brevetti",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "caf8fe3661d7"
+  },
+  "88": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Applicazione del regime ordinario di deducibilita' degli interessi passivi per le societa', a prevalente capitale pubblico, fornitrici di acqua, energia e teleriscaldamento, nonche' servizi di smaltimento e depurazione",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "8cbbe2be36d2"
+  },
+  "89": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Esecuzione della sentenza della Corte di Giustizia dell'Unione europea del 17 novembre 2011, causa C-496/09",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "10ede5d2521f"
+  },
+  "90": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Interventi per favorire l'afflusso di capitale di rischio verso le nuove imprese",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "7f6fd57c9bb2"
+  },
+  "91": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Modifiche alla disciplina del trasferimento all'estero della residenza fiscale dei soggetti che esercitano imprese commerciali. Procedura d'infrazione n. 2010/4141",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "86af73b8d625"
+  },
+  "91-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Norme sull'esenzione dell'imposta comunale sugli immobili degli enti non commerciali",
+   "vigore_da": "2012-12-08",
+   "datazione": "api",
+   "h": "a69b3d970644"
+  },
+  "92": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Tutela procedimentale dell'operatore in caso di controlli eseguiti successivamente all'effettuazione dell'operazione doganale",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "78ca0fa76cf2"
+  },
+  "93": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Preclusione all'esercizio della rivalsa al cessionario o committente dell'imposta pagata in conseguenza di accertamento o rettifica",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "4d803f3aa1e1"
+  },
+  "94": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Domanda di sgravio dei diritti doganali",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "dc2ae649068f"
+  },
+  "95": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Modifiche alla unificazione dell'aliquota sulle rendite finanziarie",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "4b3b04d9d504"
+  },
+  "96": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Residenza OICR",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "5259ac7fdde1"
+  },
+  "97": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Modifiche al decreto-legge 25 settembre 2001, n. 350, convertito, con modificazioni, dalla legge 23 novembre 2001, n. 409, nonche' al decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "32a46dbd6c9f"
+  },
+  "97-bis": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Trasparenza dei costi sostenuti dagli enti locali per locazioni",
+   "vigore_da": "2012-03-25",
+   "datazione": "api",
+   "h": "43bb459f6e0b"
+  },
+  "98": {
+   "file": "dl-1-2012.md",
+   "rubrica": "Entrata in vigore",
+   "vigore_da": "2012-01-24",
+   "datazione": "api",
+   "h": "b55f0406934c"
+  }
+ }
+}

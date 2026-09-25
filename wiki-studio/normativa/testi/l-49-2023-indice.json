@@ -1,0 +1,126 @@
+{
+ "_meta": {
+  "codice": "l-49-2023",
+  "nome": "Equo compenso delle prestazioni professionali (L. 49/2023)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-09-23",
+  "articoli": 13,
+  "file": [
+   "l-49-2023.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:2023-04-21;49",
+  "versioni": [
+   {
+    "data": "2023-05-05",
+    "evento": "ro1",
+    "atto_modificante": null
+   }
+  ],
+  "ultima_versione": "2023-05-05",
+  "datazione": {
+   "monoblocco": 13,
+   "api": 12,
+   "riportati": 1,
+   "ignota": 0,
+   "stima_anteriore": 12,
+   "chiamate": 12,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-49-2023.md",
+   "rubrica": "Definizione",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "2f43c14c5a4c"
+  },
+  "2": {
+   "file": "l-49-2023.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "7f5c8ed1d4dc"
+  },
+  "3": {
+   "file": "l-49-2023.md",
+   "rubrica": "",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "334010bc50a0"
+  },
+  "4": {
+   "file": "l-49-2023.md",
+   "rubrica": "Indennizzo in favore del professionista",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "2aecdd0ea524"
+  },
+  "5": {
+   "file": "l-49-2023.md",
+   "rubrica": "Disciplina dell'equo compenso",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "60d2a3f79d42"
+  },
+  "6": {
+   "file": "l-49-2023.md",
+   "rubrica": "Presunzione di equita'",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "6b40fd49d406"
+  },
+  "7": {
+   "file": "l-49-2023.md",
+   "rubrica": "Parere di congruita' con efficacia di titolo esecutivo",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "778a3b078e4e"
+  },
+  "8": {
+   "file": "l-49-2023.md",
+   "rubrica": "",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "7a9997c21267"
+  },
+  "9": {
+   "file": "l-49-2023.md",
+   "rubrica": "Azione di classe",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "2cde5ec19033"
+  },
+  "10": {
+   "file": "l-49-2023.md",
+   "rubrica": "Osservatorio nazionale sull'equo compenso",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "06b87875ceff"
+  },
+  "11": {
+   "file": "l-49-2023.md",
+   "rubrica": "Disposizioni transitorie",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "431bab35f2fa"
+  },
+  "12": {
+   "file": "l-49-2023.md",
+   "rubrica": "Abrogazioni",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "83ecc22f0e92"
+  },
+  "13": {
+   "file": "l-49-2023.md",
+   "rubrica": "Clausola di invarianza finanziaria",
+   "vigore_da": "2023-05-20",
+   "datazione": "api",
+   "h": "601a14d6508d"
+  }
+ }
+}

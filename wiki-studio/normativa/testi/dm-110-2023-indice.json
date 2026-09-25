@@ -1,0 +1,119 @@
+{
+ "_meta": {
+  "codice": "dm-110-2023",
+  "nome": "Criteri di redazione, limiti e schemi degli atti giudiziari (D.M. Giustizia 110/2023)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-09-23",
+  "articoli": 12,
+  "file": [
+   "dm-110-2023.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:ministero.giustizia:decreto:2023-08-07;110",
+  "versioni": [
+   {
+    "data": "2023-08-11",
+    "evento": "ro1",
+    "atto_modificante": null
+   }
+  ],
+  "ultima_versione": "2023-08-11",
+  "datazione": {
+   "monoblocco": 12,
+   "api": 12,
+   "ignota": 0,
+   "stima_anteriore": 12,
+   "chiamate": 12,
+   "urn_api": "urn:nir:stato:decreto:2023-08-07;110",
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dm-110-2023.md",
+   "rubrica": "Oggetto",
+   "vigore_da": "2023-08-26",
+   "datazione": "api",
+   "h": "e270c9ce542e"
+  },
+  "2": {
+   "file": "dm-110-2023.md",
+   "rubrica": "Criteri di redazione degli atti processuali delle parti private e del pubblico ministero",
+   "vigore_da": "2023-08-26",
+   "datazione": "api",
+   "h": "f27ba9a54933"
+  },
+  "3": {
+   "file": "dm-110-2023.md",
+   "rubrica": "Limiti dimensionali degli atti processuali",
+   "vigore_da": "2023-08-26",
+   "datazione": "api",
+   "h": "3c32f61692c2"
+  },
+  "4": {
+   "file": "dm-110-2023.md",
+   "rubrica": "Esclusioni dai limiti dimensionali",
+   "vigore_da": "2023-08-26",
+   "datazione": "api",
+   "h": "72d289e1c3c8"
+  },
+  "5": {
+   "file": "dm-110-2023.md",
+   "rubrica": "Deroghe ai limiti dimensionali",
+   "vigore_da": "2023-08-26",
+   "datazione": "api",
+   "h": "1ba98a7cc6e3"
+  },
+  "6": {
+   "file": "dm-110-2023.md",
+   "rubrica": "Tecniche redazionali",
+   "vigore_da": "2023-08-26",
+   "datazione": "api",
+   "h": "a9c59300b430"
+  },
+  "7": {
+   "file": "dm-110-2023.md",
+   "rubrica": "Criteri di redazione dei provvedimenti del giudice",
+   "vigore_da": "2023-08-26",
+   "datazione": "api",
+   "h": "b586c0a78113"
+  },
+  "8": {
+   "file": "dm-110-2023.md",
+   "rubrica": "Schemi informatici",
+   "vigore_da": "2023-08-26",
+   "datazione": "api",
+   "h": "907e5fcfb953"
+  },
+  "9": {
+   "file": "dm-110-2023.md",
+   "rubrica": "Formazione",
+   "vigore_da": "2023-08-26",
+   "datazione": "api",
+   "h": "4dab32418647"
+  },
+  "10": {
+   "file": "dm-110-2023.md",
+   "rubrica": "Istituzione di un osservatorio permanente",
+   "vigore_da": "2023-08-26",
+   "datazione": "api",
+   "h": "74dd7e204fe9"
+  },
+  "11": {
+   "file": "dm-110-2023.md",
+   "rubrica": "Clausola di invarianza finanziaria",
+   "vigore_da": "2023-08-26",
+   "datazione": "api",
+   "h": "61151723191d"
+  },
+  "12": {
+   "file": "dm-110-2023.md",
+   "rubrica": "Disposizioni finali",
+   "vigore_da": "2023-08-26",
+   "datazione": "api",
+   "h": "ae96387468d9"
+  }
+ }
+}

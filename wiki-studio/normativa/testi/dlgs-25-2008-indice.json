@@ -1,0 +1,561 @@
+{
+ "_meta": {
+  "codice": "dlgs-25-2008",
+  "nome": "Procedure per il riconoscimento della protezione internazionale (D.Lgs. 25/2008)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2026-07-16",
+  "articoli": 55,
+  "file": [
+   "dlgs-25-2008.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2008-01-28;25",
+  "versioni": [
+   {
+    "data": "2008-02-16",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2008-10-21",
+    "evento": "rp1",
+    "atto_modificante": "D.Lgs. 3 ottobre 2008, n. 159"
+   },
+   {
+    "data": "2009-07-24",
+    "evento": "rp2",
+    "atto_modificante": "L. 15 luglio 2009, n. 94"
+   },
+   {
+    "data": "2011-09-21",
+    "evento": "rp3",
+    "atto_modificante": "D.Lgs. 1 settembre 2011, n. 150"
+   },
+   {
+    "data": "2013-08-20",
+    "evento": "rp4",
+    "atto_modificante": "L. 6 agosto 2013, n. 97"
+   },
+   {
+    "data": "2014-03-13",
+    "evento": "rp5",
+    "atto_modificante": "D.Lgs. 4 marzo 2014, n. 24"
+   },
+   {
+    "data": "2014-08-22",
+    "evento": "rp6",
+    "atto_modificante": "D.L. 22 agosto 2014, n. 119"
+   },
+   {
+    "data": "2015-09-15",
+    "evento": "rp7",
+    "atto_modificante": "D.Lgs. 18 agosto 2015, n. 142"
+   },
+   {
+    "data": "2017-02-17",
+    "evento": "rp8",
+    "atto_modificante": "D.L. 17 febbraio 2017, n. 13"
+   },
+   {
+    "data": "2017-04-21",
+    "evento": "rp9",
+    "atto_modificante": "L. 7 aprile 2017, n. 47"
+   },
+   {
+    "data": "2018-01-16",
+    "evento": "rp10",
+    "atto_modificante": "D.Lgs. 22 dicembre 2017, n. 220"
+   },
+   {
+    "data": "2018-10-04",
+    "evento": "rp11",
+    "atto_modificante": "D.L. 4 ottobre 2018, n. 113"
+   },
+   {
+    "data": "2020-10-21",
+    "evento": "rp12",
+    "atto_modificante": "D.L. 21 ottobre 2020, n. 130"
+   },
+   {
+    "data": "2020-12-19",
+    "evento": "rp13",
+    "atto_modificante": "L. 18 dicembre 2020, n. 173"
+   },
+   {
+    "data": "2022-01-17",
+    "evento": "rp14",
+    "atto_modificante": "L. 23 dicembre 2021, n. 238"
+   },
+   {
+    "data": "2023-03-10",
+    "evento": "rp15",
+    "atto_modificante": "D.L. 10 marzo 2023, n. 20"
+   },
+   {
+    "data": "2023-05-05",
+    "evento": "rp16",
+    "atto_modificante": "L. 5 maggio 2023, n. 50"
+   },
+   {
+    "data": "2023-05-10",
+    "evento": "rp17",
+    "atto_modificante": "D.L. 10 maggio 2023, n. 51"
+   },
+   {
+    "data": "2023-10-05",
+    "evento": "rp18",
+    "atto_modificante": "D.L. 5 ottobre 2023, n. 133"
+   },
+   {
+    "data": "2023-12-04",
+    "evento": "rp19",
+    "atto_modificante": "L. 1 dicembre 2023, n. 176"
+   },
+   {
+    "data": "2024-10-11",
+    "evento": "rp20",
+    "atto_modificante": "D.L. 11 ottobre 2024, n. 145"
+   },
+   {
+    "data": "2024-10-23",
+    "evento": "rp21",
+    "atto_modificante": "D.L. 23 ottobre 2024, n. 158"
+   },
+   {
+    "data": "2024-12-10",
+    "evento": "rp22",
+    "atto_modificante": "L. 9 dicembre 2024, n. 187"
+   },
+   {
+    "data": "2025-03-28",
+    "evento": "rp23",
+    "atto_modificante": "D.L. 28 marzo 2025, n. 37"
+   },
+   {
+    "data": "2025-05-23",
+    "evento": "rp24",
+    "atto_modificante": "L. 23 maggio 2025, n. 75"
+   },
+   {
+    "data": "2026-02-24",
+    "evento": "rp25",
+    "atto_modificante": "D.L. 24 febbraio 2026, n. 23"
+   },
+   {
+    "data": "2026-04-24",
+    "evento": "rp26",
+    "atto_modificante": "L. 24 aprile 2026, n. 54"
+   },
+   {
+    "data": "2026-06-12",
+    "evento": "rp27",
+    "atto_modificante": "D.L. 12 giugno 2026, n. 100"
+   },
+   {
+    "data": "2026-07-01",
+    "evento": "rp28",
+    "atto_modificante": "D.Lgs. 12 giugno 2026, n. 115"
+   }
+  ],
+  "ultima_versione": "2026-07-01",
+  "datazione": {
+   "monoblocco": 55,
+   "api": 46,
+   "riportati": 7,
+   "ignota": 2,
+   "testo_diverso": 2,
+   "stima_anteriore": 13,
+   "chiamate": 48,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Finalita'",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "b24ce1ba0637"
+  },
+  "2": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2024-12-11",
+   "datazione": "api",
+   "h": "8c23fb3746de"
+  },
+  "2-bis": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Paesi di origine sicuri",
+   "vigore_da": "2024-12-11",
+   "datazione": "api",
+   "h": "80c70b5cf2f1"
+  },
+  "3": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Autorita' competenti",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "46e4660fa649"
+  },
+  "4": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Commissioni territoriali per il riconoscimento della protezionen internazionale",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "460acb77ee8f"
+  },
+  "5": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Commissione nazionale per il diritto di asilo",
+   "vigore_da": "2024-12-11",
+   "datazione": "api",
+   "h": "7eadf113f19e"
+  },
+  "6": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Accesso alla procedura",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "ddcd1bf9acab"
+  },
+  "7": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Diritto di rimanere nel territorio dello Stato durante l'esame della domanda",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "1177fcfb1735"
+  },
+  "8": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Criteri applicabili all'esame delle domande",
+   "vigore_da": "2015-09-30",
+   "datazione": "api",
+   "h": "3b98d5773779"
+  },
+  "9": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Criteri applicabili alle decisioni dell'autorita' accertante",
+   "vigore_da": "2018-12-04",
+   "datazione": "api",
+   "h": "2065cd210b64"
+  },
+  "10": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Garanzie per i richiedenti asilo",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "1a674e886724"
+  },
+  "10-bis": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Informazione e servizi di accoglienza ai valichi di frontiera",
+   "vigore_da": "2015-09-30",
+   "datazione": "api",
+   "h": "3650ad1b4a47"
+  },
+  "11": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Obblighi del richiedente asilo",
+   "vigore_da": "2026-04-25",
+   "datazione": "api",
+   "h": "8bd65df413a7"
+  },
+  "12": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Colloquio personale",
+   "vigore_da": "2024-12-11",
+   "datazione": "api",
+   "h": "141d18f401cb"
+  },
+  "13": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Criteri applicabili al colloquio personale",
+   "vigore_da": "2018-12-04",
+   "datazione": "api",
+   "h": "708931826de2"
+  },
+  "14": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Verbale del colloquio personale",
+   "vigore_da": "2017-04-19",
+   "datazione": "api",
+   "h": "cd82151ef253"
+  },
+  "15": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Formazione delle commissioni territoriali e del personale",
+   "vigore_da": "2015-09-30",
+   "datazione": "api",
+   "h": "8801c083a99f"
+  },
+  "16": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Diritto all'assistenza e alla rappresentanza legali",
+   "vigore_da": "2017-05-06",
+   "datazione": "api",
+   "h": "84fbcc378c0f"
+  },
+  "17": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Ambito di applicazione dell'assistenza e della rappresentanza legali",
+   "vigore_da": "2014-10-22",
+   "datazione": "api",
+   "h": "19caed823141"
+  },
+  "18": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Applicazione della legge 7 agosto 1990, n. 241",
+   "vigore_da": "2008-03-02",
+   "datazione": "api",
+   "h": "87ee10a46512"
+  },
+  "19": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Garanzie per i minori non accompagnati",
+   "vigore_da": "2008-03-02",
+   "datazione": "api",
+   "h": "543f01b882e3"
+  },
+  "20": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "",
+   "vigore_da": "2015-09-30",
+   "datazione": "api",
+   "h": "0760f50d9f27"
+  },
+  "21": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "",
+   "vigore_da": "2015-09-30",
+   "datazione": "api",
+   "h": "0760f50d9f27"
+  },
+  "22": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "",
+   "vigore_da": "2015-09-30",
+   "datazione": "api",
+   "h": "0760f50d9f27"
+  },
+  "23": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Ritiro della domanda",
+   "vigore_da": "2008-03-02",
+   "datazione": "api",
+   "h": "65b6c1213da4"
+  },
+  "23-bis": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Ritiro implicito della domanda",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "04df9ae519b4"
+  },
+  "24": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Ruolo dell' UNHCR",
+   "vigore_da": "2015-09-30",
+   "datazione": "api",
+   "h": "1fb69f76cb0e"
+  },
+  "25": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Raccolta di informazioni su singoli casi",
+   "vigore_da": "2008-03-02",
+   "datazione": "api",
+   "h": "8f678d792999"
+  },
+  "26": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Presentazione della domanda di protezione internazionale",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "437e2bc86655"
+  },
+  "26-bis": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Registrazione della domanda di protezione internazionale",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "9055182d908a"
+  },
+  "26-ter": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Formalizzazione della domanda di protezione internazionale",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "222ca79c7279"
+  },
+  "27": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Procedure di esame",
+   "vigore_da": "2023-05-06",
+   "datazione": "api",
+   "h": "60083a3ede34"
+  },
+  "28": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Esame prioritario",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "a2dc1fe5f930"
+  },
+  "28-bis": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "fb022c83b1a6"
+  },
+  "28-bis.1": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Termini per lo svolgimento della procedura di asilo alla frontiera",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "478058122ac0"
+  },
+  "28-bis.2": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Trasferimento del richiedente sottoposto alla procedura di asilo alla frontiera",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "a8cc05a06dfa"
+  },
+  "28-ter": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Domanda manifestamente infondata",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "03395b9de817"
+  },
+  "29": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Casi di inammissibilita' della domanda",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "42f07e6bd17f"
+  },
+  "29-bis": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Domanda reiterata in fase di esecuzione di un provvedimento di allontanamento",
+   "vigore_da": "2023-12-05",
+   "datazione": "api",
+   "h": "666fc651162a"
+  },
+  "30": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Casi soggetti alla procedura di cui al regolamento (CE) n. 343/2003",
+   "vigore_da": "2015-09-30",
+   "datazione": "api",
+   "h": "930b0387e1a6"
+  },
+  "31": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Acquisizione di ulteriori dichiarazioni o di nuovi elementi",
+   "vigore_da": "2008-03-02",
+   "datazione": "api",
+   "h": "e1741a9c6408"
+  },
+  "32": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Decisione",
+   "vigore_da": "2026-07-16",
+   "datazione": "api",
+   "h": "cf3872543687"
+  },
+  "33": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Revoca e cessazione della protezione internazionale riconosciuta",
+   "vigore_da": "2024-10-11",
+   "datazione": "api",
+   "h": "62d9ee606dad"
+  },
+  "34": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Rinuncia agli status riconosciuti",
+   "vigore_da": "2008-03-02",
+   "datazione": "api",
+   "h": "ed4f922fd7c1"
+  },
+  "35": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Impugnazione",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "2031ca1ee401"
+  },
+  "35-bis": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Delle controversie in materia di riconoscimento della protezione internazionale",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "2ae1fea83452"
+  },
+  "35-bis.1": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "",
+   "vigore_da": "2024-12-11",
+   "datazione": "api",
+   "h": "ce303efc2004"
+  },
+  "35-bis.2": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "",
+   "vigore_da": "2024-12-11",
+   "datazione": "api",
+   "h": "ce303efc2004"
+  },
+  "35-bis.3": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "",
+   "vigore_da": "2024-12-11",
+   "datazione": "api",
+   "h": "ce303efc2004"
+  },
+  "35-ter": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Delle controversie in materia di riconoscimento della protezione internazionale nella procedura di frontiera",
+   "vigore_da": "2026-06-12",
+   "datazione": "api",
+   "h": "a69c47befe89"
+  },
+  "36": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "",
+   "vigore_da": "2015-09-30",
+   "datazione": "api",
+   "h": "0760f50d9f27"
+  },
+  "37": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Riservatezza",
+   "vigore_da": "2008-03-02",
+   "datazione": "api",
+   "h": "80e329b6dc54"
+  },
+  "38": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Regolamenti di attuazione",
+   "vigore_da": "2008-03-02",
+   "datazione": "api",
+   "h": "017be76e8fca"
+  },
+  "39": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Disposizioni finanziarie",
+   "vigore_da": "2015-09-30",
+   "datazione": "api",
+   "h": "1fd33bea5407"
+  },
+  "40": {
+   "file": "dlgs-25-2008.md",
+   "rubrica": "Abrogazioni",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "557377d2eb0d"
+  }
+ }
+}

@@ -1,0 +1,162 @@
+{
+ "_meta": {
+  "codice": "dlgs-231-2002",
+  "nome": "Ritardi di pagamento nelle transazioni commerciali (D.Lgs. 231/2002)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2020-01-01",
+  "articoli": 13,
+  "file": [
+   "dlgs-231-2002.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:decreto.legislativo:2002-10-09;231",
+  "versioni": [
+   {
+    "data": "2002-10-23",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "2012-01-24",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 24 gennaio 2012, n. 1"
+   },
+   {
+    "data": "2012-11-15",
+    "evento": "rp2",
+    "atto_modificante": "D.Lgs. 9 novembre 2012, n. 192"
+   },
+   {
+    "data": "2014-11-10",
+    "evento": "rp3",
+    "atto_modificante": "L. 30 ottobre 2014, n. 161"
+   },
+   {
+    "data": "2018-12-14",
+    "evento": "rp4",
+    "atto_modificante": "D.L. 14 dicembre 2018, n. 135"
+   },
+   {
+    "data": "2019-04-30",
+    "evento": "rp5",
+    "atto_modificante": "D.L. 30 aprile 2019, n. 34"
+   },
+   {
+    "data": "2019-06-29",
+    "evento": "rp6",
+    "atto_modificante": "L. 28 giugno 2019, n. 58"
+   },
+   {
+    "data": "2019-12-30",
+    "evento": "rp7",
+    "atto_modificante": "L. 27 dicembre 2019, n. 160"
+   }
+  ],
+  "ultima_versione": "2019-12-30",
+  "datazione": {
+   "monoblocco": 13,
+   "api": 10,
+   "riportati": 1,
+   "ignota": 2,
+   "testo_diverso": 2,
+   "stima_anteriore": 9,
+   "chiamate": 12,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "dlgs-231-2002.md",
+   "rubrica": "Ambito di applicazione",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "c3330fb7f55d"
+  },
+  "2": {
+   "file": "dlgs-231-2002.md",
+   "rubrica": "Definizioni",
+   "vigore_da": "2014-11-25",
+   "datazione": "api",
+   "h": "8656edd710db"
+  },
+  "3": {
+   "file": "dlgs-231-2002.md",
+   "rubrica": "Responsabilita' del debitore",
+   "vigore_da": "2012-12-30",
+   "datazione": "api",
+   "h": "8089c02c1c97"
+  },
+  "4": {
+   "file": "dlgs-231-2002.md",
+   "rubrica": "Termini di pagamento",
+   "vigore_da": "2020-01-01",
+   "datazione": "api",
+   "h": "705550422cdb"
+  },
+  "5": {
+   "file": "dlgs-231-2002.md",
+   "rubrica": "Saggio degli interessi",
+   "vigore_da": "2012-12-30",
+   "datazione": "api",
+   "h": "9e24a225e414"
+  },
+  "6": {
+   "file": "dlgs-231-2002.md",
+   "rubrica": "Risarcimento delle spese di recupero",
+   "vigore_da": "2012-12-30",
+   "datazione": "api",
+   "h": "48bccda148ab"
+  },
+  "7": {
+   "file": "dlgs-231-2002.md",
+   "rubrica": "Nullita'",
+   "vigore_da": "2019-02-13",
+   "datazione": "api",
+   "h": "2749b564b3d7"
+  },
+  "7-bis": {
+   "file": "dlgs-231-2002.md",
+   "rubrica": "Prassi inique",
+   "vigore_da": "2014-11-25",
+   "datazione": "api",
+   "h": "250b6ac3b983"
+  },
+  "7-ter": {
+   "file": "dlgs-231-2002.md",
+   "rubrica": "Evidenza nel bilancio sociale",
+   "vigore_da": "2019-06-30",
+   "datazione": "api",
+   "h": "f9d762d0251c"
+  },
+  "8": {
+   "file": "dlgs-231-2002.md",
+   "rubrica": "Tutela degli interessi collettivi",
+   "vigore_da": "2012-12-30",
+   "datazione": "api",
+   "h": "9133c485e2c6"
+  },
+  "9": {
+   "file": "dlgs-231-2002.md",
+   "rubrica": "Modifiche al codice di procedura civile",
+   "vigore_da": "2002-11-07",
+   "datazione": "api",
+   "h": "488d3dcc3a2b"
+  },
+  "10": {
+   "file": "dlgs-231-2002.md",
+   "rubrica": "Modifiche alla legge 18 giugno 1998, n. 192",
+   "vigore_da": "2002-11-07",
+   "datazione": "api",
+   "h": "13a4ebc182bf"
+  },
+  "11": {
+   "file": "dlgs-231-2002.md",
+   "rubrica": "Norme transitorie finali",
+   "vigore_da": "",
+   "datazione": "ignota",
+   "h": "047931d2e89b"
+  }
+ }
+}

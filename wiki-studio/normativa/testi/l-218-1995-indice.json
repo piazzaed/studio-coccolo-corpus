@@ -1,0 +1,635 @@
+{
+ "_meta": {
+  "codice": "l-218-1995",
+  "nome": "Riforma del sistema italiano di diritto internazionale privato (L. 218/1995)",
+  "snapshot": "2026-09-23",
+  "formato": 2,
+  "consolidato_normattiva": "2023-01-01",
+  "articoli": 80,
+  "file": [
+   "l-218-1995.md"
+  ],
+  "vita_utile_giorni": 45,
+  "vita_refresh_giorni": 7,
+  "urn": "urn:nir:stato:legge:1995-05-31;218",
+  "versioni": [
+   {
+    "data": "1995-06-03",
+    "evento": "ro1",
+    "atto_modificante": null
+   },
+   {
+    "data": "1995-08-29",
+    "evento": "rp1",
+    "atto_modificante": "D.L. 28 agosto 1995, n. 361"
+   },
+   {
+    "data": "1996-10-23",
+    "evento": "rp2",
+    "atto_modificante": "D.L. 23 ottobre 1996, n. 542"
+   },
+   {
+    "data": "2011-09-21",
+    "evento": "rp3",
+    "atto_modificante": "D.Lgs. 1 settembre 2011, n. 150"
+   },
+   {
+    "data": "2014-01-08",
+    "evento": "rp4",
+    "atto_modificante": "D.Lgs. 28 dicembre 2013, n. 154"
+   },
+   {
+    "data": "2016-05-21",
+    "evento": "rp5",
+    "atto_modificante": "L. 20 maggio 2016, n. 76"
+   },
+   {
+    "data": "2017-01-27",
+    "evento": "rp6",
+    "atto_modificante": "D.Lgs. 19 gennaio 2017, n. 7"
+   },
+   {
+    "data": "2022-10-17",
+    "evento": "rp7",
+    "atto_modificante": "D.Lgs. 10 ottobre 2022, n. 149"
+   },
+   {
+    "data": "2022-12-29",
+    "evento": "rp8",
+    "atto_modificante": "L. 29 dicembre 2022, n. 197"
+   }
+  ],
+  "ultima_versione": "2022-12-29",
+  "datazione": {
+   "monoblocco": 80,
+   "api": 79,
+   "riportati": 1,
+   "ignota": 0,
+   "stima_anteriore": 66,
+   "chiamate": 79,
+   "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
+  }
+ },
+ "articoli": {
+  "1": {
+   "file": "l-218-1995.md",
+   "rubrica": "Oggetto della legge",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "4cd43ca034a1"
+  },
+  "2": {
+   "file": "l-218-1995.md",
+   "rubrica": "Convenzioni internazionali",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "fd15efc70c9a"
+  },
+  "3": {
+   "file": "l-218-1995.md",
+   "rubrica": "Ambito della giurisdizione",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "907ae6d474ab"
+  },
+  "4": {
+   "file": "l-218-1995.md",
+   "rubrica": "Accettazione e deroga della giurisdizione",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "3e893d3797c4"
+  },
+  "5": {
+   "file": "l-218-1995.md",
+   "rubrica": "Azioni reali relative ad immobili siti all'estero",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "286300a2a647"
+  },
+  "6": {
+   "file": "l-218-1995.md",
+   "rubrica": "Questioni preliminari",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "3355790f70d6"
+  },
+  "7": {
+   "file": "l-218-1995.md",
+   "rubrica": "Pendenza di un processo straniero",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "ca60a422f3eb"
+  },
+  "8": {
+   "file": "l-218-1995.md",
+   "rubrica": "Momento determinante della giurisdizione",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "8d21dd23d225"
+  },
+  "9": {
+   "file": "l-218-1995.md",
+   "rubrica": "Giurisdizione volontaria",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "38ed726f2686"
+  },
+  "10": {
+   "file": "l-218-1995.md",
+   "rubrica": "Materia cautelare",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "14ea266874db"
+  },
+  "11": {
+   "file": "l-218-1995.md",
+   "rubrica": "Rilevabilita' del difetto di giurisdizione",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "f35c6fb44794"
+  },
+  "12": {
+   "file": "l-218-1995.md",
+   "rubrica": "Legge regolatrice del processo",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "57e4c7061bcf"
+  },
+  "13": {
+   "file": "l-218-1995.md",
+   "rubrica": "Rinvio",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "90fe0a0578f5"
+  },
+  "14": {
+   "file": "l-218-1995.md",
+   "rubrica": "Conoscenza della legge straniera applicabile",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "250087843826"
+  },
+  "15": {
+   "file": "l-218-1995.md",
+   "rubrica": "Interpretazione e applicazione della legge straniera",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "b3c010dd27f2"
+  },
+  "16": {
+   "file": "l-218-1995.md",
+   "rubrica": "Ordine pubblico",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "a6fa7cff5de2"
+  },
+  "17": {
+   "file": "l-218-1995.md",
+   "rubrica": "Norme di applicazione necessaria",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "a1f408a8b948"
+  },
+  "18": {
+   "file": "l-218-1995.md",
+   "rubrica": "Ordinamenti plurilegislativi",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "2f837fc4ace5"
+  },
+  "19": {
+   "file": "l-218-1995.md",
+   "rubrica": "Apolidi, rifugiati e persone con piu' cittadinanze",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "888c0242f4f0"
+  },
+  "20": {
+   "file": "l-218-1995.md",
+   "rubrica": "Capacita' giuridica delle persone fisiche",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "5711fb6f7335"
+  },
+  "21": {
+   "file": "l-218-1995.md",
+   "rubrica": "Commorienza",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "690b02d84e9b"
+  },
+  "22": {
+   "file": "l-218-1995.md",
+   "rubrica": "Scomparsa, assenza e morte presunta",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "4a1da00ae012"
+  },
+  "23": {
+   "file": "l-218-1995.md",
+   "rubrica": "Capacita' di agire delle persone fisiche",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "64c74a6b36b1"
+  },
+  "24": {
+   "file": "l-218-1995.md",
+   "rubrica": "Diritti della personalita'",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "df4787909aa6"
+  },
+  "25": {
+   "file": "l-218-1995.md",
+   "rubrica": "Societa' ed altri enti",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "e757d4529bf9"
+  },
+  "26": {
+   "file": "l-218-1995.md",
+   "rubrica": "Promessa di matrimonio",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "dd6efab9b644"
+  },
+  "27": {
+   "file": "l-218-1995.md",
+   "rubrica": "Condizioni per contrarre matrimonio",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "33d9b7ab79cf"
+  },
+  "28": {
+   "file": "l-218-1995.md",
+   "rubrica": "Forma del matrimonio",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "4f54d1d81e37"
+  },
+  "29": {
+   "file": "l-218-1995.md",
+   "rubrica": "Rapporti personali tra coniugi",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "5d6ce3253e0b"
+  },
+  "30": {
+   "file": "l-218-1995.md",
+   "rubrica": "Rapporti patrimoniali tra coniugi",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "5d5ce1e3fa46"
+  },
+  "30-bis": {
+   "file": "l-218-1995.md",
+   "rubrica": "Contratti di convivenza",
+   "vigore_da": "2016-06-05",
+   "datazione": "api",
+   "h": "47187a495c54"
+  },
+  "31": {
+   "file": "l-218-1995.md",
+   "rubrica": "Scelta della legge applicabile al divorzio e alla separazione personale",
+   "vigore_da": "2023-01-01",
+   "datazione": "api",
+   "h": "b3a805b0630a"
+  },
+  "32": {
+   "file": "l-218-1995.md",
+   "rubrica": "Giurisdizione in materia di nullita', annullamento, separazione personale e scioglimento del matrimonio",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "6422c3057fd4"
+  },
+  "32-bis": {
+   "file": "l-218-1995.md",
+   "rubrica": "Matrimonio contratto all'estero da cittadini italiani dello stesso sesso",
+   "vigore_da": "2017-02-11",
+   "datazione": "api",
+   "h": "fa9abe849ed9"
+  },
+  "32-ter": {
+   "file": "l-218-1995.md",
+   "rubrica": "Unione civile tra persone maggiorenni dello stesso sesso",
+   "vigore_da": "2017-02-11",
+   "datazione": "api",
+   "h": "1ceb9ded7e5a"
+  },
+  "32-quater": {
+   "file": "l-218-1995.md",
+   "rubrica": "Scioglimento dell'unione civile",
+   "vigore_da": "2017-02-11",
+   "datazione": "api",
+   "h": "b930b61f7284"
+  },
+  "32-quinquies": {
+   "file": "l-218-1995.md",
+   "rubrica": "Unione civile costituita all'estero tra cittadini italiani dello stesso sesso",
+   "vigore_da": "2017-02-11",
+   "datazione": "api",
+   "h": "89cb08281984"
+  },
+  "33": {
+   "file": "l-218-1995.md",
+   "rubrica": "Filiazione",
+   "vigore_da": "2014-02-07",
+   "datazione": "api",
+   "h": "0ef39b46ce2e"
+  },
+  "34": {
+   "file": "l-218-1995.md",
+   "rubrica": "",
+   "vigore_da": "2014-02-07",
+   "datazione": "api",
+   "h": "56b5919aca69"
+  },
+  "35": {
+   "file": "l-218-1995.md",
+   "rubrica": "Riconoscimento di figlio",
+   "vigore_da": "2014-02-07",
+   "datazione": "api",
+   "h": "04effca7041f"
+  },
+  "36": {
+   "file": "l-218-1995.md",
+   "rubrica": "Rapporti tra genitori e figli",
+   "vigore_da": "2014-02-07",
+   "datazione": "api",
+   "h": "2b363cca6003"
+  },
+  "36-bis": {
+   "file": "l-218-1995.md",
+   "rubrica": "",
+   "vigore_da": "2014-02-07",
+   "datazione": "api",
+   "h": "f6b85f281b06"
+  },
+  "37": {
+   "file": "l-218-1995.md",
+   "rubrica": "Giurisdizione in materia di filiazione",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "835c9175b2c9"
+  },
+  "38": {
+   "file": "l-218-1995.md",
+   "rubrica": "Adozione",
+   "vigore_da": "2014-02-07",
+   "datazione": "api",
+   "h": "5ed0aeeb9905"
+  },
+  "39": {
+   "file": "l-218-1995.md",
+   "rubrica": "Rapporto fra adottato e famiglia adottiva",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "ea25de7e74a4"
+  },
+  "40": {
+   "file": "l-218-1995.md",
+   "rubrica": "Giurisdizione in materia di adozione",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "b69b7ab21bc9"
+  },
+  "41": {
+   "file": "l-218-1995.md",
+   "rubrica": "Riconoscimento dei provvedimenti stranieri in materia di adozione",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "593a0bf12bb3"
+  },
+  "42": {
+   "file": "l-218-1995.md",
+   "rubrica": "Giurisdizione e legge applicabile in materia di protezione dei minori",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "7cdfc32423e6"
+  },
+  "43": {
+   "file": "l-218-1995.md",
+   "rubrica": "Protezione dei maggiori d'eta'",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "db8e2f92b56f"
+  },
+  "44": {
+   "file": "l-218-1995.md",
+   "rubrica": "Giurisdizione in materia di protezione dei maggiori d'eta'",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "752416bd1c2c"
+  },
+  "45": {
+   "file": "l-218-1995.md",
+   "rubrica": "Obbligazioni alimentari nella famiglia",
+   "vigore_da": "2017-02-11",
+   "datazione": "api",
+   "h": "49e9716eaaf2"
+  },
+  "46": {
+   "file": "l-218-1995.md",
+   "rubrica": "Successione per causa di morte",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "1b72d52ebe36"
+  },
+  "47": {
+   "file": "l-218-1995.md",
+   "rubrica": "Capacita' di testare",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "6809b6fb7064"
+  },
+  "48": {
+   "file": "l-218-1995.md",
+   "rubrica": "Forma del testamento",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "f9ee3c641fce"
+  },
+  "49": {
+   "file": "l-218-1995.md",
+   "rubrica": "Successione dello Stato",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "7f6e0ee36c83"
+  },
+  "50": {
+   "file": "l-218-1995.md",
+   "rubrica": "Giurisdizione in materia successoria",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "7d431de0cd7e"
+  },
+  "51": {
+   "file": "l-218-1995.md",
+   "rubrica": "Possesso e diritti reali",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "38a8ca91e816"
+  },
+  "52": {
+   "file": "l-218-1995.md",
+   "rubrica": "Diritti reali su beni in transito",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "4ad82f1a8bef"
+  },
+  "53": {
+   "file": "l-218-1995.md",
+   "rubrica": "Usucapione di beni mobili",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "a54a2332b21f"
+  },
+  "54": {
+   "file": "l-218-1995.md",
+   "rubrica": "Diritti su beni immateriali",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "471f8a26339b"
+  },
+  "55": {
+   "file": "l-218-1995.md",
+   "rubrica": "Pubblicita' degli atti relativi ai diritti reali",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "7b174c4ddc58"
+  },
+  "56": {
+   "file": "l-218-1995.md",
+   "rubrica": "Donazioni",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "7deb1a575690"
+  },
+  "57": {
+   "file": "l-218-1995.md",
+   "rubrica": "Obbligazioni contrattuali",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "408c1ef28889"
+  },
+  "58": {
+   "file": "l-218-1995.md",
+   "rubrica": "Promessa unilaterale",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "826853b5e6e0"
+  },
+  "59": {
+   "file": "l-218-1995.md",
+   "rubrica": "Titoli di credito",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "2e4c8d3d8ddc"
+  },
+  "60": {
+   "file": "l-218-1995.md",
+   "rubrica": "Rappresentanza volontaria",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "97e775b619ef"
+  },
+  "61": {
+   "file": "l-218-1995.md",
+   "rubrica": "Obbligazioni nascenti dalla legge",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "ce1763fc60a4"
+  },
+  "62": {
+   "file": "l-218-1995.md",
+   "rubrica": "Responsabilita' per fatto illecito",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "39f6796474d3"
+  },
+  "63": {
+   "file": "l-218-1995.md",
+   "rubrica": "Responsabilita' extracontrattuale per danno da prodotto",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "953386ea8499"
+  },
+  "64": {
+   "file": "l-218-1995.md",
+   "rubrica": "Riconoscimento di sentenze straniere",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "325b22e4de70"
+  },
+  "65": {
+   "file": "l-218-1995.md",
+   "rubrica": "Riconoscimento di provvedimenti stranieri",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "da89af931323"
+  },
+  "66": {
+   "file": "l-218-1995.md",
+   "rubrica": "Riconoscimento di provvedimenti stranieri di giurisdizione volontaria",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "beb512114c9c"
+  },
+  "67": {
+   "file": "l-218-1995.md",
+   "rubrica": "Attuazione di sentenze e provvedimenti stranieri di giurisdizione volontaria e contestazione del riconoscimento",
+   "vigore_da": "2011-10-06",
+   "datazione": "api",
+   "h": "91c9b330c74e"
+  },
+  "68": {
+   "file": "l-218-1995.md",
+   "rubrica": "Attuazione ed esecuzione di atti pubblici ricevuti all'estero",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "0d2f799bfdbd"
+  },
+  "69": {
+   "file": "l-218-1995.md",
+   "rubrica": "Assunzione di mezzi di prova disposti da giudici stranieri",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "4c7c25997436"
+  },
+  "70": {
+   "file": "l-218-1995.md",
+   "rubrica": "Esecuzione richiesta in via diplomatica",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "812ca5c97052"
+  },
+  "71": {
+   "file": "l-218-1995.md",
+   "rubrica": "Notificazione di atti di autorita' straniere",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "b37e0219834a"
+  },
+  "72": {
+   "file": "l-218-1995.md",
+   "rubrica": "Disposizioni transitorie",
+   "vigore_da": "1995-09-01",
+   "datazione": "api",
+   "h": "b83df52831d9"
+  },
+  "73": {
+   "file": "l-218-1995.md",
+   "rubrica": "",
+   "vigore_da": "1996-10-23",
+   "datazione": "api",
+   "h": "b1657359d620"
+  },
+  "74": {
+   "file": "l-218-1995.md",
+   "rubrica": "",
+   "vigore_da": "1996-10-23",
+   "datazione": "api",
+   "h": "ea96864133eb"
+  }
+ }
+}
