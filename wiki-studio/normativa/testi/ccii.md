@@ -1,6 +1,6 @@
 # Codice della crisi d'impresa e dell'insolvenza (D.Lgs. 14/2019) — Codice della crisi d'impresa e dell'insolvenza (D.Lgs. 14/2019)
 
-<!-- codice: ccii · snapshot: 2026-09-23 · consolidato-normattiva: 2026-08-12 · fonte: normattiva caricaAKN (urn:nir:stato:decreto.legislativo:2019-01-12;14) -->
+<!-- codice: ccii · snapshot: 2026-09-25 · consolidato-normattiva: 2026-08-12 · fonte: normattiva caricaAKN (urn:nir:stato:decreto.legislativo:2019-01-12;14) -->
 
 > **File di DATI, generato da macchina** (`scripts/codice_locale.py`): testo
 > ufficiale normattiva, letterale, con la data di vigenza di ciascun articolo.
@@ -903,6 +903,7 @@ Se non e' prevista la sostituzione o non vi sono coeredi a favore dei quali abbi
 In ogni caso l'autorita' giudiziaria, quando concorrono giusti motivi, puo' provvedere altrimenti.".
 
 ### Art. 37 — Iniziativa per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale
+<!-- vigore_da: 2024-09-28 -->
 
 1. La domanda di accesso agli strumenti di regolazione della crisi e dell'insolvenza e' proposta con ricorso del debitore. ((In deroga a quanto previsto dall'articolo 31 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, le start-up innovative diverse dalle imprese minori possono richiedere, con domanda proposta esclusivamente dal debitore, l'accesso agli altri strumenti di regolazione della crisi e dell'insolvenza previsti dal presente codice nonche' l'apertura della liquidazione giudiziale.))
 
@@ -928,6 +929,7 @@ In ogni caso l'autorita' giudiziaria, quando concorrono giusti motivi, puo' prov
 ))
 
 ### Art. 39 — Obblighi del debitore che chiede l'accesso a uno strumento di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza
+<!-- vigore_da: 2024-09-28 -->
 
 1. Il debitore che chiede l'accesso a uno strumento di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza deposita presso il tribunale le scritture contabili e fiscali obbligatorie, le dichiarazioni dei redditi concernenti i tre esercizi o anni precedenti ovvero l'intera esistenza dell'impresa o dell'attivita' economica o professionale, se questa ha avuto una minore durata, le dichiarazioni IRAP e le dichiarazioni annuali IVA relative ai medesimi periodi, i bilanci relativi agli ultimi tre esercizi. Deve inoltre depositare, anche in formato digitale, ((una relazione sulla situazione economico-patrimoniale e finanziaria aggiornata, con periodicita' mensile,)), uno stato particolareggiato ed estimativo delle sue attivita', un'idonea certificazione sui debiti fiscali, contributivi e per premi assicurativi, l'elenco nominativo dei creditori e l'indicazione dei rispettivi crediti e delle cause di prelazione nonche' l'elenco nominativo di coloro che vantano diritti reali e personali su cose in suo possesso e l'indicazione delle cose stesse e del titolo da cui sorge il diritto.
 Tali elenchi devono contenere l'indicazione del domicilio digitale dei creditori e dei titolari di diritti reali e personali che ne sono muniti.

@@ -2,9 +2,9 @@
  "_meta": {
   "codice": "dlgs-28-2010",
   "nome": "Mediazione civile e commerciale (D.Lgs. 28/2010)",
-  "snapshot": "2026-09-23",
+  "snapshot": "2026-09-25",
   "formato": 2,
-  "consolidato_normattiva": "2026-01-01",
+  "consolidato_normattiva": "2025-01-25",
   "articoli": 44,
   "file": [
    "dlgs-28-2010.md"
@@ -77,22 +77,16 @@
     "data": "2025-01-10",
     "evento": "rp12",
     "atto_modificante": "D.Lgs. 27 dicembre 2024, n. 216"
-   },
-   {
-    "data": "2025-08-12",
-    "evento": "rp13",
-    "atto_modificante": "D.Lgs. 1 agosto 2025, n. 123"
    }
   ],
-  "ultima_versione": "2025-08-12",
+  "ultima_versione": "2025-01-10",
   "datazione": {
    "monoblocco": 44,
-   "api": 43,
+   "api": 1,
+   "riportati": 42,
    "ignota": 1,
-   "falliti": 1,
-   "stima_anteriore": 27,
-   "chiamate": 44,
-   "errori_rete": 1,
+   "testo_diverso": 1,
+   "chiamate": 2,
    "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
   }
  },
@@ -355,7 +349,7 @@
    "vigore_da": "2025-01-25",
    "datazione": "api",
    "vigore_a": "2026-12-31",
-   "h": "05fea606e211"
+   "h": "c03b03f4dba7"
   },
   "18": {
    "file": "dlgs-28-2010.md",

@@ -1,6 +1,6 @@
 # Disposizioni sulla legge in generale (preleggi) — Disposizioni sulla legge in generale
 
-<!-- codice: preleggi · snapshot: 2026-09-23 · consolidato-normattiva: 2026-06-12 · fonte: normattiva caricaAKN (urn:nir:stato:regio.decreto:1942-03-16;262:2) -->
+<!-- codice: preleggi · snapshot: 2026-09-25 · consolidato-normattiva: 2026-04-29 · fonte: normattiva caricaAKN (urn:nir:stato:regio.decreto:1942-03-16;262:2) -->
 
 > **File di DATI, generato da macchina** (`scripts/codice_locale.py`): testo
 > ufficiale normattiva, letterale, con la data di vigenza di ciascun articolo.

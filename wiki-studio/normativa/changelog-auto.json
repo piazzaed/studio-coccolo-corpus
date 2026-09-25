@@ -1,0 +1,77 @@
+{
+ "_meta": {
+  "generato_il": "2026-09-25T18:53:37",
+  "descrizione": "Modifiche del corpus locale rilevate da corpus_diff.py fra snapshot successivi. Lookup del Livello 0 (verifica_meccanica.trappole_per) e drift-report della Sentinella.",
+  "totale": 4
+ },
+ "modifiche": [
+  {
+   "slug": "l-392-1978",
+   "atto": "Equo canone — locazioni di immobili urbani (L. 392/1978)",
+   "articolo": "57",
+   "rubrica": "Esenzioni fiscali ed onorari professionali",
+   "tipo": "modificato",
+   "vigore_da_prima": null,
+   "vigore_da_dopo": "1984-11-29",
+   "atto_modificante": null,
+   "snapshot_prima": "2026-09-23",
+   "snapshot_dopo": "2026-09-25",
+   "consolidato_prima": "2026-01-01",
+   "consolidato_dopo": "2014-11-12",
+   "caratteri_prima": 54,
+   "caratteri_dopo": 387,
+   "registrato_il": "2026-09-25T18:53:37"
+  },
+  {
+   "slug": "dlgs-28-2010",
+   "atto": "Mediazione civile e commerciale (D.Lgs. 28/2010)",
+   "articolo": "17",
+   "rubrica": "Risorse, regime tributario e indennita'",
+   "tipo": "modificato",
+   "vigore_da_prima": "2025-01-25",
+   "vigore_da_dopo": "2025-01-25",
+   "atto_modificante": null,
+   "snapshot_prima": "2026-09-23",
+   "snapshot_dopo": "2026-09-25",
+   "consolidato_prima": "2026-01-01",
+   "consolidato_dopo": "2025-01-25",
+   "caratteri_prima": 4565,
+   "caratteri_dopo": 4818,
+   "registrato_il": "2026-09-25T18:53:37"
+  },
+  {
+   "slug": "ccii",
+   "atto": "Codice della crisi d'impresa e dell'insolvenza (D.Lgs. 14/2019)",
+   "articolo": "39",
+   "rubrica": "Obblighi del debitore che chiede l'accesso a uno strumento di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza",
+   "tipo": "datazione",
+   "vigore_da_prima": null,
+   "vigore_da_dopo": "2024-09-28",
+   "atto_modificante": null,
+   "snapshot_prima": "2026-09-23",
+   "snapshot_dopo": "2026-09-25",
+   "consolidato_prima": "2026-08-12",
+   "consolidato_dopo": "2026-08-12",
+   "caratteri_prima": 2145,
+   "caratteri_dopo": 2145,
+   "registrato_il": "2026-09-25T18:53:37"
+  },
+  {
+   "slug": "ccii",
+   "atto": "Codice della crisi d'impresa e dell'insolvenza (D.Lgs. 14/2019)",
+   "articolo": "37",
+   "rubrica": "Iniziativa per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale",
+   "tipo": "datazione",
+   "vigore_da_prima": null,
+   "vigore_da_dopo": "2024-09-28",
+   "atto_modificante": null,
+   "snapshot_prima": "2026-09-23",
+   "snapshot_dopo": "2026-09-25",
+   "consolidato_prima": "2026-08-12",
+   "consolidato_dopo": "2026-08-12",
+   "caratteri_prima": 812,
+   "caratteri_dopo": 812,
+   "registrato_il": "2026-09-25T18:53:37"
+  }
+ ]
+}

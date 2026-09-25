@@ -2,9 +2,9 @@
  "_meta": {
   "codice": "l-392-1978",
   "nome": "Equo canone — locazioni di immobili urbani (L. 392/1978)",
-  "snapshot": "2026-09-23",
+  "snapshot": "2026-09-25",
   "formato": 2,
-  "consolidato_normattiva": "2026-01-01",
+  "consolidato_normattiva": "2014-11-12",
   "articoli": 85,
   "file": [
    "l-392-1978.md"
@@ -172,22 +172,16 @@
     "data": "2014-09-12",
     "evento": "rp31",
     "atto_modificante": "D.L. 12 settembre 2014, n. 133"
-   },
-   {
-    "data": "2025-08-12",
-    "evento": "rp32",
-    "atto_modificante": "D.Lgs. 1 agosto 2025, n. 123"
    }
   ],
-  "ultima_versione": "2025-08-12",
+  "ultima_versione": "2014-09-12",
   "datazione": {
    "monoblocco": 85,
-   "api": 3,
-   "riportati": 80,
-   "ignota": 2,
-   "testo_diverso": 2,
-   "stima_anteriore": 1,
-   "chiamate": 5,
+   "api": 1,
+   "riportati": 83,
+   "ignota": 1,
+   "testo_diverso": 1,
+   "chiamate": 2,
    "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
   }
  },
@@ -587,10 +581,11 @@
   },
   "57": {
    "file": "l-392-1978.md",
-   "rubrica": "",
-   "vigore_da": "",
-   "datazione": "ignota",
-   "h": "6276e8aa7c69"
+   "rubrica": "Esenzioni fiscali ed onorari professionali",
+   "vigore_da": "1984-11-29",
+   "datazione": "api",
+   "vigore_a": "2026-12-31",
+   "h": "2b3401c93c96"
   },
   "58": {
    "file": "l-392-1978.md",

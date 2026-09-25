@@ -2,7 +2,7 @@
  "_meta": {
   "codice": "ccii",
   "nome": "Codice della crisi d'impresa e dell'insolvenza (D.Lgs. 14/2019)",
-  "snapshot": "2026-09-23",
+  "snapshot": "2026-09-25",
   "formato": 2,
   "consolidato_normattiva": "2026-08-12",
   "articoli": 415,
@@ -137,13 +137,10 @@
   "ultima_versione": "2026-08-11",
   "datazione": {
    "monoblocco": 415,
-   "api": 402,
-   "riportati": 11,
-   "ignota": 2,
-   "falliti": 2,
-   "stima_anteriore": 180,
-   "chiamate": 404,
-   "errori_rete": 2,
+   "api": 2,
+   "riportati": 413,
+   "ignota": 0,
+   "chiamate": 2,
    "fonte": "API Open Data normattiva (articoloDataInizioVigenza), validata sul testo"
   }
  },
@@ -480,8 +477,8 @@
   "37": {
    "file": "ccii.md",
    "rubrica": "Iniziativa per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale",
-   "vigore_da": "",
-   "datazione": "ignota",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
    "h": "1854c7f74305"
   },
   "38": {
@@ -494,8 +491,8 @@
   "39": {
    "file": "ccii.md",
    "rubrica": "Obblighi del debitore che chiede l'accesso a uno strumento di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza",
-   "vigore_da": "",
-   "datazione": "ignota",
+   "vigore_da": "2024-09-28",
+   "datazione": "api",
    "h": "b942ed1b3f98"
   },
   "40": {
